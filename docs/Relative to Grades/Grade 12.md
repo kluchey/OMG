@@ -1,3 +1,2 @@
-# Note 1
+# Grade 12
 
-Example: link to [[Mermaid Diagrams]] under `Features`
