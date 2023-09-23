@@ -31,7 +31,7 @@ graph TD
 	
 ```
 !!! Note
-	At this time, I would like to speak to all my fellow teachers and belay some concerns. As I understand it, culturally relevant pedagogy (CRP) is one of the following at your school: not well understood, not believed, fought against, beginning to work, or well-incorporated. I'm not designing a resource that will be stuck in the current paradigm of pedagogy. While many references will be made to these paradigms in an effort to be well-researched and relevant, the core resource is still a set of tested, cooked, and worked math examples that, taken on their own, can teach anyone the skills from Grade 1 to 12. That's the goal and it is of no concern to this resource if you avoid one lesson for another because you wouldn't teach it that way. The point is and always will be to build out lessons that could work if you put your soul into it. For me, part of the soul will be CRP.
+	In an effort to be well-researched and relevant, I will attempt to reference pedagogy and paradigm where I feel it is most relevant. The core resource is still a set of tested, cooked, and worked math examples that, taken on their own, can teach anyone the skills from Grade 1 to 12. Lesson plans provided will tend to divide more users of this resource but the core is still meant to be in a neutral, remixable state from the outset.
 
 Figure 1 can be thought of as a small section of a larger graph, where each vertex is its own resource. "Go here to learn about Cyber-Security" or "Go here to learn about worked Prime Number problems". Imagine now the completed graph and just how big this picture is for all of our math education in Ontario. That is the Ontario Math Graph and it will illustrate how grades, courses, skills, and topics all connect and flow into one another so that (hopefully) anyone (teacher, parent, student) can view and understand the importance of each skill as early as Grade 1 when students learn about their first [[Group Theory|mathematical group]], i.e. addition over the integers. Additionally, I hope this graph will eventually be helpful for decision making:
 
@@ -39,7 +39,5 @@ Figure 1 can be thought of as a small section of a larger graph, where each vert
 *  Where can I find resources quickly to teach a lesson? This database is **searchable**.
 *  I'm a student - where can I go to find information about skills I need to be successful in the next grade or post-secondary?
 *  I'm a teacher - how can I stay organized and ensure my students have learned enough to progress to the next grade or post-secondary?
-
-
 
 ~ Mr. Cluchey
