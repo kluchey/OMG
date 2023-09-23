@@ -1,8 +1,10 @@
-# Optional Topic:  Graph Theory
+# Optional:  Graph Theory
 
-# Graphs - no, not *those* graphs
+## Graphs - no, not *those* graphs
 
-#optional #supplementary #enrichment #coding
+Tags #optional #supplementary #enrichment #coding
+
+## Introductory Remarks
 
 !!! Definition
 	A *graph* is a set of vertices and a set of edges formed between vertices. **Analogy:**  Think of these objects like networks or connections between locations. These are **not** the same as graphs of equations / functions and are **not** bar graphs, pie graphs, etc.
@@ -22,7 +24,7 @@ graph LR
 	C --- A
 ```
 
-Graphs are a topic primarily seen in coding but are used frequently to summarize in a math class. Importantly, students need to be taught to use graphs, such as [**flowcharts**](Flowcharts), and it cannot be assumed the knowledge of graphs is intuitive. Here is the most common example I have seen flowcharting used to summarize without explanation:  while discussing how to decide which trig formula to use in Grade 11 courses for right or [oblique](Trigonometry#Beyond Pythagorean Theorem) triangles.
+Graphs are a topic primarily seen in coding but are used frequently to summarize in a math class. Importantly, students need to be taught to use graphs, such as [**flowcharts**](Flowcharts.md), and it cannot be assumed the knowledge of graphs is intuitive. Here is the most common example I have seen flowcharting used to summarize without explanation:  while discussing how to decide which trig formula to use in Grade 11 courses for right or [oblique](Trigonometry#Beyond Pythagorean Theorem) triangles.
 
 ```mermaid
 graph TD
