@@ -2,8 +2,9 @@
 
 ## Ontario Math Graph
 
-#### by k.cluchey
-## Hello World!
+### Author:  k.cluchey.ca
+
+# Design Philosophy
 
 This is an attempt at putting together a graph (vertices connected by edges) of essential skills to teach math as an Ontario Teacher. The graph illustrates how grades and courses connect together visually so that (hopefully) anyone can view and understand the importance of each skill. Additionally, I hope this graph will eventually be helpful for decision making:
 
