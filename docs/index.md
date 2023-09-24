@@ -6,7 +6,7 @@
 
 I need help creating this free resource. Correcting errors or making quick suggestions is as easy as emailing me k@cluchey.ca but please consider forking my public [Github Repo](https://github.com/kluchey/ont-math-graph) for yourself and submitting a pull request. [[Contribute|Click here for an article describing how to contribute to the Ontario Math Graph.]]
 
-This resource is built using Markdown files and a free markdown-to-html builder called [MkDocs]() and [Material for MkDocs](). It is hosted on Github using Github Pages. I personally use [Obsidian]() to create the Markdown (.md) files for publishing.
+This resource is built using Markdown files and a free markdown-to-html builder called [MkDocs](https://www.mkdocs.org/) and [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/). It is hosted on Github using Github Pages. I personally use [Obsidian](https://obsidian.md) to create the Markdown (.md) files for publishing.
 
 # Design Philosophy
 
