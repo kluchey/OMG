@@ -36,3 +36,16 @@ Sections in .md files that should be referenced dynamically in other .md files s
 	\--8<-- \[end:name]
 	After this section is named, you can reference the absolute path in another OMG file by using:
 	\--8<-- "path\\to\\\file.md:name"
+
+
+#### Mermaid Diagrams
+
+Flowcharting is possible:
+``` mermaid
+graph LR
+  A[Start] --> B{Error?};
+  B -->|Yes| C[Hmm...];
+  C --> D[Debug];
+  D --> B;
+  B ---->|No| E[Yay!];
+```
