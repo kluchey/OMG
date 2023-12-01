@@ -23,3 +23,12 @@ You can provide a small donation to the project to help keep the author(s) motiv
 4. Make changes
 5. Push changes to your repository using Github Desktop
 6. Optional:  If you want to share changes to the official branch, initiate a pull request with my repo
+
+### Markdown Rules for the Math Graph
+
+These are helpful markdown syntax that allow me to publish this resource in HTML with Material for MkDocs
+
+#### Snippets
+
+Sections in .md files that should be referenced dynamically in other .md files should contain Snippets. Here is the rule:
+	
