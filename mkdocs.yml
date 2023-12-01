@@ -55,6 +55,9 @@ plugins:
   - search
   - roamlinks 
 
+hide:
+  - Excalidraw
+  - Features
 
 extra_javascript:
   - javascripts/mathjax.js
