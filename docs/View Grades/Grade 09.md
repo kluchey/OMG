@@ -1,5 +1,13 @@
 # Grade 09
 
---8<-- Overview.md
+Overview
+--8<-- "Overview.md"
 
-![[Overview]]
+Grade 11
+--8<-- "Grade 11.md"
+
+Contribute
+--8<-- "Contribute.md"
+
+Grade 12
+--8<-- "docs/View Grades/Grade 12.md"
