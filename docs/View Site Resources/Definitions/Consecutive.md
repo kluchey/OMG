@@ -1,4 +1,6 @@
-# Definition
+# Consecutive
+
+## Definition
 
 Two numbers are consecutive if they appear in beside each other in a [[Sequence|sequence]]. The most common use of consecutive refers to numbers that appear in the Natural order:  $$ 1, 2, 3, 4, 5, ... $$
 

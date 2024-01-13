@@ -1,0 +1,4 @@
+# How to Learn and Study Mathematics
+
+1. Write down rough or scratch work when you start problems. Stop yourself from keeping all of your problem Solving in your head. It will be as important to develop your problem Solving in your brain as it will be translating your thoughts to paper. In this way, math is a creative pursuit:  no competent painter ever learned to paint by only thinking about painting. And keep in mind:  much of the world was once illiterate. By learning getting more humans onto a writing and reading system, humans have been able to go from the Wright Brothers to Space Travel within one human lifespan.
+2. Take time with learning and your attempts at practice. Do not cram. Sleep well. Eat well. Exercise often.
