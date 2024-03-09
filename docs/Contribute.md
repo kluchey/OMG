@@ -8,6 +8,15 @@ Please email k@cluchey.ca with corrections, better examples or problems, or idea
 
 You can provide a small donation to the project to help keep the author(s) motivated. E-transfer to k@cluchey.ca.
 
+## OMG Roadmap
+
+- [ ] MTH1W
+	- [ ] Course Outline and First Day Docs
+	- [ ] First Week Lessons
+
+- [ ] MDM4U
+	- [ ] Course Outline
+
 ## Content
 
 ### You will need:

@@ -12,6 +12,8 @@ theme:
       - search.share
       - navigation.instant
       - navigation.instant.progress
+      #- navigation.sections
+      - navigation.indexes
       - navigation.tracking
       - navigation.tabs
       - navigation.path

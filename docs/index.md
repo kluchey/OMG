@@ -1,6 +1,7 @@
 # Homepage
 
-## Ontario Math Graph (OMG)
+![[logo.svg]]
+## Ontario Math Graph
 
 A resource for teachers (1st) and students (2nd) to tackle math courses in Ontario.
 
