@@ -48,6 +48,7 @@ theme:
 markdown_extensions:
   - footnotes
   - admonition
+  - tables
   - attr_list
   - md_in_html
   - pymdownx.arithmatex:
