@@ -28,7 +28,7 @@ To meet and exceed expectations in a mathematics course requires a commitment fr
 
 ## Storytelling Project
 
-[[docs/Courses/MTH1W/Storytelling Project/0 Description|The Storytelling Project]] is a 
+[[omg/Courses/MTH1W/Storytelling Project/0 Description|The Storytelling Project]] is a 
 
 ## Unit 1:  Number Sets
 - What are the integers? How many integers are there? Factoring

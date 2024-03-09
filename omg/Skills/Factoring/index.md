@@ -1,3 +1,7 @@
+# Factoring
+
+A student in Ontario is expected to know the following topics on Factoring by the end of Grade 12.
+
 [[1 Common Denominator]]
 	Did you know this was factoring?
 [[2 Numerical Factors]]

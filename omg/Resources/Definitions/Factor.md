@@ -24,4 +24,4 @@ graph LR
 
 ## Related Words
 
-Prime Number Quadratic
+Prime Number, Quadratic, Order of Operations
