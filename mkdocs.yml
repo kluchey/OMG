@@ -1,25 +1,45 @@
 site_name: Ontario Math Graph
+site_url: https://math.cluchey.ca
 
 theme:
     name: 'material'
+    logo: Resources/Excalidraw/logo.svg
+    favicon: Resources/Excalidraw/logo.svg
+    features:
+      - search
+      - search.suggest
+      - search.highlight
+      - search.share
+      - navigation.instant
+      - navigation.instant.progress
+      - navigation.tracking
+      - navigation.tabs
+      - navigation.path
+      - navigation.prune
+      - navigation.top
+      - navigation.footer
+      - toc.follow
+      - toc.integrate
+    
+    # Colour Schemes
     palette:
-
+    
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: teal
-      accent: indigo
+      primary: amber
+      accent: deep purple
       toggle:
-        icon: material/toggle-switch-off-outline
+        icon: material/weather-night
         name: Switch to dark mode
 
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: teal
-      accent: blue
+      primary: amber
+      accent: purple
       toggle:
-        icon: material/toggle-switch
+        icon: material/weather-sunny
         name: Switch to light mode
 
 # Extensions
@@ -58,6 +78,13 @@ plugins:
 hide:
   - Excalidraw
   - Features
+
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/kluchey
+      name: Mr. Cluchey on Github
 
 extra_javascript:
   - javascripts/mathjax.js
