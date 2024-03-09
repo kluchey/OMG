@@ -1,4 +1,4 @@
-# Excalidraw
+# About Excalidraw
 
 Excalidraw is an excellent mind-mapping and visual diagramming tools put to use on this site to create embedded SVG images and interactive notes.  The project is open source.
 

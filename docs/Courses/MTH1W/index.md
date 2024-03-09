@@ -1,3 +1,4 @@
+# Course Outline
 MTH1W Mr. Kieran Cluchey
 
 # Enduring Understandings

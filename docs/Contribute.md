@@ -1,4 +1,4 @@
-# Contribute to the Project
+# Contribute
 
 ## Feedback
 
@@ -8,7 +8,8 @@ Please email k@cluchey.ca with corrections, better examples or problems, or idea
 
 You can provide a small donation to the project to help keep the author(s) motivated. E-transfer to k@cluchey.ca.
 
-## OMG Roadmap
+## Content
+### OMG Roadmap
 
 - [ ] MTH1W
 	- [ ] Course Outline and First Day Docs
@@ -16,8 +17,6 @@ You can provide a small donation to the project to help keep the author(s) motiv
 
 - [ ] MDM4U
 	- [ ] Course Outline
-
-## Content
 
 ### You will need:
 * A Github Account and [Github Desktop](https://desktop.github.com/) software
@@ -29,37 +28,11 @@ You can provide a small donation to the project to help keep the author(s) motiv
 1. Fork a copy of the Github Repository for this project (found here: https://github.com/kluchey/ont-math-graph)
 2. Clone your forked repository using Github Desktop to your local machine
 3. Import the project into your Markdown software (such as a Vault in Obsidian)
-4. Make changes
-5. Push changes to your repository using Github Desktop
-6. Optional:  If you want to share changes to the official branch, initiate a pull request with my repo
+4. Make changes:  Use the mkdocs and markdown suggestions to style your work.
+6. Push changes to your repository using Github Desktop
+7. Optional:  If you want to share changes to the official branch, initiate a pull request with my repo
+8. 
 
 ### Markdown Rules for the Math Graph
 
 These are helpful markdown syntax that allow me to publish this resource in HTML with Material for MkDocs
-
-#### Snippets
-
-Sections in .md files that should be referenced dynamically in other .md files should contain Snippets. Here is the rule:
-
-\--8<-- \[start:name]
-
-Surround a referenceable section with start and end snippet codes seen here.
-
---8<-- \[end:name]
-
-After this section is named, you can reference the absolute path in another OMG file by using:
-
-\--8<-- "path\\to\\\file.md:name"
-
-
-#### Mermaid Diagrams
-
-Flowcharting is possible:
-``` mermaid
-graph LR
-  A[Start] --> B{Error?};
-  B -->|Yes| C[Hmm...];
-  C --> D[Debug];
-  D --> B;
-  B ---->|No| E[Yay!];
-```
