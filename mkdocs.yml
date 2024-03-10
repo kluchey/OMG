@@ -22,6 +22,7 @@ theme:
       - navigation.footer
       - toc.follow
       - toc.integrate
+      - content.tooltips
     
     # Colour Schemes
     palette:
@@ -49,7 +50,6 @@ markdown_extensions:
   - footnotes
   - admonition
   - tables
-  - attr_list
   - md_in_html
   - pymdownx.arithmatex:
       generic: true
@@ -64,6 +64,8 @@ markdown_extensions:
   - pymdownx.keys
   - pymdownx.mark
   - pymdownx.tilde
+  - abbr  #toolips + 2 below
+  - attr_list
   - pymdownx.snippets
   - pymdownx.superfences:
       custom_fences:
