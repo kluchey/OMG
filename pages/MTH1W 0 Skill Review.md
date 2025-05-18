@@ -1,13 +1,15 @@
 ## Navigation
 id:: 682a36fc-2f8d-4932-b9b0-2b8dea761241
 | Return to [[MTH1W]] Homepage | Go to [next unit]([[MTH1W 1 Number]]) |
-- ## Objective:  Students will review three key skills that will continue to be developed throughout all units of Grade 9 Mathematics.
+- ## Objective:
+	- Students will review three key skills that will continue to be developed throughout all units of Grade 9 Mathematics.
 	- Representing Quantities 📈
 	  logseq.order-list-type:: number
 	- Solving for an Unknown 🟰
 	  logseq.order-list-type:: number
 	- Computational Thinking 🧮
 	  logseq.order-list-type:: number
+	  ---
 - ## Story
 	- You've been assigned a robot assistant 🤖 to train and right now it can't think, it can only follow the exact words of your instructions. You didn't know going to high school would mean you'd have this huge responsibility to train a robot how to think, yet here you are, and you're *hungry*. You decide to ask the robot to make you a PB&J Sandwich (or a school safe SB&J). What are the instructions you give the robot to make the sandwich? Write them down and then watch the video below.
 	- {{video https://youtube.com/watch?v=FN2RM-CHkuI&si=1ePr5-ggg5uNEG0D}}
