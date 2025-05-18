@@ -422,4 +422,5 @@
  :journal/page-title-format "yyyy-MM-dd"
  :feature/enable-journals? false
  :default-home {:page "Ontario Math Graph"}
- :ui/show-brackets? false}
+ :ui/show-brackets? false
+ :publishing/all-pages-public? true}
