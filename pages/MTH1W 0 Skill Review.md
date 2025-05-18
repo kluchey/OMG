@@ -1,6 +1,6 @@
-## Navigation
+## Navigation Unit 0
 id:: 682a36fc-2f8d-4932-b9b0-2b8dea761241
-| Return to [[MTH1W]] Homepage | Go to [next unit]([[MTH1W 1 Number]]) |
+| Return to [[MTH1W]] Homepage | Return to  | Go to [next unit]([[MTH1W 1 Number]]) |
 - ## Learning Objectives
 	- Students will review three key skills that will continue to be developed throughout all units of Grade 9 Mathematics.
 	- Representing Quantities 📈
@@ -18,7 +18,7 @@ id:: 682a36fc-2f8d-4932-b9b0-2b8dea761241
 	  ---
 - ## Learning Tasks
 	- This is just the start of the robot's training. You still need to teach it to move around 🦿 and then you have also decided it should learn to do some tasks 🦾 around your home to make your life easier.
-		- Lesson:  [How do I navigate?]([[MTH1W 0-2 Coordinates]])
+		- Lesson:  [How do I navigate?]([[MTH1W 0-1 Coordinates]])
 		  logseq.order-list-type:: number
 		- Practice:  Writing clear instructions
 		  logseq.order-list-type:: number
