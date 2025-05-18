@@ -1,4 +1,6 @@
-- Author:  K. Cluchey - [k.cluchey.ca](https://k.cluchey.ca)
+public:: true
+
+- author::  K. Cluchey [k.cluchey.ca](https://k.cluchey.ca)
 -
 - Course List
 	- [[MTH1W]]
