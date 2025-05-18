@@ -1,0 +1,8 @@
+- Author:  K. Cluchey - [k.cluchey.ca](https://k.cluchey.ca)
+-
+- Course List
+	- [[MTH1W]]
+	- [[MHF4U]]
+	- [[MDM4U]]
+	- [[MCV4U]]
+	-
