@@ -1,10 +1,12 @@
 - {{embed ((682a36fc-2f8d-4932-b9b0-2b8dea761241))}}
 - ## Learning Goals
 	- Students will be able to describe how algebra, through the use of numbers and variables, allow us to describe directions and relationships.
-	- Students will be begin to think about how computational steps can communicate their thinking
+	- Students will be begin to use computational steps to communicate their mathematical thinking.
+	- ---
 - ## Warm Up
+	- ---
 - ## Lesson
--
+	-
 - ## Review
 	- A variable is used to... #card #[[MTH1W 0 Skill Review]]
 		- Hold the place of an unknown measure so that we can discuss how to use that number even before we know it.
