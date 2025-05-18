@@ -33,3 +33,5 @@
 	- {{cards [[MTH1W 0 Skill Review]]}}
 -
 - R
+-
+- alias:: MTH1W 0
