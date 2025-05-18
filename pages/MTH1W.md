@@ -1,4 +1,4 @@
-- Grade 9 Mathematics [MTH1W Course Ou]([[Course Outline]])
+- Grade 9 Mathematics [Course Outline]([[MTH1W Outline]])
 -
 - Table of Contents
 	- 0 [Skill Review](MTH1W 0 Skill Review)
