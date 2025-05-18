@@ -1,4 +1,5 @@
-- | Return to [[MTH1W]] Homepage | Go to [next unit]([[MTH1W 1 Number]]) |
+- Navigation
+  | Return to [[MTH1W]] Homepage | Go to [next unit]([[MTH1W 1 Number]]) |
 -
 -
 - Objective:  Students will review three key skills that will continue to be developed throughout all units of Grade 9 Mathematics.
