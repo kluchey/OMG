@@ -1,6 +1,7 @@
 ## Navigation
 id:: 682a36fc-2f8d-4932-b9b0-2b8dea761241
 | Return to [[MTH1W]] Homepage | Go to [next unit]([[MTH1W 1 Number]]) |
+---
 - ## Objective:
 	- Students will review three key skills that will continue to be developed throughout all units of Grade 9 Mathematics.
 	- Representing Quantities 📈
@@ -15,6 +16,7 @@ id:: 682a36fc-2f8d-4932-b9b0-2b8dea761241
 	- {{video https://youtube.com/watch?v=FN2RM-CHkuI&si=1ePr5-ggg5uNEG0D}}
 	- Who is the robot 🤖 in this video? How successfully do you think they would follow *your* instructions? Can you modify your instructions so that the robot can follow them more accurately?
 	- What did the kids not expect to have happen and why did they not expect this behaviour from their dad? Why is their dad behaving this way; what lesson is he trying to teach about language?
+	  ---
 - ## Learning Tasks
 	- This is just the start of the robot's training. You still need to teach it to move around 🦿 and then you have also decided it should learn to do some tasks 🦾 around your home to make your life easier.
 		- Lesson:  [How do I navigate?]([[MTH1W 0-2 Coordinates]])
@@ -31,8 +33,10 @@ id:: 682a36fc-2f8d-4932-b9b0-2b8dea761241
 		  logseq.order-list-type:: number
 		- Practice:  Computational steps
 		  logseq.order-list-type:: number
+		  ---
 - ## Review
 	- After you have finished each task, return to this section to quiz yourself on the key ideas with the flashcards below. This unit ends when you write your summary test.
 	- {{cards [[MTH1W 0 Skill Review]]}}
+	  ---
 - {{embed ((682a36fc-2f8d-4932-b9b0-2b8dea761241))}}
 - alias:: MTH1W 0
