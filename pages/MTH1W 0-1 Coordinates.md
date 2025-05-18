@@ -1,3 +1,4 @@
--
-- A variable is used to... #card #[[MTH1W 0 Skill Review]]
-	- Hold the place of an unknown measure so that we can discuss how to use that number even before we know it.
+- {{embed ((682a36fc-2f8d-4932-b9b0-2b8dea761241))}}
+- ## Review
+	- A variable is used to... #card #[[MTH1W 0 Skill Review]]
+		- Hold the place of an unknown measure so that we can discuss how to use that number even before we know it.
