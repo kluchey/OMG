@@ -11,7 +11,7 @@
 	- Who is the robot in this video? How successfully do you think they would follow *your* instructions? Can you modify your instructions so that the robot can follow them more accurately?
 	- What did the kids not expect to have happen and why did they not expect this behaviour from their dad? Why is the dad behaving this way; what lesson is he trying to teach about language?
 -
-- Tasks:  This is just the start of the robot's training. You still need to teach it to move around and then you have also decided it should learn to do some tasks around your home to make your life easier.
+- Tasks:  This is just the start of the robot's training. You still need to teach it to move around 🦿 and then you have also decided it should learn to do some tasks 🦾 around your home to make your life easier.
 	- Lesson:  [How do I navigate?]([[MTH1W 0-2 Coordinates]])
 	  logseq.order-list-type:: number
 	- Practice:  Writing clear instructions
