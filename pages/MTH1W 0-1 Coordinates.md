@@ -1,4 +1,6 @@
 - {{embed ((682a36fc-2f8d-4932-b9b0-2b8dea761241))}}
+- ## Warm Up
+- ## Lesson
 -
 - ## Review
 	- A variable is used to... #card #[[MTH1W 0 Skill Review]]
