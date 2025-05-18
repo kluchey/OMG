@@ -1,4 +1,5 @@
 - Navigation
+  id:: 682a36fc-2f8d-4932-b9b0-2b8dea761241
   | Return to [[MTH1W]] Homepage | Go to [next unit]([[MTH1W 1 Number]]) |
 -
 -
@@ -34,6 +35,6 @@
 - After you have finished each task, return to this section to quiz yourself on the key ideas with the flashcards below. This unit ends when you write your summary test.
 	- {{cards [[MTH1W 0 Skill Review]]}}
 -
-- | Return to [[MTH1W]] Homepage | Go to [next unit]([[MTH1W 1 Number]]) |
+- {{embed ((682a36fc-2f8d-4932-b9b0-2b8dea761241))}}
 -
 - alias:: MTH1W 0
