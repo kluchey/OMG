@@ -6,10 +6,10 @@
 	- Computational Thinking
 	  logseq.order-list-type:: number
 -
-- Story:  You've been assigned a robot assistant to train and right now it only knows how to follow the literal meaning of your instructions. You didn't know going to high school would mean you'd have this huge responsibility to train a robot how to think, yet here you are, and you're *hungry*. You decide to ask the robot to make you a PB&J Sandwich (or a school safe SB&J). What are the instructions you give the robot?
-	- How successfully do you think the robot will follow your instructions? Can you modify your instructions so they can be understood by the robot?
-	- Watch the following video. What did the kids not expect to happen? Why does this unexpected behaviour happen? What can be done to fix the unexpected behavior? Who in the video is the "robot" and what do you think "literal" means used earlier in this lesson?
+- Story:  You've been assigned a robot assistant to train and right now it can't think, it can only follow the exact words of your instructions. You didn't know going to high school would mean you'd have this huge responsibility to train a robot how to think, yet here you are, and you're *hungry*. You decide to ask the robot to make you a PB&J Sandwich (or a school safe SB&J). What are the instructions you give the robot to make the sandwich? Write them down and then watch the video below.
 	- {{video https://youtube.com/watch?v=FN2RM-CHkuI&si=1ePr5-ggg5uNEG0D}}
+	- Who is the robot in this video? How successfully do you think they would follow *your* instructions? Can you modify your instructions so that the robot can follow them more accurately?
+	- What did the kids not expect to have happen and why did they not expect this behaviour from their dad? Why is the dad behaving this way; what lesson is he trying to teach about language?
 -
 - Tasks:  This is just the start of the robot's training. You still need to teach it to move around and then you have also decided it should learn to do some tasks around your home to make your life easier.
 	- Lesson:  [How do I navigate?]([[MTH1W 0-2 Coordinates]])
@@ -27,6 +27,6 @@
 	- Practice:  Computational steps
 	  logseq.order-list-type:: number
 -
-- When you are finished each task you will then write your summary test. These are the skills, with possible responses, you should be able to explain in your own words and apply to new situations.
-- {{cards [[MTH1W 0 Skill Review]]}}
+- After you have finished each task, return to this section to quiz yourself on the key ideas with the flashcards below. This unit ends when you write your summary test.
+	- {{cards [[MTH1W 0 Skill Review]]}}
 -
