@@ -1,6 +1,7 @@
 - {{embed ((682a36fc-2f8d-4932-b9b0-2b8dea761241))}}
 - ## Learning Goals
-	- Students will be able to describe how algebra, through the use of numbers and variables, allow us to
+	- Students will be able to describe how algebra, through the use of numbers and variables, allow us to describe directions and relationships.
+	- Students will be begin to think about computational steps to show their
 - ## Warm Up
 - ## Lesson
 -
