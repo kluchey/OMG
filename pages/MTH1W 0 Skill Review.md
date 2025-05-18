@@ -16,7 +16,8 @@ id:: 682a36fc-2f8d-4932-b9b0-2b8dea761241
 	- Who is the robot 🤖 in this video? How successfully do you think they would follow *your* instructions? Can you modify your instructions so that the robot can follow them more accurately?
 	- What did the kids not expect to have happen and why did they not expect this behaviour from their dad? Why is their dad behaving this way; what lesson is he trying to teach about language?
 -
-- Tasks:  This is just the start of the robot's training. You still need to teach it to move around 🦿 and then you have also decided it should learn to do some tasks 🦾 around your home to make your life easier.
+- ## Learning Tasks
+- This is just the start of the robot's training. You still need to teach it to move around 🦿 and then you have also decided it should learn to do some tasks 🦾 around your home to make your life easier.
 	- Lesson:  [How do I navigate?]([[MTH1W 0-2 Coordinates]])
 	  logseq.order-list-type:: number
 	- Practice:  Writing clear instructions
@@ -32,8 +33,12 @@ id:: 682a36fc-2f8d-4932-b9b0-2b8dea761241
 	- Practice:  Computational steps
 	  logseq.order-list-type:: number
 -
-- After you have finished each task, return to this section to quiz yourself on the key ideas with the flashcards below. This unit ends when you write your summary test.
+-
+- ## MTH1W 0 Review
+	- After you have finished each task, return to this section to quiz yourself on the key ideas with the flashcards below. This unit ends when you write your summary test.
 	- {{cards [[MTH1W 0 Skill Review]]}}
+-
+-
 -
 - {{embed ((682a36fc-2f8d-4932-b9b0-2b8dea761241))}}
 -
