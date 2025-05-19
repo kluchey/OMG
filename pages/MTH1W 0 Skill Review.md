@@ -4,7 +4,7 @@ alias:: MTH1W 0
   id:: 682a36fc-2f8d-4932-b9b0-2b8dea761241
   | Return to [[MTH1W]] Homepage | Return to [Unit 0]([[MTH1W 0]]) Overview | Go to [next unit]([[MTH1W 1 Number]]) |
 - ## Learning Objectives
-	- Students will review three key skills that will continue to be developed throughout all units of Grade 9 Mathematics.
+	- Students will review three key skills that they also continue to develop throughout all units of Grade 9 Mathematics.
 	- Representing Quantities 📈
 	  logseq.order-list-type:: number
 	- Solving for an Unknown 🟰
