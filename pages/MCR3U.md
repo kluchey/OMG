@@ -1,10 +1,9 @@
 # Grade 11 Functions [Course Outline]([[MCR3U Outline]])
 ---
 - ## What am I learning this year?
-	- $$ `x = \begin{cases}`
-	     `a &\text{if } b \\`
-	     `c &\text{if } d`
-	  `\end{cases}` $$
+	- $ x = \begin{cases} a &\text{if } b \\
+	  c &\text{if } d
+	  \end{cases} $
 - ## Table of Contents
 	- 0 [Math is a Language]([[MCR3U 0]])
 	- [Functions & Representations]([[MCR3U 1]])
