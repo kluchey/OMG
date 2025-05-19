@@ -1,8 +1,8 @@
 # Grade 11 Functions [Course Outline]([[MCR3U Outline]])
 ---
 - ## Table of Contents
-	- 0 [Skill Review](MTH1W 0 Skill Review)
-	- [Number](MTH1W 1 Number)
+	- 0 [Math is a Language]([[MCR3U 0]])
+	- []([[MCR3U 1]])
 	  logseq.order-list-type:: number
 	- [Algebra](MTH1W 2 Algebra)
 	  logseq.order-list-type:: number
