@@ -8,6 +8,6 @@
 - ## Lesson
 	- ---
 - ## Review
-	- A variable is used to... #card #[[MTH1W 0]]
+	- A variable is used to... #card #[[1W0]] #[[1W0-1]]
 		- Hold the place of an unknown measure so that we can discuss how to use that number even before we know it.
 	- ---
