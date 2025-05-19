@@ -1,0 +1,1 @@
+- >> “Mathematics is the art of reducing any problem to linear algebra” - William Stein
