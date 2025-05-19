@@ -1,7 +1,7 @@
 # Grade 11 Functions [Course Outline]([[MCR3U Outline]])
 ---
 - ## What am I learning this year?
-	- Inline style? $$ f(x) = \begin{cases} x^2 &\text{if } x \\ c &\text{if } d \end{cases} $$
+	- Inline style? $$ f(x) = \begin{cases} x^2 &\text{if } x\leq 4 \\ 20-x &\text{if } x>4 \end{cases} $$
 - ## Table of Contents
 	- 0 [Math is a Language]([[MCR3U 0]])
 	- [Functions & Representations]([[MCR3U 1]])
