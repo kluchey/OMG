@@ -1,4 +1,4 @@
-# Grade 11 Functions [Course Outline]([[MCR3U Outline]])
+# Grade 12 **Advanced** Functions [Course Outline]([[MCR3U Outline]])
 ---
 - ## Table of Contents
 	- 0 [Math is a Language]([[MCR3U 0]])
