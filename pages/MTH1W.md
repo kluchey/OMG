@@ -15,7 +15,7 @@
 	  logseq.order-list-type:: number
 	- [Resources](MTH1W Resources)
 	  logseq.order-list-type:: number
-	  ---
+	- ---
 - ## News & TODO
 	- TODO Plan Course Skill Review
 		- TODO Include Relational Rods & Algebra Tiles
