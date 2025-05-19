@@ -1,7 +1,7 @@
 author::  [Kieran Cluchey](https://k.cluchey.ca)
-alias:: OMG
+alias:: OMG, Homepage, Contents
 
-- Course List
+- | Grade
 	- [[MTH1W]]
 	- [[MCR3U]]
 	- [[MHF4U]]
