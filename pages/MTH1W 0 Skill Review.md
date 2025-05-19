@@ -17,7 +17,21 @@ alias:: MTH1W 0, 1W0
 	- {{video https://youtube.com/watch?v=FN2RM-CHkuI&si=1ePr5-ggg5uNEG0D}}
 	- Who is the robot 🤖 in this video? How successfully do you think they would follow *your* instructions? Can you modify your instructions so that the robot can follow them more accurately?
 	- What did the kids not expect to have happen and why did they not expect this behaviour from their dad? Why is their dad behaving this way; what lesson is he trying to teach about language?
-	  ---
+	- ---
+- ## Action
+	- Tools:  You will need a package of relational rods.
+	- Viewing the relational rods, what do you notice?
+		- What is the ==value== of the smallest piece? The largest?
+		- How do we know the largest has that value? What values can we give to the other rods?
+		- A ==relation== is the name for this idea, that the value of one rod is dependent on the value of another. We can't actually say what size each rod is without relating at least two rods together.
+	- Great, now how would you teach someone about fractions using the relational rods?
+		- If the largest now has a value of 1, what is the value of the smallest? Can you make the fraction $$\frac{1}{2}$$ out of just two rods?
+		- Can you use new values for each rod to explain what $$\frac{3}{4} + \frac{1}{4}$$ should equal?
+		- What about $$\frac{3}{4} + \frac{1}{5}$$? Why is the answer not $$\frac{4}{9}$$?
+	- ### Exit Ticket
+		- Write down a list of instructions your robot would have to follow in order to use the relational rods to add the fractions $$\frac{1}{4} + \frac{1}{8}$$.
+		- Why do we need to have the same value for our denominators before we add fractions?
+	- ---
 - ## Learning Tasks
 	- This is just the start of the robot's training. You still need to teach it to move around 🦿 and then you have also decided it should learn to do some tasks 🦾 around your home to make your life easier.
 		- Lesson:  [How do I navigate?]([[MTH1W 0-1 Coordinates]])

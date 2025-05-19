@@ -1,6 +1,6 @@
 - {{embed ((682a36fc-2f8d-4932-b9b0-2b8dea761241))}}
 - ## Learning Goals
-	- Students will be able to describe how **algebra**, through the use of numbers and variables, allows them to describe ==direction== and ==relationships== between number measurements.
+	- Students will be able to describe how **algebra**, through the use of numbers and variables, allows them to describe ==direction== and ==relationships== using measurements.
 	- Students will be begin to use ==computational steps== to communicate their mathematical thinking.
 	- ---
 - ## Warm Up
@@ -9,5 +9,6 @@
 	- ---
 - ## Review
 	- A variable is used to... #card #[[1W0]] #[[1W0-1]]
-		- Hold the place of an unknown measure so that we can discuss how to use that number even before we know it.
+		- Hold the place of an unknown measure so that we can use it in instructions or computations before we know its value.
+		- Eg. $$ A=l\cdot w $$ where A represents Area, l length, and w width. This formula is a set of instructions for how to calculate the Area of a rectangle without knowing the length, width, and Area (yet).
 	- ---

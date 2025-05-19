@@ -423,4 +423,5 @@
  :feature/enable-journals? false
  :default-home {:page "Ontario Math Graph"}
  :ui/show-brackets? false
- :publishing/all-pages-public? true}
+ :publishing/all-pages-public? true
+ :editor/preferred-pasting-file? true}

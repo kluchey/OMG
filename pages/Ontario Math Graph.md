@@ -14,4 +14,3 @@ alias:: OMG, Homepage, Contents
   CLOCK: [2025-05-18 Sun 21:43:53]--[2025-05-18 Sun 21:44:04] =>  00:00:11
   CLOCK: [2025-05-18 Sun 21:44:09]
   :END:
--

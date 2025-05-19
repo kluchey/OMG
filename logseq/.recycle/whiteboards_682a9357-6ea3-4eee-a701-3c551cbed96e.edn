@@ -1,0 +1,45 @@
+{:blocks (
+{:block/created-at 1747621157346
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 0
+:scale [1 1]
+:pageId "682a94c2-0f78-45d1-8eed-e74e4da29959"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 88.57147238865747]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "a50ce450-3457-11f0-bc03-3b0ea13e3ffc"
+:noFill false
+:point [632 984]
+:parentId "682a9357-6ea3-4eee-a701-3c551cbed96e"
+:collapsedHeight 0
+:nonce 1747621148440}}
+:block/updated-at 1747621157346})
+:pages (
+{:block/uuid #uuid "682a9357-6ea3-4eee-a701-3c551cbed96e"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "682a9357-6ea3-4eee-a701-3c551cbed96e"
+:name "682a9357-6ea3-4eee-a701-3c551cbed96e"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("a50ce450-3457-11f0-bc03-3b0ea13e3ffc")}}
+:block/updated-at 1747621157346
+:block/created-at 1747620695441
+:block/type "whiteboard"
+:block/name "682a9357-6ea3-4eee-a701-3c551cbed96e"
+:block/original-name "682a9357-6ea3-4eee-a701-3c551cbed96e"})}
