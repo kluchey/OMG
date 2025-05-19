@@ -6,6 +6,7 @@
 - ## Warm Up
 	- ---
 - ## Lesson
+	-
 	- ---
 - ## Review
 	- A variable is used to... #card #[[MTH1W 0 Skill Review]]
