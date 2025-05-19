@@ -2,9 +2,9 @@
 ---
 - ## Table of Contents
 	- 0 [Math is a Language]([[MCR3U 0]])
-	- []([[MCR3U 1]])
+	- [Functions & Representations]([[MCR3U 1]])
 	  logseq.order-list-type:: number
-	- [Algebra](MTH1W 2 Algebra)
+	- [Functions are Algebraic](MTH1W 2 Algebra)
 	  logseq.order-list-type:: number
 	- [Linear Relations](MTH1W 3 Linear Relations)
 	  logseq.order-list-type:: number
