@@ -1,7 +1,7 @@
-# Grade 12 **Advanced** Functions [Course Outline]([[MCR3U Outline]])
+# Grade 12 **Advanced** Functions [Course Outline]([[MHF4U Outline]])
 ---
 - ## Table of Contents
-	- 0 [Math is a Language]([[MCR3U 0]])
+	- 0 [N]([[MCR3U 0]])
 	- [Functions & Representations]([[MCR3U 1]])
 	  logseq.order-list-type:: number
 	- [Functions are Algebraic]([[MCR3U 2]])
