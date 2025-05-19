@@ -12,7 +12,7 @@
 	  logseq.order-list-type:: number
 	- [Why do we learn Linear Algebra?]([[MCV4U 5]])
 	  logseq.order-list-type:: number
-	- [Ev]([[MCV4U 5]])
+	- [Everything is Linear Algebra]([[MCV4U 6]])
 	  logseq.order-list-type:: number
 	- [Resources]([[MCV4U Resources]])
 	  logseq.order-list-type:: number
