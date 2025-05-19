@@ -1,5 +1,7 @@
 # Grade 11 Functions [Course Outline]([[MCR3U Outline]])
 ---
+- ## What am I learning this year?
+	- $$  $$
 - ## Table of Contents
 	- 0 [Math is a Language]([[MCR3U 0]])
 	- [Functions & Representations]([[MCR3U 1]])
