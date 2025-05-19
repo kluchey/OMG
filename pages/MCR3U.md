@@ -4,13 +4,13 @@
 	- 0 [Math is a Language]([[MCR3U 0]])
 	- [Functions & Representations]([[MCR3U 1]])
 	  logseq.order-list-type:: number
-	- [Functions are Algebraic](MTH1W 2 Algebra)
+	- [Functions are Algebraic]([[MCR3U 2]])
 	  logseq.order-list-type:: number
-	- [Linear Relations](MTH1W 3 Linear Relations)
+	- [Exponential Functions]([[MCR3U 3]])
 	  logseq.order-list-type:: number
-	- [Financial Reasoning](MTH1W 4 Financial Reasoning)
+	- [Quadratic Functions]([[MCR3U 4]])
 	  logseq.order-list-type:: number
-	- Mathematical Modelling
+	- [Functions are Algebraic]([[MCR3U 2]])
 	  logseq.order-list-type:: number
 	- [Resources](MTH1W Resources)
 	  logseq.order-list-type:: number
