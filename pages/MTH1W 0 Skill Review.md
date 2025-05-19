@@ -37,7 +37,7 @@ alias:: MTH1W 0, 1W0
 		- ---
 - ## Review
 	- After you have finished each task, return to this section to quiz yourself on the key ideas with the flashcards below. This unit ends when you write your summary test.
-	- {{cards [[MTH1W 0 Skill Review]]}}
+	- {{cards [[1W0]]}}
 	  ---
 - {{embed ((682a36fc-2f8d-4932-b9b0-2b8dea761241))}}
   ---
