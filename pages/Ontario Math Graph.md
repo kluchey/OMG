@@ -7,5 +7,9 @@ alias:: OMG, Homepage, Contents
   | 10 | [[MPM2D]] |  |
   | 11 | [[MCR3U]] |  |
   | 12 | [[MDM4U]], [[MHF4U]], [[MCV4U]] |  |
-- ## News &
--
+- ## News & TODO
+- DOING Working on
+  :LOGBOOK:
+  CLOCK: [2025-05-18 Sun 21:43:48]
+  CLOCK: [2025-05-18 Sun 21:43:53]
+  :END:
