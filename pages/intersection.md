@@ -1,3 +1,3 @@
 - #definition Where objects meet, such as two lines.
--
+- #mcv4u Lines can intersect planes at points. Planes can intersect other planes at lines or at a point.
 - #mdm4u
