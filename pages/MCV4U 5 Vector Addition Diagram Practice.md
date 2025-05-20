@@ -30,5 +30,5 @@
 		  $$\frac{x-4}{3}=\frac{y+3}{-4}$$
 		- logseq.order-list-type:: number
 		  $$\frac{x-4}{3}=\frac{y+3}{-4}=\frac{z+2}{5}$$
-		- This line intersects the xy-plane at the
+		- This line intersects the xy-plane at the z-axis and h
 		  logseq.order-list-type:: number
