@@ -22,4 +22,4 @@
 			- Design the dice such that both points are negative and the *slope* is positive.
 			- Design the dice such that the **y-intercept** is $$(0,1)$$.
 			- Roll the dice such that one point is snake eyes $$(1,1)$$ and the *slope* is positive. The winner of this round gets to knock out double-double, i.e. **eight** teams.
-			- Roll the dice such that the **y-intercept** is $$2$$ and the *slope* is negative. The winner of this round gets to knock out double-double-double, i.e. **sixteen** teams. Usually a $$\text{}$$
+			- Roll the dice such that the **y-intercept** is $$2$$ and the *slope* is negative. The winner of this round gets to knock out double-double-double, i.e. **sixteen** teams. Usually a $$(\text{double})^3$$ event is winner-take-all.
