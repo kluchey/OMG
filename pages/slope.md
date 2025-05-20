@@ -1,3 +1,5 @@
 - #definition The slope of a line is a measure of how much $$y$$ has changed for every change in $$x$$.
 - Formulas:
-	- $$m=\frac{\Delta y}{\Delta x}$$
+	-
+	- $$m=\frac{\Delta y}{\Delta x}=\frac{y_2-y_1}{x_2-x_1}=\frac{\text{rise}}{\text{run}}$$
+	-
