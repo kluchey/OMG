@@ -17,6 +17,6 @@
 		  logseq.order-list-type:: number
 		- logseq.order-list-type:: number
 		  ---
-	- Draw diagrams for these lines:
+	- Draw diagrams for these **lines**:
 	  logseq.order-list-type:: number
 		- logseq.order-list-type:: number
