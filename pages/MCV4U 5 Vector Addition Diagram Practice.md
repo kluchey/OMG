@@ -17,7 +17,9 @@
 		  logseq.order-list-type:: number
 		- logseq.order-list-type:: number
 		  ---
-	- Draw a graph/diagram and determine a vector equation for these **lines**:
+	- i) Draw a graph/diagram and determine a vector equation for these **lines**.
 	  logseq.order-list-type:: number
+	  ii) Be as *efficient* as possible with your solution; list the number of .
 		- logseq.order-list-type:: number
 		  $$y=3x+4$$
+		- logseq.order-list-type:: number
