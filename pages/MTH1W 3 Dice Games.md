@@ -14,6 +14,7 @@
 			- Teams that are knocked out can re-enter the battle by solving any future problem correctly within the time limit. If a knocked out team have the first correct solution, they get to knockout double, i.e. **four** teams.
 			- The game ends when one team is remaining or by reaching the last 5 minutes of class, wherein multiple teams can win the battle. The knocked out teams must call "Winner Winner Chicken Dinner" to congratulate the last remaining team(s).
 		- Rounds:
-			- First team under the time limit to design the dice such that the largest **slope** and **y-intercept** are found.
-			- First team under the time limit to design the dice such that the **slope** is closest to zero.
-			- First team under the time limit to design the dice such that the **slope** is negative and y-intercept is .
+			- Design the dice such that the largest *slope* and **y-intercept** are found.
+			- Design the dice such that the *slope* is closest to zero.
+			- Design the dice such that the *slope* is negative and **y-intercept** is positive.
+			-
