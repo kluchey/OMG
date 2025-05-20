@@ -446,6 +446,8 @@ html[data-theme=dark] .content b {
   color: var(--ct-bold-color);
 }
 
+
+
 /* Journal calendar icons */
 body:not(.is-banner-active) .journal-item h1.title::before,
 body:not(.is-banner-active) .is-journals h1.title::before {
