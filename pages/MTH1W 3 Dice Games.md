@@ -10,7 +10,7 @@
 		- This game is a Battle Royale. Teams will compete to be the last group standing.
 		- Rules:
 			- Teams work under a time limit to solve a problem correctly. A correct solution within the time limit makes the team safe. An incorrect solution does nothing.
-			- The first team to solve a problem correctly under the time limit will choose **two** groups to knockout.
-			- Groups that are knocked out can re-enter the battle by solving any future problem correctly within the time limit. If a knocked out team have the first correct solution, they get to knockout **four** groups.
-			- The game ends when one group is remaining or by reaching the last 5 minutes of class
+			- The first team to solve a problem correctly under the time limit will choose **two** teams to knockout.
+			- Teams that are knocked out can re-enter the battle by solving any future problem correctly within the time limit. If a knocked out team have the first correct solution, they get to knockout **four** teams.
+			- The game ends when one group is remaining or by reaching the last 5 minutes of class, wherein multiple groups can win the battle. The knocked out groups
 			-
