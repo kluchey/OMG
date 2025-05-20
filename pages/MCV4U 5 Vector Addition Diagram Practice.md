@@ -39,8 +39,21 @@
 		- This line intersects the xy-plane at the z-axis and has a direction vector of $$\begin{bmatrix} 4 \\ -3 \\ 5 \end{bmatrix}$$.
 		  logseq.order-list-type:: number
 		- ---
-	- In which problems today did you see a...
+	- In which problems today did you see...
 	  logseq.order-list-type:: number
 		- Vector Addition?
 		  logseq.order-list-type:: number
-		- logseq.order-list-type:: number
+		- Vector Subtraction?
+		  logseq.order-list-type:: number
+		- A position vector?
+		  logseq.order-list-type:: number
+		- A direction vector?
+		  logseq.order-list-type:: number
+		- A scalar equation?
+		  logseq.order-list-type:: number
+		- A symmetric equation?
+		  logseq.order-list-type:: number
+		- Parametric equations?
+		  logseq.order-list-type:: number
+		- A normal vector?
+		  logseq.order-list-type:: number
