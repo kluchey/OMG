@@ -110,7 +110,7 @@ html[data-theme=dark] {
   --ls-page-blockquote-bg-color: #21252B;
   --ls-page-blockquote-border-color: #495162;
   --ls-page-mark-color: #282C34;
-  --ls-page-mark-bg-color:  #FFFF00; /*#bfae3a*/
+  --ls-page-mark-bg-color:  #FDFD96; /*#bfae3a*/
   --ls-selection-background-color: #495162;
   --ls-block-highlight-color: #495162;
   --ls-block-bullet-color: #495162;
@@ -437,7 +437,7 @@ html[data-theme=dark] .absolute-modal {
   border: 1px solid #383941;
 }
 html[data-theme=dark] mark {
-  background: #FFFF00 !important; /*#bfae3a*/
+  background: #FDFD96 !important; /*#bfae3a*/
 }
 html[data-theme=dark] .form-control textarea {
   background-color: var(--ls-modal-panel-color, var(--lx-gray-04, var(--ls-secondary-background-color)));
