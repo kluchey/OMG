@@ -13,5 +13,10 @@
 		  logseq.order-list-type:: number
 		- Contrast:  What is different between these problems?
 		  logseq.order-list-type:: number
-		- Strategize:  How do we phrase
+		- Strategize:  How do we phrase each problem with vectors? Is this a shared strategy or do the strategies differ?
 		  logseq.order-list-type:: number
+		- logseq.order-list-type:: number
+		  ---
+	- Draw diagrams for these lines:
+	  logseq.order-list-type:: number
+		- logseq.order-list-type:: number
