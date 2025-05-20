@@ -19,7 +19,8 @@
 		  ---
 	- i) Draw a graph/diagram and determine a vector equation for these **lines**.
 	  logseq.order-list-type:: number
-	  ii) Be as *efficient* as possible with your solution; list the number of .
+	  ii) Be as *efficient* as possible with your solution; list the number of steps you took to complete each problem.
 		- logseq.order-list-type:: number
 		  $$y=3x+4$$
+		- logseq.order-list-type:: number
 		- logseq.order-list-type:: number
