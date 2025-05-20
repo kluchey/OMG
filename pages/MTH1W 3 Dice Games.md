@@ -11,4 +11,5 @@
 		- Rules:
 			- Teams work under a time limit to solve a problem correctly. A correct solution within the time limit makes the team safe. An incorrect solution does nothing.
 			- The first team to solve a problem correctly under the time limit will choose **two** groups to knockout.
+			- Groups that are knocked out can re-enter the battle by solving a problem correctly within a time limit.
 			-
