@@ -13,7 +13,7 @@
 			- The first team to solve a problem correctly under the time limit will choose **two** teams to knockout.
 			- Teams that are knocked out can re-enter the battle by solving any future problem correctly within the time limit. If a knocked out team have the first correct solution, they get to knockout double, i.e. **four** teams.
 			- The game ends when one team is remaining or by reaching the last 5 minutes of class, wherein multiple teams can win the battle. The knocked out teams must call "Winner Winner Chicken Dinner" to congratulate the last remaining team(s).
-			- The instruction "Design" means dice can be
+			- The instruction "Design" means dice faces can be chosen by the team. The instruction "Roll" means the dice must be rolled at random.
 		- Rounds:
 			- Design the dice such that the largest *slope* and **y-intercept** are found.
 			- Roll the dice such that the *slope* is closest to zero.
@@ -21,4 +21,4 @@
 			- Roll the dice such that the *slope* is negative and **y-intercept** is positive.
 			- Design the dice such that both points are negative and the *slope* is positive.
 			- Design the dice such that the **y-intercept** is $$(0,1)$$.
-			- Roll the dice such that one point is snake eyes $$(1,1)$$ and the slope is positive.
+			- Roll the dice such that one point is snake eyes $$(1,1)$$ and the *slope* is positive. The winner of this round gets to knock out double-double, i.e. **eight** teams.
