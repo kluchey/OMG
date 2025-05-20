@@ -51,24 +51,26 @@
 		  $$A = (0,0,1)+t(1,-1,2)$$
 		  $$A = (1,0,0)+k(-1,1,2)$$
 		- ---
-	- In which problems today did you see...
-	  logseq.order-list-type:: number
-		- Vector Addition?
+	- ## Consolidate
+		- In which problems today did you see...
 		  logseq.order-list-type:: number
-		- Vector Subtraction?
+			- Vector Addition?
+			  logseq.order-list-type:: number
+			- Vector Subtraction?
+			  logseq.order-list-type:: number
+			- A position vector?
+			  logseq.order-list-type:: number
+			- A direction vector?
+			  logseq.order-list-type:: number
+			- A scalar equation?
+			  logseq.order-list-type:: number
+			- A symmetric equation?
+			  logseq.order-list-type:: number
+			- Parametric equations?
+			  logseq.order-list-type:: number
+			- A normal vector?
+			  logseq.order-list-type:: number
+			- ---
+		- Is it possible to create a scalar equation for a line in $$\R^3$$? Why or why not? What questions does drawing a diagram of a line in 3D raise when you consider making the scalar equation? Hint:  Normal Vector.
 		  logseq.order-list-type:: number
-		- A position vector?
-		  logseq.order-list-type:: number
-		- A direction vector?
-		  logseq.order-list-type:: number
-		- A scalar equation?
-		  logseq.order-list-type:: number
-		- A symmetric equation?
-		  logseq.order-list-type:: number
-		- Parametric equations?
-		  logseq.order-list-type:: number
-		- A normal vector?
-		  logseq.order-list-type:: number
-	- Is it possible to create a scalar equation for a line in $$\R^3$$? Why or why not? What questions does drawing a diagram of a line in 3D raise when you consider making the scalar equation? Hint:  Normal Vector.
-	  logseq.order-list-type:: number
-- ##
+		- logseq.order-list-type:: number
