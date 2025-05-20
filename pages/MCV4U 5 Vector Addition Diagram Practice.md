@@ -69,5 +69,5 @@
 		  logseq.order-list-type:: number
 		- A normal vector?
 		  logseq.order-list-type:: number
-	- Is it possible to create a scalar equation for a line in $$\R^3$$? Why or why not? What questions do you have?
+	- Is it possible to create a scalar equation for a line in $$\R^3$$? Why or why not? What questions does drawing a diagram of th
 	  logseq.order-list-type:: number
