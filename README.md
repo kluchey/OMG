@@ -1,4 +1,8 @@
--
+author:: [Kieran Cluchey](https://k.cluchey.ca/)
+
+- # OMG Hello
+	- Welcome to Mr. Cluchey's Ontario Math Graph. Students, Parents, and Teachers are welcome to use or adapt these self-directed lessons to help your Ontario student learn mathematics.
+	- I hope this resource is useful for my students to be able to learn effective study techniques, such as *active recall* and **focused practice** of our in-school lessons, and as a reference and learning tool used when absent from class.
 - # Ontario Math Graph
 	- Author k.cluchey.ca
 - ## Hello World!
