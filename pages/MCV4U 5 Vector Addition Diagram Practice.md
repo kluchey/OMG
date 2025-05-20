@@ -23,4 +23,7 @@
 		- logseq.order-list-type:: number
 		  $$y=3x+4$$
 		- logseq.order-list-type:: number
+		  $$3x-4y+5=0$$
+		- Let $$t\in \R$$ then $$x = 3-4t$$ and $$y=4-3t$$
+		  logseq.order-list-type:: number
 		- logseq.order-list-type:: number
