@@ -7,16 +7,16 @@
 		- TODO Calculate the y-intercept of the line passing through points $$A$$ and $$B$$.
 		- End of Round. Repeat this round one more time, for practice.
 		- ---
-	- ### Challenge Rounds
-		- This game is a Battle Royale. Teams will compete to be the last group standing.
+	- ### Battle Royale
+		- Teams will compete to be the last group standing.
 		- Rules:
 			- **Time Limit**:  Teams work under a time limit to solve a problem correctly. An incorrect solution does nothing but does not trigger the first team rule.
 			- **First Team**:  The first team to solve a problem correctly under the time limit will choose **two** teams to knockout.
 			- **Zombies**:  Teams that are knocked out can re-enter the battle by solving any future problem correctly within the time limit. If a knocked out team have the first correct solution, they get to knockout double, i.e. **four** teams.
 			- **Win Conditions**:  The game ends when one team is remaining or by reaching the last 5 minutes of class, wherein multiple teams can win the battle. The knocked out teams must call "Winner Winner Chicken Dinner" to congratulate the last remaining team(s).
-			- **Instructions**:  The instruction "Design" means dice faces can be chosen by the team. The instruction "Roll" means the dice must be rolled at random. "double-double" means multiply the base knockout of 2 by 2 two times, or $$2\times 2\times 2=8$$.
+			- **Instructions**:  The instruction "Design" means dice faces can be chosen by the team. The instruction "Roll" means the dice must be rolled at random. "double-double" means multiply the base knockout of 2 by 2 two times, or $$2\times 2\times 2=8$$; "double-double-double" is a thing too.
 		- Rounds:
-			- Design the dice such that the largest *slope* and **y-intercept** are found.
+			- 1. Design the dice such that the largest *slope* and **y-intercept** are found.
 			- Roll the dice such that the *slope* is closest to zero. **y-intercept** must still be calculated.
 			- Design the dice such that the *slope* is negative and **y-intercept** is positive.
 			- Roll the dice such that the *slope* is negative and **y-intercept** is positive.
