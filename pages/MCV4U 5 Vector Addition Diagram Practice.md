@@ -1,8 +1,7 @@
 # This Practice Builds
 	- Complete each problem in the order viewed.
-	  ---An airplane is flying and there is wind.
-		- logseq.order-list-type:: number
-		  ---
-		- A swimmer is 
+	  ---
+	- Draw diagrams for these scenarios.
+	  logseq.order-list-type:: number
+		- An airplane is flying and there is wind. The wind has dire
 		  logseq.order-list-type:: number
-		  ---
