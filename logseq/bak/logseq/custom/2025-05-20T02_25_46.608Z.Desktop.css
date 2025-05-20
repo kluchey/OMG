@@ -843,15 +843,6 @@ html[data-theme=dark] [class*=cm-s-] .cm-meta {
   color: #E5D27B;
 }
 
-/* Highlight Selection Colours */
-html:not(html[data-color]) ::selection,
-html[data-theme=light][data-color=logseq] ::selection,
-html[data-theme=dark][data-color=logseq] ::selection,
-html[data-color=none] ::selection {
-  background-color: var(--ls-selection-background-color);
-  color: var(--ls-selection-text-color);
-}
-
 /* block references: fix default styles */
 .block-ref p.warning {
   display: inline;
@@ -1583,4 +1574,18 @@ html[data-theme=dark] .left-sidebar-inner {
 
 html[data-theme=light] #main-container, html[data-theme=light] #app-container {
   background-color: #E2E4E9 !important;
+}
+
+/* Highlight Selection Colours */
+html:not(html[data-color]),
+html[data-theme=light][data-color='logseq'],
+html[data-color='none'] {
+    ::selection {
+        background-color: #BA8E23;
+  		color: #BA8E23;
+    }
+}
+
+html[data-theme=dark][data-color='logseq'] ::selection {
+  	background-color: #000000;
 }

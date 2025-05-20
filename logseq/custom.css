@@ -1579,13 +1579,10 @@ html[data-theme=light] #main-container, html[data-theme=light] #app-container {
 /* Highlight Selection Colours */
 html:not(html[data-color]),
 html[data-theme=light][data-color='logseq'],
+html[data-theme=dark][data-color='logseq'],
 html[data-color='none'] {
     ::selection {
-        background-color: #BA8E23;
+        background-color: #;
   		color: #BA8E23;
     }
-}
-
-html[data-theme=dark][data-color='logseq'] ::selection {
-  	background-color: #000000;
 }
