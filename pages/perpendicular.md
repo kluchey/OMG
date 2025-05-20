@@ -1,1 +1,2 @@
 - #definition Two lines are perpendicular when, between them, is a $$90^\circ$$ angle.
+- #mcv4u Two vectors are perpendicular if and only if their dot product is $$0$$

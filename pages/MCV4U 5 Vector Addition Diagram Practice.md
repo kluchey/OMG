@@ -46,7 +46,7 @@
 		  on the yz-plane and the **Line B**:
 		  $$B = (6,5,4) + t(4,3,-5), t \in \R $$
 		  on the xz plane.
-		- This line is ==[[perpendicular]]== to both lines A and B and contains the origin, $$t,k\in \R$$
+		- This line is perpendicular to both lines A and B and contains the origin, $$t,k\in \R$$
 		  logseq.order-list-type:: number
 		  $$A = (0,0,1)+t(1,-1,2)$$
 		  $$A = (1,0,0)+k(-1,1,2)$$
