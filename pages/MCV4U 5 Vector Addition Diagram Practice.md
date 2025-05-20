@@ -24,7 +24,10 @@
 		  $$y=3x+4$$
 		- logseq.order-list-type:: number
 		  $$3x-4y+5=0$$
-		- Let $$t\in \R$$ then $$x = 3-4t$$ and $$y=4-3t$$.
-		  logseq.order-list-type:: number
+		- logseq.order-list-type:: number
+		  $$\text{Let } t\in \R$$ \text{then } $$x = 3-4t$$ and $$y=4-3t$$.
 		- logseq.order-list-type:: number
 		  $$\frac{x-4}{3}=\frac{y+3}{-4}$$
+		- logseq.order-list-type:: number
+		  $$\frac{x-4}{3}=\frac{y+3}{-4}=\frac{z+2}{5}$$
+		- logseq.order-list-type:: number
