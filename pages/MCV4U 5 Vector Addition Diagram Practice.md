@@ -77,6 +77,10 @@
 		- What do you know about every vector located on the xy-plane? yz-plane? xz-plane?
 		  logseq.order-list-type:: number
 		  ---
-		- Create a relational graph for converting between lines
+		- Create a relational graph for converting between forms of equations for lines in *2D*.  Here is a relational graph 
 		  logseq.order-list-type:: number
+		  ---
+		- Create a relational graph for converting between forms of equations for lines in *3D*.
+		  logseq.order-list-type:: number
+		  ---
 		- logseq.order-list-type:: number
