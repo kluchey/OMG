@@ -7,7 +7,7 @@ alias:: OMG, Homepage, Contents
 - ## Course Selection
 	- | Year | Course(s) | Recent Lesson |
 	  | ------ | ------ | ------ |
-	  | 9 | [[MTH1W]], [[MAT1L]] |  |
+	  | 9 | [[MTH1W]], [[MAT1L]] | [[MTH1W 3 Dice Games]] |
 	  | 10 | [[MPM2D]], [[MFM2P]], [[MAT2L]] |  |
 	  | 11 | [[MCR3U]] |  |
 	  | 12 | [[MDM4U]], [[MHF4U]], [[MCV4U]] |  |
@@ -20,6 +20,8 @@ alias:: OMG, Homepage, Contents
 	  CLOCK: [2025-05-18 Sun 21:44:09]
 	  :END:
 	- TODO Add more Flashcards for math words and practice.
+	- TODO Add more games.
+	- TODO Add more crypographic puzzles to autocorrect solutions practice.
 	- ---
 - ### Want to Contribute?
 	- This is a free and open source effort hosted on [Github](https://github.com/kluchey/OMG), crafted using [Logseq](https://logseq.com/), and published via [Logseq-SPA](https://github.com/logseq/publish-spa).
