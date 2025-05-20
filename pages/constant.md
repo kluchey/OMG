@@ -1,2 +1,2 @@
 - #definition A constant is a value which does not change.
-- #eg The number 5 is
+- #eg The number 5 is constant. All numbers are constants. The letter $$x$$ is not a constant, instead we use letters to represent ====
