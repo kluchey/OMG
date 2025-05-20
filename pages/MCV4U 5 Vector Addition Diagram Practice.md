@@ -40,7 +40,7 @@
 		  logseq.order-list-type:: number
 		- This line passes through points $$(1,2,3)$$ and $$(-5,-4,-3)$$.
 		  logseq.order-list-type:: number
-		- This line ==[[perpendicular]]== the **Line A**: 
+		- This line ==[intersects]([[intersection]])== the **Line A**: 
 		  logseq.order-list-type:: number
 		  $$A = (-1,2,3) + k(3,2,1), k\in \R$$
 		  on the yz-plane and the **Line B**:
