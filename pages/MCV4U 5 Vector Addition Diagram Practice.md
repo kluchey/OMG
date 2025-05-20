@@ -83,7 +83,7 @@
 			- A normal vector?
 			  logseq.order-list-type:: number
 			- ---
-		- Is the point $$(1,4,-6)$$ on the line $$\vec{v}=(-3,-2,8)+t($$
+		- Is the point $$(1,4,-6)$$ on the line $$\vec{v}=(-3,-2,8)+t(2,3,0)$$?
 		  logseq.order-list-type:: number
 		  ---
 		- Is it possible to create a scalar equation for a line in $$\R^3$$? Why or why not? What questions does drawing a diagram of a line in 3D raise when you consider making the scalar equation? Hint:  Normal Vector.
