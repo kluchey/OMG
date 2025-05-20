@@ -19,7 +19,10 @@ alias:: OMG, Homepage, Contents
 	  CLOCK: [2025-05-18 Sun 21:43:53]--[2025-05-18 Sun 21:44:04] =>  00:00:11
 	  CLOCK: [2025-05-18 Sun 21:44:09]
 	  :END:
-	- TODO Add more Flashcards for math words and practice.
+	- DOING Add more Flashcards for math words and practice.
+	  :LOGBOOK:
+	  CLOCK: [2025-05-20 Tue 13:07:54]
+	  :END:
 	- TODO Add more games.
 	- TODO Add more crypographic puzzles to autocorrect solutions practice.
 	- ---
