@@ -8,7 +8,6 @@
 		  logseq.order-list-type:: number
 		- A person, $$\vec{p}$$, is swimming and there is a current, $$\vec{c}$$. The person's position is $$[\text{N}40^\circ E]$$ from where their destination is located. Also draw the resultant, $$\vec{r}$$.
 		  logseq.order-list-type:: number
-		  ---
 		- *Compare*:  What do all of these problems have in common?
 		  logseq.order-list-type:: number
 		- *Contrast*:  What is different between these problems?
