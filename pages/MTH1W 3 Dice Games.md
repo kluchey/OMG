@@ -19,4 +19,5 @@
 			- Design the dice such that the *slope* is negative and **y-intercept** is positive.
 			- Roll the dice such that the *slope* is negative and **y-intercept** is positive.
 			- Design the dice such that both points are negative and the *slope* is positive.
-			- Design the dice such that both points are negative and the *y-intercep* is positive.
+			- Design the dice such that the **y-intercept** is $$(0,1)$$.
+			- Roll the dice such that one point is
