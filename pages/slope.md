@@ -1,1 +1,3 @@
-- #definition The slope of a line is a measure of how much
+- #definition The slope of a line is a measure of how much $$y$$ has changed for every change in $$x$$.
+- Formulas:
+	- $$m=\frac{\Delta y}{\Delta x}$$
