@@ -1,0 +1,1 @@
+- #definition Two lines are perpendicular when, between them, is a 90
