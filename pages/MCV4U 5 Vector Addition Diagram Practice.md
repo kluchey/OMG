@@ -28,26 +28,35 @@
 		  ---
 		- logseq.order-list-type:: number
 		  $$\text{Let } t\in \R \text{ then } x = 3-4t \text{ and } y=4-3t$$
+		  ---
 		- logseq.order-list-type:: number
 		  $$\frac{x-4}{3}=\frac{y+3}{-4}$$
+		  ---
 		- logseq.order-list-type:: number
 		  $$\frac{x-4}{3}=\frac{y+3}{-4}=\frac{z+2}{5}$$
+		  ---
 		- This line is ==[[parallel]]== to $$3x-4y+5=0$$ and contains the point $$(3,4)$$.
 		  logseq.order-list-type:: number
+		  ---
 		- This line is parallel to $$6x-8y+10=0$$ and contains the point $$(3,4)$
 		  logseq.order-list-type:: number
+		  ---
 		- This line is ==[[perpendicular]]== to $$3x-4y+5=0$$ and contains the point $$(3,4)$
 		  logseq.order-list-type:: number
+		  ---
 		- This line intersects the xy-plane at the z-axis and has a direction vector of $$\begin{bmatrix} 4 \\ -3 \\ 5 \end{bmatrix}$$.
 		  logseq.order-list-type:: number
+		  ---
 		- This line passes through points $$(1,2,3)$$ and $$(-5,-4,-3)$$.
 		  logseq.order-list-type:: number
+		  ---
 		- This line ==[intersects]([[intersection]])== the **Line A**: 
 		  logseq.order-list-type:: number
 		  $$A = (-1,2,3) + k(3,2,1), k\in \R$$
 		  on the yz-plane and the **Line B**:
 		  $$B = (6,5,4) + t(4,3,-5), t \in \R $$
 		  on the xz plane.
+		  ---
 		- This line is perpendicular to both lines A and B and contains the origin, $$t,k\in \R$$
 		  logseq.order-list-type:: number
 		  $$A = (0,0,1)+t(1,-1,2)$$
