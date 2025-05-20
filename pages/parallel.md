@@ -1,0 +1,1 @@
+- #definition Two lines are parallel if and only if they have the same direction. ====
