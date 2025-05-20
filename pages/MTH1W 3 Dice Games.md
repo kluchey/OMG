@@ -1,5 +1,5 @@
 ## Slope-Intercept Form
-	- Tools required per group (two students):  4 dice, 2 graph whiteboards
+	- Tools required per group (two students):  4 dice, 2 graph whiteboards, 2 whiteboard markers
 	- ### Practice Round (x2)
 		- Roll all 4 dice, group dice into pairs, you have just created two points! Make one or more of the dice negative.
 		- Label each dice pair as $$A(x_1, y_1)$$ and $$B(x_2, y_2)$$.
@@ -15,6 +15,7 @@
 			- **Zombies**:  Teams that are knocked out can re-enter the battle by solving any future problem correctly within the time limit. If a knocked out team have the first correct solution, they get to knockout double, i.e. **four** teams.
 			- **Win Conditions**:  The game ends when one team is remaining or by reaching the last 5 minutes of class, wherein multiple teams can win the battle. The knocked out teams must call "Winner Winner Chicken Dinner" to congratulate the last remaining team(s).
 			- **Instructions**:  The instruction "Design" means dice faces can be chosen by the team. The instruction "Roll" means the dice must be rolled at random. "double-double" means multiply the base knockout of 2 by 2 two times, or $$2\times 2\times 2=8$$; "double-double-double" is a thing too.
+			- ---
 		- Rounds:
 			- Design the dice such that the largest *slope* and **y-intercept** are found. Safety round.
 			  logseq.order-list-type:: number
