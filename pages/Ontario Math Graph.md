@@ -22,8 +22,8 @@ alias:: OMG, Homepage, Contents
 	- TODO Add more Flashcards for math words and practice.
 	- ---
 - ### Want to Contribute?
-	- This is a free and open source effort hosted on [Github](https://github.com/kluchey/OMG), crafted using [Logseq](https://logseq.com/), and published via Logseq-SPA.
+	- This is a free and open source effort hosted on [Github](https://github.com/kluchey/OMG), crafted using [Logseq](https://logseq.com/), and published via [Logseq-SPA](https://github.com/logseq/publish-spa).
 	- If you have used the content on this site please consider contributing back, here are some suggestions:
-		- Donate time. Have a great idea? Send it to k@cluchey.ca and if your idea ends up getting used, you will be credited in this resource.
+		- Donate time. Have a great idea? Send it to [k@cluchey.ca](mailto: k@cluchey.ca) and if your idea ends up getting used, you will be credited in this resource.
 			- Massive amounts of time? Fork a copy of my OMG Github Repo and start making your own free Ontario resource. Send me what you create!
 		- Donate money. Buy me a coffee!
