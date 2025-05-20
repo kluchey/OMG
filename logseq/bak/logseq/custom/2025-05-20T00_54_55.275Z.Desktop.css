@@ -849,7 +849,7 @@ html[data-theme=light][data-color=logseq] ::selection,
 html[data-theme=dark][data-color=logseq] ::selection,
 html[data-color=none] ::selection {
   background-color: var(#BA8E23);
-  color: var(--ls-selection-text-color);
+   color: var(--ls-selection-text-color);
 }
 
 /* block references: fix default styles */
