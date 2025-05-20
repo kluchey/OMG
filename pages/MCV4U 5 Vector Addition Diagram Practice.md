@@ -40,8 +40,9 @@
 		  logseq.order-list-type:: number
 		- This line passes through points $$(1,2,3)$$ and $$(-5,-4,-3)$$.
 		  logseq.order-list-type:: number
-		- Find the vector equation of the line that intersects the line $$(x,y,z) = (-1,2,3) + k(3,2,1), k\in \R$$ on the xy-plane and the line $$(x,y,z) = (6,5,4) + t(4,4,1), t \in \R $$ on the xz plane.
+		- Find the vector equation of the line that intersects the line $$(x,y,z) = (-1,2,3) + k(3,2,1), k\in \R$$ on the yz-plane and the line $$(x,y,z) = (6,5,4) + t(4,3,-5), t \in \R $$ on the xz plane.
 		  logseq.order-list-type:: number
+		- logseq.order-list-type:: number
 		- ---
 	- In which problems today did you see...
 	  logseq.order-list-type:: number
