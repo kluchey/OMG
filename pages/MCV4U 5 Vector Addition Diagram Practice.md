@@ -3,5 +3,5 @@
 	  ---
 	- Draw diagrams for these scenarios.
 	  logseq.order-list-type:: number
-		- An airplane is flying and there is wind. The wind has dire
+		- An airplane $$\vec{p}$$ is flying and there is wind $$\vec{w}$$. The airplane wants to travel \[\]
 		  logseq.order-list-type:: number
