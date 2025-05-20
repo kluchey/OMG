@@ -46,7 +46,8 @@
 		  on the yz-plane and the **Line B**:
 		  $$B = (6,5,4) + t(4,3,-5), t \in \R $$
 		  on the xz plane.
-		- logseq.order-list-type:: number
+		- This line is perpendicular to both lines and contains the origin
+		  logseq.order-list-type:: number
 		- ---
 	- In which problems today did you see...
 	  logseq.order-list-type:: number
