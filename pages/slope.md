@@ -1,5 +1,5 @@
 - #definition The slope of a line is a measure of how much $$y$$ has changed for every change in $$x$$.
 - Formulas:
-	- We need at least two points to calculate $$\text{slope}=m$$:  $$(x_1,y_1)$$ $$(x_2, y_2)$$
+	- We need at least two points to calculate $$\text{slope}=m$$:  $$(x_1,y_1)$$ and $$(x_2, y_2)$$.
 	- $$m=\frac{\Delta y}{\Delta x}=\frac{y_2-y_1}{x_2-x_1}=\frac{\text{rise}}{\text{run}}$$
-	-
+	- If we have more than two points, we either need to see ==[[constant]]== ==[first differences]([[first differences]])
