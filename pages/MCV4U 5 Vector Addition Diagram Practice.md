@@ -57,3 +57,5 @@
 		  logseq.order-list-type:: number
 		- A normal vector?
 		  logseq.order-list-type:: number
+	- scalar equation for a line in $$\R^3$$?
+	  logseq.order-list-type:: number
