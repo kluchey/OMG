@@ -1586,4 +1586,6 @@ html[data-color='none'] {
     }
 }
 
-html[data-theme=dark][data-color='logseq']
+html[data-theme=dark][data-color='logseq'] ::selection {
+  	background-color: #000000;
+}
