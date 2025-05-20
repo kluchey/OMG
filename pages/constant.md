@@ -1,3 +1,3 @@
 - #definition A constant is a value which does not change.
 - #eg The number 5 is constant. All numbers are constants.
-- #neg The letter $$x$$ is not a constant, instead we use letters to represent ==[variables]([[variable]])== which can change values or may take on many different values.
+- #not The letter $$x$$ is not a constant, instead we use letters to represent ==[variables]([[variable]])== which can change values or may take on many different values.
