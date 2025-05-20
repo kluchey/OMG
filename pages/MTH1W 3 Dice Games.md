@@ -14,7 +14,7 @@
 			- **First Team**:  The first team to solve a problem correctly under the time limit will choose **two** teams to knockout.
 			- **Zombies**:  Teams that are knocked out can re-enter the battle by solving any future problem correctly within the time limit. If a knocked out team have the first correct solution, they get to knockout double, i.e. **four** teams.
 			- **Win Conditions**:  The game ends when one team is remaining or by reaching the last 5 minutes of class, wherein multiple teams can win the battle. The knocked out teams must call "Winner Winner Chicken Dinner" to congratulate the last remaining team(s).
-			- **Instructions**:  The instruction "Design" means dice faces can be chosen by the team. The instruction "Roll" means the dice must be rolled at random. "double
+			- **Instructions**:  The instruction "Design" means dice faces can be chosen by the team. The instruction "Roll" means the dice must be rolled at random. "double-double" means multiply the base knockout of 2 by 2 two times, or $$2\times 2\times 2=8$$.
 		- Rounds:
 			- Design the dice such that the largest *slope* and **y-intercept** are found.
 			- Roll the dice such that the *slope* is closest to zero. **y-intercept** must still be calculated.
