@@ -22,8 +22,10 @@
 	  ii) Be as *efficient* as possible with your solution; list the number of steps you took to complete each problem.
 		- logseq.order-list-type:: number
 		  $$y=3x+4$$
+		  ---
 		- logseq.order-list-type:: number
 		  $$3x-4y+5=0$$
+		  ---
 		- logseq.order-list-type:: number
 		  $$\text{Let } t\in \R \text{ then } x = 3-4t \text{ and } y=4-3t$$
 		- logseq.order-list-type:: number
