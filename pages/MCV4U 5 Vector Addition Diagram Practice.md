@@ -32,7 +32,7 @@
 		  $$\frac{x-4}{3}=\frac{y+3}{-4}=\frac{z+2}{5}$$
 		- This line is ==[[parallel]]== to $$3x-4y+5=0$$ and contains the point $$(3,4)$$.
 		  logseq.order-list-type:: number
-		- This line is ==[[parallel]]== to $$6x-8y+10=0$$ and contains the point $$(3,4)$
+		- This line is parallel to $$6x-8y+10=0$$ and contains the point $$(3,4)$
 		  logseq.order-list-type:: number
 		- This line is ==[[perpendicular]]== to $$3x-4y+5=0$$ and contains the point $$(3,4)$
 		  logseq.order-list-type:: number
