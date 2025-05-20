@@ -30,7 +30,8 @@
 		  $$\frac{x-4}{3}=\frac{y+3}{-4}$$
 		- logseq.order-list-type:: number
 		  $$\frac{x-4}{3}=\frac{y+3}{-4}=\frac{z+2}{5}$$
-		- This line is parallel to $$3x-4y+5=0$$ and  through the point $$($$
+		- This line is parallel to $$3x-4y+5=0$$ and contains the point $$(3,4)$$.
 		  logseq.order-list-type:: number
-		- This line intersects the xy-plane at the z-axis and has a direction vector of $$\begin{bmatrix} 4 \\ -3 \end{bmatrix}$$.
+		- logseq.order-list-type:: number
+		- This line intersects the xy-plane at the z-axis and has a direction vector of $$\begin{bmatrix} 4 \\ -3 \\ 5 \end{bmatrix}$$.
 		  logseq.order-list-type:: number
