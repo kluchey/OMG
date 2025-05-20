@@ -79,6 +79,7 @@
 		  ---
 		- Create a relational graph for converting between forms of equations for lines in *2D*.  Here is a relational graph for forms of quadratic equations as an example.
 		  logseq.order-list-type:: number
+		  ![image.png](../assets/image_1747710311832_0.png) 
 		  ---
 		- Create a relational graph for converting between forms of equations for lines in *3D*.
 		  logseq.order-list-type:: number
