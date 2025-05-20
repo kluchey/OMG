@@ -5,5 +5,7 @@
 	  logseq.order-list-type:: number
 		- An airplane, $$\vec{p}$$, is flying and there is wind, $$\vec{w}$$. The airplane wants to travel to a location $$[\text{N}8^\circ E]$$ of where it is currently located. Also draw the resultant, $$\vec{r}$$.
 		  logseq.order-list-type:: number
-		- A person, $$\vec{p}$$, is swimming and there is a current, $$\vec{c}$$. The person wants to travel to a location $$[\text{N}8^\circ E]$$ of where it is currently located. Also draw the resultant, $$\vec{r}$$.
+		- A person, $$\vec{p}$$, is swimming and there is a current, $$\vec{c}$$. The person wants to travel to a location $$[\text{N}30^\circ E]$$ of where they are currently located. Also draw the resultant, $$\vec{r}$$.
+		  logseq.order-list-type:: number
+		- A person, $$\vec{p}$$, is swimming and there is a current, $$\vec{c}$$. The person wants to travel to a location $$[\text{N}30^\circ E]$$  where they are currently located. Also draw the resultant, $$\vec{r}$$.
 		  logseq.order-list-type:: number
