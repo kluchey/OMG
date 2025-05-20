@@ -38,4 +38,9 @@
 		  logseq.order-list-type:: number
 		- This line intersects the xy-plane at the z-axis and has a direction vector of $$\begin{bmatrix} 4 \\ -3 \\ 5 \end{bmatrix}$$.
 		  logseq.order-list-type:: number
+		- ---
+	- In which problems today did you see a...
+	  logseq.order-list-type:: number
+		- Vector Addition?
+		  logseq.order-list-type:: number
 		- logseq.order-list-type:: number
