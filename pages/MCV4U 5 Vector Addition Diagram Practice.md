@@ -77,7 +77,7 @@
 		- What do you know about every vector located on the xy-plane? yz-plane? xz-plane?
 		  logseq.order-list-type:: number
 		  ---
-		- Create a relational graph for converting between forms of equations for lines in *2D*.  Here is a relational graph 
+		- Create a relational graph for converting between forms of equations for lines in *2D*.  Here is a relational graph for forms of quadratic equations as an example.
 		  logseq.order-list-type:: number
 		  ---
 		- Create a relational graph for converting between forms of equations for lines in *3D*.
