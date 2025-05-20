@@ -34,7 +34,7 @@
 		  logseq.order-list-type:: number
 		- This line is parallel to $$6x-8y+10=0$$ and contains the point $$(3,4)$
 		  logseq.order-list-type:: number
-		- This line is ==[[perpendicular]]== to $$3x-4y+5=0$$ and contains the point $$(3,4)$
+		- This line is ==[[perpendicular]] to $$3x-4y+5=0$$ and contains the point $$(3,4)$
 		  logseq.order-list-type:: number
 		- This line intersects the xy-plane at the z-axis and has a direction vector of $$\begin{bmatrix} 4 \\ -3 \\ 5 \end{bmatrix}$$.
 		  logseq.order-list-type:: number
