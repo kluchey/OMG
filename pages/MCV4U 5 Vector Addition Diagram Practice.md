@@ -38,8 +38,9 @@
 		  logseq.order-list-type:: number
 		- This line intersects the xy-plane at the z-axis and has a direction vector of $$\begin{bmatrix} 4 \\ -3 \\ 5 \end{bmatrix}$$.
 		  logseq.order-list-type:: number
-		- This line passes through points $$(1,2,3) \text{} $$
+		- This line passes through points $$(1,2,3)$$ and $$(-5,-4,-3)$$.
 		  logseq.order-list-type:: number
+		- logseq.order-list-type:: number
 		- ---
 	- In which problems today did you see...
 	  logseq.order-list-type:: number
