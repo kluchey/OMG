@@ -1,0 +1,2 @@
+- #definition A constant is a value which does not change.
+- #eg The number 5 is
