@@ -2,4 +2,4 @@
 - Formulas:
 	- We need at least two points to calculate $$\text{slope}=m$$:  $$(x_1,y_1)$$ and $$(x_2, y_2)$$.
 	- $$m=\frac{\Delta y}{\Delta x}=\frac{y_2-y_1}{x_2-x_1}=\frac{\text{rise}}{\text{run}}$$
-	- If we have more than two points, we either need to see ==[[constant]]== ==[first differences]([[first differences]])
+	- If we have more than two points, we either need to see ==[[constant]]== ==[first differences]([[finite differences]])== or we need to run a ==[[linear regression]]==.
