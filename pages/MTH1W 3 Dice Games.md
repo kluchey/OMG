@@ -1,4 +1,5 @@
 ## Slope-Intercept Form
+collapsed:: true
 	- Tools required per group (two students):  4 dice, 2 graph whiteboards
 	- ### Practice Round (x2)
 		- Roll all 4 dice, group dice into pairs, you have just created two points! Make one or more of the dice negative.
@@ -15,6 +16,6 @@
 			- The game ends when one team is remaining or by reaching the last 5 minutes of class, wherein multiple teams can win the battle. The knocked out teams must call "Winner Winner Chicken Dinner" to congratulate the last remaining team(s).
 		- Rounds:
 			- Design the dice such that the largest *slope* and **y-intercept** are found.
-			- Design the dice such that the *slope* is closest to zero.
+			- Roll the dice such that the *slope* is closest to zero.
 			- Design the dice such that the *slope* is negative and **y-intercept** is positive.
-			-
+			- Roll the dice such that the *slope* is negative and **y-intercept** is positive.
