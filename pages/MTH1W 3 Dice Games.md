@@ -15,4 +15,5 @@
 			- The game ends when one team is remaining or by reaching the last 5 minutes of class, wherein multiple teams can win the battle. The knocked out teams must call "Winner Winner Chicken Dinner" to congratulate the last remaining team(s).
 		- Rounds:
 			- First team under the time limit to design the dice such that the largest **slope** and **y-intercept** are found.
-			- First team under the time limit to design the dice such that the **slope** and **y-intercept** are found.
+			- First team under the time limit to design the dice such that the **slope** is closest to zero.
+			- First team under the time limit to design the dice such that the **slope** is negative and y-intercept is .
