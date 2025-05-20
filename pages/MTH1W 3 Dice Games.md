@@ -5,4 +5,6 @@
 		- Label each dice pair as $$A(x_1, y_1)$$ and $$B(x_2, y_2)$$.
 		- TODO Calculate the slope between points $$A$$ and $$B$$.
 		- TODO Calculate the y-intercept of the line passing through points $$A$$ and $$B$$.
+		- End of Round. Repeat this round one more time, for practice.
+	- ### Challenge Rounds
 		-
