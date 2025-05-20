@@ -1,0 +1,1 @@
+- #definition Two lines are coincident if they intersect at all points, i.e. they are the same line.
