@@ -7,4 +7,6 @@
 		- TODO Calculate the y-intercept of the line passing through points $$A$$ and $$B$$.
 		- End of Round. Repeat this round one more time, for practice.
 	- ### Challenge Rounds
-		- This game is a Battle Royale. Teams
+		- This game is a Battle Royale. Teams will compete to be the last group standing.
+		- Rules:
+			- Teams work under a time limit to solve a proh
