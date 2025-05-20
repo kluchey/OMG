@@ -31,7 +31,7 @@
 		  $$\text{Let } t\in \R \text{ then } x = 3-4t \text{ and } y=4-3t$$
 		  ---
 		- logseq.order-list-type:: number
-		  $$\frac{x-4}{3}=\frac{y+3}{-4}$$
+		  $$\frac{x-4}{3}=\frac{y+3}$$
 		  ---
 		- logseq.order-list-type:: number
 		  $$\frac{x-4}{3}=\frac{y+3}{-4}=\frac{z+2}{5}$$
