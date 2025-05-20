@@ -1,5 +1,4 @@
 ## Slope-Intercept Form
-collapsed:: true
 	- Tools required per group (two students):  4 dice, 2 graph whiteboards
 	- ### Practice Round (x2)
 		- Roll all 4 dice, group dice into pairs, you have just created two points! Make one or more of the dice negative.
@@ -19,3 +18,5 @@ collapsed:: true
 			- Roll the dice such that the *slope* is closest to zero.
 			- Design the dice such that the *slope* is negative and **y-intercept** is positive.
 			- Roll the dice such that the *slope* is negative and **y-intercept** is positive.
+			- Design the dice such that both points are negative and the *slope* is positive.
+			- Design the dice such that both points are negative and the *y-intercep* is positive.
