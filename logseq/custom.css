@@ -1582,7 +1582,6 @@ html[data-theme=light][data-color='logseq'],
 html[data-theme=dark][data-color='logseq'],
 html[data-color='none'] {
     ::selection {
-        background-color: #;
-  		color: #BA8E23;
+        background-color: #FFFF00;
     }
 }
