@@ -12,9 +12,9 @@ alias:: MCV4U 5-3, CV5-3
 		  Solution: {{cloze}}
 		  @@html: <br><br><br>@@
 	- ## Action
-		- Find the intersection of lines
+		- Find the intersection point of lines, where $$t,k\in\R$$,
 		  logseq.order-list-type:: number
-		  $$\begin{bmatrix} x \\ y \end{bmatrix} = \begin{bmatrix} 11 \\ -2 \end{bmatrix} + t \begin{bmatrix} 3 \\ -2 \end{bmatrix} $$ and $$\begin{bmatrix} x \\ y \end{bmatrix} = \begin{bmatrix} -5 \\ 4 \end{bmatrix} + k \begin{bmatrix} 2 \\ 1 \end{bmatrix} $$
-		  where $$t,k\in\R$$
+		  $$\begin{bmatrix} x \\ y \end{bmatrix} = \begin{bmatrix} 11 \\ -2 \end{bmatrix} + t \begin{bmatrix} 3 \\ -2 \end{bmatrix}$$
+		  $$\begin{bmatrix} x \\ y \end{bmatrix} = \begin{bmatrix} -5 \\ 4 \end{bmatrix} + k \begin{bmatrix} 2 \\ 1 \end{bmatrix} $$
 	- ## Consolidation
 	- ## Review
