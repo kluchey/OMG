@@ -7,7 +7,9 @@ alias:: MCV4U 5-3, CV5-3
 		  @@html: <br><br><br>@@
 		- Now imagine two lines in 3D. How many *different* ways can two lines interact in 3D? Sketch all possible interactions. Click to see solution {{cloze}}.
 		  @@html: <br><br><br>@@
-		- In Grade 9 and 10, what was your strategy to calculate the Point of Intersection for a system of linear equations such as $$\begin{cases} y = 3x+4 \\ y = \frac{1}{4}x-3 \end{cases}$$?
+		- In Grade 9 and 10, what was your strategy to calculate the Point of Intersection for a system of linear equations such as $$\begin{cases} y = 3x+4 \\ y = \frac{1}{4}x-3 \end{cases}$$ 
+		  Click to see solution {{cloze}}.
+		  @@html: <br><br><br>@@
 	- ## Action
 	- ## Consolidation
 	- ## Review
