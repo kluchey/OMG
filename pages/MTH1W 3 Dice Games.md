@@ -37,7 +37,8 @@ collapsed:: true
 - ## Intersection of Lines
 	- Tools required per group (two students):  6 dice, 2 graph whiteboards, 2 whiteboard markers
 	- ### Practice Round (x2)
-		- Roll all 6 dice, group dice into triples, you have just created two lines! Make one or more of the dice negative.Label each dice pair as $$A(x_1, y_1)$$ and $$B(x_2, y_2)$$.
+		- Roll all 6 dice, group dice into triples, you have just created two lines! Make one or more of the dice negative.
+		- In each triple, use 2 dice to represent the slope:  one die is your rise, one die is your run. Recall that $$$$
 		- TODO Calculate the ==[[slope]]== between points $$A$$ and $$B$$.
 		- TODO Calculate the ==[[y-intercept]]== of the line passing through points $$A$$ and $$B$$.
 		- End of Round. Repeat this round one more time, for practice.
