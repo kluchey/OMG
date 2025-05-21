@@ -35,6 +35,8 @@ alias:: MCV4U 5-3, CV5-3
 		  logseq.order-list-type:: number
 		- Create the vector or parametric equations for two ==[[skew]]== lines in $$\R^3$$. If you try to solve this system for its parameters, what happens? Will this always happen for two skew lines?
 		  logseq.order-list-type:: number
-		- Assume that two lines intersect and you are solving this system for its parameters.
+		- How can you verify that your solution to a system of equations is correct?
 		  logseq.order-list-type:: number
+		- ### Practice
+			- logseq.order-list-type:: number
 	- ## Review
