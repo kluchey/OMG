@@ -1,5 +1,6 @@
-# Grade 12 Calculus & Vectors [Course Outline]([[MHF4U Outline]])
----
+-
+- # Grade 12 Calculus & Vectors [Course Outline]([[MHF4U Outline]])
+  ---
 - ## Table of Contents
 	- 0. [Slopes & Points]([[MCV4U 0]])
 	- [Why invent the Derivative?]([[MCV4U 1]])
