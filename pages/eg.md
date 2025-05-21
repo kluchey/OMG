@@ -1,2 +1,2 @@
 - #definition **eg** is latin for *exempli gratia*, which means "for example" but you can think of it as saying "**e**xample **g**iven".
-- See also #ie and #ex
+- See also #ie and #ex.

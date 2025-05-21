@@ -1,1 +1,2 @@
-- #definition **ex**
+- #definition **ex** is a short form for the English work *exercise* which means to practice or to train.
+- See also #eg and #ie.
