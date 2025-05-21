@@ -22,7 +22,7 @@ alias:: MCV4U 5-3, CV5-3
 		  b) What method did you use to solve this problem? How is your method similar to a method learned in Grade 9 or 10?
 		  Solution: {{cloze}}
 		  @@html: <br><br><br>@@
-		- Determine whether the following lines ==[intersect]([[intersection]])== or are ==[[skew]]==.
+		- Determine whether the following lines ==[intersect]([[intersection]])==; if they do not intersect, state whether they are ==parallel== or ==[[skew]]==. How can you tell if a system of 3D equations is
 		  logseq.order-list-type:: number
 	- ## Consolidation
 	- ## Review
