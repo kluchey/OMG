@@ -1,2 +1,2 @@
-- #definition **ie** is latin for *id est*, which means "that is".
-- See also #eg and #ex
+- #definition **ie** is latin for *id est*, which means "that is". Used in a sentence:  "The x value of the vertex, i.e. the Axis of Symmery, is calculated by
+- See also #eg and #ex.
