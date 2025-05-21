@@ -42,5 +42,5 @@ alias:: MCV4U 5-3, CV5-3
 			  logseq.order-list-type:: number
 			  ![image.png](../assets/image_1747790557963_0.png)
 			  Answers to Check:  {{cloze 1a) Skew. b) (4, 1, 2). c) (4, 1, 7). d) (8, 1, 22). e) Skew. f) Coincident, infinite intersection points. g) Parallel. }}
-	- ## Review
-		- #card
+	- ## Review Flashcards
+		- #card #MCV4U #CV5 How
