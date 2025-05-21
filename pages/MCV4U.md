@@ -1,4 +1,6 @@
--
+alias:: Calculus & Vectors, Calculus, Vectors
+icon:: △
+
 - # Grade 12 Calculus & Vectors [Course Outline]([[MHF4U Outline]])
   ---
 - ## Table of Contents
