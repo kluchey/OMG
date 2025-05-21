@@ -19,6 +19,6 @@ alias:: MCV4U 5-3, CV5-3
 		  Solution: {{cloze}}
 		  @@html: <br><br><br>@@
 		  
-		  b) What strat
+		  b) What method did you use to solve this problem? How
 	- ## Consolidation
 	- ## Review
