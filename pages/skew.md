@@ -1,2 +1,3 @@
 - #definition Skew just means asymmetrical; many objects in math do not have symmetry.
-- #MCV4U #eg Two lines are skew in 3D or higher dimensional spaces if they do not intersect (have rotational symmetry) or are
+- #MCV4U #eg Two lines are skew in 3D or higher dimensional spaces if they do not intersect (have rotational symmetry) and are not parallel (have reflectional symmetry).
+- #MDM4U #eg A probability distribution, such as a
