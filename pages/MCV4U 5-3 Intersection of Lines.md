@@ -19,6 +19,9 @@ alias:: MCV4U 5-3, CV5-3
 		  Solution: {{cloze}}
 		  @@html: <br><br><br>@@
 		  
-		  b) What method did you use to solve this problem? How
+		  b) What method did you use to solve this problem? How is your method similar to a method learned in Grade 9 or 10?
+		  Solution: {{cloze}}
+		  @@html: <br><br><br>@@
+		- logseq.order-list-type:: number
 	- ## Consolidation
 	- ## Review
