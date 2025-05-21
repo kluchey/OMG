@@ -14,6 +14,6 @@ alias:: MCV4U 5-3, CV5-3
 	- ## Action
 		- Find the intersection of lines
 		  logseq.order-list-type:: number
-		  $$\begin{bmatrix} x \\ y \end{bmatrix} = $$
+		  $$\begin{bmatrix} x \\ y \end{bmatrix} = \begin{bmatrix} 11 \\ -2 \end{bmatrix} + t \begin{bmatrix} 3 \\ -2 \end{bmatrix}$$
 	- ## Consolidation
 	- ## Review
