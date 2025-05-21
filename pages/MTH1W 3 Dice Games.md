@@ -39,7 +39,7 @@ collapsed:: true
 	- ### Practice Round (x2)
 		- Roll all 6 dice, group dice into triples, you have just created two lines! Make one or more of the dice negative.
 		- In each triple, use 2 dice to represent the ==[[slope]]==:  one die is your rise, one die is your run. Recall that $$m=\frac{rise}{run}$$. Use the third die to represent your ==[[y-intercept]]==.
-		- TODO Graph both lines the ==[[slope]]== between points $$A$$ and $$B$$.
+		- TODO Graph both lines on Cartesian axes for x scale from -10 to 10 and y scale from -10 to 10.
 		- TODO Calculate the ==[[y-intercept]]== of the line passing through points $$A$$ and $$B$$.
 		- End of Round. Repeat this round one more time, for practice.
 		- ---
