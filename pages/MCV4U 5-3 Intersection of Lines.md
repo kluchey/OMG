@@ -12,7 +12,8 @@ alias:: MCV4U 5-3, CV5-3
 		  Solution: {{cloze}}
 		  @@html: <br><br><br>@@
 	- ## Action
-		- Find the intersection between
+		- Find the intersection of lines
 		  logseq.order-list-type:: number
+		  $$\begin{bmatrix} x \\ y \end{bmatrix} = $$
 	- ## Consolidation
 	- ## Review
