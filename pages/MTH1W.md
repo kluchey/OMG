@@ -1,4 +1,5 @@
 alias:: Grade 9, 1W
+icon:: 💡
 
 - # Grade 9 Mathematics [Course Outline]([[MTH1W Outline]])
   ---
