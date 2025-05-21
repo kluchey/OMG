@@ -1,3 +1,3 @@
 - #definition Where objects meet, such as two lines.
-- #mcv4u Lines can intersect planes at points. Planes can intersect other planes at lines or at a point.
+- #MCV4U Lines can intersect planes at points. Planes can intersect other planes at lines or at a point.
 - #mdm4u Two sets can have an intersection, denoted by $$\cap$$ and given the logical connector ==[[AND]]==.
