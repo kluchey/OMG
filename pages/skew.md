@@ -1,1 +1,1 @@
-- #definition
+- #definition Skew just means asymmetrical; many objects can
