@@ -1,1 +1,2 @@
-- #definition eg is latin for exempli gratia but you can use it to mean example given
+- #definition **eg** is latin for *exempli gratia*, which means "for example" but you can think of it as saying "**e**xample **g**iven".
+- See also #ie and
