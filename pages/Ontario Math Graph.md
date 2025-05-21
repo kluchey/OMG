@@ -1,6 +1,6 @@
 author::  [Kieran Cluchey](https://k.cluchey.ca)
 alias:: OMG, Homepage, Contents
-icon::
+icon:: 🍎
 
 - # OMG Hello
 	- Welcome to Mr. Cluchey's Ontario Math Graph. Students, Parents, and Teachers are welcome to use or adapt these self-directed lessons to help your Ontario student learn mathematics.
