@@ -35,11 +35,10 @@ collapsed:: true
 			- Roll the dice such that the **y-intercept** is $$2$$ and the *slope* is negative. The winner of this round gets to knock out double-double-double, i.e. **sixteen** teams. Usually a $$(\text{double})^3$$ event is winner-take-all.
 			  logseq.order-list-type:: number
 - ## Intersection of Lines
-	- Tools required per group (two students):  6 dice, 2 graph whiteboards, 2 whiteboard markers
+	- Tools required per group (two students):  6 dice, 2 graph whiteboards, 2 whiteboard markers @@html: <br><br>@@
 	- ### Practice Round (x2)
 		- Roll all 6 dice, group dice into triples, you have just created two lines! Make one or more of the dice negative.
-		- In each triple, use 2 dice to represent the ==[[slope]]==:  one die is your rise, one die is your run. Recall that $$m=\frac{rise}{run}$$. Use the third die to represent your ==[[y-intercept]]==.\
-		- TODO Graph both lines on ==[[Cartesian]]== axes with an x-scale of -10 to 10 and a y-scale of -10 to 10.
-		- TODO Calculate the ==[[point of intersection]]== of the lines by using the method of substitution. Hint:  start with $$y=y$$ now what is your next step?
-		- End of Round. Repeat this round one more time, for practice.
-		- ---
+		- In each triple, use 2 dice to represent the ==[[slope]]==:  one die is your rise, one die is your run. Recall that $$m=\frac{rise}{run}$$. Use the third die to represent your ==[[y-intercept]]==. @@html: <br><br>@@
+		- TODO Graph both lines on ==[[Cartesian]]== axes with an x-scale of -10 to 10 and a y-scale of -10 to 10. @@html: <br><br>@@
+		- TODO Calculate the ==[[point of intersection]]== of the lines by using the method of substitution. Hint:  start with $$y=y$$ now what is your next step? @@html: <br><br>@@
+		- End of Round. Repeat this round one more time, for practice. @@html: <br><br>@@
