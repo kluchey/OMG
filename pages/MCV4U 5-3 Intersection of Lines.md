@@ -29,6 +29,6 @@ alias:: MCV4U 5-3, CV5-3
 		  Solution: {{cloze}}
 		  @@html: <br><br><br>@@
 	- ## Consolidation
-		- Create two parallel, but not ==[[coincident]]==
+		- Create the vector or parametric equations for two parallel, but not ==[[coincident]]==, lines in $$\R^3$$. If you try to solve this system for its parameters, what will happen?
 		  logseq.order-list-type:: number
 	- ## Review
