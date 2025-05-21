@@ -1,4 +1,4 @@
-alias:: MCV4U 5-2r, CV5-2r
+alias:: MCV4U 5-2a, CV5-2a
 
 - # This Practice Builds
 	- Complete each problem in the order given.
