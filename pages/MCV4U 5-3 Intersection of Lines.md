@@ -16,11 +16,11 @@ alias:: MCV4U 5-3, CV5-3
 		  logseq.order-list-type:: number
 		  $$\begin{bmatrix} x \\ y \end{bmatrix} = \begin{bmatrix} 11 \\ -2 \end{bmatrix} + t \begin{bmatrix} 3 \\ -2 \end{bmatrix}$$
 		  $$\begin{bmatrix} x \\ y \end{bmatrix} = \begin{bmatrix} -5 \\ 4 \end{bmatrix} + k \begin{bmatrix} 2 \\ 1 \end{bmatrix} $$
-		  Solution: {{cloze Using the method of substitution we can get two equations in two unknowns. Solve for both k}}
+		  Solution: {{cloze Using the method of substitution we can get two equations in two unknowns. Then solve for t and k using elimination (preferred method) or substitution.}}
 		  @@html: <br><br><br>@@
 		  
 		  b) What method did you use to solve this problem? How is your method similar to a method learned in Grade 9 or 10?
-		  Solution: {{cloze}}
+		  Solution: {{cloze We need both Substitution to begin}}
 		  @@html: <br><br><br>@@
 		- Determine whether the following lines ==[intersect]([[intersection]])==; if they do not intersect, state whether you think they are ==[[parallel]]== or ==[[skew]]==. Let $$t, k \in\R$$
 		  logseq.order-list-type:: number
