@@ -1,0 +1,1 @@
+- #definition eg is latin for exempli gratia but you can use it to mean example given
