@@ -9,14 +9,14 @@ alias:: MCV4U 5-3, CV5-3
 		  Solution: {{cloze There are now four ways to interact:  Parallel (no POI), Coincident (Infinite POI), Skew (not Parallel and no POI), and Intersecting at one point. It is not possible for 3D lines to intersect in two or more finite number of points.}}
 		  @@html: <br><br><br>@@
 		- In Grade 9 and 10, what was your strategy to calculate the Point of Intersection for a system of linear equations such as $$\begin{cases} y = 3x+4 \\ y = \frac{1}{4}x-3 \end{cases}$$ 
-		  Solution: {{cloze You probably used Substitution or Elimination. That fraction is annoying though}}
+		  Solution: {{cloze You probably used Substitution or Elimination. We will use these methods again today.}}
 		  @@html: <br><br><br>@@
 	- ## Action
 		- a) Find the intersection point of the lines in 2D, where $$t,k\in\R$$,
 		  logseq.order-list-type:: number
 		  $$\begin{bmatrix} x \\ y \end{bmatrix} = \begin{bmatrix} 11 \\ -2 \end{bmatrix} + t \begin{bmatrix} 3 \\ -2 \end{bmatrix}$$
 		  $$\begin{bmatrix} x \\ y \end{bmatrix} = \begin{bmatrix} -5 \\ 4 \end{bmatrix} + k \begin{bmatrix} 2 \\ 1 \end{bmatrix} $$
-		  Solution: {{cloze}}
+		  Solution: {{cloze Using the method of substitution we can get two equations in two unknowns. Solve for both k}}
 		  @@html: <br><br><br>@@
 		  
 		  b) What method did you use to solve this problem? How is your method similar to a method learned in Grade 9 or 10?
