@@ -6,12 +6,12 @@ icon:: 🍎
 	- Welcome to Mr. Cluchey's Ontario Math Graph. Students, Parents, and Teachers are welcome to use or adapt these self-directed lessons to help your Ontario student learn mathematics.
 	- I hope this resource is useful for my students to be able to learn effective study techniques, such as ==[active recall]([[Study Guide]])== and ==[focused practice]([[Study Guide]])== of our in-school lessons, and as a reference and learning tool used when absent from class.
 - ## Course Selection
-	- | Year | Course(s) | Recent Lesson |
-	  | ------ | ------ | ------ |
-	  | 9 | [[MTH1W]], [[MAT1L]] | [[MTH1W 3 Dice Games]] |
-	  | 10 | [[MPM2D]], [[MFM2P]], [[MAT2L]] |  |
-	  | 11 | [[MCR3U]] |  |
-	  | 12 | [[MDM4U]], [[MHF4U]], [[MCV4U]] | [[MCV4U 5-2r]], [[MCV4U 5-3]] |
+	- | Course | Recent Lesson |
+	  | ------ | ------ |
+	  | [[MTH1W]], [[MAT1L]] | [[MTH1W 3 Dice Games]] |
+	  | [[MPM2D]], [[MFM2P]], [[MAT2L]] |  |
+	  | [[MCR3U]] |  |
+	  | [[MDM4U]], [[MHF4U]], [[MCV4U]] | [[MCV4U 5-2r]], [[MCV4U 5-3]] |
 - # News & TODO
 	- This is what I'm working on right now and a road map for the future.
 	- DOING Working on [[MTH1W]] Course Content
