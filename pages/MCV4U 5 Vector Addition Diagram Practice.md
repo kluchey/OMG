@@ -1,4 +1,6 @@
-# This Practice Builds
+alias:: MCV4U 5-2r, CV5-2r
+
+- # This Practice Builds
 	- Complete each problem in the order given.
 	  ---
 	- Draw diagrams for these scenarios.
