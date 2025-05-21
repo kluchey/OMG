@@ -38,5 +38,6 @@ alias:: MCV4U 5-3, CV5-3
 		- How can you verify that your solution to a system of equations is correct?
 		  logseq.order-list-type:: number
 		- ### Practice
-			- logseq.order-list-type:: number
+			- Find the intersection between each line. If the lines do not intersect, state whether the lines are parallel or skew. In each equations, assume $$t,k\in\R$$.
+			  logseq.order-list-type:: number
 	- ## Review
