@@ -31,8 +31,8 @@ alias:: MCV4U 5-3, CV5-3
 	- ## Consolidation
 		- Create the vector or parametric equations for two parallel, but not ==[[coincident]]==, lines in $$\R^3$$. If you try to solve this system for its ==[parameters]([[parameter]])==, what will happen?
 		  logseq.order-list-type:: number
-		- Create the vector or parametric equations for two coincident lines in $$\R^3$$. If you try to solve this system for its ==[parameters, what will happen?
+		- Create the vector or parametric equations for two coincident lines in $$\R^3$$. If you try to solve this system for its parameters, what will happen?
 		  logseq.order-list-type:: number
-		- Create the vector or parametric equations for two skew lines in $$\R^3$$. If you try to solve this system for its ==[parameters]([[parameter]])==, what will happen?
+		- Create the vector or parametric equations for two skew lines in $$\R^3$$. If you try to solve this system for its parameters, what will happen?
 		  logseq.order-list-type:: number
 	- ## Review
