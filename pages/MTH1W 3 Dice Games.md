@@ -1,4 +1,5 @@
 ## Slope-Intercept Form
+collapsed:: true
 	- Tools required per group (two students):  4 dice, 2 graph whiteboards, 2 whiteboard markers
 	- ### Practice Round (x2)
 		- Roll all 4 dice, group dice into pairs, you have just created two points! Make one or more of the dice negative.
@@ -33,3 +34,11 @@
 			  logseq.order-list-type:: number
 			- Roll the dice such that the **y-intercept** is $$2$$ and the *slope* is negative. The winner of this round gets to knock out double-double-double, i.e. **sixteen** teams. Usually a $$(\text{double})^3$$ event is winner-take-all.
 			  logseq.order-list-type:: number
+- ## Intersection of Lines
+	- Tools required per group (two students):  6 dice, 2 graph whiteboards, 2 whiteboard markers
+	- ### Practice Round (x2)
+		- Roll all 6 dice, group dice into triples, you have just created two lines! Make one or more of the dice negative.Label each dice pair as $$A(x_1, y_1)$$ and $$B(x_2, y_2)$$.
+		- TODO Calculate the ==[[slope]]== between points $$A$$ and $$B$$.
+		- TODO Calculate the ==[[y-intercept]]== of the line passing through points $$A$$ and $$B$$.
+		- End of Round. Repeat this round one more time, for practice.
+		- ---
