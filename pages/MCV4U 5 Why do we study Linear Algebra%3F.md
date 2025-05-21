@@ -8,4 +8,5 @@ title:: MCV4U 5 Why do we study Linear Algebra?
 	- Day 4: [5 Practice with Equations of Lines and Diagrams]([[MCV4U 5 Vector Addition Diagram Practice]])
 	- Day 5:  [5-3 Intersection of Lines]([[MCV4U 5-3 Intersection of Lines]])
 	- Day 6:  Review
--
+- ## Review
+	- {{cards [[CV5]]}}
