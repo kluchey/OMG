@@ -47,3 +47,4 @@ alias:: MCV4U 5-3, CV5-3
 		- #card #MCV4U #CV5 How do you know two lines are skew while solving their system of equations?
 			- Solved parameters will not be equal, you may find $$t=1$$ in one solution and $$t=-3$$ in another.
 			- The direction vectors of the lines are not ==[[parallel]]==.
+		- #card #MCV4U #CV5

@@ -1,4 +1,4 @@
-alias:: MCV4U 5
+alias:: MCV4U 5, CV5
 title:: MCV4U 5 Why do we study Linear Algebra?
 
 - # Unit 5 Outline
