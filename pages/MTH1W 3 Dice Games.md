@@ -45,4 +45,4 @@
 		  ---
 	- ### Laser Sharks
 		- Start with a blank graph with x-scale and y-scale ranging from -10 to 10.
-		- Players take turns. Have **Player 1** place a Shark on a *Point* on the graph, the point must be two integers.
+		- Players take turns and each have their own colo Have **Player 1** place a Shark on a *Point* on the graph, the point must be two integers.
