@@ -43,6 +43,3 @@
 		- TODO Calculate the ==[[point of intersection]]== of the lines by using the method of substitution. Hint:  start with $$y=y$$ now what is your next step? @@html: <br><br>@@
 		- End of Round. Repeat this round one more time, for practice.
 		  ---
-	- ### Laser Sharks
-		- Start with a blank graph with x-scale and y-scale ranging from -10 to 10.
-		- Players take turns and each have their own colour of marker. Have **Player 1** place a Shark on a *Point* on the graph, the point must be two integers.
