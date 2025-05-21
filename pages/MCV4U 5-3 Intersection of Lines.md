@@ -22,8 +22,8 @@ alias:: MCV4U 5-3, CV5-3
 		  b) What method did you use to solve this problem? How is your method similar to a method learned in Grade 9 or 10?
 		  Solution: {{cloze}}
 		  @@html: <br><br><br>@@
-		- Determine whether the following lines ==[intersect]([[intersection]])==; if they do not intersect, state whether you think they are ==[[parallel]]== or ==[[skew]]==.
+		- Determine whether the following lines ==[intersect]([[intersection]])==; if they do not intersect, state whether you think they are ==[[parallel]]== or ==[[skew]]==. Let $$t, k \in\R$$
 		  logseq.order-list-type:: number
-		  $$\begin{cases}  \end{cases}$$
+		  $$\begin{cases} x=-1+3t \\ y=1+4t \\ z= \end{cases}$$
 	- ## Consolidation
 	- ## Review
