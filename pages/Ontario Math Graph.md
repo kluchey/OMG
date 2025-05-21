@@ -8,10 +8,12 @@ icon:: 🍎
 - ## Course Selection
 	- | Course | Recent Lesson |
 	  | ------ | ------ |
-	  | [[MTH1W]], [[MAT1L]] | [[MTH1W 3 Dice Games]] |
-	  | [[MPM2D]], [[MFM2P]], [[MAT2L]] |  |
+	  | [[MTH1W]] | [[MTH1W 3 Dice Games]] |
+	  | [[MPM2D]] |  |
 	  | [[MCR3U]] |  |
-	  | [[MDM4U]], [[MHF4U]], [[MCV4U]] | [[MCV4U 5-2r]], [[MCV4U 5-3]] |
+	  | [[MCV4U]] | [[MCV4U 5-2r]], [[MCV4U 5-3]] |
+	  | [[MDM4U]] | |
+	  | [[MHF4U]] | |
 - # News & TODO
 	- This is what I'm working on right now and a road map for the future.
 	- DOING Working on [[MTH1W]] Course Content
