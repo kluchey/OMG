@@ -1,0 +1,2 @@
+- #definition **ie** is latin for *id est*, which means "that is".
+- See also #eg and #ex
