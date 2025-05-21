@@ -24,6 +24,7 @@ alias:: MCV4U 5-3, CV5-3
 		  @@html: <br><br><br>@@
 		- Determine whether the following lines ==[intersect]([[intersection]])==; if they do not intersect, state whether you think they are ==[[parallel]]== or ==[[skew]]==. Let $$t, k \in\R$$
 		  logseq.order-list-type:: number
-		  $$\begin{cases} x=-1+3t \\ y=1+4t \\ z= \end{cases}$$
+		  $$\begin{cases} x=-1+3t \\ y=1+4t \\ z=-2t \end{cases}$$
+		  $$\begin{cases} x=-1+2k \\ y=3-k \\ z=-8+k \end{cases}$$
 	- ## Consolidation
 	- ## Review
