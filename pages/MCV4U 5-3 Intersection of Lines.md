@@ -44,8 +44,8 @@ alias:: MCV4U 5-3, CV5-3
 			  Answers to Check:  {{cloze 1a) Skew. b) (4, 1, 2). c) (4, 1, 7). d) (8, 1, 22). e) Skew. f) Coincident, infinite intersection points. g) Parallel. }}
 	- ## Review Flashcards
 		- Return to [[CV5]] to review these flashcards.
-		- #card How do you know two lines are skew while solving their system of equations? #MCV4U #CV5
+		- #card How do you know two lines are skew while solving their system of equations? #[[MCV4U]] #CV5
 			- Solved parameters will not be equal, you may find $$t=1$$ in one solution and $$t=-3$$ in another.
 			- The direction vectors of the lines are not ==[[parallel]]==.
-		- #card How can you tell if two lines are parallel? #MCV4U #CV5
+		- #card How can you tell if two lines are parallel? #[[MCV4U]] #[[CV5]]
 			- Their direction vectors are scalar multiples. #eg $$(2,1)=\frac{1}{2}(4, 2)$$ which means the lines $$\vec{v}=(2,1)t+(1,1)$$ and $$\vec{v}=(4,2)k+(-6,7)$$, $$t,k\in\R$$ are ==[[parallel]]==.
