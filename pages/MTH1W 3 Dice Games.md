@@ -44,4 +44,5 @@
 		- End of Round. Repeat this round one more time, for practice.
 		  ---
 	- ### Laser Sharks
+		- Start with a blank graph with x-scale and y-scale ranging from -10 to 10.
 		-
