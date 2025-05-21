@@ -1,5 +1,5 @@
 alias:: Calculus & Vectors, Calculus, Vectors
-icon:: ∆↗
+icon:: ⇀∆
 
 - # Grade 12 Calculus & Vectors [Course Outline]([[MHF4U Outline]])
   ---
