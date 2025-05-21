@@ -1,5 +1,4 @@
 ## Slope-Intercept Form
-collapsed:: true
 	- Tools required per group (two students):  4 dice, 2 graph whiteboards, 2 whiteboard markers
 	- ### Practice Round (x2)
 		- Roll all 4 dice, group dice into pairs, you have just created two points! Make one or more of the dice negative.
@@ -34,6 +33,7 @@ collapsed:: true
 			  logseq.order-list-type:: number
 			- Roll the dice such that the **y-intercept** is $$2$$ and the *slope* is negative. The winner of this round gets to knock out double-double-double, i.e. **sixteen** teams. Usually a $$(\text{double})^3$$ event is winner-take-all.
 			  logseq.order-list-type:: number
+			  ---
 - ## Intersection of Lines
 	- Tools required per group (two students):  6 dice, 2 graph whiteboards, 2 whiteboard markers @@html: <br><br>@@
 	- ### Practice Round (x2)
@@ -41,4 +41,5 @@ collapsed:: true
 		- In each triple, use 2 dice to represent the ==[[slope]]==:  one die is your rise, one die is your run. Recall that $$m=\frac{rise}{run}$$. Use the third die to represent your ==[[y-intercept]]==. @@html: <br><br>@@
 		- TODO Graph both lines on ==[[Cartesian]]== axes with an x-scale of -10 to 10 and a y-scale of -10 to 10. @@html: <br><br>@@
 		- TODO Calculate the ==[[point of intersection]]== of the lines by using the method of substitution. Hint:  start with $$y=y$$ now what is your next step? @@html: <br><br>@@
-		- End of Round. Repeat this round one more time, for practice. @@html: <br><br>@@
+		- End of Round. Repeat this round one more time, for practice.
+		  ---
