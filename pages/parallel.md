@@ -1,3 +1,3 @@
 - #definition Two lines are parallel if and only if they have the same slope or direction. ==[Coincident]([[coincident]])== lines are also parallel.
 - #MTH1W Two lines are parallel if and only if their slopes are equal. #eg $$y=3x$$ is parallel to $$y=3x-5$$.
-- #MCV4U Two
+- #MCV4U Two lines are parallel if and only if their direction vectors are scalar multiples of one another. ##eg $$\vec{v}=(1,2)t$$ and
