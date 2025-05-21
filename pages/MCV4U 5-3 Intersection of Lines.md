@@ -26,7 +26,7 @@ alias:: MCV4U 5-3, CV5-3
 		  logseq.order-list-type:: number
 		  $$\begin{cases} x=-1+3t \\ y=1+4t \\ z=-2t \end{cases}$$
 		  $$\begin{cases} x=-1+2k \\ y=3-k \\ z=-8+k \end{cases}$$
-		  Solution: {{cloze This system, using substitution, gives us more than enough equations to get t and k. If we use }}
+		  Solution: {{cloze This system, using substitution, gives us more than enough equations to get t and k. If we use the third equation, our t and k must work for it. If they do not, it means our system has no POI. If the system has no POI, to decide if the lines are parallel, determine if one direction vector is a multiple of the other direction vector. If not, then these lines are skew.}}
 		  @@html: <br><br><br>@@
 	- ## Consolidation
 		- Create the vector or parametric equations for two parallel, but not ==[[coincident]]==, lines in $$\R^3$$. If you try to solve this system for its ==[parameters]([[parameter]])==, what happens? Will this always happen for two parallel lines?
