@@ -29,12 +29,12 @@ alias:: MCV4U 5-3, CV5-3
 		  Solution: {{cloze}}
 		  @@html: <br><br><br>@@
 	- ## Consolidation
-		- Create the vector or parametric equations for two parallel, but not ==[[coincident]]==, lines in $$\R^3$$. If you try to solve this system for its ==[parameters]([[parameter]])==, what will happen?
+		- Create the vector or parametric equations for two parallel, but not ==[[coincident]]==, lines in $$\R^3$$. If you try to solve this system for its ==[parameters]([[parameter]])==, what happens? Will this always happen for two parallel lines?
 		  logseq.order-list-type:: number
-		- Create the vector or parametric equations for two coincident lines in $$\R^3$$. If you try to solve this system for its parameters, what happens?
+		- Create the vector or parametric equations for two coincident lines in $$\R^3$$. If you try to solve this system for its parameters, what happens? Will this always happen for two coincident lines?
 		  logseq.order-list-type:: number
-		- Create the vector or parametric equations for two ==[[skew]]== lines in $$\R^3$$. If you try to solve this system for its parameters, what happens; do you reach any roadblocks?
+		- Create the vector or parametric equations for two ==[[skew]]== lines in $$\R^3$$. If you try to solve this system for its parameters, what happens? Will this always happen for two skew lines?
 		  logseq.order-list-type:: number
-		- Assume that two lines intersect and you are solving this system.
+		- Assume that two lines intersect and you are solving this system for its parameters.
 		  logseq.order-list-type:: number
 	- ## Review
