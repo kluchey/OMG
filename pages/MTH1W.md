@@ -1,4 +1,5 @@
-- alias:
+alias:: Grade 9, 1W
+
 - # Grade 9 Mathematics [Course Outline]([[MTH1W Outline]])
   ---
 - ## Table of Contents
