@@ -40,4 +40,6 @@ alias:: MCV4U 5-3, CV5-3
 		- ### Practice
 			- Find the intersection between each line. If the lines do not intersect, state whether the lines are parallel or skew. In each equations, assume $$t,k\in\R$$.
 			  logseq.order-list-type:: number
+			  ![image.png](../assets/image_1747790557963_0.png)
+			  Answers to Check:  {{cloze ![image.png](../assets/image_1747790590243_0.png) }}
 	- ## Review
