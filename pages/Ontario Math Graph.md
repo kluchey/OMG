@@ -9,8 +9,8 @@ icon:: 🍎
 	- | Course | Recent Lesson |
 	  | ------ | ------ |
 	  | [[MTH1W]] | [[MTH1W 3 Dice Games]] |
-	  | [[MPM2D]] |  |
-	  | [[MCR3U]] |  |
+	  | [[MPM2D]] | |
+	  | [[MCR3U]] | |
 	  | [[MCV4U]] | [[MCV4U 5-2r]], [[MCV4U 5-3]] |
 	  | [[MDM4U]] | |
 	  | [[MHF4U]] | |
