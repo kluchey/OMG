@@ -48,4 +48,4 @@ alias:: MCV4U 5-3, CV5-3
 			- Solved parameters will not be equal, you may find $$t=1$$ in one solution and $$t=-3$$ in another.
 			- The direction vectors of the lines are not ==[[parallel]]==.
 		- #card #MCV4U #CV5 How can you tell if two lines are parallel?
-			- Their direction vectors are scalar multiples. #eg $$(2,1)=\frac{1}{2}($$
+			- Their direction vectors are scalar multiples. #eg $$(2,1)=\frac{1}{2}(4, 2)$$ which means the lines $$\vec{v}=(2,1)t+(1,1)$$ and $$\vec{v}=(4,2)t+(-6,7)$$ are paralle.
