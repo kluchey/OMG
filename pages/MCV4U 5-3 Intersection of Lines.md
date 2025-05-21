@@ -26,5 +26,9 @@ alias:: MCV4U 5-3, CV5-3
 		  logseq.order-list-type:: number
 		  $$\begin{cases} x=-1+3t \\ y=1+4t \\ z=-2t \end{cases}$$
 		  $$\begin{cases} x=-1+2k \\ y=3-k \\ z=-8+k \end{cases}$$
+		  Solution: {{cloze}}
+		  @@html: <br><br><br>@@
 	- ## Consolidation
+		- Create two parallel, but not ==[[coincident]]==
+		  logseq.order-list-type:: number
 	- ## Review
