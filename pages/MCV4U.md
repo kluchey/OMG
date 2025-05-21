@@ -10,7 +10,7 @@
 	  logseq.order-list-type:: number
 	- [How many dimensions are there?]([[MCV4U 4]])
 	  logseq.order-list-type:: number
-	- [Why do we learn Linear Algebra?]([[MCV4U 5]])
+	- [Why do we learn Linear Algebra?]([[MCV4U 5 Why do we study Linear Algebra?]])
 	  logseq.order-list-type:: number
 	- [Everything is Linear Algebra]([[MCV4U 6]])
 	  logseq.order-list-type:: number
