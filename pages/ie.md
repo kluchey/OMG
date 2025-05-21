@@ -1,2 +1,2 @@
-- #definition **ie** is latin for *id est*, which means "that is". Used in a sentence:  "The x value of the vertex, i.e. the Axis of Symmery, is calculated by
+- #definition **ie** is latin for *id est*, which means "that is". Used in a sentence:  "The General Form of a Linear Equation, i.e. $$y=mx+b$$, is used throughout High School mathematics in Ontario."
 - See also #eg and #ex.
