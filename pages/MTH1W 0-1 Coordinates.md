@@ -8,7 +8,7 @@
 - ## Lesson
 	- ---
 - ## Review
-	- A variable is used to...
+	- #card A variable is used to... #[[1W0]]
 		- Hold the place of an unknown measure so that we can use it in instructions or computations before we know its value.
 		- Eg. $$ A=l\cdot w $$ where A represents Area, l length, and w width. This formula is a set of instructions for how to calculate the Area of a rectangle without knowing the length, width, and Area (yet).
 	- ---
