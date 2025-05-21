@@ -1,5 +1,6 @@
-# Grade 9 Mathematics [Course Outline]([[MTH1W Outline]])
----
+- alias:
+- # Grade 9 Mathematics [Course Outline]([[MTH1W Outline]])
+  ---
 - ## Table of Contents
 	- id:: 68292d34-6cf9-4f6a-b05c-7a8b7cb8b992
 	  0. [Skill Review](MTH1W 0 Skill Review)
