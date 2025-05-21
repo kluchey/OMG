@@ -20,7 +20,7 @@ alias:: MCV4U 5-3, CV5-3
 		  @@html: <br><br><br>@@
 		  
 		  b) What method did you use to solve this problem? How is your method similar to a method learned in Grade 9 or 10?
-		  Solution: {{cloze We need both Substitution to begin}}
+		  Solution: {{cloze We need Substitution to begin, getting us a system of two equations in two unknowns. Then we apply Elimination (preferred) to isolate for }}
 		  @@html: <br><br><br>@@
 		- Determine whether the following lines ==[intersect]([[intersection]])==; if they do not intersect, state whether you think they are ==[[parallel]]== or ==[[skew]]==. Let $$t, k \in\R$$
 		  logseq.order-list-type:: number
