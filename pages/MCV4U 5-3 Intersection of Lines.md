@@ -3,8 +3,8 @@ alias:: MCV4U 5-3, CV5-3
 - # Lesson 5-3
 	- ## Warm Up
 		- Imagine two lines in 2D. How many *different* ways can the two lines interact? Sketch all possible interactions.
-		  See soluton:  @@html: <br><br><br><br>@@
-		- Now imagine two lines in 3D. How many *different* ways can two lines interact in 3D? Sketch all possible interactions.
+		  Click to see solution {{cloze}}. @@html: <br><br><br><br>@@
+		- Now imagine two lines in 3D. How many *different* ways can two lines interact in 3D? Sketch all possible interactions. Click to see solution {{cloze}}.
 		  @@html: <br><br><br><br>@@
 	- ## Action
 	- ## Consolidation
