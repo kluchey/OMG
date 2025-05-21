@@ -16,7 +16,7 @@ alias:: MCV4U 5-3, CV5-3
 		  logseq.order-list-type:: number
 		  $$\begin{bmatrix} x \\ y \end{bmatrix} = \begin{bmatrix} 11 \\ -2 \end{bmatrix} + t \begin{bmatrix} 3 \\ -2 \end{bmatrix}$$
 		  $$\begin{bmatrix} x \\ y \end{bmatrix} = \begin{bmatrix} -5 \\ 4 \end{bmatrix} + k \begin{bmatrix} 2 \\ 1 \end{bmatrix} $$
-		  Solution: {{cloze Using the method of substitution we can get two equations in two unknowns. Then solve for t and k using elimination (preferred method) or substitution. Isolate for t and k. Once we have t and k, we substitute them into one vector equation to get the point. We can check our work by substituting t}}
+		  Solution: {{cloze Using the method of substitution we can get two equations in two unknowns. Then solve for t and k using elimination (preferred method) or substitution. Isolate for t and k. Once we have t and k, we substitute them into one vector equation to get the point. We can check our work by substituting t and k into the second equation and we should get the same point.}}
 		  @@html: <br><br><br>@@
 		  
 		  b) What method did you use to solve this problem? How is your method similar to a method learned in Grade 9 or 10?
@@ -26,7 +26,7 @@ alias:: MCV4U 5-3, CV5-3
 		  logseq.order-list-type:: number
 		  $$\begin{cases} x=-1+3t \\ y=1+4t \\ z=-2t \end{cases}$$
 		  $$\begin{cases} x=-1+2k \\ y=3-k \\ z=-8+k \end{cases}$$
-		  Solution: {{cloze}}
+		  Solution: {{cloze This system, using substitution, gives us more than enough equations to get t and k. If we use }}
 		  @@html: <br><br><br>@@
 	- ## Consolidation
 		- Create the vector or parametric equations for two parallel, but not ==[[coincident]]==, lines in $$\R^3$$. If you try to solve this system for its ==[parameters]([[parameter]])==, what happens? Will this always happen for two parallel lines?
