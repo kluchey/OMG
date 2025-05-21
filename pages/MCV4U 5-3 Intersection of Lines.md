@@ -7,7 +7,7 @@ alias:: MCV4U 5-3, CV5-3
 		  @@html: <br><br><br>@@
 		- Now imagine two lines in 3D. How many *different* ways can two lines interact in 3D? Sketch all possible interactions. Click to see solution {{cloze}}.
 		  @@html: <br><br><br>@@
-		- In Grade 9 and 10, what was your strategy to calculate the Point of Intersection of
+		- In Grade 9 and 10, what was your strategy to calculate the Point of Intersection for a system of linear equations such as $$\begin{cases}\end$$
 	- ## Action
 	- ## Consolidation
 	- ## Review
