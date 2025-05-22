@@ -21,7 +21,8 @@
 		  $$\begin{cases} L_3: & \{ x=1-k, 2y=k+1, z=2-2k \} \\ L_4: & \langle \frac{1}{2},\frac{3}{4},1 \rangle +t\langle 2,-1,4 \rangle \end{cases}$$
 	- Topic:  Making decisions with an ambiguous problem.
 	  logseq.order-list-type:: number
-		- Find the intersection (if any) of the following two lines, if they do not intersect, state whether they are skew or parallel. $\R^3$. $t,k\in\R$
+		- Find the intersection (if any) of the following two lines in $\R^3$, if they do not intersect, state whether they are skew or parallel. $t,k\in\R$
 		  logseq.order-list-type:: number
 		  $$\begin{cases} L_1: & \frac{x-1}{2}=\frac{y+2}{-1}=\frac{z-2}{4} \\ L_2: & \vec{r}(t)=\langle 3,0,-2 \rangle +t\langle -2,-1,6 \rangle \end{cases}$$
+		- logseq.order-list-type:: number
 -
