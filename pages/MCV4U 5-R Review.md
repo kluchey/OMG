@@ -14,7 +14,9 @@
 				  &= \begin{bmatrix} -4 - 3 \\ 5 - (-1) \\ -9 - 5 \end{bmatrix}  \\
 				  &= \begin{bmatrix} -7 \\ 6 \\ -14 \end{bmatrix} 
 				  \end{align*}$$
-				- The position vector $\vec{P}$ can be any point on the line, including $A$ or $B$ so without loss of generality we let $\vec{P}=A=(3,-1,5)$. We need a parameter, so let $t\in\R$.
+				- The position vector $\vec{P}$ can be any point on the line, including $A$ or $B$ so without loss of generality we let $\vec{P}=A=(3,-1,5)$.
+				  logseq.order-list-type:: number
+				- We need a parameter, so let $t\in\R$.
 				  logseq.order-list-type:: number
 				- Therefore a vector equation is:
 				  logseq.order-list-type:: number
