@@ -5,8 +5,8 @@
   "elements": [
     {
       "type": "arrow",
-      "version": 165,
-      "versionNonce": 1170103206,
+      "version": 272,
+      "versionNonce": 393697146,
       "isDeleted": false,
       "id": "cvV-0gaZt6xVFAhPnvbYR",
       "fillStyle": "hachure",
@@ -15,12 +15,12 @@
       "roughness": 1,
       "opacity": 100,
       "angle": 0,
-      "x": 208.875,
-      "y": 338.712890625,
+      "x": 208.13790838839134,
+      "y": 337.788599306844,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
-      "width": 424.25,
-      "height": 66.75,
+      "width": 509.3323693074253,
+      "height": 87.23086092094383,
       "seed": 664147576,
       "groupIds": [],
       "frameId": null,
@@ -28,7 +28,7 @@
         "type": 2
       },
       "boundElements": [],
-      "updated": 1747941435785,
+      "updated": 1747941522427,
       "link": null,
       "locked": false,
       "startBinding": {
@@ -36,7 +36,11 @@
         "focus": -0.5475415149992724,
         "gap": 12.434227068016042
       },
-      "endBinding": null,
+      "endBinding": {
+        "elementId": "zSB4ULvXRevHXxz_DPVLB",
+        "focus": 0.33956864013613447,
+        "gap": 9.197895982782214
+      },
       "lastCommittedPoint": null,
       "startArrowhead": null,
       "endArrowhead": "arrow",
@@ -46,15 +50,15 @@
           0
         ],
         [
-          424.25,
-          -66.75
+          509.3323693074253,
+          -87.23086092094383
         ]
       ]
     },
     {
       "type": "arrow",
-      "version": 275,
-      "versionNonce": 793146746,
+      "version": 429,
+      "versionNonce": 395264250,
       "isDeleted": false,
       "id": "MphmDySgKkBBso1POdK9R",
       "fillStyle": "hachure",
@@ -63,12 +67,12 @@
       "roughness": 1,
       "opacity": 100,
       "angle": 0,
-      "x": 582.8129398514511,
-      "y": 346.6303465015246,
+      "x": 717.5065742337996,
+      "y": 305.3146361032274,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
-      "width": 351.1175339141146,
-      "height": 59.7094920680413,
+      "width": 488.33664321902233,
+      "height": 80.24096583668802,
       "seed": 798542600,
       "groupIds": [],
       "frameId": null,
@@ -76,14 +80,18 @@
         "type": 2
       },
       "boundElements": [],
-      "updated": 1747941468084,
+      "updated": 1747941522428,
       "link": null,
       "locked": false,
-      "startBinding": null,
+      "startBinding": {
+        "elementId": "zSB4ULvXRevHXxz_DPVLB",
+        "focus": -0.4474048461456793,
+        "gap": 20.822412108027436
+      },
       "endBinding": {
         "elementId": "9et_D2dG8_ShTj7MWkXvN",
-        "focus": 0.4825603231777708,
-        "gap": 20.203152159470378
+        "focus": 0.17394916632413385,
+        "gap": 15.70127885599095
       },
       "lastCommittedPoint": null,
       "startArrowhead": null,
@@ -94,19 +102,19 @@
           0
         ],
         [
-          -351.1175339141146,
-          59.7094920680413
+          -488.33664321902233,
+          80.24096583668802
         ]
       ]
     },
     {
       "id": "AuGh3D9-g20YZEHbBM7mG",
       "type": "text",
-      "x": 224.99999999999997,
-      "y": 256.0703125,
-      "width": 368.71492126464847,
+      "x": 203.32505943989779,
+      "y": 254.63344263768127,
+      "width": 503.03363037109375,
       "height": 24.499999999999993,
-      "angle": 6.181807122676922,
+      "angle": 6.1237376075348555,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
       "fillStyle": "hachure",
@@ -118,21 +126,21 @@
       "frameId": null,
       "roundness": null,
       "seed": 200797498,
-      "version": 270,
-      "versionNonce": 1772784550,
+      "version": 372,
+      "versionNonce": 358293946,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1747941421668,
+      "updated": 1747941520038,
       "link": null,
       "locked": false,
-      "text": "Use vectors d and P, place into form.",
+      "text": "Determine vectors d and P, place into general form.",
       "fontSize": 19.599999999999994,
       "fontFamily": 1,
       "textAlign": "left",
       "verticalAlign": "top",
       "baseline": 17,
       "containerId": null,
-      "originalText": "Use vectors d and P, place into form.",
+      "originalText": "Determine vectors d and P, place into general form.",
       "lineHeight": 1.25
     },
     {
@@ -215,8 +223,8 @@
     },
     {
       "type": "ellipse",
-      "version": 298,
-      "versionNonce": 1945509050,
+      "version": 411,
+      "versionNonce": 309577018,
       "isDeleted": false,
       "id": "zSB4ULvXRevHXxz_DPVLB",
       "fillStyle": "hachure",
@@ -225,8 +233,8 @@
       "roughness": 1,
       "opacity": 100,
       "angle": 0,
-      "x": 620,
-      "y": 339.3203125,
+      "x": 726,
+      "y": 191.3203125,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
       "width": 145,
@@ -241,16 +249,24 @@
         {
           "type": "text",
           "id": "sxvp4_hti0CEISX1bIJzn"
+        },
+        {
+          "id": "cvV-0gaZt6xVFAhPnvbYR",
+          "type": "arrow"
+        },
+        {
+          "id": "MphmDySgKkBBso1POdK9R",
+          "type": "arrow"
         }
       ],
-      "updated": 1747941468083,
+      "updated": 1747941522426,
       "link": null,
       "locked": false
     },
     {
       "type": "text",
-      "version": 241,
-      "versionNonce": 735129914,
+      "version": 352,
+      "versionNonce": 1895501306,
       "isDeleted": false,
       "id": "sxvp4_hti0CEISX1bIJzn",
       "fillStyle": "hachure",
@@ -259,8 +275,8 @@
       "roughness": 1,
       "opacity": 100,
       "angle": 0,
-      "x": 646.6748065817487,
-      "y": 383.60316790283156,
+      "x": 752.6748065817487,
+      "y": 235.60316790283156,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
       "width": 92.11990356445312,
@@ -270,7 +286,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1747941465283,
+      "updated": 1747941522426,
       "link": null,
       "locked": false,
       "fontSize": 20,
