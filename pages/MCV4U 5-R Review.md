@@ -5,3 +5,6 @@
 		  logseq.order-list-type:: number
 		- Complete this relational graph for the various forms of a line in $\R^3$ by annotating the arrows. Note:  Arrows are a short few words to describe the **process(es)** or **step(s) you perform** to go between forms in a specific direction.
 		  logseq.order-list-type:: number
+		  ![image.png](../assets/image_1747928145065_0.png){:height 350, :width 442}
+		- Why is there no scalar equation for a line in $\R^3$? Can you draw a diagram to explain what problems you
+		  logseq.order-list-type:: number
