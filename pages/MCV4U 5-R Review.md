@@ -38,5 +38,5 @@
 		  logseq.order-list-type:: number
 		- Suppose A is on line 1 and B is on line 2. Find the coordinates of A and B such that $\vec{AB}$ is perpendicular to both lines. $t,k\in\R$
 		  logseq.order-list-type:: number
-		  $$\begin{cases} L_1: & (x,y,z) = \langle 0,17,-10 \rangle +k\langle 2,0,1 \rangle \\ L_2: & (x,y,z)=\langle 13,30,19 \rangle +t\langle -1,2,5 \rangle \end{cases}$$
+		  $$\begin{cases} L_1: & \langle x,y,z \rangle = \langle 0,17,-10 \rangle +k\langle 2,0,1 \rangle \\ L_2: & \langle x,y,z \rangle =\langle 13,30,19 \rangle +t\langle 5,6,5 \rangle \end{cases}$$
 		  ---
