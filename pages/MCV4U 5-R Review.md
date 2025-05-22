@@ -11,16 +11,17 @@
 		  ---
 	- Topic:  Points of Intersection in 3D
 	  logseq.order-list-type:: number
-		- Determine the point of intersection for the following system of equations in $\R^3$.
+		- Determine the point of intersection for the following system of equations in $\R^3$. $\R^3$. $t,k\in\R$
 		  logseq.order-list-type:: number
 		  $$\begin{cases} L_1: & \frac{x-1}{2}=\frac{y+2}{-1}=\frac{z-2}{4} \\ L_2: & \vec{r}(t)=\langle 3,0,-2 \rangle +t\langle -2,-1,6 \rangle \end{cases}$$
 		- In his handout, Mr. Cluchey messed up and wrote $\langle -2,-1,-6 \rangle$, introducing an extra negative. Does this new, erroneous system still have a point of intersection or is it skew?
 		  logseq.order-list-type:: number
-		- Determine the point of intersection for the following system of equations in $\R^3$. $$
+		- Determine the point of intersection for the following system of equations in $\R^3$. $t,k\in\R$
 		  logseq.order-list-type:: number
-		  $$\begin{cases} L_3: & \{ x=1-k, 2y=k+1, z=2-2k \} & \text{for }k\in\R \\ L_4: & \langle \frac{1}{2},\frac{3}{4},1 \rangle +t\langle 2,-1,4 \rangle & t\in\R \end{cases}$$
+		  $$\begin{cases} L_3: & \{ x=1-k, 2y=k+1, z=2-2k \} \\ L_4: & \langle \frac{1}{2},\frac{3}{4},1 \rangle +t\langle 2,-1,4 \rangle \end{cases}$$
 	- Topic:  Making decisions with an ambiguous problem.
 	  logseq.order-list-type:: number
-		- Find the intersection (if any) of the following two lines, if they do not intersect, state whether they are skew or parallel.
+		- Find the intersection (if any) of the following two lines, if they do not intersect, state whether they are skew or parallel. $\R^3$. $t,k\in\R$
 		  logseq.order-list-type:: number
+		  $$\begin{cases} L_1: & \frac{x-1}{2}=\frac{y+2}{-1}=\frac{z-2}{4} \\ L_2: & \vec{r}(t)=\langle 3,0,-2 \rangle +t\langle -2,-1,6 \rangle \end{cases}$$
 -
