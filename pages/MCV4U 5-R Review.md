@@ -19,7 +19,7 @@
 				- Therefore a vector equation is:
 				  logseq.order-list-type:: number
 				  $$\vec{v}=(3,-1,5) + t(-7,6,-14)$$
-				  This solution is not unique.
+				  This solution is not ==[[unique]]==.
 		- Complete this relational graph for the various forms of a line in $\R^3$ by annotating the arrows. Note:  Arrows are a short few words to describe the **process(es)** or **step(s) you perform** to go between forms in a specific direction.
 		  logseq.order-list-type:: number
 		  ![image.png](../assets/image_1747928145065_0.png){:height 350, :width 442}

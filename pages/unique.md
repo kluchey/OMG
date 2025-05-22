@@ -1,0 +1,1 @@
+- #definition In math, unique means there is only one of this object. #eg Fractions are not unique, since $\frac{3}{6}=\frac{2}{4}=\frac{}
