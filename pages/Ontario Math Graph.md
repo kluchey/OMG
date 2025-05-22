@@ -30,7 +30,7 @@ icon:: 🍎
 	  CLOCK: [2025-05-20 Tue 13:07:54]--[2025-05-20 Tue 13:11:46] =>  00:03:52
 	  :END:
 	- TODO Add more games.
-	- TODO Add more crypographic puzzles to autocorrect solutions practice.
+	- TODO Add more cryptographic puzzles to autocorrect solutions practice.
 	- ---
 - ### Want to Contribute?
 	- This is a free and open source effort hosted on [Github](https://github.com/kluchey/OMG), crafted using [Logseq](https://logseq.com/), and published via [Logseq-SPA](https://github.com/logseq/publish-spa).
