@@ -13,5 +13,6 @@
 	  logseq.order-list-type:: number
 		- Determine the point of intersection for the following system of equations in $\R^3$.
 		  logseq.order-list-type:: number
-		  $$\begin{cases} L_1: & \frac{x-1}{2}=\frac{y+2}{-1}=\frac{z-2}{4} \\ L2: & \vec{r}(t)=\langle 3,0,-2>+t<-2,-1,6> \end{cases}$$
-		- logseq.order-list-type:: number
+		  $$\begin{cases} L_1: & \frac{x-1}{2}=\frac{y+2}{-1}=\frac{z-2}{4} \\ L_2: & \vec{r}(t)=\langle 3,0,-2 \rangle +t\langle -2,-1,6 \rangle \end{cases}$$
+		- In his handout, Mr. Cluchey messed up and wrote
+		  logseq.order-list-type:: number
