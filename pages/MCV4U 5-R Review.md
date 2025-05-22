@@ -9,7 +9,7 @@
 				- Begin by finding the direction of the line, $\vec{d}$. Since the line travels between points $A$ and $B$ we reason that:
 				  logseq.order-list-type:: number
 				  $$\begin{align*}
-				  
+				  \vec{} &= 
 				  \end{align*}$$
 		- Complete this relational graph for the various forms of a line in $\R^3$ by annotating the arrows. Note:  Arrows are a short few words to describe the **process(es)** or **step(s) you perform** to go between forms in a specific direction.
 		  logseq.order-list-type:: number
