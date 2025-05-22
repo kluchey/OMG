@@ -11,5 +11,5 @@
 		  ---
 	- Topic:  Points of Intersection in 3D
 	  logseq.order-list-type:: number
-		- Determine the point of intersection for the following system of equations in ℝ3.
+		- Determine the point of intersection for the following system of equations in $\R^3$.
 		  logseq.order-list-type:: number
