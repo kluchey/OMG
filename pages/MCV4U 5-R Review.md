@@ -14,8 +14,9 @@
 				  &= \begin{bmatrix} -4 - 3 \\ 5 - (-1) \\ -9 - 5 \end{bmatrix}  \\
 				  &= \begin{bmatrix} -7 \\ 6 \\ -14 \end{bmatrix} 
 				  \end{align*}$$
-				- A vector equation:  The position vector $\vec{P}$ can be any point on the line, including $A$ or $B$ so without loss of generality we let $\vec{P}=(3,-1,5)$.  The position vector
+				- A vector equation:  The position vector $\vec{P}$ can be any point on the line, including $A$ or $B$ so without loss of generality we let $\vec{P}=(3,-1,5)$. Also let $t\inR$. Therefore a vector equation is:
 				  logseq.order-list-type:: number
+				  $$\vec{v}=(3,-1,5) + t($$
 		- Complete this relational graph for the various forms of a line in $\R^3$ by annotating the arrows. Note:  Arrows are a short few words to describe the **process(es)** or **step(s) you perform** to go between forms in a specific direction.
 		  logseq.order-list-type:: number
 		  ![image.png](../assets/image_1747928145065_0.png){:height 350, :width 442}
