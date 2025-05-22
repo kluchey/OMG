@@ -191,7 +191,7 @@
       "containerId": "9et_D2dG8_ShTj7MWkXvN",
       "originalText": "Vector Equation",
       "lineHeight": 1.25,
-      "baseline": 31
+      "baseline": 29
     },
     {
       "type": "ellipse",
@@ -277,7 +277,7 @@
       "containerId": "zSB4ULvXRevHXxz_DPVLB",
       "originalText": "Symmetric Equation",
       "lineHeight": 1.25,
-      "baseline": 29
+      "baseline": 27
     },
     {
       "type": "ellipse",
@@ -363,7 +363,7 @@
       "containerId": "ppxn0a74HcCDmn0KSlatI",
       "originalText": "Parametric Equation",
       "lineHeight": 1.25,
-      "baseline": 25
+      "baseline": 23
     },
     {
       "type": "arrow",
@@ -641,7 +641,7 @@
       "containerId": "xx-abw35siERD4xZ0EYbn",
       "originalText": "Determine vectors d and P, sub into general form.",
       "lineHeight": 1.25,
-      "baseline": 25
+      "baseline": 23
     },
     {
       "type": "rectangle",
@@ -711,7 +711,7 @@
       "containerId": "n7xdUhNXa4upbr3hGpdv8",
       "originalText": "Determine vectors d and P, be careful to as P in symmetric form appears opposite. Sub into general form.",
       "lineHeight": 1.25,
-      "baseline": 52
+      "baseline": 51
     },
     {
       "type": "rectangle",
@@ -781,7 +781,7 @@
       "containerId": "aXfydsixbbwAdMMphQWF4",
       "originalText": "Break vectors into components, creating multiple equations.",
       "lineHeight": 1.25,
-      "baseline": 39
+      "baseline": 37
     },
     {
       "type": "rectangle",
@@ -851,7 +851,7 @@
       "containerId": "elL4wxDP2rBKWs3hXCJto",
       "originalText": "Solve for t and set all equations equal to each other.",
       "lineHeight": 1.25,
-      "baseline": 39
+      "baseline": 37
     },
     {
       "type": "rectangle",
@@ -921,7 +921,7 @@
       "containerId": "3N5YziN0C8VpYvQWJLzwh",
       "originalText": "Introduce one parameter, such as t, and set \"t = \" to all symmetric expressions. Then solve for the components x, y, z in equations.",
       "lineHeight": 1.25,
-      "baseline": 80
+      "baseline": 78
     },
     {
       "type": "rectangle",
@@ -991,7 +991,7 @@
       "containerId": "StGP2-LG4SthSEMUkCKaj",
       "originalText": "Combine all components into vectors, noting what the position and the direction vectors are clearly in their own brackets.",
       "lineHeight": 1.25,
-      "baseline": 66
+      "baseline": 65
     }
   ],
   "appState": {
