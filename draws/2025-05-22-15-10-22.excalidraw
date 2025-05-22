@@ -35,57 +35,6 @@
         1,
         1
       ]
-    },
-    {
-      "id": "oGfp3LFv0ZNkY57R2_3Zf",
-      "type": "freedraw",
-      "x": 688.5,
-      "y": 401.5703125,
-      "width": 0.5,
-      "height": 0,
-      "angle": 0,
-      "strokeColor": "#1e1e1e",
-      "backgroundColor": "transparent",
-      "fillStyle": "hachure",
-      "strokeWidth": 1,
-      "strokeStyle": "solid",
-      "roughness": 1,
-      "opacity": 100,
-      "groupIds": [],
-      "frameId": null,
-      "roundness": null,
-      "seed": 631622920,
-      "version": 5,
-      "versionNonce": 1880750712,
-      "isDeleted": false,
-      "boundElements": null,
-      "updated": 1747941098781,
-      "link": null,
-      "locked": false,
-      "points": [
-        [
-          0,
-          0
-        ],
-        [
-          0.5,
-          0
-        ],
-        [
-          0,
-          0
-        ]
-      ],
-      "pressures": [
-        0.427734375,
-        0.181640625,
-        0
-      ],
-      "simulatePressure": false,
-      "lastCommittedPoint": [
-        0.5,
-        0
-      ]
     }
   ],
   "appState": {
