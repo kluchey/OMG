@@ -12,7 +12,8 @@
 				  \vec{d} &= \vec{AB} \\
 				  &= \vec{B} - \vec{A} \\
 				  &= \begin{bmatrix} -4 \\ 5 \\ -9 \end{bmatrix} - \begin{bmatrix} 3 \\ -1 \\ 5 \end{bmatrix} \\
-				  &= (-4-3, )
+				  &= \begin{bmatrix} -4 - 3 \\ 5 - (-1) \\ -9 - 5 \end{bmatrix} 
+				  &= \begin{bmatrix} -7 \\ 6 \\ -14 \end{bmatrix} 
 				  \end{align*}$$
 		- Complete this relational graph for the various forms of a line in $\R^3$ by annotating the arrows. Note:  Arrows are a short few words to describe the **process(es)** or **step(s) you perform** to go between forms in a specific direction.
 		  logseq.order-list-type:: number
