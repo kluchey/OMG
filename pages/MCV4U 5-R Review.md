@@ -24,6 +24,8 @@
 		- Find the intersection (if any) of the following two lines in $\R^3$, if they do not intersect, state whether they are skew or parallel. $t,k\in\R$
 		  logseq.order-list-type:: number
 		  $$\begin{cases} (x,y,z) = \langle 2,14,1 \rangle +t\langle -1,-1,1 \rangle \\ (x,y,z)=\langle 3,-3,0 \rangle +t\langle -1,2,5 \rangle \end{cases}$$
-		- Create a ==[[flowchart]]== to explain th
+		- Create a ==[[flowchart]]== to explain the steps you should take to efficiently write down the solution to \#3a. Hint: {{cloze The first step in your flowchart should be "Check if the two lines are parallel".  Why is this the suggested first step and how do you check?}}
 		  logseq.order-list-type:: number
+		- ---
+		-
 -
