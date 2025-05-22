@@ -8,4 +8,8 @@
 		  ![image.png](../assets/image_1747928145065_0.png){:height 350, :width 442}
 		- Why is there no scalar equation for a line in $\R^3$? Hint:  {{cloze Can you draw a diagram to help you figure out and describe what problems someone would have forming a scalar equation of a line in 3D?}}
 		  logseq.order-list-type:: number
-	- logseq.order-list-type:: number
+		  ---
+	- Topic:  Points of Intersection in 3D
+	  logseq.order-list-type:: number
+		- Determine the point of intersection for the following system of equations in ℝ3.
+		  logseq.order-list-type:: number
