@@ -27,6 +27,8 @@
 		- Create a ==[[flowchart]]== to explain the steps you should take to efficiently write down the solution to \#3a. Hint: {{cloze The first step in your flowchart should be "Check if the two lines are parallel".  Why is this the suggested first step and how do you check?}}
 		  logseq.order-list-type:: number
 		- ---
-	- Find the vector equation of the line parallel to $7-x=\frac{y+5}{3}=\frac{z+26}{}$
+	- Find the vector equation of the line parallel to $7-x=\frac{y+5}{3}=\frac{z+26}{2}$
 	  logseq.order-list-type:: number
+	  ---
+	- logseq.order-list-type:: number
 -
