@@ -18,3 +18,5 @@
 		  logseq.order-list-type:: number
 		- Determine the point of intersection for the following system of equations in $\R^3$.
 		  logseq.order-list-type:: number
+		  $$\begin{cases} L_3: & \frac{x-1}{2}=\frac{y+2}{-1}=\frac{z-2}{4} \\ L_4: & \langle \frac{1}{2},\frac{3}{4},1 \rangle +t\langle 2,-1,4 \rangle \end{cases}$$
+-
