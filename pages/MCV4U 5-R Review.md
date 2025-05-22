@@ -36,6 +36,6 @@
 		  logseq.order-list-type:: number
 		- Find the equation of the line which has a direction vector perpendicular to the xy-plane and passing through the origin. This line has another name, what is it?
 		  logseq.order-list-type:: number
-		- Suppose A is on line 1 and B is on line 2. Find the coordinates of A and B such that AB is perpendicular to both lines.
+		- Suppose A is on line 1 and B is on line 2. Find the coordinates of A and B such that $\vec{AB}$ is perpendicular to both lines.
 		  logseq.order-list-type:: number
 -
