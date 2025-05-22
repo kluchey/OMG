@@ -13,3 +13,5 @@
 	  logseq.order-list-type:: number
 		- Determine the point of intersection for the following system of equations in $\R^3$.
 		  logseq.order-list-type:: number
+		  $$\begin{cases} L_1: \frac{x-1}{2}=\frac{x-1}{2} \end{cases}$$
+		- logseq.order-list-type:: number
