@@ -14,5 +14,7 @@
 		- Determine the point of intersection for the following system of equations in $\R^3$.
 		  logseq.order-list-type:: number
 		  $$\begin{cases} L_1: & \frac{x-1}{2}=\frac{y+2}{-1}=\frac{z-2}{4} \\ L_2: & \vec{r}(t)=\langle 3,0,-2 \rangle +t\langle -2,-1,6 \rangle \end{cases}$$
-		- In his handout, Mr. Cluchey messed up and wrote
+		- In his handout, Mr. Cluchey messed up and wrote $\langle -2,-1,-6 \rangle$, introducing an extra negative. Does this new, erroneous system still have a point of intersection or is it skew?
+		  logseq.order-list-type:: number
+		- Determine the point of intersection for the following system of equations in $\R^3$.
 		  logseq.order-list-type:: number
