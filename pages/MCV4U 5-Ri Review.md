@@ -5,6 +5,7 @@
 		  logseq.order-list-type:: number
 			- *Solution*.
 			  collapsed:: true
+			  ---
 				- Begin by finding the direction of the line, $\vec{d}$. Since the line travels between points $A$ and $B$ we reason that:
 				  logseq.order-list-type:: number
 				  $$\begin{align*}
@@ -27,12 +28,15 @@
 		  ![image.png](../assets/image_1747928145065_0.png){:height 350, :width 442}
 			- *Solution*.
 			  collapsed:: true
+			  ---
 				- ![image.png](../assets/image_1747960022652_0.png){:height 583, :width 728}
 				  logseq.order-list-type:: number
 				  <!-- [[draws/2025-05-22-15-10-22.excalidraw]] -->
 		- Why is there no scalar equation for a line in $\R^3$? Hint:  {{cloze Can you draw a diagram to help you figure out and describe what problems someone would have forming a scalar equation of a line in 3D?}}
 		  logseq.order-list-type:: number
-		  ---
+			- *Solution*.
+			  ---
+				- logseq.order-list-type:: number
 	- Topic:  Points of Intersection in 3D
 	  logseq.order-list-type:: number
 		- Determine if there is a point of intersection for the following system of equations in $\R^3$. $t,k\in\R$
