@@ -135,13 +135,16 @@
 		- Create a ==[[flowchart]]== to explain the steps you should take to efficiently write down the solution to \#3a. Hint: {{cloze The first step in your flowchart should be "Check if the two lines are parallel".  Why is this the suggested first step and how do you check?}}
 		  logseq.order-list-type:: number
 		- ---
-	- Find the vector equation of the line parallel to $7-x=\frac{y+5}{3}=\frac{z+26}{2}$
+	- Find the vector equation of the line parallel to $7-x=\frac{y+5}{3}=\frac{z+26}{2}$.
 	  logseq.order-list-type:: number
 	  ---
 	- Thinking & Application
 	  logseq.order-list-type:: number
 		- What do we know about the coordinates of every vector located on the xz-plane?
 		  logseq.order-list-type:: number
+			- *Solution*.
+			  logseq.order-list-type:: number
+				- logseq.order-list-type:: number
 		- Find the equation of the line which has a direction vector perpendicular to the xy-plane and passing through the origin. This line has another name, what is it?
 		  logseq.order-list-type:: number
 		- Suppose A is on line 1 and B is on line 2. Find the coordinates of A and B such that $\vec{AB}$ is perpendicular to both lines. $t,k\in\R$
