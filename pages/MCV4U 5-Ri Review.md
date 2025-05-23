@@ -36,7 +36,8 @@
 		  logseq.order-list-type:: number
 			- *Solution*.
 			  ---
-				- logseq.order-list-type:: number
+				- There is not one ==[[normal]]== vector that can define a line, instead there are multiple in many different directions. This does not lend well to an equation which needs to produce points consistently on a line
+				  logseq.order-list-type:: number
 	- Topic:  Points of Intersection in 3D
 	  logseq.order-list-type:: number
 		- Determine if there is a point of intersection for the following system of equations in $\R^3$. $t,k\in\R$
