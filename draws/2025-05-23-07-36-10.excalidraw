@@ -112,11 +112,16 @@
         "type": 2
       },
       "seed": 1734066507,
-      "version": 135,
-      "versionNonce": 372313541,
+      "version": 137,
+      "versionNonce": 779474341,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1748000253363,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "R5WfltAhnWO1bCQKJs2rg"
+        }
+      ],
+      "updated": 1748000356897,
       "link": null,
       "locked": false,
       "points": [
@@ -134,6 +139,42 @@
       "endBinding": null,
       "startArrowhead": null,
       "endArrowhead": "arrow"
+    },
+    {
+      "id": "R5WfltAhnWO1bCQKJs2rg",
+      "type": "text",
+      "x": 347.3500442504883,
+      "y": 261.2578125,
+      "width": 92.29991149902344,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 1047189835,
+      "version": 17,
+      "versionNonce": 1954604613,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1748000351651,
+      "link": null,
+      "locked": false,
+      "text": "resultant",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "baseline": 18,
+      "containerId": "388LRQttwuPlxjpcptTGk",
+      "originalText": "resultant",
+      "lineHeight": 1.25
     },
     {
       "id": "jCwedzWN3-uXUqpuAdK7G",
@@ -156,11 +197,16 @@
         "type": 2
       },
       "seed": 112528677,
-      "version": 56,
-      "versionNonce": 620274443,
+      "version": 58,
+      "versionNonce": 1862723243,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1748000305567,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "rvsOCfsKA0IJ87bcCzanW"
+        }
+      ],
+      "updated": 1748000345204,
       "link": null,
       "locked": false,
       "points": [
@@ -178,6 +224,42 @@
       "endBinding": null,
       "startArrowhead": null,
       "endArrowhead": "arrow"
+    },
+    {
+      "id": "rvsOCfsKA0IJ87bcCzanW",
+      "type": "text",
+      "x": 396.88002014160156,
+      "y": 313.2578125,
+      "width": 48.739959716796875,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#f08c00",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 2124039269,
+      "version": 9,
+      "versionNonce": 577839115,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1748000343771,
+      "link": null,
+      "locked": false,
+      "text": "plane",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "baseline": 18,
+      "containerId": "jCwedzWN3-uXUqpuAdK7G",
+      "originalText": "plane",
+      "lineHeight": 1.25
     },
     {
       "id": "ktQEePlT9ktGypYIGkB0A",
@@ -262,6 +344,418 @@
       "baseline": 18,
       "containerId": "ktQEePlT9ktGypYIGkB0A",
       "originalText": "wind",
+      "lineHeight": 1.25
+    },
+    {
+      "id": "QY0DbPhBiFcCYX8D90a7J",
+      "type": "freedraw",
+      "x": 346,
+      "y": 216.2578125,
+      "width": 67.5,
+      "height": 14,
+      "angle": 0,
+      "strokeColor": "#2f9e44",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 1960043979,
+      "version": 69,
+      "versionNonce": 851052165,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1748000366873,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          1.5,
+          0
+        ],
+        [
+          2,
+          -0.5
+        ],
+        [
+          3.5,
+          -0.5
+        ],
+        [
+          4.5,
+          -0.5
+        ],
+        [
+          5,
+          -1
+        ],
+        [
+          6,
+          -1
+        ],
+        [
+          7.5,
+          -1
+        ],
+        [
+          11.5,
+          -1
+        ],
+        [
+          12,
+          -1
+        ],
+        [
+          13,
+          -1
+        ],
+        [
+          14,
+          -1
+        ],
+        [
+          15,
+          -1
+        ],
+        [
+          16,
+          -0.5
+        ],
+        [
+          16.5,
+          -0.5
+        ],
+        [
+          17.5,
+          -0.5
+        ],
+        [
+          20,
+          0
+        ],
+        [
+          20.5,
+          0
+        ],
+        [
+          21,
+          0
+        ],
+        [
+          23,
+          0
+        ],
+        [
+          25.5,
+          0
+        ],
+        [
+          27,
+          0.5
+        ],
+        [
+          28.5,
+          0
+        ],
+        [
+          30,
+          0
+        ],
+        [
+          32.5,
+          1
+        ],
+        [
+          33,
+          1.5
+        ],
+        [
+          33.5,
+          2
+        ],
+        [
+          34.5,
+          2.5
+        ],
+        [
+          36,
+          4
+        ],
+        [
+          37,
+          4
+        ],
+        [
+          37.5,
+          4
+        ],
+        [
+          38.5,
+          4
+        ],
+        [
+          39.5,
+          4
+        ],
+        [
+          40.5,
+          4.5
+        ],
+        [
+          41,
+          4.5
+        ],
+        [
+          41.5,
+          4.5
+        ],
+        [
+          42,
+          5
+        ],
+        [
+          42.5,
+          5
+        ],
+        [
+          43.5,
+          5.5
+        ],
+        [
+          45.5,
+          5.5
+        ],
+        [
+          46.5,
+          6
+        ],
+        [
+          47,
+          6
+        ],
+        [
+          49.5,
+          7
+        ],
+        [
+          50.5,
+          7
+        ],
+        [
+          51,
+          7.5
+        ],
+        [
+          51.5,
+          7.5
+        ],
+        [
+          53,
+          8.5
+        ],
+        [
+          53.5,
+          8.5
+        ],
+        [
+          54.5,
+          9.5
+        ],
+        [
+          55,
+          9.5
+        ],
+        [
+          55.5,
+          9.5
+        ],
+        [
+          56,
+          9.5
+        ],
+        [
+          57,
+          10
+        ],
+        [
+          57.5,
+          10
+        ],
+        [
+          58,
+          10.5
+        ],
+        [
+          59,
+          11
+        ],
+        [
+          60,
+          11.5
+        ],
+        [
+          60.5,
+          11.5
+        ],
+        [
+          61,
+          12
+        ],
+        [
+          61.5,
+          12
+        ],
+        [
+          63,
+          12.5
+        ],
+        [
+          64,
+          12.5
+        ],
+        [
+          64.5,
+          12.5
+        ],
+        [
+          64.5,
+          13
+        ],
+        [
+          65.5,
+          13
+        ],
+        [
+          66,
+          13
+        ],
+        [
+          67.5,
+          13
+        ],
+        [
+          67.5,
+          13
+        ]
+      ],
+      "pressures": [
+        0.02734375,
+        0.142578125,
+        0.1630859375,
+        0.2041015625,
+        0.2216796875,
+        0.2353515625,
+        0.2451171875,
+        0.2451171875,
+        0.2939453125,
+        0.2880859375,
+        0.291015625,
+        0.3037109375,
+        0.3251953125,
+        0.3291015625,
+        0.3310546875,
+        0.3330078125,
+        0.3330078125,
+        0.3349609375,
+        0.33984375,
+        0.3564453125,
+        0.369140625,
+        0.369140625,
+        0.369140625,
+        0.373046875,
+        0.384765625,
+        0.388671875,
+        0.3857421875,
+        0.3857421875,
+        0.39453125,
+        0.3984375,
+        0.4013671875,
+        0.4091796875,
+        0.4111328125,
+        0.4111328125,
+        0.4150390625,
+        0.4169921875,
+        0.423828125,
+        0.4267578125,
+        0.4287109375,
+        0.4306640625,
+        0.435546875,
+        0.4375,
+        0.4375,
+        0.4375,
+        0.439453125,
+        0.44140625,
+        0.44140625,
+        0.44140625,
+        0.4404296875,
+        0.4404296875,
+        0.4404296875,
+        0.4384765625,
+        0.4384765625,
+        0.4384765625,
+        0.4384765625,
+        0.4384765625,
+        0.4384765625,
+        0.4384765625,
+        0.4384765625,
+        0.4384765625,
+        0.4384765625,
+        0.4384765625,
+        0.4384765625,
+        0.4384765625,
+        0.4384765625,
+        0.4384765625,
+        0.3515625,
+        0
+      ],
+      "simulatePressure": false,
+      "lastCommittedPoint": [
+        67.5,
+        13
+      ]
+    },
+    {
+      "id": "8q8ufiN2q55gSroQ35MbL",
+      "type": "text",
+      "x": 364,
+      "y": 176.7578125,
+      "width": 127.71992492675781,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#2f9e44",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 270077675,
+      "version": 14,
+      "versionNonce": 366233893,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1748000385606,
+      "link": null,
+      "locked": false,
+      "text": "N8$^\\circ$E",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 18,
+      "containerId": null,
+      "originalText": "N8$^\\circ$E",
       "lineHeight": 1.25
     }
   ],
