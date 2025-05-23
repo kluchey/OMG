@@ -3,6 +3,7 @@
 	- ## Science Says...
 	- ## Examples
 	- ## Pro-tips
-		- Always get a good night's sleep before a test.
+		- Always get a good night's sleep before a test. Always eat breakfast the morning of a test day.
 		- Always keep a calendar and know when the next test will be so you can prepare days before you write it.
+		- Always practice wit
 		-
