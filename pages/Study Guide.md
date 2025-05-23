@@ -5,18 +5,18 @@
 			- During REM sleep your brain will throw away the information reviewed by re-reading and highlighting because this information is noisy [^1].
 			- You need to perform other activities while re-reading, such as forced recall and focused practice.
 	- ## Science Says...
-		- Spaced Repition [^1]
+		- ### Spaced Repition [^1]
 			- Practice over multiple days to really remember a topic. Repeat concepts you feel confident about **and** concepts that are brand new, easily forgotten, or are challenging.
 			- Continue to practice questions from previous units, especially in a subject like math where later units build upon earlier units.
-		- Forced Recall [^1]
+		- ### Forced Recall [^1]
 			- Take at least 2 minutes each day to perform the activity:
 				- >>Write down everything you know about $x$ topics need to be remembered or understood.
 			- The act of forcing yourself to remember or recall a concept actually stores a memory in your brain for longer. Think of this task like **strengthening** the connections your brain is forming to remember or understand concepts.
-		- Focused Practice [^1]
+		- ### Focused Practice [^1]
 			- Select questions to practice and complete from start to finish with your best abilities shown in knowledge, thinking, communication, and application.
-		- REM Sleep
+		- #### REM Sleep
 			- A sleep of at least 6-8 hours every night is required by teenagers to get enough REM sleep where your brain stores its most important information for long-term and trashes the unnecessary information.
-		- Memory Palace Technique [^1]
+		- #### Memory Palace Technique [^1]
 			- Humans evolved to remember locations to hunt, gather, and seek safety; text and algebra are not immediately connected to locations but these connections can be made!
 				- Algebra is related to graphing & geometry. Graphing and geometry both describe physical movements or measurements which can be repeated with your hands, feet, or with objects in space. You can do better at remembering and understanding algebra by using ==[[spacial reasoning]]==.
 				- A sillier but very legitimate method to remember a lot of information and quickly is to place that information around locations you visit often, such as your house or your room.
@@ -25,7 +25,7 @@
 					- You slouch on an angle $m$ where you can measure the change in your height $\Delta y$ per change in your seat $\Delta x$, so your slouch is $m=\frac{\Delta y}{\Delta x}=\frac{rise}{run}$.
 					- Can you picture that more easily than the formulas alone?
 	- ## Examples
-		- After school routine:
+		- #### After school routine:
 			- At a minimum, take 2 minutes each evening to do the forced recall activity:
 				- >>Write down everything you know about $x$ topics need to be remembered or understood.
 			- Then, take at least 2 minutes to complete some focused practice:
