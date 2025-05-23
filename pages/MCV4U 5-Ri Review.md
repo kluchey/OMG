@@ -144,9 +144,9 @@
 				- Set $x$, $y$, and $z$ equal to each other.
 				  logseq.order-list-type:: number
 				  $$\begin{align}
-				  3 + s &= −7 + 3t \\
-				  −7 − 2s &= −8 + t \\
-				  5 + 4s &= 4 − t
+				  3 + k &= −7 + 3t \\
+				  −7 − 2k &= −8 + t \\
+				  5 + 4k &= 4 − t
 				  \end{align}$$
 				- Add (2)+(3):
 				  logseq.order-list-type:: number
@@ -157,9 +157,11 @@
 				- Substitute $s=-1$ into (2):
 				  logseq.order-list-type:: number
 				  $$\begin{align*}
-				  − 2 + 2s &= −4 \\
-				  s &= −1
+				  − 7 − 2(−1) &= −8 + t \\
+				  t &= 3
 				  \end{align*}$$
+				- Let's check that $s = -1$
+				  logseq.order-list-type:: number
 	- Topic:  Making decisions with an ambiguous problem.
 	  logseq.order-list-type:: number
 		- Find the intersection (if any) of the following two lines in $\R^3$, if they do not intersect, state whether they are skew or parallel. $t,k\in\R$
