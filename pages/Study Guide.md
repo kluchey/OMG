@@ -17,7 +17,7 @@
 		- REM Sleep
 			- A sleep of at least 6-8 hours every night is required by teenagers to get enough REM sleep where your brain stores its most important information for long-term and trashes the unnecessary information.
 		- Memory Palace Technique
-			-
+			- Humans evolved to remember locations to hunt, gather, and seek safety; text and algebra are not immediately related to location
 	- ## Examples
 		- After school routine:
 			- At a
