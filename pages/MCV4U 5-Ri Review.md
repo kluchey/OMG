@@ -141,6 +141,8 @@
 		  $$L_5:  \begin{cases} x=3+k \\ y=-7-2k \\ z=5+4k \end{cases} \text{ and } L_6:  \begin{cases} x=-7+3t \\ y=-8+t \\ z=4-k \end{cases}$$
 			- *Solution*.
 			  ---
+				- Let's first notice that the direction vectors are not scalar multiples of one another, so this system is not parallel or coincident.
+				  logseq.order-list-type:: number
 				- Set $x$, $y$, and $z$ equal to each other.
 				  logseq.order-list-type:: number
 				  $$\begin{align}
@@ -160,8 +162,9 @@
 				  − 7 − 2(−1) &= −8 + t \\
 				  t &= 3
 				  \end{align*}$$
-				- Let's use $k = -1$ and $t=3$ to get the point of intersection from both $L_5$ and $L
+				- Let's use $k = -1$ and $t=3$ to get the point of intersection from both $L_5$ and $L_6$. If they points match, then this system is not skew.
 				  logseq.order-list-type:: number
+				- logseq.order-list-type:: number
 	- Topic:  Making decisions with an ambiguous problem.
 	  logseq.order-list-type:: number
 		- Find the intersection (if any) of the following two lines in $\R^3$, if they do not intersect, state whether they are skew or parallel. $t,k\in\R$
