@@ -163,7 +163,7 @@
 				  − 7 − 2(−1) &= −8 + t \\
 				  t &= 3
 				  \end{align*}$$
-				- Let's use $k = -1$ and $t=3$ to get the point of intersection from both $L_5$ and $L_6$. If they points match, then this system is not skew.
+				- Let's use $k = -1$ and $t=3$ to get the point of intersection from both $L_5$ and $L_6$. If the points match, then this system is not skew.
 				  logseq.order-list-type:: number
 				  $$L_5:  \begin{cases} x &=3-1 &= 2 \\ y &=-7-2(-1) &= -5 \\ z &=5+4(-1) &=1 \end{cases} $$
 				  $$L_6:  \begin{cases} x&=-7+3(3)&=2 \\ y&=-8+(3)&=-5 \\ z&=4-(3)&=1 \end{cases}$$
