@@ -1,7 +1,7 @@
 # How should I Study Mathematics in High School? A Guide
 	- ## Avoid Illusions of Knowing
 		- Cramming can produce short-term gains but these gains will be lost in the long-term [^1], leading to the very common feeling of "hitting a wall you can't climb up" at some future, tougher point in a course or in a future school.
-		- Re-reading and highlighting *feel* like they produce results but actually produce very little memorization or understanding.
+		- Re-reading and highlighting *feel* like they produce results but actually produce very little memorization or understanding [].
 			- During REM sleep your brain will throw away the information reviewed by re-reading and highlighting because this information is noisy.
 			- You need to perform other activities while re-reading, such as forced recall and focused practice.
 	- ## Science Says...
@@ -33,7 +33,7 @@
 				- In math class, usually we do more focused practice than just 2 minutes and most questions require more than 2 minutes to write down.
 			- Then, take 2 minutes to consolidate:
 				- >> What didn't you know in your practice? What do you need to know after today? Add these findings to your forced recall activity.
-			- Repeat this routine every day and build out a
+			- Repeat this routine every day to keep building on top of the knowledge you remembered each day prior.
 	- ## Pro-tips
 		- Always get a good night's sleep before a test. Always eat breakfast the morning of a test day.
 		- Always keep a calendar and know when the next test will be so you can prepare days before you write it.
