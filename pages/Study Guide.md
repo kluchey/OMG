@@ -40,4 +40,5 @@
 		- Always practice with the calculator you will use. Learn your calculator well, it is a tool you need to practice.
 		- Always show thinking, even if you think it could be wrong. Don't erase unless you will replace; just cross out lightly.
 	- ### References
-		- [^1] Brown, P. C., Roediger, H. L., III., & McDaniel, M. A. (2014). Make it stick: The science of successful learning. The Belknap Press of Harvard University Press.
+		- [^1]: Brown, P. C., Roediger, H. L., III., & McDaniel, M. A. (2014). Make it stick: The science of successful learning. The Belknap Press of Harvard University Press.
+			-
