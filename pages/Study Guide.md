@@ -10,8 +10,9 @@
 			- The act of forcing yourself to remember or recall a concept actually stores a memory in your brain for longer.
 			- Think of this task like **strengthening** the connections your brain is forming to remember or understand concepts.
 		- Focused Practice
-			- Select questions to practice and complete from start to finish with
+			- Select questions to practice and complete from start to finish with your best abilities shown in knowledge, thinking, communication, and application.
 		- REM Sleep
+			- A sleep of at least 6-8 hours every night is required by teenagers to enter
 	- ## Examples
 	- ## Pro-tips
 		- Always get a good night's sleep before a test. Always eat breakfast the morning of a test day.
