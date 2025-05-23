@@ -68,14 +68,14 @@
 				  \vec{r}(t) &=\langle 3,0,-2 \rangle +t\langle -2,-1,6 \rangle \\
 				  \vec{r}(2) &=\langle 3,0,-2 \rangle +(2)\langle -2,-1,6 \rangle \\ 
 				  &=\langle 3-4,-2,-2+12 \rangle \\
-				  &=\langle -3,-2,10 \rangle 
+				  &=\langle -1,-2,10 \rangle 
 				  \end{align*}$$
 				- Since we found this point using $L_1$, now we need to check that this point also satisfies $L_2$. If there is no point of intersection, this check will fail.
 				  logseq.order-list-type:: number
 				  $$\begin{gather*}
 				  \frac{x-1}{2}=\frac{y+2}{-1}=\frac{z-2}{4} \\
-				  \frac{-3-1}{2}=\frac{-2+2}{-1}=\frac{10-2}{4} \\
-				  \frac{-4}{2}=\frac{0}{-1}=\frac{8}{4} \\
+				  \frac{-1-1}{2}=\frac{-2+2}{-1}=\frac{10-2}{4} \\
+				  \frac{-2}{2}=\frac{0}{-1}=\frac{8}{4} \\
 				  \end{gather*}$$
 				- logseq.order-list-type:: number
 		- In his handout, Mr. Cluchey messed up and wrote $\langle -2,-1,-6 \rangle$, introducing an extra negative. Does this new, erroneous system still have a point of intersection or is it skew?
