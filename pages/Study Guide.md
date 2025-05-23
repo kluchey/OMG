@@ -1,10 +1,12 @@
 # How should I Study Mathematics in High School? A Guide
 	- ## Avoid Illusions of Knowing
 		- Cramming can produce short-term gains but will be lost in long-term memory, leading to the very common feeling of "hitting a wall you can't climb up" at some future point.
-		- Re-reading and highlighting *feel* like they produce results but actually produce very little memorization or understanding; during REM sleep your brain will throw away the . You need to perform other activities while re-reading, such as forced recall and focused practice.
+		- Re-reading and highlighting *feel* like they produce results but actually produce very little memorization or understanding.
+			- During REM sleep your brain will throw away the information reviewed by re-reading and highlighting because this information is noisy.
+			- You need to perform other activities while re-reading, such as forced recall and focused practice.
 	- ## Science Says...
 		- Spaced Repition
-			- Practice over multiple days to really remember a topic. Repeat concepts you feel confident about **and** concepts that are brand new or easily forgotten.
+			- Practice over multiple days to really remember a topic. Repeat concepts you feel confident about **and** concepts that are brand new, easily forgotten, or are challenging.
 			- Continue to practice questions from previous units, especially in a subject like math where later units build upon earlier units.
 		- Forced Recall
 			- The act of forcing yourself to remember or recall a concept actually stores a memory in your brain for longer.
