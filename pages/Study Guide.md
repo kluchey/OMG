@@ -4,4 +4,5 @@
 	- ## Examples
 	- ## Pro-tips
 		- Always get a good night's sleep before a test.
-		- Always keep a calendar and know when the next test will be so you can prepare for it
+		- Always keep a calendar and know when the next test will be so you can prepare days before you write it.
+		-
