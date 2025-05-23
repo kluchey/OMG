@@ -30,7 +30,8 @@
 			  Solution.
 				- ![image.png](../assets/image_1747960022652_0.png){:height 583, :width 728}
 				  logseq.order-list-type:: number
-				- logseq.order-list-type:: number
+				- [[draws/2025-05-22-15-10-22.excalidraw]]
+				  logseq.order-list-type:: number
 		- Why is there no scalar equation for a line in $\R^3$? Hint:  {{cloze Can you draw a diagram to help you figure out and describe what problems someone would have forming a scalar equation of a line in 3D?}}
 		  logseq.order-list-type:: number
 		  ---
