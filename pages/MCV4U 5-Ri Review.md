@@ -1,4 +1,4 @@
-# Review Problem Set
+# Review Problem Set Part 1
 	- Topic:  Forms of Equations in 3D
 	  logseq.order-list-type:: number
 		- Determine the vector, parametric, and symmetric equations of the line through the points $A(3, -1, 5)$ and $B(-4, 5, -9)$.
@@ -153,9 +153,8 @@
 				  logseq.order-list-type:: number
 		- Find the equation of the line which has a direction vector perpendicular to the xy-plane and passing through the origin. This line has another name, what is it?
 		  logseq.order-list-type:: number
-			- logseq.order-list-type:: number
+			- *Solution*.
 			  collapsed:: true
-			  *Solution*.
 				- A vector perpendicular to the xy-plane is $(0,0,1)$ and if this line passes through $(0,0,0)$ then we know the equation is, for $t\in\R$:
 				  logseq.order-list-type:: number
 				  $$(x,y,z)=t(0,0,1)$$
@@ -164,9 +163,8 @@
 		- Suppose A is on line 1 and B is on line 2. Find the coordinates of A and B such that $\vec{AB}$ is perpendicular to both lines. $t,k\in\R$
 		  logseq.order-list-type:: number
 		  $$\begin{cases} L_1: & \langle x,y,z \rangle = \langle 0,17,-10 \rangle +k\langle 2,0,1 \rangle \\ L_2: & \langle x,y,z \rangle =\langle 13,30,19 \rangle +t\langle 5,6,5 \rangle \end{cases}$$
-			- logseq.order-list-type:: number
+			- *Solution*.
 			  collapsed:: true
-			  *Solution*.
 				- **Strategy**:
 					- This is a complicated one, let's break it down.
 					- If you made A a vector, what would it need to look like? What does every vector on $L_1$ look like? Use parameters to get a formula for the vector A.
