@@ -9,6 +9,7 @@
 			- Practice over multiple days to really remember a topic. Repeat concepts you feel confident about **and** concepts that are brand new, easily forgotten, or are challenging.
 			- Continue to practice questions from previous units, especially in a subject like math where later units build upon earlier units.
 		- Forced Recall
+			- Take at least 2 minutes each day to perform the activity:  "Write down everything you know about $x$ topics that are important t
 			- The act of forcing yourself to remember or recall a concept actually stores a memory in your brain for longer.
 			- Think of this task like **strengthening** the connections your brain is forming to remember or understand concepts.
 		- Focused Practice
