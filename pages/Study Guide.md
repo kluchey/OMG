@@ -4,7 +4,8 @@
 		- Re-reading and highlighting *feel* like they produce results but actually produce very little memorization or understanding. You need to perform other activities while re-reading, such as forced recall and focused practice.
 	- ## Science Says...
 		- Spaced Repition
-			- Space over *dats*
+			- Practice over multiple days to really remember a topic. Repeat concepts you feel confident about **and** concepts that are brand new or easily forgotten.
+			-
 		- Forced Recall
 		- Focused Practice
 		- REM Sleep
