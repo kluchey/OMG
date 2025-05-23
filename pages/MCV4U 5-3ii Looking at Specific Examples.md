@@ -30,7 +30,7 @@
 		- *Solution*.
 			- We need to be knowledgeable about the symmetric equation. Its general form is
 			  $$\frac{x-P_{x}}{d_{x}}=_{}\frac{y-P_{x}}{d_{y}}=\frac{z-P_{z}}{d_{z}}$$
-			- Since the new line is ==[[parallel]]== we can use the same direction vector $\vec{d}=(d_x,d_y,d_z)$ as the original line. Passing
+			- Since the new line is ==[[parallel]]== we can use the same direction vector $\vec{d}=(d_x,d_y,d_z)$ as the original line. The new line needs to pass through the given point, so we let $\vec{P}$ be that point. We subsitute $\vec{d}
 	- What is your **strategy** to solve this problem?
 	  logseq.order-list-type:: number
 		- {{embed ((682fc283-1a69-4041-a488-2832ca1eaf96))}}
