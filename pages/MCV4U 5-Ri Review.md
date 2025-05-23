@@ -214,7 +214,6 @@
 		  logseq.order-list-type:: number
 		  $$\begin{cases} L_1: & \langle x,y,z \rangle = \langle 0,17,-10 \rangle +k\langle 2,0,1 \rangle \\ L_2: & \langle x,y,z \rangle =\langle 13,30,19 \rangle +t\langle 5,6,5 \rangle \end{cases}$$
 			- *Solution*.
-			  collapsed:: true
 			  ---
 				- **Strategy**:
 					- This is a complicated one, let's break it down.
