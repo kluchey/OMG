@@ -136,10 +136,10 @@
 		  logseq.order-list-type:: number
 		- No solutions given. This problem is extra practice. Compare to your classmates.
 		- ---
-	- Find the vector equation of the line parallel to $7-x=\frac{y+5}{3}=\frac{z+26}{2}$.
+	- Find the vector equation of a line parallel to $7-x=\frac{y+5}{3}=\frac{z+26}{2}$ and passing through the point $(1,-2,9)$.
 	  logseq.order-list-type:: number
 		- *Solution*.
-			- N
+			- The direction vector is the denominators, so $\vec{d}=(1,3,2)$.  If we want
 			  logseq.order-list-type:: number
 		- ---
 	- Thinking & Application
