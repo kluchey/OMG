@@ -73,8 +73,8 @@
 				  logseq.order-list-type:: number
 				  $$\begin{gather*}
 				  \frac{x-1}{2}=\frac{y+2}{-1}=\frac{z-2}{4} \\
-				  \frac{(0)-1}{2}=\frac{\left(\frac{3}{2}\right)+2}{-1}=\frac{(7)-2}{4} \\
-				  \frac{-1}{2}=\frac{\left(\frac{3}{2}\right)+2}{-1}=\frac{(7)-2}{4} \\
+				  \frac{(0)-1}{2}=\frac{\left(-\frac{3}{2}\right)+2}{-1}=\frac{(7)-2}{4} \\
+				  \frac{-1}{2}=\frac{\left(-\frac{1}{2}\right)}{-1}=\frac{}{4} \\
 				  \end{gather*}$$
 				- logseq.order-list-type:: number
 		- In his handout, Mr. Cluchey messed up and wrote $\langle -2,-1,-6 \rangle$, introducing an extra negative. Does this new, erroneous system still have a point of intersection or is it skew?
