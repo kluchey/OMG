@@ -36,8 +36,11 @@
 		  logseq.order-list-type:: number
 			- *Solution*.
 			  ---
-				- There is not one ==[[normal]]== vector that can define a line, instead there are multiple in many different directions. This does not lend well to an equation which needs to produce points consistently on a line
+				- There is not one ==[[normal]]== vector that can define a line, instead there are multiple in many different directions. This does not lend well to an equation which needs to produce points consistently on a line in a specific direction.
 				  logseq.order-list-type:: number
+				- From another perspective, given a normal vector, there are multiple directions a line could be defined from it, so a normal vector does not define just one line but multiple... in fact it will define a plane.
+				  logseq.order-list-type:: number
+					- logseq.order-list-type:: number
 	- Topic:  Points of Intersection in 3D
 	  logseq.order-list-type:: number
 		- Determine if there is a point of intersection for the following system of equations in $\R^3$. $t,k\in\R$
