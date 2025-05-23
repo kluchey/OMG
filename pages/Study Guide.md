@@ -1,9 +1,10 @@
 # How should I Study Mathematics in High School? A Guide
 	- ## Avoid Illusions of Knowing
 		- Cramming can produce short-term gains but will be lost in long-term memory, leading to the very common feeling of "hitting a wall you can't climb up" at some future point.
-		- Re-reading and highlighting *feel* like they produce results but a
+		- Re-reading and highlighting *feel* like they produce results but actually produce very little memorization or understanding. You need to perform other activities while re-reading, such as forced recall and focused practice.
 	- ## Science Says...
 		- Spaced Repition
+			- Space over *dats*
 		- Forced Recall
 		- Focused Practice
 		- REM Sleep
