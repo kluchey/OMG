@@ -150,7 +150,16 @@
 				  \end{align}$$
 				- Add (2)+(3):
 				  logseq.order-list-type:: number
-				  $$\begin{align*}$$
+				  $$\begin{align*}
+				  − 2 + 2s &= −4 \\
+				  s &= −1
+				  \end{align*}$$
+				- Substitute $s=-1$ into (2):
+				  logseq.order-list-type:: number
+				  $$\begin{align*}
+				  − 2 + 2s &= −4 \\
+				  s &= −1
+				  \end{align*}$$
 	- Topic:  Making decisions with an ambiguous problem.
 	  logseq.order-list-type:: number
 		- Find the intersection (if any) of the following two lines in $\R^3$, if they do not intersect, state whether they are skew or parallel. $t,k\in\R$
