@@ -19,7 +19,7 @@
 		- Memory Palace Technique
 			- Humans evolved to remember locations to hunt, gather, and seek safety; text and algebra are not immediately connected to locations but these connections can be made!
 				- Algebra is related to graphing & geometry. Graphing and geometry both describe physical movements or measurements which can be repeated with your hands, feet, or with objects in space. You can do better at remembering and understanding algebra by using ==[[spacial reasoning]]==.
-				- A sillier but very legitimate method to remember a lot of information and quickly is to place that information around locations you visit often, such as your house or your room.
+				- A sillier but very legitimate method to remember a lot of information and quickly is to place that information around locations you visit often, such as your house or your room. On your chair is $y=mx+b$ and the back is $b$, when you sit in the chair you slouch on an angle $m$ where you can measure the rate of change of your height $\Delta y$
 	- ## Examples
 		- After school routine:
 			- At a
