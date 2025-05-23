@@ -66,9 +66,9 @@
 				  logseq.order-list-type:: number
 				  $$\begin{align*}
 				  \vec{r}(t) &=\langle 3,0,-2 \rangle +t\langle -2,-1,6 \rangle \\
-				  \vec{r}(2) &=\langle 3,0,-2 \rangle +\left(\frac{3}{2}\right)\langle -2,-1,6 \rangle \\ 
-				  &=\langle 3-3,-\frac{3}{2},-2+9 \rangle \\
-				  &=\langle 0,-\frac{3}{2},7 \rangle 
+				  \vec{r}(2) &=\langle 3,0,-2 \rangle +(2)\langle -2,-1,6 \rangle \\ 
+				  &=\langle 3-6,-2,-2+12 \rangle \\
+				  &=\langle -3,-2,10 \rangle 
 				  \end{align*}$$
 				- Since we found this point using $L_1$, now we need to check that this point also satisfies $L_2$. If there is no point of intersection, this check will fail.
 				  logseq.order-list-type:: number
