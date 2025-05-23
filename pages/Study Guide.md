@@ -21,12 +21,14 @@
 				- Algebra is related to graphing & geometry. Graphing and geometry both describe physical movements or measurements which can be repeated with your hands, feet, or with objects in space. You can do better at remembering and understanding algebra by using ==[[spacial reasoning]]==.
 				- A sillier but very legitimate method to remember a lot of information and quickly is to place that information around locations you visit often, such as your house or your room.
 					- #eg On your chair is $y=mx+b$ and the chair's back is the y-axis, or rise, while the seat is the x-axis, or run.
-					- $b$ is where your head hits the back and when you sit in the chair.
+					- $b$ is where your head hits the back when you sit in the chair.
 					- You slouch on an angle $m$ where you can measure the change in your height $\Delta y$ per change in your seat $\Delta x$, so your slouch is $m=\frac{\Delta y}{\Delta x}=\frac{rise}{run}$.
 					- Can you picture that more easily than the formulas alone?
 	- ## Examples
 		- After school routine:
-			- At a
+			- At a minimum, take 2 minutes each evening to do the forced recall activity:
+				- >>Write down everything you know about $x$ topics need to be remembered or understood.
+			-
 	- ## Pro-tips
 		- Always get a good night's sleep before a test. Always eat breakfast the morning of a test day.
 		- Always keep a calendar and know when the next test will be so you can prepare days before you write it.
