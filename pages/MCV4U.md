@@ -3,7 +3,7 @@ icon:: ⇀∆
 title:: MCV4U
 
 - # Grade 12 Calculus & Vectors [Course Outline]([[MHF4U Outline]])
-	- DOING Unit 5:
+	- DOING Unit 5
 	  :LOGBOOK:
 	  CLOCK: [2025-05-22 Thu 22:57:09]
 	  :END:
