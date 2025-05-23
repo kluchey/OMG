@@ -76,7 +76,10 @@
 				  \frac{x-1}{2}=\frac{y+2}{-1}=\frac{z-2}{4} \\
 				  \frac{-1-1}{2}=\frac{-2+2}{-1}=\frac{10-2}{4} \\
 				  \frac{-2}{2}=\frac{0}{-1}=\frac{8}{4} \\
+				  \frac{-2}{2}\not=\frac{0}{-1}\not=\frac{8}{4} 
 				  \end{gather*}$$
+				- Therefore, this system has no point of intersection.
+				  logseq.order-list-type:: number
 				- logseq.order-list-type:: number
 		- In his handout, Mr. Cluchey messed up and wrote $\langle -2,-1,-6 \rangle$, introducing an extra negative. Does this new, erroneous system still have a point of intersection or is it skew?
 		  logseq.order-list-type:: number
