@@ -167,5 +167,8 @@
 					- If you made A a vector, what would it need to look like? What does every vector on $L_1$ look like? Use parameters to get a formula for the vector A.
 					- Do the same for vector B.
 					- Now get the vector $\vec{AB}$ from these formulas. It should be a rather large vector with multiple variables making up its components.
-					- This vector needs to be perpendicular to two known vectors.
+					- This vector needs to be perpendicular to two known vectors. You see the word perpendicular which should cue up either:  dot product or cross product.
+						- When it comes to solving unknowns, use the dot product.
+						- The cross product is better for situations in which you need to create a vector which is perpendicular.
+					-
 		- ---
