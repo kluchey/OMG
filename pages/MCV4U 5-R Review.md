@@ -119,8 +119,9 @@
 					  logseq.order-list-type:: number
 					- If that check fails, they must be parallel (not skew).
 					  logseq.order-list-type:: number
-				- Let's see if $
+				- Let's see if $\langle 1, 1, 2 \rangle$ is on $L_4$:
 				  logseq.order-list-type:: number
+				  $$\langle 1, 1, 2 \rangle$$
 	- Topic:  Making decisions with an ambiguous problem.
 	  logseq.order-list-type:: number
 		- Find the intersection (if any) of the following two lines in $\R^3$, if they do not intersect, state whether they are skew or parallel. $t,k\in\R$
