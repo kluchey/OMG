@@ -1,7 +1,7 @@
 # How should I Study Mathematics in High School? A Guide
 	- ## Avoid Illusions of Knowing
 		- Cramming can produce short-term gains but will be lost in long-term memory, leading to the very common feeling of "hitting a wall you can't climb up" at some future point.
-		- Re-reading and highlighting *feel* like they produce results but actually produce very little memorization or understanding. You need to perform other activities while re-reading, such as forced recall and focused practice.
+		- Re-reading and highlighting *feel* like they produce results but actually produce very little memorization or understanding; during REM sleep your brain will throw away the . You need to perform other activities while re-reading, such as forced recall and focused practice.
 	- ## Science Says...
 		- Spaced Repition
 			- Practice over multiple days to really remember a topic. Repeat concepts you feel confident about **and** concepts that are brand new or easily forgotten.
@@ -12,7 +12,7 @@
 		- Focused Practice
 			- Select questions to practice and complete from start to finish with your best abilities shown in knowledge, thinking, communication, and application.
 		- REM Sleep
-			- A sleep of at least 6-8 hours every night is required by teenagers to enter
+			- A sleep of at least 6-8 hours every night is required by teenagers to get enough REM sleep where your brain stores its most important information for long-term and trashes the unnecessary information.
 	- ## Examples
 	- ## Pro-tips
 		- Always get a good night's sleep before a test. Always eat breakfast the morning of a test day.
