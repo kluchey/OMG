@@ -27,7 +27,6 @@
 		  logseq.order-list-type:: number
 		  ![image.png](../assets/image_1747928145065_0.png){:height 350, :width 442}
 			- logseq.order-list-type:: number
-			  collapsed:: true
 			  Solution.
 				- [[draws/2025-05-22-15-10-22.excalidraw]]
 				  logseq.order-list-type:: number
