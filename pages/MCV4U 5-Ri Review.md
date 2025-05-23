@@ -138,7 +138,7 @@
 				  ---
 		- Determine the point of intersection for the following system of equations in $\R^3$. **This system actually has a point of intersection**. $t,k\in\R$
 		  logseq.order-list-type:: number
-		  $$L_5:  \begin{cases} x=3+k \\ y=-7-2k \\ z=5+4k \end{cases} \text{ and } L_6:  \begin{cases} x=-7+3t \\ y=-8+t \\ z=4-k \end{cases}$$
+		  $$L_5:  \begin{cases} x=3+k \\ y=-7-2k \\ z=5+4k \end{cases} \text{ and } L_6:  \begin{cases} x=-7+3t \\ y=-8+t \\ z=4-t \end{cases}$$
 			- *Solution*.
 			  ---
 				- Let's first notice that the direction vectors are not scalar multiples of one another, so this system is not parallel or coincident.
@@ -164,7 +164,8 @@
 				  \end{align*}$$
 				- Let's use $k = -1$ and $t=3$ to get the point of intersection from both $L_5$ and $L_6$. If they points match, then this system is not skew.
 				  logseq.order-list-type:: number
-				  $$L_5:  \begin{align*} x &=3-1 &= 2 \\ y &=-7-2(-1) &= -5 \\ z &=5+4(-1) &=1 \end{align*} $$
+				  $$L_5:  \begin{cases} x &=3-1 &= 2 \\ y &=-7-2(-1) &= -5 \\ z &=5+4(-1) &=1 \end{cases} $$
+				  $$L_6:  \begin{cases} x&=-7+3(3) \\ y=-8+(3) \\ z=4-(3) \end{cases}$$
 	- Topic:  Making decisions with an ambiguous problem.
 	  logseq.order-list-type:: number
 		- Find the intersection (if any) of the following two lines in $\R^3$, if they do not intersect, state whether they are skew or parallel. $t,k\in\R$
