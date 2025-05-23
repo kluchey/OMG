@@ -40,7 +40,8 @@
 				  logseq.order-list-type:: number
 				- From another perspective, given a normal vector, there are multiple directions a line could be defined from it, so a normal vector does not define just one line but multiple... in fact it will define a plane.
 				  logseq.order-list-type:: number
-					- logseq.order-list-type:: number
+					- ![Desmos 3D Example](<iframe src="URL" style="width: 100%; height: 600px"></iframe>)
+					  logseq.order-list-type:: number
 	- Topic:  Points of Intersection in 3D
 	  logseq.order-list-type:: number
 		- Determine if there is a point of intersection for the following system of equations in $\R^3$. $t,k\in\R$
