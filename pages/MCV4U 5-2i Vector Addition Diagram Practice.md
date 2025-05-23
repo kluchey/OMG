@@ -19,7 +19,7 @@ alias:: MCV4U 5-2i, CV5-2i
 				- ![image.png](../assets/image_1748000877845_0.png){:height 196, :width 151}
 		- A person, $$\vec{p}$$, is swimming and there is a current, $$\vec{c}$$. The person's position is $$[\text{N}40^\circ E]$$ from where their destination is located. Also draw the resultant, $$\vec{r}$$.
 		  logseq.order-list-type:: number
-		  ---
+			- ---
 		- [[draws/2025-05-23-07-36-10.excalidraw]]
 		  logseq.order-list-type:: number
 		- *Compare*:  What do all of these problems have in common?
