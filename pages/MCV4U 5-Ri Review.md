@@ -160,7 +160,7 @@
 				  − 7 − 2(−1) &= −8 + t \\
 				  t &= 3
 				  \end{align*}$$
-				- Let's check that $k = -1$ and $t=3$ satisfy equation (1). If they do, then this system has a point of intersection.
+				- Let's use $k = -1$ and $t=3$ to get the point of intersection from both $L_5$ and $L
 				  logseq.order-list-type:: number
 	- Topic:  Making decisions with an ambiguous problem.
 	  logseq.order-list-type:: number
