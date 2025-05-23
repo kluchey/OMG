@@ -18,10 +18,11 @@
 		- *Solution*.
 		  logseq.order-list-type:: number
 		  ---
-			- We will solve this by ==[[inspection]]==, a .
+			- We will solve this by ==[[inspection]]==, a strategy you are allowed in higher maths when solving simple equations.
 			  logseq.order-list-type:: number
-			- By inspection, the solution $t=2$.
+			- By inspection, the solution $t=2$ demonstrates that:
 			  logseq.order-list-type:: number
+				- logseq.order-list-type:: number
 	- What is your **strategy** to solve this problem?
 	  logseq.order-list-type:: number
 		- {{embed ((682fc283-167a-4783-aa8e-b38c9fbb8ffc))}}
