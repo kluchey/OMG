@@ -17,6 +17,7 @@
 	  logseq.order-list-type:: number
 		- *Solution*.
 		  logseq.order-list-type:: number
+		  collapsed:: true
 		  ---
 			- We will solve this by ==[[inspection]]==, a strategy you are allowed in higher maths when solving simple equations.
 			  logseq.order-list-type:: number
@@ -24,12 +25,13 @@
 			  logseq.order-list-type:: number
 				- $$\begin{align*}
 				  \begin{bmatrix} x\\ y\end{bmatrix}
-				  =t\begin{bmatrix}-1 \\ 3\end{bmatrix}+\begin{bmatrix}5\\-2\end{bmatrix} \\
-				  = (2)\begin{bmatrix}-1 \\ 3\end{bmatrix}+\begin{bmatrix}5\\-2\end{bmatrix} \\
-				  = \begin{bmatrix}-2 \\ 6\end{bmatrix}+\begin{bmatrix}5\\-2\end{bmatrix} \\
-				  = \begin{bmatrix}-2+5 \\ 6-2\end{bmatrix} \\
-				  = \begin{bmatrix}4 \\ 4\end{bmatrix}
+				  &=t\begin{bmatrix}-1 \\ 3\end{bmatrix}+\begin{bmatrix}5\\-2\end{bmatrix} \\
+				  &= (2)\begin{bmatrix}-1 \\ 3\end{bmatrix}+\begin{bmatrix}5\\-2\end{bmatrix} \\
+				  &= \begin{bmatrix}-2 \\ 6\end{bmatrix}+\begin{bmatrix}5\\-2\end{bmatrix} \\
+				  &= \begin{bmatrix}-2+5 \\ 6-2\end{bmatrix} \\
+				  &= \begin{bmatrix}3 \\ 4\end{bmatrix}
 				  \end{align*}$$
+				- So $(3,4)$ is on the line.
 	- What is your **strategy** to solve this problem?
 	  logseq.order-list-type:: number
 		- {{embed ((682fc283-167a-4783-aa8e-b38c9fbb8ffc))}}
