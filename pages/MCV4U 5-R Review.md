@@ -122,7 +122,7 @@
 				- Let's see if $\langle 1, 1, 2 \rangle$ is on $L_4$:
 				  logseq.order-list-type:: number
 				  $$\langle 1, 1, 2 \rangle = \frac{1}{2},\frac{3}{4},1 \rangle +t\langle 2,-1,4 \rangle$$
-				  By ==[[inspection]]==, we will notice that $t=
+				  By ==[[inspection]]==, we will notice that $t=\frac{1}{4}$ will give the point $
 	- Topic:  Making decisions with an ambiguous problem.
 	  logseq.order-list-type:: number
 		- Find the intersection (if any) of the following two lines in $\R^3$, if they do not intersect, state whether they are skew or parallel. $t,k\in\R$
