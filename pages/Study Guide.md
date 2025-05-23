@@ -1,10 +1,10 @@
 # How should I Study Mathematics in High School? A Guide
-	- ## Avoid Illusions of Knowing
+	- ## 👻 Avoid Illusions of Knowing
 		- **Cramming** can produce short-term gains but these gains will be lost in the long-term [^1], leading to the very common feeling of "hitting a wall you can't climb up" at some future, tougher point in a course or in a future school.
 		- **Re-reading and highlighting** *feel* like they produce results but actually produce very little memorization or understanding [^1].
 			- During REM sleep your brain will throw away the information reviewed by re-reading and highlighting because this information is noisy [^1].
 			- You need to perform other activities while re-reading, such as forced recall and focused practice.
-	- ## Science Says...
+	- ## 🧪 Science Says...
 		- ### Spaced Repition [^1]
 			- Practice over multiple days to really remember a topic. Repeat concepts you feel confident about **and** concepts that are brand new, easily forgotten, or are challenging.
 			- Continue to practice questions from previous units, especially in a subject like math where later units build upon earlier units.
@@ -24,7 +24,7 @@
 					- $b$ is where your head hits the back when you sit in the chair.
 					- You slouch on an angle $m$ where you can measure the change in your height $\Delta y$ per change in your seat $\Delta x$, so your slouch is $m=\frac{\Delta y}{\Delta x}=\frac{rise}{run}$.
 					- Can you picture that more easily than the formulas alone?
-	- ## Examples
+	- ## 🦙 Examples
 		- #### After school routine:
 			- At a minimum, take 2 minutes each evening to do the forced recall activity:
 				- >>Write down everything you know about $x$ topics need to be remembered or understood.
@@ -34,7 +34,7 @@
 			- Then, take 2 minutes to consolidate:
 				- >> What didn't you know in your practice? What do you need to know after today? Add these findings to your forced recall activity.
 			- Repeat this routine every day to keep building on top of the knowledge you remembered each day prior.
-	- ## Pro-tips
+	- ##  Pro-tips
 		- Always get a good night's sleep before a test. Always eat breakfast the morning of a test day.
 		- Always keep a calendar and know when the next test will be so you can prepare days before you write it.
 		- Always practice with the calculator you will use. Learn your calculator well, it is a tool you need to practice.
