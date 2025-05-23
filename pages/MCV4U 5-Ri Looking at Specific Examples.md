@@ -1,8 +1,9 @@
-# Questions
+# Let's form some strategies:  Specific Questions
 	- Is the point $\begin{bmatrix}3\\ 4\end{bmatrix}$ on the line $\begin{bmatrix}x\\ y\end{bmatrix}=\begin{bmatrix}-1\\ 3\end{bmatrix}+t\begin{bmatrix}5\\ 7\end{bmatrix}$
 	  logseq.order-list-type:: number
 		- *Solution*.
 		  collapsed:: true
+		  ---
 			- To check if a point is on a vector equation, we need there to exist a value of $t\in\R$ that gives us this point using the equation for the line.
 			  logseq.order-list-type:: number
 				- If we substitute our $(3,4)$ into the equation, we can then solve for $t$.
@@ -15,11 +16,13 @@
 	- Is the point $\begin{bmatrix}3\\ 4\end{bmatrix}$ on the line $\begin{bmatrix}x\\ y\end{bmatrix}=\begin{bmatrix}-1\\ 3\end{bmatrix}+t\begin{bmatrix}5\\ -2\end{bmatrix}$
 	  logseq.order-list-type:: number
 		- *Solution*.
+		  ---
 	- Is the point $\begin{bmatrix}3\\ 4\end{bmatrix}$ on the line $\begin{bmatrix}x\\ y\end{bmatrix}=t\begin{bmatrix}-1\\ 3\end{bmatrix}+\begin{bmatrix}5\\ -2\end{bmatrix}$
 	  logseq.order-list-type:: number
 		- *Solution*.
 		  logseq.order-list-type:: number
 		  collapsed:: true
+		  ---
 			- Solving by ==[[inspection]]==.
 			  logseq.order-list-type:: number
 			- By inspection, the solution $t=2$.
@@ -28,6 +31,8 @@
 	  logseq.order-list-type:: number
 		- {{embed ((682fc283-167a-4783-aa8e-b38c9fbb8ffc))}}
 		- *Solution*.
+		  collapsed:: true
+		  ---
 			- We need to be knowledgeable about the symmetric equation. Its general form is
 			  $$\frac{x-P_{x}}{d_{x}}=_{}\frac{y-P_{x}}{d_{y}}=\frac{z-P_{z}}{d_{z}}$$
 			- Since the new line is ==[[parallel]]== we can use the same direction vector $\vec{d}=(d_x,d_y,d_z)$ as the original line. The new line needs to pass through the given point, so we let $\vec{P}$ be that point.
