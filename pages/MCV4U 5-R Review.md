@@ -80,7 +80,8 @@
 				  \frac{-2}{2}=\frac{0}{-1}=\frac{8}{4} \\
 				  \frac{-2}{2}\not=\frac{0}{-1}\not=\frac{8}{4} 
 				  \end{gather*}$$
-				- Therefore, this system has no point of intersection.
+				  The symmetric expressions are not equal, so the check has failed.
+				- Therefore, this system has no point of intersection. (In fact, it is skew, but this fact was not asked by the question)
 				  logseq.order-list-type:: number
 				- logseq.order-list-type:: number
 		- In his handout, Mr. Cluchey messed up and wrote $\langle -2,-1,-6 \rangle$, introducing an extra negative. Does this new, erroneous system still have a point of intersection or is it skew?
