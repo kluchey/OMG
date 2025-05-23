@@ -165,7 +165,9 @@
 				- Let's use $k = -1$ and $t=3$ to get the point of intersection from both $L_5$ and $L_6$. If they points match, then this system is not skew.
 				  logseq.order-list-type:: number
 				  $$L_5:  \begin{cases} x &=3-1 &= 2 \\ y &=-7-2(-1) &= -5 \\ z &=5+4(-1) &=1 \end{cases} $$
-				  $$L_6:  \begin{cases} x&=-7+3(3) \\ y=-8+(3) \\ z=4-(3) \end{cases}$$
+				  $$L_6:  \begin{cases} x&=-7+3(3)&=2 \\ y&=-8+(3)&=-5 \\ z&=4-(3)&=1 \end{cases}$$
+				- Therefore, the point of intersection of these lines is $(2,-5,1)$.
+				  logseq.order-list-type:: number
 	- Topic:  Making decisions with an ambiguous problem.
 	  logseq.order-list-type:: number
 		- Find the intersection (if any) of the following two lines in $\R^3$, if they do not intersect, state whether they are skew or parallel. $t,k\in\R$
