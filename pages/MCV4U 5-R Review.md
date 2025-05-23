@@ -44,6 +44,7 @@
 			  logseq.order-list-type:: number
 				- *Fun Fact*:  I asked ChatGPT to invent a problem that had a point of intersection. It gave me this system. If I ask it to solve this system, it proves that there is no point of intersection. This just goes to show that you can't trust ChatGPT and always need to verify its results.
 				  ![image.png](../assets/image_1747963288277_0.png){:height 292, :width 427}
+				- **Strategy**:  Get the value of one parameter, find the point
 				- Having the lines in two different forms is a tad inconvenient compared to our lesson from class but can still work for us. Let $\vec{r}(t)=\langle x,y,z \rangle$.
 				  logseq.order-list-type:: number
 				- Now, the parametric equations for $L_2$ are: 
@@ -64,7 +65,7 @@
 				  \frac{4}{2} &= t \\
 				  2 &= t 
 				  \end{align*}$$
-				- We need to make use of all the equations eventually, so let's use $t=2$ to get what we believe is our Point of Intersection:
+				- Let's use $t=2$ to get what we believe is our Point of Intersection:
 				  logseq.order-list-type:: number
 				  $$\begin{align*}
 				  \vec{r}(t) &=\langle 3,0,-2 \rangle +t\langle -2,-1,6 \rangle \\
