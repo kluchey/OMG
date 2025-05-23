@@ -7,6 +7,10 @@
 	  logseq.order-list-type:: number
 		- *Solution*.
 		  logseq.order-list-type:: number
+	- Is the point $\begin{bmatrix}3\\ 4\end{bmatrix}$ on the line $\begin{bmatrix}x\\ y\end{bmatrix}=t\begin{bmatrix}-1\\ 3\end{bmatrix}+\begin{bmatrix}5\\ -2\end{bmatrix}$
+	  logseq.order-list-type:: number
+		- *Solution*.
+		  logseq.order-list-type:: number
 			- logseq.order-list-type:: number
 	- What is your **strategy** to solve this problem?
 	  logseq.order-list-type:: number
