@@ -4,6 +4,7 @@
 		- *Solution*.
 			- To check if a point is on a vector equation, we need there to exist a value of $t\in\R$ that gives us this point using the equation for the line.
 			  logseq.order-list-type:: number
+			  collapsed:: true
 				- If we substitute our $(3,4)$ into the equation, we can then solve for $t$.
 				  logseq.order-list-type:: number
 					- If $t$ is different from both equations (not equal) then the point is not on the line.
