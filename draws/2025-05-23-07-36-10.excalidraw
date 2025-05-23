@@ -250,8 +250,8 @@
         "type": 2
       },
       "seed": 112528677,
-      "version": 58,
-      "versionNonce": 1862723243,
+      "version": 59,
+      "versionNonce": 739343205,
       "isDeleted": false,
       "boundElements": [
         {
@@ -259,7 +259,7 @@
           "id": "rvsOCfsKA0IJ87bcCzanW"
         }
       ],
-      "updated": 1748000345204,
+      "updated": 1748000845315,
       "link": null,
       "locked": false,
       "points": [
@@ -281,9 +281,9 @@
     {
       "id": "rvsOCfsKA0IJ87bcCzanW",
       "type": "text",
-      "x": 396.88002014160156,
+      "x": 390.9100341796875,
       "y": 313.2578125,
-      "width": 48.739959716796875,
+      "width": 60.679931640625,
       "height": 25,
       "angle": 0,
       "strokeColor": "#f08c00",
@@ -297,21 +297,21 @@
       "frameId": null,
       "roundness": null,
       "seed": 2124039269,
-      "version": 9,
-      "versionNonce": 577839115,
+      "version": 17,
+      "versionNonce": 1386473515,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1748000343771,
+      "updated": 1748000844111,
       "link": null,
       "locked": false,
-      "text": "plane",
+      "text": "person",
       "fontSize": 20,
       "fontFamily": 1,
       "textAlign": "center",
       "verticalAlign": "middle",
       "baseline": 18,
       "containerId": "jCwedzWN3-uXUqpuAdK7G",
-      "originalText": "plane",
+      "originalText": "person",
       "lineHeight": 1.25
     },
     {
@@ -335,8 +335,8 @@
         "type": 2
       },
       "seed": 232617675,
-      "version": 116,
-      "versionNonce": 2082812645,
+      "version": 117,
+      "versionNonce": 731761803,
       "isDeleted": false,
       "boundElements": [
         {
@@ -344,7 +344,7 @@
           "id": "hO8O4TDUHB7lNWCdnahSf"
         }
       ],
-      "updated": 1748000331000,
+      "updated": 1748000839755,
       "link": null,
       "locked": false,
       "points": [
@@ -366,9 +366,9 @@
     {
       "id": "hO8O4TDUHB7lNWCdnahSf",
       "type": "text",
-      "x": 450.3600158691406,
+      "x": 433.9100341796875,
       "y": 208.5078125,
-      "width": 37.27996826171875,
+      "width": 70.179931640625,
       "height": 25,
       "angle": 0,
       "strokeColor": "#1971c2",
@@ -382,21 +382,21 @@
       "frameId": null,
       "roundness": null,
       "seed": 1217764779,
-      "version": 63,
-      "versionNonce": 556240453,
+      "version": 70,
+      "versionNonce": 437193445,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1748000331000,
+      "updated": 1748000838352,
       "link": null,
       "locked": false,
-      "text": "wind",
+      "text": "current",
       "fontSize": 20,
       "fontFamily": 1,
       "textAlign": "center",
       "verticalAlign": "middle",
       "baseline": 18,
       "containerId": "ktQEePlT9ktGypYIGkB0A",
-      "originalText": "wind",
+      "originalText": "current",
       "lineHeight": 1.25
     },
     {

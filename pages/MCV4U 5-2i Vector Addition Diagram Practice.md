@@ -13,6 +13,10 @@ alias:: MCV4U 5-2i, CV5-2i
 				- ![image.png](../assets/image_1748000724955_0.png){:height 188, :width 144}
 		- A person, $$\vec{p}$$, is swimming and there is a current, $$\vec{c}$$. The person wants to travel to a location $$[\text{N}30^\circ E]$$ of where they are currently located. Also draw the resultant, $$\vec{r}$$.
 		  logseq.order-list-type:: number
+			- *Solution*.
+			  collapsed:: true
+				- Answers may vary.
+				- ![image.png](../assets/image_1748000877845_0.png){:height 196, :width 151}
 		- A person, $$\vec{p}$$, is swimming and there is a current, $$\vec{c}$$. The person's position is $$[\text{N}40^\circ E]$$ from where their destination is located. Also draw the resultant, $$\vec{r}$$.
 		  logseq.order-list-type:: number
 		  ---
