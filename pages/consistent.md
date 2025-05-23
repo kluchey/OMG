@@ -1,2 +1,2 @@
-- #definition In math, consistent means one. Agreement means that there is one solution for both equations.
+- #definition Consistent means we can get the same solution in two or more ways.
 -
