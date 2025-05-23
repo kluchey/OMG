@@ -150,8 +150,9 @@
 		  logseq.order-list-type:: number
 			- *Solution*.
 			  logseq.order-list-type:: number
-				- A vector perpendicular to the xy-plane is
+				- A vector perpendicular to the xy-plane is $(0,0,1)$ and if this line passes through $(0,0,0)$ then we know the equation is, for $t\in\R$:
 				  logseq.order-list-type:: number
+				  $$(x,y,z)=($$
 		- Suppose A is on line 1 and B is on line 2. Find the coordinates of A and B such that $\vec{AB}$ is perpendicular to both lines. $t,k\in\R$
 		  logseq.order-list-type:: number
 		  $$\begin{cases} L_1: & \langle x,y,z \rangle = \langle 0,17,-10 \rangle +k\langle 2,0,1 \rangle \\ L_2: & \langle x,y,z \rangle =\langle 13,30,19 \rangle +t\langle 5,6,5 \rangle \end{cases}$$
