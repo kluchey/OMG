@@ -5,8 +5,10 @@
 	- ## Science Says...
 		- Spaced Repition
 			- Practice over multiple days to really remember a topic. Repeat concepts you feel confident about **and** concepts that are brand new or easily forgotten.
-			-
+			- Continue to practice questions from previous units, especially in a subject like math where later units build upon earlier units.
 		- Forced Recall
+			- The act of forcing yourself to remember or recall a concept actually stores a memory in your brain for longer.
+			-
 		- Focused Practice
 		- REM Sleep
 	- ## Examples
