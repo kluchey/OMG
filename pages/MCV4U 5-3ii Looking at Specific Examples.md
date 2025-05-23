@@ -20,6 +20,7 @@
 	  logseq.order-list-type:: number
 		- *Solution*.
 		  logseq.order-list-type:: number
+		  collapsed:: true
 			- Solving by ==[[inspection]]==.
 			  logseq.order-list-type:: number
 			- By inspection, the solution $t=2$.
