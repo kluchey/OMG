@@ -5,5 +5,5 @@
 	- ## Pro-tips
 		- Always get a good night's sleep before a test. Always eat breakfast the morning of a test day.
 		- Always keep a calendar and know when the next test will be so you can prepare days before you write it.
-		- Always practice wit
-		-
+		- Always practice with the calculator you will use. Learn your calculator well, it is a tool you need to practice.
+		- Always show thinking, even if you think it could be wrong. Don't eraseu, just cross out lightly.
