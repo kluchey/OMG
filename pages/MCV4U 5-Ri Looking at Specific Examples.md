@@ -24,7 +24,10 @@
 			  logseq.order-list-type:: number
 				- $\begin{bmatrix} x\\ y\end{bmatrix}
 				  =t\begin{bmatrix}-1 \\ 3\end{bmatrix}+\begin{bmatrix}5\\-2\end{bmatrix}
-				  = $
+				  = (2)\begin{bmatrix}-1 \\ 3\end{bmatrix}+\begin{bmatrix}5\\-2\end{bmatrix}
+				  = \begin{bmatrix}-2 \\ 6\end{bmatrix}+\begin{bmatrix}5\\-2\end{bmatrix}
+				  = \begin{bmatrix}-2+5 \\ 6-2\end{bmatrix}
+				  = \begin{bmatrix}-2+5 \\ 6-2\end{bmatrix}$
 	- What is your **strategy** to solve this problem?
 	  logseq.order-list-type:: number
 		- {{embed ((682fc283-167a-4783-aa8e-b38c9fbb8ffc))}}
