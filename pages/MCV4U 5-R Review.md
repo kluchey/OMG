@@ -47,7 +47,7 @@
 				- Now, the parametric equations for $L_2$ are: 
 				  logseq.order-list-type:: number
 				  $$\begin{gather} x =3-2t \\ y =-t \\ z =-2+6t  \end{gather}$$
-				  Let's substitute $(1)$ and $(2)$ into $k=\frac{x-1}{2}=\frac{y+2}{-1}$
+				  Let's substitute $(1)$ and $(2)$ into $k=\frac{x-1}{2}=\frac{y+3}{-1}$
 				- We get:
 				  logseq.order-list-type:: number
 				  $$\frac{(3-2t)-1}{2} = \frac{(-t)+3}{-1}$$
