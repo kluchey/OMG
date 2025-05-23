@@ -93,15 +93,20 @@
 				- logseq.order-list-type:: number
 		- In his handout, Mr. Cluchey messed up and wrote $\langle -2,-1,-6 \rangle$, introducing an extra negative. Does this new, erroneous system still have a point of intersection or is it skew?
 		  logseq.order-list-type:: number
-			- *Solution*.
-			  logseq.order-list-type:: number
+			- logseq.order-list-type:: number
+			  collapsed:: true
+			  *Solution*.
 				- No, there will not be a point of intersection. In the solution to part a, we found $t=2$ by using only the $x$ and $y$ components. We would follow the same strategy in this problem which means we'd get the same $t=2$ parameter for the potential point of intersection.
 				  logseq.order-list-type:: number
-				- Except, it still doesn't work since we would then have $\langle -1,-2,-8 \rangle$, where $x=
+				- Except, it still doesn't work since we would then have $\langle -1,-2,-8 \rangle$, where $x=-1$ and $y=-2$ will still not satisfy the symmetric equation.
 				  logseq.order-list-type:: number
 		- Determine the point of intersection for the following system of equations in $\R^3$. $t,k\in\R$
 		  logseq.order-list-type:: number
 		  $$\begin{cases} L_3: & \{ x=1-k, 2y=k+1, z=2-2k \} \\ L_4: & \langle \frac{1}{2},\frac{3}{4},1 \rangle +t\langle 2,-1,4 \rangle \end{cases}$$
+			- *Solution*.
+			  logseq.order-list-type:: number
+				- A
+				  logseq.order-list-type:: number
 	- Topic:  Making decisions with an ambiguous problem.
 	  logseq.order-list-type:: number
 		- Find the intersection (if any) of the following two lines in $\R^3$, if they do not intersect, state whether they are skew or parallel. $t,k\in\R$
