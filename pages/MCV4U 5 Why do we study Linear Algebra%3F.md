@@ -3,7 +3,7 @@ title:: MCV4U 5 Why do we study Linear Algebra?
 
 - ## Unit 5 Outline
   id:: 682d1d0c-8b4d-4723-bf1d-1b36e344eb6a
-	- Day 1:  5-1 Vectors to Represent Lines in 2D #kanban
+	- Day 1:  5-1 Vectors to Represent Lines in 2D
 		- Day 2:  5-1a Learning to Code with Vectors
 	- Day 3:  5-2 Vectors to Represent Lines in 3D
 		- Day 4: [5-2i Practice with Equations of Lines and Diagrams]([[MCV4U 5-2i Vector Addition Diagram Practice]])
