@@ -1,5 +1,6 @@
 # How should I Study Mathematics in High School? A Guide
 	- ## Avoid Illusions of Knowing
+		- Cramming can produce short-term gains but will be lost in long-term memory, leading to the very common feeling of "hitting a wall you can't climb up"
 	- ## Science Says...
 		- Spaced Repition
 		- Forced Recall
