@@ -115,8 +115,12 @@
 				  logseq.order-list-type:: number
 				- **Strategy**:
 				  logseq.order-list-type:: number
-					- If the lines are coincident, they will share all points. Since we know they are parallel already, we can check if one of the position vectors is on the other line. If we find that, yes,
+					- If the lines are coincident, they will share all points. Since we know they are parallel already, we can check if one of the position vectors is on the other line. If we find that, yes, it is, then the lines must be coincident.
 					  logseq.order-list-type:: number
+					- If that check fails, they must be parallel (not skew).
+					  logseq.order-list-type:: number
+				- Let's see if $
+				  logseq.order-list-type:: number
 	- Topic:  Making decisions with an ambiguous problem.
 	  logseq.order-list-type:: number
 		- Find the intersection (if any) of the following two lines in $\R^3$, if they do not intersect, state whether they are skew or parallel. $t,k\in\R$
