@@ -28,8 +28,7 @@ title:: MCV4U
 	  logseq.order-list-type:: number
 	- [Why do we learn Linear Algebra?]([[MCV4U 5 Why do we study Linear Algebra?]])
 	  logseq.order-list-type:: number
-		- Click to Open a List of Lessons
-		  {{embed ((682d1d0c-8b4d-4723-bf1d-1b36e344eb6a))}}
+		- {{embed ((682d1d0c-8b4d-4723-bf1d-1b36e344eb6a))}}
 	- [Everything is Linear Algebra]([[MCV4U 6]])
 	  logseq.order-list-type:: number
 	- [Resources]([[MCV4U Resources]])
