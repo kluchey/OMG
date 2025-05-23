@@ -164,5 +164,8 @@
 			  logseq.order-list-type:: number
 				- **Strategy**:
 					- This is a complicated one, let's break it down.
-					- If you made A a vector, what would it need to look like? What does every vector on $L_1$ look like? Use parameters to get a formula
+					- If you made A a vector, what would it need to look like? What does every vector on $L_1$ look like? Use parameters to get a formula for the vector A.
+					- Do the same for vector B.
+					- Now get the vector $\vec{AB}$ from these formulas. It should be a rather large vector with multiple variables making up its components.
+					- This vector needs to be perpendicular to two known vectors.
 		- ---
