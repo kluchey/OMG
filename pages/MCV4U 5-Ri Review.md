@@ -34,7 +34,8 @@
 				  <!-- [[draws/2025-05-22-15-10-22.excalidraw]] -->
 		- Why is there no scalar equation for a line in $\R^3$? Hint:  {{cloze Can you draw a diagram to help you figure out and describe what problems someone would have forming a scalar equation of a line in 3D?}}
 		  logseq.order-list-type:: number
-			- *Solution*.
+			- collapsed:: true
+			  *Solution*.
 			  ---
 				- There is not one ==[[normal]]== vector that can define a line, instead there are multiple in many different directions. This does not lend well to an equation which needs to produce points consistently on a line in a specific direction.
 				  logseq.order-list-type:: number
@@ -47,9 +48,10 @@
 		- Determine if there is a point of intersection for the following system of equations in $\R^3$. $t,k\in\R$
 		  logseq.order-list-type:: number
 		  $$\begin{cases} L_1: & \frac{x-1}{2}=\frac{y+3}{-1}=\frac{z-2}{4} \\ L_2: & \vec{r}(t)=\langle 3,0,-2 \rangle +t\langle -2,-1,6 \rangle \end{cases}$$
-			- logseq.order-list-type:: number
+			- *Solution*.
+			  logseq.order-list-type:: number
 			  collapsed:: true
-			  *Solution*.
+			  ---
 				- *Fun Fact*:  I asked ChatGPT to invent a problem that had a point of intersection. It gave me this system. If I ask it to solve this system, it proves that there is no point of intersection. This just goes to show that you can't trust ChatGPT and always need to verify its results.
 				  ![image.png](../assets/image_1747963288277_0.png){:height 292, :width 427}
 				- **Strategy**:
@@ -102,6 +104,7 @@
 		  logseq.order-list-type:: number
 			- *Solution*.
 			  collapsed:: true
+			  ---
 				- No, there will not be a point of intersection. In the solution to part a, we found $t=2$ by using only the $x$ and $y$ components. We would follow the same strategy in this problem which means we'd get the same $t=2$ parameter for the potential point of intersection.
 				  logseq.order-list-type:: number
 				- Except, it still doesn't work since we would then have $\langle -1,-2,-8 \rangle$, where $x=-1$ and $y=-2$ will still not satisfy the symmetric equation.
@@ -111,6 +114,7 @@
 		  $$\begin{cases} L_3: & \{ x=1-k, 2y=k+1, z=2-2k \} \\ L_4: & \langle \frac{1}{2},\frac{3}{4},1 \rangle +t\langle 2,-1,4 \rangle \end{cases}$$
 			- *Solution*.
 			  collapsed:: true
+			  ---
 				- One should always check if the lines are parallel first. In fact these are:
 				  logseq.order-list-type:: number
 				  $$L_3:  \begin{cases} x=1-k \\ y = \frac{1}{2}+\frac{1}{2}k \\z = 2-2k \end{cases}$$
@@ -139,7 +143,7 @@
 		  $$\begin{cases} \langle x,y,z \rangle = \langle 2,14,1 \rangle +t\langle -1,-1,1 \rangle \\ \langle x,y,z \rangle=\langle 3,-3,0 \rangle +t\langle -1,2,5 \rangle \end{cases}$$
 		- Create a ==[[flowchart]]== to explain the steps you should take to efficiently write down the solution to \#3a. Hint: {{cloze The first step in your flowchart should be "Check if the two lines are parallel".  Why is this the suggested first step and how do you check?}}
 		  logseq.order-list-type:: number
-		- No solutions given. This problem is extra practice. Compare to your classmates.
+		- **No solutions given**. This problem is extra practice. Compare to your classmates.
 		- ---
 	- Find the vector equation of a line parallel to $7-x=\frac{y+5}{3}=\frac{z+26}{2}$ and passing through the point $(1,-2,9)$.
 	  logseq.order-list-type:: number
