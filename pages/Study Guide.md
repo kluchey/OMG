@@ -28,6 +28,8 @@
 		- After school routine:
 			- At a minimum, take 2 minutes each evening to do the forced recall activity:
 				- >>Write down everything you know about $x$ topics need to be remembered or understood.
+			- Then, take at least 2 minutes to complete some focused practice:
+				- >> Select questions you need to know after today or have needed to know in the past. Complete them from start to finish.
 			-
 	- ## Pro-tips
 		- Always get a good night's sleep before a test. Always eat breakfast the morning of a test day.
