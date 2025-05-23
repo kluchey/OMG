@@ -69,8 +69,9 @@
 				  &=\langle 3-3,-\frac{3}{2},-2+9 \rangle \\
 				  &=\langle 0,-\frac{3}{2},7 \rangle 
 				  \end{align*}$$
-				- Since we found this point using $L_1$, now we need to check that this point also satisfies $L_2$. If the point is skew, it would
+				- Since we found this point using $L_1$, now we need to check that this point also satisfies $L_2$. If there is no point of intersection, this check will fail.
 				  logseq.order-list-type:: number
+				  $$\begin{gather*} \frac{x-1}{2}=\frac{y+2}{-1}=\frac{z-2}{4} \end{gather*}$$
 				- logseq.order-list-type:: number
 		- In his handout, Mr. Cluchey messed up and wrote $\langle -2,-1,-6 \rangle$, introducing an extra negative. Does this new, erroneous system still have a point of intersection or is it skew?
 		  logseq.order-list-type:: number
