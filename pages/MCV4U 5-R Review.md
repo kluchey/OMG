@@ -42,7 +42,7 @@
 		  $$\begin{cases} L_1: & \frac{x-1}{2}=\frac{y+2}{-1}=\frac{z-2}{4} \\ L_2: & \vec{r}(t)=\langle 3,0,-2 \rangle +t\langle -2,-1,6 \rangle \end{cases}$$
 			- *Solution*.
 			  logseq.order-list-type:: number
-				- Having the lines in two different forms is a tad inconvenient but can work for us. Let $\vec{r}(t)=\langle x,y,z \rangle$ and let $k\in\R$ be a parameter such that $k=\frac{x-1}{2}=\frac{y+2}{-1}=\frac{z-2}{4}$.
+				- Having the lines in two different forms is a tad inconvenient compared to our lesson from class but can still work for us. Let $\vec{r}(t)=\langle x,y,z \rangle$ and let $k\in\R$ be a parameter such that $k=\frac{x-1}{2}=\frac{y+2}{-1}=\frac{z-2}{4}$.
 				  logseq.order-list-type:: number
 				- logseq.order-list-type:: number
 		- In his handout, Mr. Cluchey messed up and wrote $\langle -2,-1,-6 \rangle$, introducing an extra negative. Does this new, erroneous system still have a point of intersection or is it skew?
