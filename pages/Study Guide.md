@@ -1,4 +1,5 @@
 # How should I Study Mathematics in High School? A Guide
+	- Click on the side bar to expand sections or click the bullet points to focus on specific sections for easier reading (recommended).
 	- ## 👻 Avoid Illusions of Knowing
 	  collapsed:: true
 		- **Cramming** can produce short-term gains but these gains will be lost in the long-term [^1], leading to the very common feeling of "hitting a wall you can't climb up" at some future, tougher point in a course or in a future school.
@@ -6,6 +7,7 @@
 		  collapsed:: true
 			- During REM sleep your brain will throw away the information reviewed by re-reading and highlighting because this information is noisy [^1].
 			- You need to perform other activities while re-reading, such as forced recall and focused practice.
+		- The **Game of Telephone**:  Don't rely solely on your memory which fades as days pass. Use notes, research, AI (results may be incorrect), or YouTube to refresh yourself on topics and check your understanding. Otherwise, as memory fades, you might be recalling the wrong concept eventually, like in how the game of telephone each person alters the phrase just slightly by having to remember and whisper to the next person.
 	- ## 🧪 Science Says...
 	  collapsed:: true
 		- ### Spaced Repition [^1]
@@ -16,7 +18,7 @@
 		  collapsed:: true
 			- Take at least 2 minutes each day to perform the activity:
 			  collapsed:: true
-				- >>Write down everything you know about $x$ topics need to be remembered or understood.
+				- >>Write down everything you know about $x$ topics you want to be remembered or understood.
 			- The act of forcing yourself to remember or recall a concept actually stores a memory in your brain for longer. Think of this task like **strengthening** the connections your brain is forming to remember or understand concepts.
 		- ### Focused Practice [^1]
 		  collapsed:: true
