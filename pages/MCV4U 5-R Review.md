@@ -139,7 +139,11 @@
 	- Find the vector equation of a line parallel to $7-x=\frac{y+5}{3}=\frac{z+26}{2}$ and passing through the point $(1,-2,9)$.
 	  logseq.order-list-type:: number
 		- *Solution*.
-			- The direction vector is the denominators, so $\vec{d}=(1,3,2)$.  If we want
+			- The direction vector is the denominators, so $\vec{d}=(1,3,2)$. A line parallel to this has the same direction.
+			  logseq.order-list-type:: number
+			- $\vec{P}=(1,-2,9)$.
+			  logseq.order-list-type:: number
+			- Therefore, $\vec{v}=(1,-2,9) + t(1,3,2)$ for $t\in\R$.
 			  logseq.order-list-type:: number
 		- ---
 	- Thinking & Application
