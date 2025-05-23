@@ -29,8 +29,8 @@
 		- {{embed ((682fc283-167a-4783-aa8e-b38c9fbb8ffc))}}
 		- *Solution*.
 			- We need to be knowledgeable about the symmetric equation. Its general form is
-			  
-			  $$\frac{x-Px}{d_{x}}=_{}\frac{x-P_{x}}{d_{y}}d_{x}$$
+			  $$\frac{x-P_{x}}{d_{x}}=_{}\frac{y-P_{x}}{d_{y}}=\frac{z-P_{z}}{d_{z}}$$
+			- Therefore, the
 	- What is your **strategy** to solve this problem?
 	  logseq.order-list-type:: number
 		- {{embed ((682fc283-1a69-4041-a488-2832ca1eaf96))}}
