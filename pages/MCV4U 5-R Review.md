@@ -61,7 +61,8 @@
 				  3 &= 2t \\
 				  \frac{3}{2} &= t \\
 				  \end{align*}$$
-				- logseq.order-list-type:: number
+				- We need to make use of all the equations eventually, so let's get
+				  logseq.order-list-type:: number
 				- logseq.order-list-type:: number
 				- logseq.order-list-type:: number
 		- In his handout, Mr. Cluchey messed up and wrote $\langle -2,-1,-6 \rangle$, introducing an extra negative. Does this new, erroneous system still have a point of intersection or is it skew?
