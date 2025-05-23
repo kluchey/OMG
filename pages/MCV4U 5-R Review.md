@@ -109,9 +109,10 @@
 				  logseq.order-list-type:: number
 				  $$L_3:  \begin{cases} x=1-k \\ y = 1+\frac{1}{2}k \\z = 2-2k \end{cases}$$
 				  Where the direction vector is
-				  $$\langle -1,\frac{1}{2},-2 \rangle = \left(-\frac{1}{2}\langle 2,-1,4 \rangle$$
+				  $$\langle -1,\frac{1}{2},-2 \rangle = \left(-\frac{1}{2}\right)\langle 2,-1,4 \rangle$$
 				  is a scalar multiple of $L_4$'s direction vector.
-				- logseq.order-list-type:: number
+				- Hence, $L_3$ and $L_4$ are parallel. Now we are not looking for a Point of Intersection anymore, instead, we want to tell if the lines are
+				  logseq.order-list-type:: number
 	- Topic:  Making decisions with an ambiguous problem.
 	  logseq.order-list-type:: number
 		- Find the intersection (if any) of the following two lines in $\R^3$, if they do not intersect, state whether they are skew or parallel. $t,k\in\R$
