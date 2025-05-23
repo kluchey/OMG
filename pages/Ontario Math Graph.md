@@ -31,7 +31,7 @@ icon:: 🍎
 	  :END:
 	- TODO Add more games.
 	- TODO Add more cryptographic puzzles to autocorrect solutions practice.
-	-
+	- $\left\lbrace\right\rbrace$
 	- ---
 - ### Want to Contribute?
 	- This is a free and open source effort hosted on [Github](https://github.com/kluchey/OMG), crafted using [Logseq](https://logseq.com/), and published via [Logseq-SPA](https://github.com/logseq/publish-spa).
