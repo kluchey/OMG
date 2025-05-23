@@ -1,2 +1,2 @@
 - #definition Consistent means we can get the same solution in two or more ways.
-- #eg We $y = 3x + 4$ are the same line because the point $(0,4)$
+- #eg We can tell the point $(0,4)$ is on the line $y = 3x + 4$ because we know that the $+4$ on the end is the ==y-intercept==
