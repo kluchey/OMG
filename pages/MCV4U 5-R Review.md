@@ -55,17 +55,18 @@
 				  logseq.order-list-type:: number
 				  $$\begin{align*}
 				  \frac{3-2t-1}{2} &= \frac{-t+3}{-1} \\
-				  \frac{2-2t}{2} &= t-2 \\
-				  1-t &= t-2 \\
-				  1+2 &= t+t \\
-				  3 &= 2t \\
-				  \frac{3}{2} &= t \\
+				  \frac{2-2t}{2} &= t-3 \\
+				  1-t &= t-3 \\
+				  1+3 &= t+t \\
+				  4 &= 2t \\
+				  \frac{4}{2} &= t \\
+				  2 &= t 
 				  \end{align*}$$
-				- We need to make use of all the equations eventually, so let's use $t=\frac{3}{2}$ to get what we believe is our Point of Intersection:
+				- We need to make use of all the equations eventually, so let's use $t=2$ to get what we believe is our Point of Intersection:
 				  logseq.order-list-type:: number
 				  $$\begin{align*}
 				  \vec{r}(t) &=\langle 3,0,-2 \rangle +t\langle -2,-1,6 \rangle \\
-				  \vec{r}\left(\frac{3}{2}\right) &=\langle 3,0,-2 \rangle +\left(\frac{3}{2}\right)\langle -2,-1,6 \rangle \\ 
+				  \vec{r}(2) &=\langle 3,0,-2 \rangle +\left(\frac{3}{2}\right)\langle -2,-1,6 \rangle \\ 
 				  &=\langle 3-3,-\frac{3}{2},-2+9 \rangle \\
 				  &=\langle 0,-\frac{3}{2},7 \rangle 
 				  \end{align*}$$
