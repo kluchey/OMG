@@ -138,7 +138,7 @@
 				  ---
 		- Determine the point of intersection for the following system of equations in $\R^3$. $t,k\in\R$
 		  logseq.order-list-type:: number
-		  $$\begin{cases} x=3+k \\ y=-7-2k \\ z=5+2k \} \\ L_4: & \langle \frac{1}{2},\frac{3}{4},1 \rangle +t\langle 2,-1,4 \rangle \end{cases}$$
+		  $$L_5:  \begin{cases} x=3+k \\ y=-7-2k \\ z=5+4k \end{cases} \text{ and } L_6:  \begin{cases} x=-7+3t \\ y=-8-2k \\ z=5+4k \end{cases}$$
 	- Topic:  Making decisions with an ambiguous problem.
 	  logseq.order-list-type:: number
 		- Find the intersection (if any) of the following two lines in $\R^3$, if they do not intersect, state whether they are skew or parallel. $t,k\in\R$
