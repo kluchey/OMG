@@ -65,8 +65,9 @@
 				  logseq.order-list-type:: number
 				  $$\begin{align*}
 				  \vec{r}(t) &=\langle 3,0,-2 \rangle +t\langle -2,-1,6 \rangle \\
-				  \vec{r}(\frac{3}{2}) &=\langle 3,0,-2 \rangle +\(\frac{3}{2}\)\langle -2,-1,6 \rangle \\ 
-				  \vec{r}(\frac{3}{2}) &=\langle 3-3,-\frac{3}{2},6 \rangle \\ 
+				  \vec{r}(\frac{3}{2}) &=\langle 3,0,-2 \rangle +(\frac{3}{2})\langle -2,-1,6 \rangle \\ 
+				  \vec{r}(\frac{3}{2}) &=\langle 3-3,-\frac{3}{2},-2+9 \rangle \\
+				  \vec{r}(\frac{3}{2}) &=\langle 0,-\frac{3}{2},7 \rangle 
 				  \end{align*}$$
 				- logseq.order-list-type:: number
 				- logseq.order-list-type:: number
