@@ -107,7 +107,7 @@
 			  logseq.order-list-type:: number
 				- One should always check if the lines are parallel first. In fact these are:
 				  logseq.order-list-type:: number
-				  $$L_3:  \begin{cases} x=1-k \\ y = 1+\frac{1}{2}k \\z = 2-2k \end{cases}$$
+				  $$L_3:  \begin{cases} x=1-k \\ y = \frac{1}{2}+\frac{1}{2}k \\z = 2-2k \end{cases}$$
 				  Where the direction vector is
 				  $$\langle -1,\frac{1}{2},-2 \rangle = \left(-\frac{1}{2}\right)\langle 2,-1,4 \rangle$$
 				  is a scalar multiple of $L_4$'s direction vector.
