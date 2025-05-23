@@ -58,8 +58,10 @@
 				  \frac{2-2t}{2} &= t-2 \\
 				  1-t &= t-2 \\
 				  1+2 &= t+t \\
-				  3 &= t+t \\
+				  3 &= 2t \\
+				  \frac{3}{2} &= t \\
 				  \end{align*}$$
+				- logseq.order-list-type:: number
 				- logseq.order-list-type:: number
 				- logseq.order-list-type:: number
 		- In his handout, Mr. Cluchey messed up and wrote $\langle -2,-1,-6 \rangle$, introducing an extra negative. Does this new, erroneous system still have a point of intersection or is it skew?
