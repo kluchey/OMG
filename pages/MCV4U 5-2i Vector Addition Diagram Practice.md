@@ -7,7 +7,7 @@ alias:: MCV4U 5-2i, CV5-2i
 	  logseq.order-list-type:: number
 		- An airplane, $$\vec{p}$$, is flying and there is wind, $$\vec{w}$$. The airplane wants to travel to a location $$[\text{N}8^\circ E]$$ of where it is currently located. Also draw the resultant, $$\vec{r}$$.
 		  logseq.order-list-type:: number
-			- Solution.
+			- *Solution*.
 			  collapsed:: true
 				- Answers may vary since $\vec{p}$ and $\vec{w}$ do not have defined directions. Can you draw this diagram in with the vectors on the north side of the resultant?
 				- ![image.png](../assets/image_1748000724955_0.png){:height 188, :width 144}
