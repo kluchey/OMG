@@ -27,9 +27,8 @@
 			  logseq.order-list-type:: number
 	- What is your **strategy** to solve this problem?
 	  logseq.order-list-type:: number
-	  
-	  Find the vector equation of a line parallel to $7-x=\frac{y+5}{3}=\frac{z+26}{2}$ and passing through the point $(1,-2,9)$.
-	  ---
+		- {{embed ((682fc283-167a-4783-aa8e-b38c9fbb8ffc))}}
+		  logseq.order-list-type:: number
 	- Thinking & Application
 	  logseq.order-list-type:: number
 		- What do we know about the coordinates of every vector located on the xz-plane?

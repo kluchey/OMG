@@ -180,6 +180,7 @@
 		- ---
 	- Find the vector equation of a line parallel to $7-x=\frac{y+5}{3}=\frac{z+26}{2}$ and passing through the point $(1,-2,9)$.
 	  logseq.order-list-type:: number
+	  id:: 682fc283-167a-4783-aa8e-b38c9fbb8ffc
 		- collapsed:: true
 		  *Solution*.
 			- The direction vector is the denominators, so $\vec{d}=(1,3,2)$. A line parallel to this has the same direction.
@@ -191,6 +192,7 @@
 		- ---
 	- Thinking & Application
 	  logseq.order-list-type:: number
+	  id:: 682fc283-1a69-4041-a488-2832ca1eaf96
 		- What do we know about the coordinates of every vector located on the xz-plane?
 		  logseq.order-list-type:: number
 			- *Solution*.
