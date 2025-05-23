@@ -26,9 +26,9 @@
 		- Complete this relational graph for the various forms of a line in $\R^3$ by annotating the arrows. Note:  Arrows are a short few words to describe the **process(es)** or **step(s) you perform** to go between forms in a specific direction.
 		  logseq.order-list-type:: number
 		  ![image.png](../assets/image_1747928145065_0.png){:height 350, :width 442}
-			- logseq.order-list-type:: number
+			- *Solution*.
+			  logseq.order-list-type:: number
 			  collapsed:: true
-			  Solution.
 				- ![image.png](../assets/image_1747960022652_0.png){:height 583, :width 728}
 				  logseq.order-list-type:: number
 				  <!-- [[draws/2025-05-22-15-10-22.excalidraw]] -->
@@ -42,6 +42,8 @@
 		  $$\begin{cases} L_1: & \frac{x-1}{2}=\frac{y+2}{-1}=\frac{z-2}{4} \\ L_2: & \vec{r}(t)=\langle 3,0,-2 \rangle +t\langle -2,-1,6 \rangle \end{cases}$$
 			- *Solution*.
 			  logseq.order-list-type:: number
+				- Having the lines in two different forms
+				  logseq.order-list-type:: number
 		- In his handout, Mr. Cluchey messed up and wrote $\langle -2,-1,-6 \rangle$, introducing an extra negative. Does this new, erroneous system still have a point of intersection or is it skew?
 		  logseq.order-list-type:: number
 		- Determine the point of intersection for the following system of equations in $\R^3$. $t,k\in\R$
