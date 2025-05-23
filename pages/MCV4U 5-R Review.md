@@ -69,7 +69,8 @@
 				  &=\langle 3-3,-\frac{3}{2},-2+9 \rangle \\
 				  &=\langle 0,-\frac{3}{2},7 \rangle 
 				  \end{align*}$$
-				- logseq.order-list-type:: number
+				- Since we found this point using $L_1$, now we need to check that this point also satisfies $L_2$. If the point is skew, it would
+				  logseq.order-list-type:: number
 				- logseq.order-list-type:: number
 		- In his handout, Mr. Cluchey messed up and wrote $\langle -2,-1,-6 \rangle$, introducing an extra negative. Does this new, erroneous system still have a point of intersection or is it skew?
 		  logseq.order-list-type:: number
