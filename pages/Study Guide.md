@@ -16,9 +16,15 @@
 			- Select questions to practice and complete from start to finish with your best abilities shown in knowledge, thinking, communication, and application.
 		- REM Sleep
 			- A sleep of at least 6-8 hours every night is required by teenagers to get enough REM sleep where your brain stores its most important information for long-term and trashes the unnecessary information.
+		- Memory Palace Technique
+			-
 	- ## Examples
+		- After school routine:
+			- At a
 	- ## Pro-tips
 		- Always get a good night's sleep before a test. Always eat breakfast the morning of a test day.
 		- Always keep a calendar and know when the next test will be so you can prepare days before you write it.
 		- Always practice with the calculator you will use. Learn your calculator well, it is a tool you need to practice.
 		- Always show thinking, even if you think it could be wrong. Don't erase unless you will replace; just cross out lightly.
+	- ### References
+		- [^1]:
