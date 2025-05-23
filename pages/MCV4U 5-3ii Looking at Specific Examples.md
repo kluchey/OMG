@@ -27,6 +27,8 @@
 	- What is your **strategy** to solve this problem?
 	  logseq.order-list-type:: number
 		- {{embed ((682fc283-167a-4783-aa8e-b38c9fbb8ffc))}}
+		- *Solution*.
+			- We need to be knowle
 	- What is your **strategy** to solve this problem?
 	  logseq.order-list-type:: number
 		- {{embed ((682fc283-1a69-4041-a488-2832ca1eaf96))}}
