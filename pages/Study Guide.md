@@ -1,22 +1,22 @@
 # How should I Study Mathematics in High School? A Guide
 	- ## Avoid Illusions of Knowing
 		- Cramming can produce short-term gains but these gains will be lost in the long-term [^1], leading to the very common feeling of "hitting a wall you can't climb up" at some future, tougher point in a course or in a future school.
-		- Re-reading and highlighting *feel* like they produce results but actually produce very little memorization or understanding [].
-			- During REM sleep your brain will throw away the information reviewed by re-reading and highlighting because this information is noisy.
+		- Re-reading and highlighting *feel* like they produce results but actually produce very little memorization or understanding [^1].
+			- During REM sleep your brain will throw away the information reviewed by re-reading and highlighting because this information is noisy [^1].
 			- You need to perform other activities while re-reading, such as forced recall and focused practice.
 	- ## Science Says...
-		- Spaced Repition
+		- Spaced Repition [^1]
 			- Practice over multiple days to really remember a topic. Repeat concepts you feel confident about **and** concepts that are brand new, easily forgotten, or are challenging.
 			- Continue to practice questions from previous units, especially in a subject like math where later units build upon earlier units.
-		- Forced Recall
+		- Forced Recall [^1]
 			- Take at least 2 minutes each day to perform the activity:
 				- >>Write down everything you know about $x$ topics need to be remembered or understood.
 			- The act of forcing yourself to remember or recall a concept actually stores a memory in your brain for longer. Think of this task like **strengthening** the connections your brain is forming to remember or understand concepts.
-		- Focused Practice
+		- Focused Practice [^1]
 			- Select questions to practice and complete from start to finish with your best abilities shown in knowledge, thinking, communication, and application.
 		- REM Sleep
 			- A sleep of at least 6-8 hours every night is required by teenagers to get enough REM sleep where your brain stores its most important information for long-term and trashes the unnecessary information.
-		- Memory Palace Technique
+		- Memory Palace Technique [^1]
 			- Humans evolved to remember locations to hunt, gather, and seek safety; text and algebra are not immediately connected to locations but these connections can be made!
 				- Algebra is related to graphing & geometry. Graphing and geometry both describe physical movements or measurements which can be repeated with your hands, feet, or with objects in space. You can do better at remembering and understanding algebra by using ==[[spacial reasoning]]==.
 				- A sillier but very legitimate method to remember a lot of information and quickly is to place that information around locations you visit often, such as your house or your room.
