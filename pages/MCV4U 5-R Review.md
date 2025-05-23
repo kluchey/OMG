@@ -97,7 +97,7 @@
 			  logseq.order-list-type:: number
 				- No, there will not be a point of intersection. In the solution to part a, we found $t=2$ by using only the $x$ and $y$ components. We would follow the same strategy in this problem which means we'd get the same $t=2$ parameter for the potential point of intersection.
 				  logseq.order-list-type:: number
-				- Except, it still doesn't work since we would then ha
+				- Except, it still doesn't work since we would then have $\langle -1,-2,-8 \rangle$, where $x=
 				  logseq.order-list-type:: number
 		- Determine the point of intersection for the following system of equations in $\R^3$. $t,k\in\R$
 		  logseq.order-list-type:: number
