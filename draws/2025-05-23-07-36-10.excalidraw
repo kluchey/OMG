@@ -161,8 +161,8 @@
         "type": 2
       },
       "seed": 1734066507,
-      "version": 537,
-      "versionNonce": 892530309,
+      "version": 743,
+      "versionNonce": 978335621,
       "isDeleted": false,
       "boundElements": [
         {
@@ -170,7 +170,7 @@
           "id": "R5WfltAhnWO1bCQKJs2rg"
         }
       ],
-      "updated": 1748000953590,
+      "updated": 1748000975844,
       "link": null,
       "locked": false,
       "points": [
@@ -179,8 +179,8 @@
           0
         ],
         [
-          52,
-          -121.5
+          40.5,
+          -97.5
         ],
         [
           89,
@@ -232,10 +232,10 @@
     {
       "id": "jCwedzWN3-uXUqpuAdK7G",
       "type": "arrow",
-      "x": 348,
+      "x": 172,
       "y": 378.2578125,
-      "width": 146.5,
-      "height": 105,
+      "width": 89,
+      "height": 115.5,
       "angle": 0,
       "strokeColor": "#f08c00",
       "backgroundColor": "transparent",
@@ -250,8 +250,8 @@
         "type": 2
       },
       "seed": 112528677,
-      "version": 61,
-      "versionNonce": 1413273061,
+      "version": 179,
+      "versionNonce": 740416203,
       "isDeleted": false,
       "boundElements": [
         {
@@ -259,7 +259,7 @@
           "id": "rvsOCfsKA0IJ87bcCzanW"
         }
       ],
-      "updated": 1748000953590,
+      "updated": 1748001004429,
       "link": null,
       "locked": false,
       "points": [
@@ -268,8 +268,8 @@
           0
         ],
         [
-          146.5,
-          -105
+          89,
+          115.5
         ]
       ],
       "lastCommittedPoint": null,
@@ -281,7 +281,7 @@
     {
       "id": "rvsOCfsKA0IJ87bcCzanW",
       "type": "text",
-      "x": 390.9100341796875,
+      "x": 214.9100341796875,
       "y": 313.2578125,
       "width": 60.679931640625,
       "height": 25,
@@ -297,11 +297,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 2124039269,
-      "version": 19,
-      "versionNonce": 990881515,
+      "version": 67,
+      "versionNonce": 734029925,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1748000953590,
+      "updated": 1748000992544,
       "link": null,
       "locked": false,
       "text": "person",
