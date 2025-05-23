@@ -164,5 +164,5 @@
 			  logseq.order-list-type:: number
 				- **Strategy**:
 					- This is a complicated one, let's break it down.
-					-
+					- If you made A a vector, what would it need to look like? What does every vector on $L_1$ look like? Use parameters to get a formula
 		- ---
