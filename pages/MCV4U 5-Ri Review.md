@@ -151,16 +151,16 @@
 				- Add (2)+(3):
 				  logseq.order-list-type:: number
 				  $$\begin{align*}
-				  − 2 + 2s &= −4 \\
-				  s &= −1
+				  − 2 + 2k &= −4 \\
+				  k &= −1
 				  \end{align*}$$
-				- Substitute $s=-1$ into (2):
+				- Substitute $k=-1$ into (2):
 				  logseq.order-list-type:: number
 				  $$\begin{align*}
 				  − 7 − 2(−1) &= −8 + t \\
 				  t &= 3
 				  \end{align*}$$
-				- Let's check that $s = -1$
+				- Let's check that $k = -1$ and $t=3$ satisfy equation (1). If they do, then this system has a point of intersection.
 				  logseq.order-list-type:: number
 	- Topic:  Making decisions with an ambiguous problem.
 	  logseq.order-list-type:: number
