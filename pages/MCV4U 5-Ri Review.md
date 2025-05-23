@@ -143,7 +143,7 @@
 		  $$\begin{cases} \langle x,y,z \rangle = \langle 2,14,1 \rangle +t\langle -1,-1,1 \rangle \\ \langle x,y,z \rangle=\langle 3,-3,0 \rangle +t\langle -1,2,5 \rangle \end{cases}$$
 		- Create a ==[[flowchart]]== to explain the steps you should take to efficiently write down the solution to \#3a. Hint: {{cloze The first step in your flowchart should be "Check if the two lines are parallel".  Why is this the suggested first step and how do you check?}}
 		  logseq.order-list-type:: number
-		- **No solutions given**. This problem is extra practice. Compare to your classmates.
+		- *No solutions given*. This problem is extra practice. Compare to your classmates.
 		- ---
 	- Find the vector equation of a line parallel to $7-x=\frac{y+5}{3}=\frac{z+26}{2}$ and passing through the point $(1,-2,9)$.
 	  logseq.order-list-type:: number
@@ -162,12 +162,14 @@
 		  logseq.order-list-type:: number
 			- *Solution*.
 			  collapsed:: true
+			  ---
 				- We know the y-coordinate is $0$. I.e. every vector looks like $(\#, 0, \#)$.
 				  logseq.order-list-type:: number
 		- Find the equation of the line which has a direction vector perpendicular to the xy-plane and passing through the origin. This line has another name, what is it?
 		  logseq.order-list-type:: number
 			- *Solution*.
 			  collapsed:: true
+			  ---
 				- A vector perpendicular to the xy-plane is $(0,0,1)$ and if this line passes through $(0,0,0)$ then we know the equation is, for $t\in\R$:
 				  logseq.order-list-type:: number
 				  $$(x,y,z)=t(0,0,1)$$
@@ -178,6 +180,7 @@
 		  $$\begin{cases} L_1: & \langle x,y,z \rangle = \langle 0,17,-10 \rangle +k\langle 2,0,1 \rangle \\ L_2: & \langle x,y,z \rangle =\langle 13,30,19 \rangle +t\langle 5,6,5 \rangle \end{cases}$$
 			- *Solution*.
 			  collapsed:: true
+			  ---
 				- **Strategy**:
 					- This is a complicated one, let's break it down.
 					- If you made A a vector, what would it need to look like? What does every vector on $L_1$ look like? Use parameters to get a formula for the vector A.
@@ -187,4 +190,3 @@
 						- When it comes to solving unknowns, use the dot product.
 						- The cross product is better for situations in which you need to create a vector which is perpendicular.
 					- Dot product your large formula based vector with each direction vector. You will get two equations in two variables, $t,k$, from doing this. Solve for both $t$ and $k$ with this system and then you can get points A and B from $t$ and $k$ using earlier formulas.
-		- ---
