@@ -4,7 +4,6 @@
 		- Determine the vector, parametric, and symmetric equations of the line through the points $A(3, -1, 5)$ and $B(-4, 5, -9)$.
 		  logseq.order-list-type:: number
 			- *Solution*.
-			  logseq.order-list-type:: number
 			  collapsed:: true
 				- Begin by finding the direction of the line, $\vec{d}$. Since the line travels between points $A$ and $B$ we reason that:
 				  logseq.order-list-type:: number
@@ -27,7 +26,6 @@
 		  logseq.order-list-type:: number
 		  ![image.png](../assets/image_1747928145065_0.png){:height 350, :width 442}
 			- *Solution*.
-			  logseq.order-list-type:: number
 			  collapsed:: true
 				- ![image.png](../assets/image_1747960022652_0.png){:height 583, :width 728}
 				  logseq.order-list-type:: number
@@ -93,9 +91,8 @@
 				- logseq.order-list-type:: number
 		- In his handout, Mr. Cluchey messed up and wrote $\langle -2,-1,-6 \rangle$, introducing an extra negative. Does this new, erroneous system still have a point of intersection or is it skew?
 		  logseq.order-list-type:: number
-			- logseq.order-list-type:: number
+			- *Solution*.
 			  collapsed:: true
-			  *Solution*.
 				- No, there will not be a point of intersection. In the solution to part a, we found $t=2$ by using only the $x$ and $y$ components. We would follow the same strategy in this problem which means we'd get the same $t=2$ parameter for the potential point of intersection.
 				  logseq.order-list-type:: number
 				- Except, it still doesn't work since we would then have $\langle -1,-2,-8 \rangle$, where $x=-1$ and $y=-2$ will still not satisfy the symmetric equation.
@@ -103,9 +100,8 @@
 		- Determine the point of intersection for the following system of equations in $\R^3$. $t,k\in\R$
 		  logseq.order-list-type:: number
 		  $$\begin{cases} L_3: & \{ x=1-k, 2y=k+1, z=2-2k \} \\ L_4: & \langle \frac{1}{2},\frac{3}{4},1 \rangle +t\langle 2,-1,4 \rangle \end{cases}$$
-			- logseq.order-list-type:: number
+			- *Solution*.
 			  collapsed:: true
-			  *Solution*.
 				- One should always check if the lines are parallel first. In fact these are:
 				  logseq.order-list-type:: number
 				  $$L_3:  \begin{cases} x=1-k \\ y = \frac{1}{2}+\frac{1}{2}k \\z = 2-2k \end{cases}$$
@@ -138,7 +134,8 @@
 		- ---
 	- Find the vector equation of a line parallel to $7-x=\frac{y+5}{3}=\frac{z+26}{2}$ and passing through the point $(1,-2,9)$.
 	  logseq.order-list-type:: number
-		- *Solution*.
+		- collapsed:: true
+		  *Solution*.
 			- The direction vector is the denominators, so $\vec{d}=(1,3,2)$. A line parallel to this has the same direction.
 			  logseq.order-list-type:: number
 			- $\vec{P}=(1,-2,9)$.
@@ -150,9 +147,8 @@
 	  logseq.order-list-type:: number
 		- What do we know about the coordinates of every vector located on the xz-plane?
 		  logseq.order-list-type:: number
-			- logseq.order-list-type:: number
+			- *Solution*.
 			  collapsed:: true
-			  *Solution*.
 				- We know the y-coordinate is $0$. I.e. every vector looks like $(\#, 0, \#)$.
 				  logseq.order-list-type:: number
 		- Find the equation of the line which has a direction vector perpendicular to the xy-plane and passing through the origin. This line has another name, what is it?
