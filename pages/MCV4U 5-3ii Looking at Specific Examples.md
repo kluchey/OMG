@@ -8,7 +8,7 @@
 				  logseq.order-list-type:: number
 					- If $t$ is different from both equations (not equal) then the point is not on the line.
 					  logseq.order-list-type:: number
-					- If $t$ is ==[[consistent]]==
+					- If $t$ is ==[[consistent]]== then the point is on the line.
 					  logseq.order-list-type:: number
 	- Is the point $\begin{bmatrix}3\\ 4\end{bmatrix}$ on the line $\begin{bmatrix}x\\ y\end{bmatrix}=\begin{bmatrix}-1\\ 3\end{bmatrix}+t\begin{bmatrix}5\\ -2\end{bmatrix}$
 	  logseq.order-list-type:: number
