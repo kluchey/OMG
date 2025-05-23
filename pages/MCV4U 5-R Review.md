@@ -50,9 +50,13 @@
 				  Let's substitute $(1)$ and $(2)$ into $k=\frac{x-1}{2}=\frac{y+2}{-1}$
 				- We get:
 				  logseq.order-list-type:: number
-				  $$\frac{(3-2t)-1}{2} = \frac{-t+2}{-1}$$
+				  $$\frac{(3-2t)-1}{2} = \frac{(-t)+2}{-1}$$
 				- Simplifying:
 				  logseq.order-list-type:: number
+				  $$\begin{align*}
+				  \frac{3-2t-1}{2} &= \frac{-t+2}{-1} \\
+				  \end{align*}$$
+				- logseq.order-list-type:: number
 				- logseq.order-list-type:: number
 		- In his handout, Mr. Cluchey messed up and wrote $\langle -2,-1,-6 \rangle$, introducing an extra negative. Does this new, erroneous system still have a point of intersection or is it skew?
 		  logseq.order-list-type:: number
