@@ -8,8 +8,9 @@
 			- Continue to practice questions from previous units, especially in a subject like math where later units build upon earlier units.
 		- Forced Recall
 			- The act of forcing yourself to remember or recall a concept actually stores a memory in your brain for longer.
-			-
+			- Think of this task like **strengthening** the connections your brain is forming to remember or understand concepts.
 		- Focused Practice
+			- Select questions to practice and complete from start to finish with
 		- REM Sleep
 	- ## Examples
 	- ## Pro-tips
