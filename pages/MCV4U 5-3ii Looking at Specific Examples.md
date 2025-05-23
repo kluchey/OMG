@@ -2,6 +2,7 @@
 	- Is the point $\begin{bmatrix}3\\ 4\end{bmatrix}$ on the line $\begin{bmatrix}x\\ y\end{bmatrix}=\begin{bmatrix}-1\\ 3\end{bmatrix}+t\begin{bmatrix}5\\ 7\end{bmatrix}$
 	  logseq.order-list-type:: number
 		- *Solution*.
+		  collapsed:: true
 			- To check if a point is on a vector equation, we need there to exist a value of $t\in\R$ that gives us this point using the equation for the line.
 			  logseq.order-list-type:: number
 				- If we substitute our $(3,4)$ into the equation, we can then solve for $t$.
