@@ -1,0 +1,2 @@
+- #definiton Inspection is essentially the "guess and check" method of solving but you have found your answer very quickly by "seeing it".
+- #eg $4=3+t$

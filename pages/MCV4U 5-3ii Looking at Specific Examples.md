@@ -22,7 +22,7 @@
 		  logseq.order-list-type:: number
 			- Solving by ==[[inspection]]==.
 			  logseq.order-list-type:: number
-			- By inspection, the solution $t=2$
+			- By inspection, the solution $t=2$.
 			  logseq.order-list-type:: number
 	- What is your **strategy** to solve this problem?
 	  logseq.order-list-type:: number
