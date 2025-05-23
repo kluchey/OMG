@@ -136,10 +136,11 @@
 				- Therefore, these lines are coincident.
 				  logseq.order-list-type:: number
 				  ---
-		- Determine the point of intersection for the following system of equations in $\R^3$. **This system actually has a point of intersection**. $t,k\in\R$
+		- **New!** Determine the point of intersection for the following system of equations in $\R^3$. **This system actually has a point of intersection**. $t,k\in\R$
 		  logseq.order-list-type:: number
 		  $$L_5:  \begin{cases} x=3+k \\ y=-7-2k \\ z=5+4k \end{cases} \text{ and } L_6:  \begin{cases} x=-7+3t \\ y=-8+t \\ z=4-t \end{cases}$$
-			- *Solution*.
+			- collapsed:: true
+			  *Solution*.
 			  ---
 				- Let's first notice that the direction vectors are not scalar multiples of one another, so this system is not parallel or coincident.
 				  logseq.order-list-type:: number
