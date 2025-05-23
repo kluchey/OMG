@@ -44,7 +44,7 @@
 			  logseq.order-list-type:: number
 				- Having the lines in two different forms is a tad inconvenient compared to our lesson from class but can still work for us. Let $\vec{r}(t)=\langle x,y,z \rangle$ and let $k\in\R$ be a parameter such that $k=\frac{x-1}{2}=\frac{y+2}{-1}=\frac{z-2}{4}$.
 				  logseq.order-list-type:: number
-				- Now, the parameteric equations for $L_2$ are:  $\begin{cases} x=3-2t \\ y=-t,  \end{cases}$
+				- Now, the parametric equations for $L_2$ are:  $\begin{cases} x=3-2t \\ y=-t \\ z=-2+6t  \end{cases}$.
 				  logseq.order-list-type:: number
 		- In his handout, Mr. Cluchey messed up and wrote $\langle -2,-1,-6 \rangle$, introducing an extra negative. Does this new, erroneous system still have a point of intersection or is it skew?
 		  logseq.order-list-type:: number
