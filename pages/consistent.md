@@ -1,2 +1,2 @@
 - #definition Consistent means we can get the same solution in two or more ways.
-- #eg We know $y = 3x + 4$ and $2y = 6x + 8$ are the same line because
+- #eg We know $y = 3x + 4$ and $2y - 6x - 8 = 0$ are the same line because the point
