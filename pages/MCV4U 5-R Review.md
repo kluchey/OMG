@@ -170,5 +170,5 @@
 					- This vector needs to be perpendicular to two known vectors. You see the word perpendicular which should cue up either:  dot product or cross product.
 						- When it comes to solving unknowns, use the dot product.
 						- The cross product is better for situations in which you need to create a vector which is perpendicular.
-					-
+					- Dot product your large formula based vector with
 		- ---
