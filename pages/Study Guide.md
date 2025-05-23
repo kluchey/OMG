@@ -30,7 +30,8 @@
 				- >>Write down everything you know about $x$ topics need to be remembered or understood.
 			- Then, take at least 2 minutes to complete some focused practice:
 				- >> Select questions you need to know after today or have needed to know in the past. Complete them from start to finish.
-			-
+				- In math class, usually we do more focused practice than just 2 minutes and most questions require more than 2 minutes to write down.
+			- Then, take 2 minutes to re
 	- ## Pro-tips
 		- Always get a good night's sleep before a test. Always eat breakfast the morning of a test day.
 		- Always keep a calendar and know when the next test will be so you can prepare days before you write it.
