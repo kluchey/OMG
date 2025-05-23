@@ -1,6 +1,10 @@
 # How should I Study Mathematics in High School? A Guide
 	- ## Avoid Illusions of Knowing
 	- ## Science Says...
+		- Spaced Repition
+		- Forced Recall
+		- Focused Practice
+		- REM Sleep
 	- ## Examples
 	- ## Pro-tips
 		- Always get a good night's sleep before a test. Always eat breakfast the morning of a test day.
