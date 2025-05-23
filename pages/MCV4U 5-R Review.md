@@ -134,11 +134,14 @@
 		  $$\begin{cases} \langle x,y,z \rangle = \langle 2,14,1 \rangle +t\langle -1,-1,1 \rangle \\ \langle x,y,z \rangle=\langle 3,-3,0 \rangle +t\langle -1,2,5 \rangle \end{cases}$$
 		- Create a ==[[flowchart]]== to explain the steps you should take to efficiently write down the solution to \#3a. Hint: {{cloze The first step in your flowchart should be "Check if the two lines are parallel".  Why is this the suggested first step and how do you check?}}
 		  logseq.order-list-type:: number
-		- No solutions given.
+		- No solutions given. This problem is extra practice. Compare to your classmates.
 		- ---
 	- Find the vector equation of the line parallel to $7-x=\frac{y+5}{3}=\frac{z+26}{2}$.
 	  logseq.order-list-type:: number
-	  ---
+		- *Solution*.
+			- N
+			  logseq.order-list-type:: number
+		- ---
 	- Thinking & Application
 	  logseq.order-list-type:: number
 		- What do we know about the coordinates of every vector located on the xz-plane?
