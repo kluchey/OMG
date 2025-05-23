@@ -115,7 +115,7 @@
 				  logseq.order-list-type:: number
 				- **Strategy**:
 				  logseq.order-list-type:: number
-					- If the lines are coincident, they will share a
+					- If the lines are coincident, they will share all points. Since we know they are parallel already, we can check if one of the position vectors is on the other line. If we find that, yes,
 					  logseq.order-list-type:: number
 	- Topic:  Making decisions with an ambiguous problem.
 	  logseq.order-list-type:: number
