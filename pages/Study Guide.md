@@ -18,7 +18,8 @@
 			- A sleep of at least 6-8 hours every night is required by teenagers to get enough REM sleep where your brain stores its most important information for long-term and trashes the unnecessary information.
 		- Memory Palace Technique
 			- Humans evolved to remember locations to hunt, gather, and seek safety; text and algebra are not immediately connected to locations but these connections can be made!
-				- Algebra is related to graphing & geometry. Graphing and geometry both describe physical movements or measurements which can be repeated with your hands, feet, or with objects in space. You can do better at remembering and understanding algebra by using ==spacial reasoning==.
+				- Algebra is related to graphing & geometry. Graphing and geometry both describe physical movements or measurements which can be repeated with your hands, feet, or with objects in space. You can do better at remembering and understanding algebra by using ==[[spacial reasoning]]==.
+				- A sillier but very legitimate method to remember a lot of information and quickly is to place that information around locations you visit often, such as your house or your room.
 	- ## Examples
 		- After school routine:
 			- At a
