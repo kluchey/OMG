@@ -55,6 +55,10 @@
 				  logseq.order-list-type:: number
 				  $$\begin{align*}
 				  \frac{3-2t-1}{2} &= \frac{-t+2}{-1} \\
+				  \frac{2-2t}{2} &= t-2 \\
+				  1-t &= t-2 \\
+				  1+2 &= t+t \\
+				  3 &= t+t \\
 				  \end{align*}$$
 				- logseq.order-list-type:: number
 				- logseq.order-list-type:: number
