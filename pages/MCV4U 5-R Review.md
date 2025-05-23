@@ -39,7 +39,7 @@
 	  logseq.order-list-type:: number
 		- Determine the point of intersection for the following system of equations in $\R^3$. $t,k\in\R$
 		  logseq.order-list-type:: number
-		  $$\begin{cases} L_1: & \frac{x-1}{2}=\frac{y+2}{-1}=\frac{z-2}{4} \\ L_2: & \vec{r}(t)=\langle 3,0,-2 \rangle +t\langle -2,-1,6 \rangle \end{cases}$$
+		  $$\begin{cases} L_1: & \frac{x-1}{2}=\frac{y+3}{-1}=\frac{z-2}{4} \\ L_2: & \vec{r}(t)=\langle 3,0,-2 \rangle +t\langle -2,-1,6 \rangle \end{cases}$$
 			- *Solution*.
 			  logseq.order-list-type:: number
 				- Having the lines in two different forms is a tad inconvenient compared to our lesson from class but can still work for us. Let $\vec{r}(t)=\langle x,y,z \rangle$.
@@ -50,11 +50,11 @@
 				  Let's substitute $(1)$ and $(2)$ into $k=\frac{x-1}{2}=\frac{y+2}{-1}$
 				- We get:
 				  logseq.order-list-type:: number
-				  $$\frac{(3-2t)-1}{2} = \frac{(-t)+2}{-1}$$
+				  $$\frac{(3-2t)-1}{2} = \frac{(-t)+3}{-1}$$
 				- Simplifying:
 				  logseq.order-list-type:: number
 				  $$\begin{align*}
-				  \frac{3-2t-1}{2} &= \frac{-t+2}{-1} \\
+				  \frac{3-2t-1}{2} &= \frac{-t+3}{-1} \\
 				  \frac{2-2t}{2} &= t-2 \\
 				  1-t &= t-2 \\
 				  1+2 &= t+t \\
