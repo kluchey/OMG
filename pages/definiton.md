@@ -1,1 +1,2 @@
-- #axiom
+- #axiom Definitions are like the atoms of math knowledge. We need to know & understand what we are talking about in order to reason about it.
+-
