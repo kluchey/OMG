@@ -16,7 +16,8 @@ icon:: 🍎
 		- ### Grade 11
 			- [[MCR3U]] Functions
 		- ### Grade 12
-			- [[MCV4U]] Calculus and Vectors
+			- [[MCV4U]] 
+			  Calculus & Vectors
 				- [[MCV4U 5-3]], [[MCV4U 5-Ri Review]], [[MCV4U 5-Rii Looking at Specific Examples]]
 			- [[MDM4U]] Data Management
 			- [[MHF4U]] Advanced Functions
