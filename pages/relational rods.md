@@ -2,7 +2,7 @@
 	- #### Vocabulary
 		- A **pairing** or **relation** is when you create two rows of rods that will be compared for sizes.
 		- A **1-rod** is the smallest rod. A **10-rod** is the largest. Each rod in between is named similarly, eg. **2-rod**.
-		- A **fraction** is a relation between two
+		- A **fraction** is a relation between two rod sizes (numbers). How many of the smaller row fits within the larger row?
 - #eg The fraction $\frac13$ can be represented with any of the following or more. #.v-gallery-col1
   Can you see why each of these relational rods is $\frac13$? How can the fact that $\frac13=\frac26=\frac39=\frac{4}{12}$ be used to explain why each of these pairings is $\frac13$?
 	- ![image.png](../assets/image_1748109539896_0.png){:height 92, :width 96}
