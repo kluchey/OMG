@@ -2,8 +2,8 @@ alias:: Calculus & Vectors, Calculus, Vectors
 icon:: ⇀∆
 title:: MCV4U
 
-- # Grade 12 Calculus & Vectors [Course Outline]([[MHF4U Outline]])
-	- Term Work
+- # Grade 12 Calculus & Vectors #.v-kanban
+	- Term Work 70%
 		- DOING Unit 5
 		  :LOGBOOK:
 		  CLOCK: [2025-05-22 Thu 22:57:09]--[2025-05-23 Fri 10:30:41] =>  11:33:32
@@ -13,9 +13,10 @@ title:: MCV4U
 		  CLOCK: [2025-05-23 Fri 10:31:17]
 		  :END:
 		- TODO Unit 6
-	- TODO Mark Update
-	- TODO Exam Study
-	- TODO Final Exam
+		- TODO Mark Update
+	- Culminating 30%
+		- TODO Exam Study
+		- TODO Final Exam
 - ## Table of Contents 
   #self-border-children
 	- 0. [Slopes & Points]([[MCV4U 0]])
