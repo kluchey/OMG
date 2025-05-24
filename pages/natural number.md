@@ -1,2 +1,2 @@
 - #definiton A natural number is any number in this set:  $\mathbb{N}=\left\lbrace1,2,3,\ldots,100,\ldots,1000,\ldots\right\rbrace$.
-	-
+	- These are the numbers you first learn about in school so they are "natural" to us.
