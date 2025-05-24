@@ -10,7 +10,7 @@ id:: 682a36fc-2f8d-4932-b9b0-2b8dea761241
 			  logseq.order-list-type:: number
 			- Computational Thinking 🧮 by organizing & communicating instructions
 			  logseq.order-list-type:: number
-		- Teachers, please see the elementary curriculum
+		- Educators, please see the [[Elementary Curriculum Connector]].
 	- ## Background #.v-self-border
 		- You've been assigned to train a robot assistant 🤖 and right now it can't think, it can only follow the exact words of your instructions. You didn't know going to high school would mean you'd have this huge responsibility to train a robot how to think, yet here you are, and you're *hungry*. You decide to ask the robot to make you a PB&J Sandwich (or a school safe SB&J). What are the instructions you give the robot to make the sandwich? Write them down and then watch the video below.
 		- {{video https://youtube.com/watch?v=FN2RM-CHkuI&si=1ePr5-ggg5uNEG0D}}
