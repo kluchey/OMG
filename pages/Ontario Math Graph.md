@@ -29,7 +29,9 @@ icon:: 🍎
 				- [5-Ri Review Part 1]([[MCV4U 5-Ri Review]])
 				- [5-Rii Examples]([[MCV4U 5-Rii Looking at Specific Examples]])
 			- [[MDM4U]] Data Management
-			- [[MCT4C]]
+			- [[MCT4C]] Mathematics for College Technology
+			- [[MAP4C]] Foundations for College Mathematics
+			- [[MEL4E]] Mathematics for Work and Everyday Life
 - # 📰 News & TODO
 	- This is what I'm working on right now and a road map for the future.
 	- DOING Working on [[MTH1W]] Course Content
