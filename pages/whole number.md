@@ -1,2 +1,2 @@
 - #definiton A whole number is a ==[[natural number]]== or zero (0).
-	- $$$$
+	- $\whole = \left\lbrace0,1,2,3,4,5,\ldots,100,\ldots,1000,\ldots\right\rbrace$
