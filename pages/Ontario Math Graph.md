@@ -3,7 +3,7 @@ alias:: OMG, Homepage, Contents
 icon:: 🍎
 
 - #+BEGIN_IMPORTANT
-  This resource is a Work in Progress! And is best viewed on a desktop or tablet.
+  This resource is a Work in Progress! And is best viewed on a desktop or a wide-screen.
   #+END_IMPORTANT
 - # OMG Hello 👋 #.v-self-border
 	- Welcome to Mr. Cluchey's Ontario Math Graph. Students, Parents, and Teachers are welcome to use or adapt these self-directed lessons to help your Ontario student learn mathematics.
