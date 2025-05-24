@@ -2,21 +2,21 @@ alias:: Grade 9, 1W
 icon:: 💡
 
 - # Grade 9 Mathematics #.v-self-border
-- ## Course Outline #.v-self-border-children
-	- id:: 68292d34-6cf9-4f6a-b05c-7a8b7cb8b992
-	  0. [Key Skills for Review]([[MTH1W 0 Skill Review]])
-	- [Number](MTH1W 1 Number)
-	  logseq.order-list-type:: number
-	- [Algebra](MTH1W 2 Algebra)
-	  logseq.order-list-type:: number
-	- [Linear Relations]([[MTH1W 3 Linear Relations]])
-	  logseq.order-list-type:: number
-	- [Financial Reasoning](MTH1W 4 Financial Reasoning)
-	  logseq.order-list-type:: number
-	- [Mathematical Modelling]([[MTH1W 5 Mathematical Modelling]])
-	  logseq.order-list-type:: number
-	- [Resources](MTH1W Resources)
-	  logseq.order-list-type:: number
+	- ## Course Outline #.v-self-border-children
+		- id:: 68292d34-6cf9-4f6a-b05c-7a8b7cb8b992
+		  0. [Key Skills for Review]([[MTH1W 0 Skill Review]])
+		- [Number](MTH1W 1 Number)
+		  logseq.order-list-type:: number
+		- [Algebra](MTH1W 2 Algebra)
+		  logseq.order-list-type:: number
+		- [Linear Relations]([[MTH1W 3 Linear Relations]])
+		  logseq.order-list-type:: number
+		- [Financial Reasoning](MTH1W 4 Financial Reasoning)
+		  logseq.order-list-type:: number
+		- [Mathematical Modelling]([[MTH1W 5 Mathematical Modelling]])
+		  logseq.order-list-type:: number
+		- [Resources](MTH1W Resources)
+		  logseq.order-list-type:: number
 - ## News & TODO #.v-self-border
 	- TODO Plan Course Skill Review
 		- DOING Include Relational Rods & Algebra Tiles
