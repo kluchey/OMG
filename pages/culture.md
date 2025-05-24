@@ -1,1 +1,1 @@
-- #definiton
+- #definiton A culture is every *thing* or *idea*
