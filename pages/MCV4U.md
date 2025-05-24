@@ -1,4 +1,4 @@
-alias:: Calculus & Vectors, Calculus, Vectors
+alias:: Calculus, Vectors
 icon:: ⇀∆
 title:: MCV4U
 

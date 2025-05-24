@@ -1,4 +1,3 @@
-alias:: Grade 9, 1W
 icon:: 💡
 
 - # Grade 9 Mathematics #.v-self-border
