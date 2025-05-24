@@ -426,5 +426,4 @@
  :publishing/all-pages-public? true
  :editor/preferred-pasting-file? true
  :graph/settings {:orphan-pages? false
- :excluded-pages? true}
- :graph/forcesettings {:link-dist 110}}
+ :excluded-pages? false}}
