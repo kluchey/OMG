@@ -16,7 +16,7 @@ title:: MCV4U
 	- TODO Exam Study
 	- TODO Final Exam
 	- ---
-- ## Table of Contents /.v
+- ## Table of Contents
 	- 0. [Slopes & Points]([[MCV4U 0]])
 	- [Why invent the Derivative?]([[MCV4U 1]])
 	  logseq.order-list-type:: number
