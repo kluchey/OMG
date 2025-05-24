@@ -3,17 +3,17 @@ id:: 682a36fc-2f8d-4932-b9b0-2b8dea761241
 | Return to [[MTH1W]] Homepage | Return to [Unit 0]([[MTH1W 0]]) Overview | Go to [next unit]([[MTH1W 1 Number]]) |
 - # Key Skills for Review
 	- ## Learning Objectives #.v-self-border
-		- DOING This page is a work in progress. #WiP
+		- DOING This page is a work in progress
 		  :LOGBOOK:
 		  CLOCK: [2025-05-20 Tue 13:24:49]
 		  :END:
 		- Students will review three key skills that they also continue to develop throughout all units of Grade 9 Mathematics.
-		- Representing Quantities 📈 such as fractions
-		  logseq.order-list-type:: number
-		- Solving for an Unknown 🟰 by using equations & formulas
-		  logseq.order-list-type:: number
-		- Computational Thinking 🧮 by organizing & communicating instructions
-		  logseq.order-list-type:: number
+			- Representing Quantities 📈 such as fractions
+			  logseq.order-list-type:: number
+			- Solving for an Unknown 🟰 by using equations & formulas
+			  logseq.order-list-type:: number
+			- Computational Thinking 🧮 by organizing & communicating instructions
+			  logseq.order-list-type:: number
 	- ## Background #.v-self-border
 		- You've been assigned a robot assistant 🤖 to train and right now it can't think, it can only follow the exact words of your instructions. You didn't know going to high school would mean you'd have this huge responsibility to train a robot how to think, yet here you are, and you're *hungry*. You decide to ask the robot to make you a PB&J Sandwich (or a school safe SB&J). What are the instructions you give the robot to make the sandwich? Write them down and then watch the video below.
 		- {{video https://youtube.com/watch?v=FN2RM-CHkuI&si=1ePr5-ggg5uNEG0D}}
