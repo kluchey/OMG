@@ -19,7 +19,8 @@ icon:: 🍎
 			- [[MAT2L]] Essentials of Mathematics 10
 		- ### Grade 11
 			- [[MCR3U]] Functions
-			-
+			- [[MCF3M]] Functions & Applications
+			- [[MBF3C]]
 		- ### Grade 12
 			- [[MCV4U]] Calculus & Vectors
 				- [5-3 PoI]([[MCV4U 5-3]])
