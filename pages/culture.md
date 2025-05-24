@@ -1,1 +1,2 @@
-- #definiton A culture is every *thing* or *idea*
+- #definiton A culture is every *thing* or *idea* that is produced, used, or thought about by a group of people.
+- #eg People who learn math learn to be part of a
