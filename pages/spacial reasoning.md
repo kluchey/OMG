@@ -1,1 +1,1 @@
-- #definition The ability to
+- #definition The ability to visualize positions and orientations of objects
