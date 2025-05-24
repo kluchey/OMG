@@ -36,7 +36,7 @@
 :collapsedHeight 0
 :nonce 1748130406288}}
 :block/updated-at 1748130907949} 
-{:block/content "![Grade 8 Curriculum](../assets/pdfs/math18currJan2021.pdf)"
+{:block/content ""
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "68325a67-f6c2-4f40-a489-361d50fcfb09"}
@@ -44,34 +44,7 @@
 {:block/uuid #uuid "68325a5b-1af6-466e-9b02-a875d507daf8"}
 :block/properties 
 {}
-:block/uuid #uuid "68325ccc-054c-408f-b09e-54d898e0398a"} 
-{:block/created-at 1748131077022
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:blockType "B"
-:stroke ""
-:collapsed false
-:borderRadius 8
-:index 1
-:scale [1 1]
-:pageId "68325ccc-054c-408f-b09e-54d898e0398a"
-:scaleLevel "md"
-:fill ""
-:compact true
-:isAutoResizing true
-:type "logseq-portal"
-:size [400 40.90089416503906]
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:id "b73d6940-38fa-11f0-902a-55a3112759b4"
-:noFill false
-:point [416 320]
-:parentId "68325a5b-1af6-466e-9b02-a875d507daf8"
-:collapsedHeight 0
-:nonce 1748130991591}}
-:block/updated-at 1748131077022})
+:block/uuid #uuid "68325ccc-054c-408f-b09e-54d898e0398a"})
 :pages (
 {:block/uuid #uuid "68325a5b-1af6-466e-9b02-a875d507daf8"
 :block/properties 
@@ -83,8 +56,8 @@
 {}
 :nonce 1
 :assets []
-:shapes-index ("5a41a8b0-38f9-11f0-902a-55a3112759b4" "b73d6940-38fa-11f0-902a-55a3112759b4")}}
-:block/updated-at 1748131077022
+:shapes-index ("5a41a8b0-38f9-11f0-902a-55a3112759b4")}}
+:block/updated-at 1748131151105
 :block/created-at 1748130395715
 :block/type "whiteboard"
 :block/name "curriculum compare"
