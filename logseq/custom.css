@@ -212,7 +212,7 @@ html[data-theme=light] {
   --ls-block-bullet-color: #D3D6DF;
   --ls-block-bullet-active-color: var(--ls-link-text-color);
   --ls-block-bullet-border-color: #D3D6DF;
-  --ls-guideline-color: #D3D6DF;
+  --ls-guideline-color: #D3D6DFkan;
   --ls-guideline-hover-color: var(--ls-tag-text-hover-color);
   --ct-h1-color: #9FCCB3;
   --ct-h2-color: #E1B493;
