@@ -14,10 +14,13 @@ icon:: 🍎
 				- [[MTH1W 3 Dice Games]]
 		- Grade 10
 			- [[MPM2D]]
-			- [[MCR3U]] | |
-			  | [[MCV4U]] | [[MCV4U 5-3]], [[MCV4U 5-Ri Review]], [[MCV4U 5-Rii Looking at Specific Examples]] |
-			  | [[MDM4U]] | |
-			  | [[MHF4U]] | |
+		- Grade 11
+			- [[MCR3U]]
+		- Grade 12
+			- [[MCV4U]] Calculus and Vectors
+				- [[MCV4U 5-3]], [[MCV4U 5-Ri Review]], [[MCV4U 5-Rii Looking at Specific Examples]]
+			- [[MDM4U]] Data Management
+			- [[MHF4U]]
 - # 📰 News & TODO
 	- This is what I'm working on right now and a road map for the future.
 	- DOING Working on [[MTH1W]] Course Content
