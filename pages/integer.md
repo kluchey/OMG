@@ -1,1 +1,1 @@
-- #definition An integer is a positive or negative whole number.
+- #definition An integer is a positive or negative ==[[whole number]]==.

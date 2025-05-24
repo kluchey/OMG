@@ -1,0 +1,2 @@
+- #definiton A whole number is a ==[[natural number]]== or zero (0).
+	- $$$$
