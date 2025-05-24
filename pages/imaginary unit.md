@@ -5,5 +5,5 @@
 	- $$\left(\sqrt{-1}\right)^2+1=-1+1=0$$
 	- So $x=-\sqrt{-1}$ is also a solution:
 	- $$\left(-\sqrt{-1}\right)^2+1=\left(\sqrt{-1}\right)^2+1=-1+1=0$$
-	- To get over this hurdle, mathematicians define the imaginary unit, $i$, as $i^2 = -1$ and in so doing invent a whole new branch of numbers called the [complex numbers]([[complex number]]). You can think of $i=\sqrt{-1}$ but this isn't exactly true either, better to think of $i^2=-1$ instead so we also get $-i=\sqrt{-1}$
+	- To get over this hurdle, mathematicians define the imaginary unit, $i$, as $i^2 = -1$ and in so doing invent a whole new branch of numbers called the [complex numbers]([[complex number]]). You can think of $i=\sqrt{-1}$ but this isn't exactly true either, better to think of $i^2=-1$.
 	- We explore this topic a little in #MCV4U
