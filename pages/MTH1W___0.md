@@ -3,6 +3,7 @@ alias:: MTH1W 0, 1W0
 - ### Navigation Unit 0
   id:: 682a36fc-2f8d-4932-b9b0-2b8dea761241
   | Return to [[MTH1W]] Homepage | Return to [Unit 0]([[MTH1W 0]]) Overview | Go to [next unit]([[MTH1W 1 Number]]) |
+- # Key Skill Review
 - ## Learning Objectives
 	- DOING This page is a work in progress. #WiP
 	  :LOGBOOK:
