@@ -20,7 +20,7 @@ icon:: 🍎
 		- ### Grade 11
 			- [[MCR3U]] Functions
 			- [[MCF3M]] Functions & Applications
-			- [[MBF3C]] Foundations for College Math
+			- [[MBF3C]] Foundations for College Math 11
 			- [[MEL3E]] Math for Work & Life
 		- ### Grade 12
 			- [[MHF4U]] Advanced Functions
@@ -30,7 +30,7 @@ icon:: 🍎
 				- [5-Rii Examples]([[MCV4U 5-Rii Looking at Specific Examples]])
 			- [[MDM4U]] Data Management
 			- [[MCT4C]] Math for College Tech
-			- [[MAP4C]] Foundations for College Mathematics
+			- [[MAP4C]] Foundations for College Math 12
 			- [[MEL4E]] Math for Work & Life
 - # 📰 News & TODO
 	- This is what I'm working on right now and a road map for the future.
