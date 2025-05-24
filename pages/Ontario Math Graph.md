@@ -10,7 +10,7 @@ icon:: 🍎
 	- I hope this resource is useful for my students to be able to learn effective study techniques, such as ==[active recall]([[Study Guide]])== and ==[focused practice]([[Study Guide]])== of our in-school lessons, and as a reference and learning tool used when absent from class.
 	- ## Course Selection #.v-columns-2-border-children
 		- ### Grade 9
-			- [[MTH1W]] Mathematics 9
+			- [[MTH1W]] Mathematics 9 🚩
 				- [3 Dice Games]([[MTH1W 3 Dice Games]])
 			- [[MAT1L]] Essentials of Math 9
 		- ### Grade 10
@@ -24,7 +24,7 @@ icon:: 🍎
 			- [[MEL3E]] Math for Work & Life
 		- ### Grade 12
 			- [[MHF4U]] Advanced Functions
-			- [[MCV4U]] Calculus & Vectors #.v-self-border
+			- [[MCV4U]] Calculus & Vectors 🚩
 				- [5-3 PoI]([[MCV4U 5-3]])
 				- [5-Ri Review Part 1]([[MCV4U 5-Ri Review]])
 				- [5-Rii Examples]([[MCV4U 5-Rii Looking at Specific Examples]])
