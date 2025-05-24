@@ -8,30 +8,30 @@ icon:: 🍎
 - # OMG Hello 👋 #.v-self-border
 	- Welcome to Mr. Cluchey's Ontario Math Graph. Students, Parents, and Teachers are welcome to use or adapt these self-directed lessons to help your Ontario student learn mathematics.
 	- I hope this resource is useful for my students to be able to learn effective study techniques, such as ==[active recall]([[Study Guide]])== and ==[focused practice]([[Study Guide]])== of our in-school lessons, and as a reference and learning tool used when absent from class.
-	- ## Course Selection #.v-columns-2-border-children
-		- ### Grade 9
-			- [[MTH1W]] Mathematics 9 🚩
-				- [3 Dice Games]([[MTH1W 3 Dice Games]])
-			- [[MAT1L]] Essentials of Math 9
-		- ### Grade 10
-			- [[MPM2D]] Principles of Math 10
-			- [[MFM2P]] Fundamentals of Math 10
-			- [[MAT2L]] Essentials of Math 10
-		- ### Grade 11
-			- [[MCR3U]] Functions
-			- [[MCF3M]] Functions & Applications
-			- [[MBF3C]] Foundations for College Math 11
-			- [[MEL3E]] Math for Work & Life
-		- ### Grade 12
-			- [[MHF4U]] Advanced Functions
-			- [[MCV4U]] Calculus & Vectors 🚩
-				- [5-3 PoI]([[MCV4U 5-3]])
-				- [5-Ri Review Part 1]([[MCV4U 5-Ri Review]])
-				- [5-Rii Examples]([[MCV4U 5-Rii Looking at Specific Examples]])
-			- [[MDM4U]] Data Management
-			- [[MCT4C]] Math for College Tech
-			- [[MAP4C]] Foundations for College Math 12
-			- [[MEL4E]] Math for Work & Life
+- ## Course Selection #.v-self-border-children
+	- ### Grade 9
+		- [[MTH1W]] Mathematics 9 🚩
+			- [3 Dice Games]([[MTH1W 3 Dice Games]])
+		- [[MAT1L]] Essentials of Math 9
+	- ### Grade 10
+		- [[MPM2D]] Principles of Math 10
+		- [[MFM2P]] Fundamentals of Math 10
+		- [[MAT2L]] Essentials of Math 10
+	- ### Grade 11
+		- [[MCR3U]] Functions
+		- [[MCF3M]] Functions & Applications
+		- [[MBF3C]] Foundations for College Math 11
+		- [[MEL3E]] Math for Work & Life
+	- ### Grade 12
+		- [[MHF4U]] Advanced Functions
+		- [[MCV4U]] Calculus & Vectors 🚩
+			- [5-3 PoI]([[MCV4U 5-3]])
+			- [5-Ri Review Part 1]([[MCV4U 5-Ri Review]])
+			- [5-Rii Examples]([[MCV4U 5-Rii Looking at Specific Examples]])
+		- [[MDM4U]] Data Management
+		- [[MCT4C]] Math for College Tech
+		- [[MAP4C]] Foundations for College Math 12
+		- [[MEL4E]] Math for Work & Life
 - # 📰 News & TODO #.v-self-border
 	- This is what I'm working on right now and a road map for the future.
 	- DOING Working on [[MTH1W]] Course Content
