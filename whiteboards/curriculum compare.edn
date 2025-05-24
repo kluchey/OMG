@@ -1,14 +1,14 @@
 {:blocks (
-{:block/content "Grade 8"
+{:block/content "## Ontario Grade 8 Math Curriculum\n\n<iframe src=\"https://www.dcp.edu.gov.on.ca/en/curriculum/elementary-mathematics/grades/g8-math/strands\" style=\"width: 100%; height: 600px\"></iframe>"
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "68325a5b-1af6-466e-9b02-a875d507daf8"}
 :block/parent 
 {:block/uuid #uuid "68325a5b-1af6-466e-9b02-a875d507daf8"}
 :block/properties 
-{}
+{:heading 2}
 :block/uuid #uuid "68325a67-f6c2-4f40-a489-361d50fcfb09"} 
-{:block/created-at 1748130486891
+{:block/created-at 1748130536179
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -24,7 +24,7 @@
 :compact true
 :isAutoResizing true
 :type "logseq-portal"
-:size [400 40.90090684780907]
+:size [400 184.89918310739301]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -33,8 +33,8 @@
 :point [120 184]
 :parentId "68325a5b-1af6-466e-9b02-a875d507daf8"
 :collapsedHeight 0
-:nonce 1748130406088}}
-:block/updated-at 1748130486891})
+:nonce 1748130406101}}
+:block/updated-at 1748130536179})
 :pages (
 {:block/uuid #uuid "68325a5b-1af6-466e-9b02-a875d507daf8"
 :block/properties 
@@ -47,7 +47,7 @@
 :nonce 1
 :assets []
 :shapes-index ("5a41a8b0-38f9-11f0-902a-55a3112759b4")}}
-:block/updated-at 1748130489881
+:block/updated-at 1748130541110
 :block/created-at 1748130395715
 :block/type "whiteboard"
 :block/name "curriculum compare"
