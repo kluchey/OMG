@@ -4,7 +4,7 @@ icon:: 💡
 - # Grade 9 Mathematics #.v-self-border
 - ## Table of Contents #.v-self-border-children
 	- id:: 68292d34-6cf9-4f6a-b05c-7a8b7cb8b992
-	  0. [](MTH1W 0 Skill Review)
+	  0. [Key Skills for Review]([[MTH1W 0 Skill Review]])
 	- [Number](MTH1W 1 Number)
 	  logseq.order-list-type:: number
 	- [Algebra](MTH1W 2 Algebra)
