@@ -8,4 +8,6 @@ icon:: 📃
 	- ## Algebra
 	- ## Geometry & Measurement
 	- ## Data
-	-
+	- ### Sources
+		- [Grade 8 Curriculum Ontario](https://www.dcp.edu.gov.on.ca/en/curriculum/elementary-mathematics/grades/g8-math/strands)
+		-
