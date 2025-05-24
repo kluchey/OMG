@@ -1,1 +1,1 @@
-- #definiton If a math question asks you to explain then you want to use concepts and vocabulary from class to piece together instructions in your own words. These instructions should answer
+- #definiton If a math question asks you to explain then you want to use concepts and vocabulary from class to piece together instructions in your own words. These instructions should answer the question "*Why* is this true?" even if that question is not asked in your math problem.
