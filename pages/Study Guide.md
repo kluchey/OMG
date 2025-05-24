@@ -16,7 +16,6 @@
 		- ### Forced Recall [^1]
 		  collapsed:: true
 			- Take at least 2 minutes each day to perform the activity:
-			  collapsed:: true
 				- >>Write down everything you know about $x$ topics you want to be remembered or understood.
 			- The act of forcing yourself to remember or recall a concept actually stores a memory in your brain for longer. Think of this task like **strengthening** the connections your brain is forming to remember or understand concepts.
 		- ### Focused Practice [^1]
@@ -53,7 +52,6 @@
 				- >> What didn't you know in your practice? What do you need to know after today? Add these findings to your forced recall activity.
 			- Repeat this routine every day to keep building on top of the knowledge you remembered each day prior.
 	- ## 😎 Pro-tips
-	  collapsed:: true
 		- Always get a good night's sleep before a test. Always eat breakfast the morning of a test day.
 		- Always keep a calendar and know when the next test will be so you can prepare days before you write it.
 		- Always practice with the calculator you will use. Learn your calculator well, it is a tool you need to practice.
