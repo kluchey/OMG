@@ -8,7 +8,7 @@
 :block/properties 
 {:heading 2}
 :block/uuid #uuid "68325a67-f6c2-4f40-a489-361d50fcfb09"} 
-{:block/created-at 1748130579273
+{:block/created-at 1748130694520
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -25,7 +25,7 @@
 :compact true
 :isAutoResizing true
 :type "logseq-portal"
-:size [560 676.9151679533635]
+:size [544 138.72783941174933]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -34,8 +34,8 @@
 :point [136 88]
 :parentId "68325a5b-1af6-466e-9b02-a875d507daf8"
 :collapsedHeight 0
-:nonce 1748130406224}}
-:block/updated-at 1748130579273})
+:nonce 1748130406281}}
+:block/updated-at 1748130694520})
 :pages (
 {:block/uuid #uuid "68325a5b-1af6-466e-9b02-a875d507daf8"
 :block/properties 
@@ -48,7 +48,7 @@
 :nonce 1
 :assets []
 :shapes-index ("5a41a8b0-38f9-11f0-902a-55a3112759b4")}}
-:block/updated-at 1748130579273
+:block/updated-at 1748130694520
 :block/created-at 1748130395715
 :block/type "whiteboard"
 :block/name "curriculum compare"
