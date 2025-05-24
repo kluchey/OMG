@@ -2,7 +2,8 @@
 - #eg The fraction $\frac13$ can be represented with any of the following or more.
 	- ![image.png](../assets/image_1748109539896_0.png){:height 92, :width 96}
 	- ![image.png](../assets/image_1748109575387_0.png){:height 70, :width 164}
-	- ![image.png](../assets/image_1748109598824_0.png)
+	- ![image.png](../assets/image_1748109598824_0.png){:height 71, :width 230}
+	- ![image.png](../assets/image_1748109650964_0.png){:height 78, :width 320}
 	-
 - [Relational Rods Digital Manipulative](https://mathsbot.com/manipulatives/rods)
 - ![image.png](../assets/image_1748109247575_0.png){:height 432, :width 398}
