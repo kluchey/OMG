@@ -10,17 +10,14 @@ icon:: 🍎
 	- I hope this resource is useful for my students to be able to learn effective study techniques, such as ==[active recall]([[Study Guide]])== and ==[focused practice]([[Study Guide]])== of our in-school lessons, and as a reference and learning tool used when absent from class.
 	- ## Course Selection #.v-columns-2
 		- ### Grade 9
-			- [[MTH1W]] 
-			  Mathematics
+			- [[MTH1W]] Mathematics
 				- [[MTH1W 3 Dice Games]]
-				-
+		- ### Grade 10
 			- [[MPM2D]] Principles of Mathematics
 		- ### Grade 11
-			- [[MCR3U]] 
-			  Functions
+			- [[MCR3U]] Functions
 		- ### Grade 12
-			- [[MCV4U]] 
-			  Calculus & Vectors
+			- [[MCV4U]] Calculus & Vectors
 				- [[MCV4U 5-3]], [[MCV4U 5-Ri Review]], [[MCV4U 5-Rii Looking at Specific Examples]]
 			- [[MDM4U]] Data Management
 			- [[MHF4U]] Advanced Functions
