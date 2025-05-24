@@ -1,1 +1,1 @@
-- #definiton An axiom is a convenient idea that we think needs to be true to develop more mathematics.
+- #definiton An axiom is a convenient idea that we think needs to be true in order to develop more mathematics.
