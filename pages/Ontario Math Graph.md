@@ -18,8 +18,8 @@ icon:: 🍎
 			- [[MCR3U]] Functions
 		- ### Grade 12
 			- [[MCV4U]] Calculus & Vectors
-				- [[MCV4U 5-3]]
-				- [5-Ri]([[MCV4U 5-Ri Review]])
+				- [5-3 PoI]([[MCV4U 5-3]])
+				- [5-Ri Review Part 1]([[MCV4U 5-Ri Review]])
 				- [5-Rii Examples]([[MCV4U 5-Rii Looking at Specific Examples]])
 			- [[MDM4U]] Data Management
 			- [[MHF4U]] Advanced Functions
