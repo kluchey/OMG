@@ -1,1 +1,2 @@
-- #definiton A real number is any number used in
+- #definiton A real number is any number used to describe most types of situations.
+- #eg $\sqrt2=1.414\ldots$ or $\pi=3.141592653589\ldots$ or $0$ or $1$ or $-1$ or $-
