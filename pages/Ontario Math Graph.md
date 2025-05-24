@@ -12,11 +12,11 @@ icon:: 🍎
 		- ### Grade 9
 			- [[MTH1W]] Mathematics 9
 				- [3 Dice Games]([[MTH1W 3 Dice Games]])
-			- [[MAT1L]] Essentials of Mathematics 9
+			- [[MAT1L]] Essentials of Math 9
 		- ### Grade 10
-			- [[MPM2D]] Principles of Mathematics 10
-			- [[MFM2P]] Fundamentals of Mathematics 10
-			- [[MAT2L]] Essentials of Mathematics 10
+			- [[MPM2D]] Principles of Math 10
+			- [[MFM2P]] Fundamentals of Math 10
+			- [[MAT2L]] Essentials of Math 10
 		- ### Grade 11
 			- [[MCR3U]] Functions
 			- [[MCF3M]] Functions & Applications
