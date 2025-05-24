@@ -1,9 +1,8 @@
 alias:: Grade 9, 1W
 icon:: 💡
 
-- # Grade 9 Mathematics [Course Outline]([[MTH1W Outline]])
-  ---
-- ## Table of Contents
+- # Grade 9 Mathematics #.v-self-border
+- ## Table of Contents #.v-self-border-children
 	- id:: 68292d34-6cf9-4f6a-b05c-7a8b7cb8b992
 	  0. [Skill Review](MTH1W 0 Skill Review)
 	- [Number](MTH1W 1 Number)
@@ -18,8 +17,7 @@ icon:: 💡
 	  logseq.order-list-type:: number
 	- [Resources](MTH1W Resources)
 	  logseq.order-list-type:: number
-	- ---
-- ## News & TODO
+- ## News & TODO #.v-self-border
 	- TODO Plan Course Skill Review
 		- DOING Include Relational Rods & Algebra Tiles
 		  :LOGBOOK:
@@ -28,4 +26,3 @@ icon:: 💡
 		- TODO Have students calculate Areas using formulas, show substitution, computation steps, give instructions in words, define Algorithm and Pattern Rule
 		- TODO Explain Spaced Repition, forgetting curve, active retrieval, testing effect, focused practice, stay informed, study tips, grading information, how to argue a grade successfully
 		- TODO Explain Math Communication, the purpose of learning math to communicate, why we cannot rely only on getting an answer that reasoning is the purpose of math
-	- ---
