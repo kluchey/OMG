@@ -29,6 +29,7 @@ title:: MCV4U
 	  logseq.order-list-type:: number
 	- Unit 5 [Why do we learn Linear Algebra?]([[MCV4U/5]])
 	  logseq.order-list-type:: number
+	  collapsed:: true
 		- {{embed ((682d1d0c-8b4d-4723-bf1d-1b36e344eb6a))}}
 	- Unit 6 [Everything is Linear Algebra]([[MCV4U 6]])
 	  logseq.order-list-type:: number
