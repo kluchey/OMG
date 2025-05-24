@@ -16,7 +16,7 @@ id:: 682a36fc-2f8d-4932-b9b0-2b8dea761241
 		- Who is the robot 🤖 in this video? How successfully do you think they would follow *your* instructions? Can you modify your instructions so that the robot can follow them accurately?
 		- What did the kids not expect to have happen and why did they not expect this behaviour from their dad? Why is their dad behaving this way; what lesson is he trying to teach about how language is used?
 - ## Action #.v-self-border
-	- Tools:  You will need a set of relational rods.
+	- Tools:  You will need a set of [[relational rods]].
 	- Viewing the relational rods, what do you notice?
 		- What is the ==value== of the smallest piece? The largest?
 		- How do we know the largest has that value? What values can we give to the other rods?
