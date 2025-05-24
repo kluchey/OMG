@@ -11,7 +11,7 @@ icon:: 🍎
 - ## Course Selection #.v-self-border-children
 	- ### Grade 9
 		- [[MTH1W]] Mathematics 9 🚩
-			- [3 Dice Games]([[MTH1W 3 Dice Games]])
+			- [3 Dice Games]([[MTH1W/3/Dice Games]])
 		- [[MAT1L]] Essentials of Math 9
 	- ### Grade 10
 		- [[MPM2D]] Principles of Math 10
