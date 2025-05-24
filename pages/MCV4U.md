@@ -3,19 +3,19 @@ icon:: ⇀∆
 title:: MCV4U
 
 - # Grade 12 Calculus & Vectors [Course Outline]([[MHF4U Outline]])
-	- DOING Unit 5
-	  :LOGBOOK:
-	  CLOCK: [2025-05-22 Thu 22:57:09]--[2025-05-23 Fri 10:30:41] =>  11:33:32
-	  CLOCK: [2025-05-23 Fri 10:30:42]--[2025-05-23 Fri 10:30:43] =>  00:00:01
-	  CLOCK: [2025-05-23 Fri 10:30:43]--[2025-05-23 Fri 10:30:44] =>  00:00:01
-	  CLOCK: [2025-05-23 Fri 10:30:47]--[2025-05-23 Fri 10:31:15] =>  00:00:28
-	  CLOCK: [2025-05-23 Fri 10:31:17]
-	  :END:
-	- TODO Unit 6
+	- Term Work
+		- DOING Unit 5
+		  :LOGBOOK:
+		  CLOCK: [2025-05-22 Thu 22:57:09]--[2025-05-23 Fri 10:30:41] =>  11:33:32
+		  CLOCK: [2025-05-23 Fri 10:30:42]--[2025-05-23 Fri 10:30:43] =>  00:00:01
+		  CLOCK: [2025-05-23 Fri 10:30:43]--[2025-05-23 Fri 10:30:44] =>  00:00:01
+		  CLOCK: [2025-05-23 Fri 10:30:47]--[2025-05-23 Fri 10:31:15] =>  00:00:28
+		  CLOCK: [2025-05-23 Fri 10:31:17]
+		  :END:
+		- TODO Unit 6
 	- TODO Mark Update
 	- TODO Exam Study
 	- TODO Final Exam
-	- ---
 - ## Table of Contents 
   #self-border-children
 	- 0. [Slopes & Points]([[MCV4U 0]])
