@@ -11,9 +11,11 @@ icon:: 🍎
 	- ## Course Selection #.v-columns-2
 		- ### Grade 9
 			- [[MTH1W]] Mathematics
-				- [[MTH1W 3 Dice Games]]
+				- [3 Dice Games]([[MTH1W 3 Dice Games]])
 		- ### Grade 10
 			- [[MPM2D]] Principles of Mathematics
+			- [[MFM2P]] Fundamentals of Mathematics
+			- [] Fundamentals of Mathematics
 		- ### Grade 11
 			- [[MCR3U]] Functions
 		- ### Grade 12
