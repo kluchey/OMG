@@ -1,12 +1,8 @@
 ### Navigation Unit 0
 id:: 682a36fc-2f8d-4932-b9b0-2b8dea761241
 | Return to [[MTH1W]] Homepage | Return to [Unit 0]([[MTH1W 0]]) Overview | Go to [next unit]([[MTH1W 1 Number]]) |
-- # Key Skills for Review & Lesson 1
+- # Key Skills for Review & Lesson 0
 	- ## Learning Objectives #.v-self-border
-		- DOING This page is a work in progress
-		  :LOGBOOK:
-		  CLOCK: [2025-05-20 Tue 13:24:49]
-		  :END:
 		- Students will review three key skills that they also continue to develop throughout all units of Grade 9 Mathematics.
 			- Representing Quantities 📈 such as fractions
 			  logseq.order-list-type:: number
