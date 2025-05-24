@@ -1,7 +1,7 @@
 alias:: MCV4U 5-3, CV5-3
 
 - # This is getting out of hand! Now, there are two of them! #.v-border-children
-	- Let's imagine what happens when we have two lines graphed.
+	- Let's imagine what happens when we have two lines graphed in 2D and 3D. What do you remember from Grade 9 and 10 about the ==[[point of intersection]]==?
 	- ## Warm Up
 		- Imagine two lines in 2D. How many *different* ways can the two lines interact? Sketch all possible interactions.
 		  id:: 682dbd01-3f81-4b46-9569-8fc7470c859f
