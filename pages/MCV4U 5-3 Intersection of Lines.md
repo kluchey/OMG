@@ -1,7 +1,6 @@
 alias:: MCV4U 5-3, CV5-3
 
--
-- # Lesson 5-3
+- # Lesson #.v-border-children
 	- ## Warm Up
 		- Imagine two lines in 2D. How many *different* ways can the two lines interact? Sketch all possible interactions.
 		  id:: 682dbd01-3f81-4b46-9569-8fc7470c859f
