@@ -110,7 +110,7 @@ html[data-theme=dark] {
   --ls-page-blockquote-bg-color: #21252B;
   --ls-page-blockquote-border-color: #495162;
   --ls-page-mark-color: #282C34;
-  --ls-page-mark-bg-color:  #FDFD96; /*#bfae3a*/
+  --ls-page-mark-bg-color:  #9F2B68; /*#bfae3a select highlight term vocab*/
   --ls-selection-background-color: #495162;
   --ls-block-highlight-color: #495162;
   --ls-block-bullet-color: #495162;
@@ -212,7 +212,7 @@ html[data-theme=light] {
   --ls-block-bullet-color: #D3D6DF;
   --ls-block-bullet-active-color: var(--ls-link-text-color);
   --ls-block-bullet-border-color: #D3D6DF;
-  --ls-guideline-color: #D3D6DF;
+  --ls-guideline-color: #D3D6DFkan;
   --ls-guideline-hover-color: var(--ls-tag-text-hover-color);
   --ct-h1-color: #9FCCB3;
   --ct-h2-color: #E1B493;
@@ -437,7 +437,7 @@ html[data-theme=dark] .absolute-modal {
   border: 1px solid #383941;
 }
 html[data-theme=dark] mark {
-  background: #FDFD96 !important; /*#bfae3a*/
+  background: #9F2B68 !important; /*#bfae3a select highlight emphasize term vocab */
 }
 html[data-theme=dark] .form-control textarea {
   background-color: var(--ls-modal-panel-color, var(--lx-gray-04, var(--ls-secondary-background-color)));
