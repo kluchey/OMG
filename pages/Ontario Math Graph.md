@@ -9,6 +9,9 @@ icon:: 🍎
 	- I hope this resource is useful for my students to be able to learn effective study techniques, such as ==[active recall]([[Study Guide]])== and ==[focused practice]([[Study Guide]])== of our in-school lessons, and as a reference and learning tool used when absent from class.
 - ## Course Selection #.v-self-border-children
   id:: 682bd1c7-1d93-46f1-a1c9-42e5ef4ce4cf
+	- ### Working
+		- [[MCV4U]]
+		- [[MTH1W]]
 	- ### Grade 9
 		- [[MTH1W]] Mathematics 9 🚩
 			- [3 Dice Games]([[MTH1W/3/Dice Games]])
