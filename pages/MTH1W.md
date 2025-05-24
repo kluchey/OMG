@@ -15,7 +15,7 @@ icon:: 💡
 		  logseq.order-list-type:: number
 		- [Mathematical Modelling]([[MTH1W 5 Mathematical Modelling]])
 		  logseq.order-list-type:: number
-		- [Resources](MTH1W Resources)
+		- [Resources & Projects]([[MTH1W Resources]])
 		  logseq.order-list-type:: number
 - ## News & TODO #.v-self-border
 	- TODO Plan Course Skill Review
