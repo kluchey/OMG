@@ -27,7 +27,7 @@ title:: MCV4U
 	  logseq.order-list-type:: number
 	- Unit 4 [How many dimensions are there?]([[MCV4U 4]])
 	  logseq.order-list-type:: number
-	- Unit 5 [Why do we learn Linear Algebra?]([[MCV4U 5 Why do we study Linear Algebra?]])
+	- Unit 5 [Why do we learn Linear Algebra?]([[MCV4U/5]])
 	  logseq.order-list-type:: number
 	  collapsed:: true
 		- {{embed ((682d1d0c-8b4d-4723-bf1d-1b36e344eb6a))}}
