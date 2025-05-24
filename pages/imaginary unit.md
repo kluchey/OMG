@@ -1,5 +1,6 @@
-- #definition In some situations, we run into a problem like $\sqrt{-4}$ or similar. In high school, we say we cannot take the square root of a negative number but this is one of many [[rules that expire]] or a [[black box]].
+- #definition In some situations, we run into a problem like $\sqrt{-4}$ or similar. In high school, we say we cannot take the square root of a negative number but this is one of many [[rules that expire]] or a [[black box]] in mathematics. For students in Grade 9 and 10, ****
 - #MCR3U and #MHF4U $\sqrt{-1}$ is not possible... or is it?
 	- We say that some quadratic equations like $x^2+1=0$ have no solutions in Grade 10. This isn't exactly true, because if we pretend $x=\sqrt{-1}$ then you will quickly see that this is in fact a solution to the equation.
 	- So is $x=-\sqrt{-1}$.
-	- To get over this hurdle, mathematicians define the imaginary unit, $i$, as $i^2 = -1$ and in so doing invent a whole new branch of numbers called the [complex numbers]([[complex number]]). See
+	- To get over this hurdle, mathematicians define the imaginary unit, $i$, as $i^2 = -1$ and in so doing invent a whole new branch of numbers called the [complex numbers]([[complex number]]).
+	- We explore this topic a little in #MCV4U
