@@ -26,8 +26,8 @@ icon:: 🍎
 		- [[MHF4U]] Advanced Functions
 		- [[MCV4U]] Calculus & Vectors 🚩
 			- [5-3 PoI]([[MCV4U 5-3]])
-			- [5-Ri Review Part 1]([[MCV4U 5-Ri Review]])
-			- [5-Rii Examples]([[MCV4U 5-Rii Looking at Specific Examples]])
+			- [5-Ri Review Part 1]([[MCV4U/5/Re]])
+			- [5-Rii Examples]([[MCV4U/5/Ree Looking at Specific Examples]])
 		- [[MDM4U]] Data Management
 		- [[MCT4C]] Math for College Tech
 		- [[MAP4C]] Foundations for College Math 12
