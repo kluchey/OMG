@@ -1,2 +1,2 @@
 - #axiom Definitions are like the atoms of math knowledge. We need to know & understand what we are talking about in order to reason about it.
-- #not #eg A definition should not be "circular" or refer to the word you are defining. This is a great piece of advice for math questions that ask you to  #explain
+- #not #eg A definition should not be "circular" or refer to the word you are defining. This is a great piece of advice for math questions that ask you to  #explain or describe; they are looking for you to use key words that are defined and to use your own words that help explain what has been defined.
