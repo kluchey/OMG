@@ -20,6 +20,8 @@
 				- >>Write down everything you know about $x$ topics you want to be remembered or understood.
 			- The act of forcing yourself to remember or recall a concept actually stores a memory in your brain for longer. Think of this task like **strengthening** the connections your brain is forming to remember or understand concepts.
 		- ### Focused Practice [^1]
+		  id:: 682fe63d-536c-45e1-bc22-12e07e83dff2
+		  collapsed:: true
 			- Select questions to practice and complete from start to finish with your best abilities shown in knowledge, thinking, communication, and application.
 		- #### REM Sleep
 		  collapsed:: true
