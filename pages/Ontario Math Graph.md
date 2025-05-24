@@ -20,14 +20,16 @@ icon:: 🍎
 		- ### Grade 11
 			- [[MCR3U]] Functions
 			- [[MCF3M]] Functions & Applications
-			- [[MBF3C]]
+			- [[MBF3C]] Foundations for College Mathematics
+			- [[MEL3E]] Mathematics for Work and Everyday Life
 		- ### Grade 12
+			- [[MHF4U]] Advanced Functions
 			- [[MCV4U]] Calculus & Vectors
 				- [5-3 PoI]([[MCV4U 5-3]])
 				- [5-Ri Review Part 1]([[MCV4U 5-Ri Review]])
 				- [5-Rii Examples]([[MCV4U 5-Rii Looking at Specific Examples]])
 			- [[MDM4U]] Data Management
-			- [[MHF4U]] Advanced Functions
+			- [[MCT4C]]
 - # 📰 News & TODO
 	- This is what I'm working on right now and a road map for the future.
 	- DOING Working on [[MTH1W]] Course Content
