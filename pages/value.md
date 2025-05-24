@@ -1,1 +1,1 @@
-- #definiton A value is a number, which can be an integer, fraction, or real number
+- #definiton A value is a number, which can be an ==[[integer]]==, ==, or real number.
