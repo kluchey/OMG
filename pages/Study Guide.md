@@ -1,8 +1,7 @@
 # How should I Study Mathematics in High School? A Guide
 	- Click on the side bar to expand sections or click the bullet points to focus on specific sections for easier reading (recommended).
 	- ## 👻 Avoid Illusions of Knowing
-	  collapsed:: true
-		- **Cramming** can produce short-term gains but these gains will be lost in the long-term [^1], leading to the very common feeling of "hitting a wall you can't climb up" at some future, tougher point in a course or in a future school.
+		- **Mass Practice** or **Cramming** can produce short-term gains but these gains will be lost in the long-term [^1], leading to the very common feeling of "hitting a wall you can't climb up" at some future, tougher point in a course or in a future school.
 		- **Re-reading and highlighting** *feel* like they produce results but actually produce very little memorization or understanding [^1].
 		  collapsed:: true
 			- During REM sleep your brain will throw away the information reviewed by re-reading and highlighting because this information is noisy [^1].
