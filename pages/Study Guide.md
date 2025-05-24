@@ -52,6 +52,8 @@
 				- >> What didn't you know in your practice? What do you need to know after today? Add these findings to your forced recall activity.
 			- Repeat this routine every day to keep building on top of the knowledge you remembered each day prior.
 	- ## 😎 Pro-tips
+	  collapsed:: true
+		- Always stay informed about ongoings. Talk to classmates and your teacher about upcoming class events.
 		- Always get a good night's sleep before a test. Always eat breakfast the morning of a test day.
 		- Always keep a calendar and know when the next test will be so you can prepare days before you write it.
 		- Always practice with the calculator you will use. Learn your calculator well, it is a tool you need to practice.
