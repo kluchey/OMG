@@ -19,19 +19,19 @@ title:: MCV4U
 		- TODO Final Exam
 - ## Table of Contents #.v-self-border-children
 	- 0. [Slopes & Points]([[MCV4U 0]])
-	- [Why invent the Derivative?]([[MCV4U 1]])
+	- Unit 1 [Why invent the Derivative?]([[MCV4U 1]])
 	  logseq.order-list-type:: number
-	- [How do Derivatives behave?]([[MCV4U 2]])
+	- Unit 2 [How do Derivatives behave?]([[MCV4U 2]])
 	  logseq.order-list-type:: number
-	- [How is a Derivative useful?]([[MCV4U 3]])
+	- Unit 3 [How is a Derivative useful?]([[MCV4U 3]])
 	  logseq.order-list-type:: number
-	- [How many dimensions are there?]([[MCV4U 4]])
+	- Unit 4 [How many dimensions are there?]([[MCV4U 4]])
 	  logseq.order-list-type:: number
-	- [Why do we learn Linear Algebra?]([[MCV4U 5 Why do we study Linear Algebra?]])
+	- Unit 5 [Why do we learn Linear Algebra?]([[MCV4U 5 Why do we study Linear Algebra?]])
 	  logseq.order-list-type:: number
 	  collapsed:: true
 		- {{embed ((682d1d0c-8b4d-4723-bf1d-1b36e344eb6a))}}
-	- [Everything is Linear Algebra]([[MCV4U 6]])
+	- Unit 6 [Everything is Linear Algebra]([[MCV4U 6]])
 	  logseq.order-list-type:: number
 	- [Resources]([[MCV4U Resources]])
 	  logseq.order-list-type:: number
