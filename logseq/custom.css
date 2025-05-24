@@ -438,7 +438,6 @@ html[data-theme=dark] .absolute-modal {
 }
 html[data-theme=dark] mark {
   background: #FF8DA1 !important; /*#bfae3a select highlight emphasize term vocab */
-  color: #000000;
 }
 html[data-theme=dark] .form-control textarea {
   background-color: var(--ls-modal-panel-color, var(--lx-gray-04, var(--ls-secondary-background-color)));
