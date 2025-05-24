@@ -1,2 +1,2 @@
 - #definiton A complex number is a two-dimensional number.
-- #MCV4U You can think of a complex number as a two-dimensional vector with some additional rules to be followed wi
+- #MCV4U You can think of a complex number as a two-dimensional vector with some additional rules to be followed when describing operations like squaring, since squaring a vector is not ==[[well-defined]]==.
