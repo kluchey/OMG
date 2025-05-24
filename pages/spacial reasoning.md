@@ -1,1 +1,1 @@
-- #definition The ability to visualize positions and orientations of objects
+- #definition The ability to visualize positions of objects and manipulate those objects into positions to solve problems.
