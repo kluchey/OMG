@@ -1,8 +1,6 @@
-alias:: MTH1W 0, 1W0
-
-- ### Navigation Unit 0
-  id:: 682a36fc-2f8d-4932-b9b0-2b8dea761241
-  | Return to [[MTH1W]] Homepage | Return to [Unit 0]([[MTH1W 0]]) Overview | Go to [next unit]([[MTH1W 1 Number]]) |
+### Navigation Unit 0
+id:: 682a36fc-2f8d-4932-b9b0-2b8dea761241
+| Return to [[MTH1W]] Homepage | Return to [Unit 0]([[MTH1W 0]]) Overview | Go to [next unit]([[MTH1W 1 Number]]) |
 - # Key Skills for Review
 	- ## Learning Objectives #.v-self-border
 		- DOING This page is a work in progress. #WiP
@@ -36,7 +34,7 @@ alias:: MTH1W 0, 1W0
 		- Why do we need to have the same value for our denominators before we add fractions?
 - ## Learning Tasks #.v-self-border
 	- This is just the start of the robot's training. You still need to teach it to move around 🦿 and then you have also decided it should learn to do some tasks 🦾 around your home to make your life easier. #.v-border-children
-		- Lesson:  [How do I navigate?]([[MTH1W 0-1 Coordinates]])
+		- Lesson:  [How do I navigate?]([[MTH1W/0/1 Coordinates]])
 		  logseq.order-list-type:: number
 		- Practice:  Writing clear instructions
 		  logseq.order-list-type:: number
