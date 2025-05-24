@@ -12,7 +12,6 @@ icon:: 🍎
 		- Grade 9 & 10
 			- [[MTH1W]] Mathematics
 				- [[MTH1W 3 Dice Games]]
-		- Grade 10
 			- [[MPM2D]] Principles of Mathematics
 		- Grade 11
 			- [[MCR3U]] Functions
