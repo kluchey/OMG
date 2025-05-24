@@ -18,7 +18,7 @@ id:: 682a36fc-2f8d-4932-b9b0-2b8dea761241
 - ## Action #.v-self-border
 	- Tools:  You will need a set of [[relational rods]].
 	- Viewing the relational rods, what do you notice?
-		- What is the ==value== of the smallest piece? The largest?
+		- What is the size or ==[[value]]== of the smallest piece? The largest?
 		- How do we know the largest has that value? What values can we give to the other rods?
 		- A ==relation== is the name for this idea, that the value of one rod is dependent on the value of another. We can't actually say what size each rod is without relating at least two rods together.
 	- Great, now how would you teach someone about fractions using the relational rods?
