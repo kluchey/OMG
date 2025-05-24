@@ -17,7 +17,7 @@ id:: 682a36fc-2f8d-4932-b9b0-2b8dea761241
 	- ## Background #.v-self-border
 		- You've been assigned to train a robot assistant 🤖 and right now it can't think, it can only follow the exact words of your instructions. You didn't know going to high school would mean you'd have this huge responsibility to train a robot how to think, yet here you are, and you're *hungry*. You decide to ask the robot to make you a PB&J Sandwich (or a school safe SB&J). What are the instructions you give the robot to make the sandwich? Write them down and then watch the video below.
 		- {{video https://youtube.com/watch?v=FN2RM-CHkuI&si=1ePr5-ggg5uNEG0D}}
-		- Who is the robot 🤖 in this video? How successfully do you think they would follow *your* instructions? Can you modify your instructions so that the robot can follow them more accurately?
+		- Who is the robot 🤖 in this video? How successfully do you think they would follow *your* instructions? Can you modify your instructions so that the robot can follow them accurately?
 		- What did the kids not expect to have happen and why did they not expect this behaviour from their dad? Why is their dad behaving this way; what lesson is he trying to teach about language?
 - ## Action #.v-self-border
 	- Tools:  You will need a package of relational rods.
