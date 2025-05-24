@@ -8,19 +8,19 @@ icon:: 🍎
 - # OMG Hello 👋
 	- Welcome to Mr. Cluchey's Ontario Math Graph. Students, Parents, and Teachers are welcome to use or adapt these self-directed lessons to help your Ontario student learn mathematics.
 	- I hope this resource is useful for my students to be able to learn effective study techniques, such as ==[active recall]([[Study Guide]])== and ==[focused practice]([[Study Guide]])== of our in-school lessons, and as a reference and learning tool used when absent from class.
-	- ## Course Selection
-		- Grade 9
-			- [[MTH1W]]
+	- ## Course Selection #kanban
+		- Grade 9 & 10
+			- [[MTH1W]] Mathematics
 				- [[MTH1W 3 Dice Games]]
 		- Grade 10
-			- [[MPM2D]]
+			- [[MPM2D]] Principles of Mathematics
 		- Grade 11
-			- [[MCR3U]]
+			- [[MCR3U]] Functions
 		- Grade 12
 			- [[MCV4U]] Calculus and Vectors
 				- [[MCV4U 5-3]], [[MCV4U 5-Ri Review]], [[MCV4U 5-Rii Looking at Specific Examples]]
 			- [[MDM4U]] Data Management
-			- [[MHF4U]]
+			- [[MHF4U]] Advanced Functions
 - # 📰 News & TODO
 	- This is what I'm working on right now and a road map for the future.
 	- DOING Working on [[MTH1W]] Course Content
