@@ -1,2 +1,2 @@
 - #definiton A culture is every *thing* or *idea* that is produced, used, or thought about by a group of people.
-- #eg People who learn math learn to be part of a math culture. Knowing $y=mx+b$ is the equation for a line is culture.
+- #eg People who learn math learn to be part of a math culture. Knowing $y=mx+b$ is the equation for a line is culture. Other groups of people may use different representations, like $y=ax+b$.
