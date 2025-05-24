@@ -1,8 +1,7 @@
 - {{embed ((682a36fc-2f8d-4932-b9b0-2b8dea761241))}}
 - ## Learning Goals
-	- Students will be able to describe how **algebra**, through the use of numbers and variables, allows them to describe ==direction== and ==relationships== using measurements.
+	- Students will be able to describe how **algebra**, through the use of numbers and variables, allows them to describe ==[[direction]]== and ==[relations]([[relation]])== using measurements.
 	- Students will be begin to use ==[[computational steps]]== to communicate their mathematical thinking.
-	- ---
 - ## Warm Up
 	- ---
 - ## Lesson
