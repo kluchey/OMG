@@ -1,3 +1,4 @@
 - #definition An integer is a positive or negative ==[[whole number]]==.
 	- $\Z = \left\lbrace\ldots,-100,\ldots,-2,-1,0,1,2,\ldots,1000,\ldots\right\rbrace$
-	- Zero (0) is neither negative nor positive.
+	- Depending on your perspective, Zero (0) is both negative and positive or neither negative nor positive.
+	- A negative is a ==[[direction]]== relative to 0. Usually, a number line
