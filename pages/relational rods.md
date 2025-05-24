@@ -1,2 +1,3 @@
+- #definiton Relational Rods, brand name cuisenaire rods, are a set of coloured
 - [Relational Rods Digital Manipulative](https://mathsbot.com/manipulatives/rods)
--
+- ![image.png](../assets/image_1748109247575_0.png){:height 432, :width 398}
