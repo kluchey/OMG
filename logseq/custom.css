@@ -437,7 +437,7 @@ html[data-theme=dark] .absolute-modal {
   border: 1px solid #383941;
 }
 html[data-theme=dark] mark {
-  background: #8B8000 !important; /*#bfae3a*/
+  background: #FFD1DC !important; /*#bfae3a select highlight emphasize term */
 }
 html[data-theme=dark] .form-control textarea {
   background-color: var(--ls-modal-panel-color, var(--lx-gray-04, var(--ls-secondary-background-color)));
