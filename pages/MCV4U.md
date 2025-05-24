@@ -18,7 +18,7 @@ title:: MCV4U
 		- TODO Exam Study
 		- TODO Final Exam
 - ## Table of Contents #.v-self-border-children
-	- 0. [Slopes & Points]([[MCV4U 0]])
+	- 0. [Slopes & Points]([[MCV4U/0]])
 	- Unit 1 [Why invent the Derivative?]([[MCV4U 1]])
 	  logseq.order-list-type:: number
 	- Unit 2 [How do Derivatives behave?]([[MCV4U 2]])
