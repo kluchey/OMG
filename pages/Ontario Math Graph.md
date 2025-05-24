@@ -24,7 +24,7 @@ icon:: 🍎
 			- [[MEL3E]] Math for Work & Life
 		- ### Grade 12
 			- [[MHF4U]] Advanced Functions
-			- [[MCV4U]] Calculus & Vectors
+			- [[MCV4U]] Calculus & Vectors #.v-self-border
 				- [5-3 PoI]([[MCV4U 5-3]])
 				- [5-Ri Review Part 1]([[MCV4U 5-Ri Review]])
 				- [5-Rii Examples]([[MCV4U 5-Rii Looking at Specific Examples]])
