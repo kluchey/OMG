@@ -2,7 +2,7 @@ alias:: Grade 9, 1W
 icon:: 💡
 
 - # Grade 9 Mathematics #.v-self-border
-- ## Table of Contents #.v-self-border-children
+- ## Course Outline #.v-self-border-children
 	- id:: 68292d34-6cf9-4f6a-b05c-7a8b7cb8b992
 	  0. [Key Skills for Review]([[MTH1W 0 Skill Review]])
 	- [Number](MTH1W 1 Number)
@@ -13,7 +13,7 @@ icon:: 💡
 	  logseq.order-list-type:: number
 	- [Financial Reasoning](MTH1W 4 Financial Reasoning)
 	  logseq.order-list-type:: number
-	- Mathematical Modelling
+	- [Mathematical Modelling]([[MTH1W 5 Mathematical Modelling]])
 	  logseq.order-list-type:: number
 	- [Resources](MTH1W Resources)
 	  logseq.order-list-type:: number
