@@ -17,7 +17,7 @@ title:: MCV4U
 	- Culminating 30%
 		- TODO Exam Study
 		- TODO Final Exam
-- ## Table of Contents #.v-columns-2-self-border-children
+- ## Table of Contents #.v-self-border-children
 	- 0. [Slopes & Points]([[MCV4U 0]])
 	- [Why invent the Derivative?]([[MCV4U 1]])
 	  logseq.order-list-type:: number
@@ -29,7 +29,7 @@ title:: MCV4U
 	  logseq.order-list-type:: number
 	- [Why do we learn Linear Algebra?]([[MCV4U 5 Why do we study Linear Algebra?]])
 	  logseq.order-list-type:: number
-		- {{embed ((682d1d0c-8b4d-4723-bf1d-1b36e344eb6a))}}
+	  {{embed ((682d1d0c-8b4d-4723-bf1d-1b36e344eb6a))}}
 	- [Everything is Linear Algebra]([[MCV4U 6]])
 	  logseq.order-list-type:: number
 	- [Resources]([[MCV4U Resources]])
