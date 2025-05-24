@@ -1,2 +1,3 @@
 - #definiton A real number is any number used to describe most types of situations.
-- #eg $\sqrt2=1.414\ldots$ or $\pi=3.141592653589\ldots$ or $0$ or $1$ or $-1$ or $-
+- #eg $\sqrt2=1.414\ldots$ or $\pi=3.141592653589\ldots$ or $0$ or $1$ or $-1$ or $-100$ or $\frac{-1}3$ are all examples of real numbers. You probably can't think of a number that isn't real.
+- #not #eg N
