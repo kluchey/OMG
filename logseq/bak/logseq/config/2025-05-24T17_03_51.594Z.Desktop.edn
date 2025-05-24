@@ -424,6 +424,4 @@
  :default-home {:page "Ontario Math Graph"}
  :ui/show-brackets? false
  :publishing/all-pages-public? true
- :editor/preferred-pasting-file? true
- :graph/settings {:orphan-pages? false
- :excluded-pages? false}}
+ :editor/preferred-pasting-file? true}

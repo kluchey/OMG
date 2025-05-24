@@ -425,5 +425,4 @@
  :ui/show-brackets? false
  :publishing/all-pages-public? true
  :editor/preferred-pasting-file? true
- :graph/settings {:orphan-pages? false
- :excluded-pages? false}}
+ :graph/settings {:orphan-pages? false}}
