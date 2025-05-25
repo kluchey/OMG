@@ -182,6 +182,9 @@ html[data-theme=dark][data-color=logseq] {
     background-color: var(--ls-secondary-background-color);
 }
 
+.block-main-container {
+    top: -13px;
+}
 
 /* -- like dislike ----------------------------------------- */
 
@@ -977,13 +980,13 @@ html[data-theme=dark][data-color=logseq] {
 
         }
         [data-refs-self*="border-child"]>.block-children-container.flex>.block-children>.ls-block {
-            box-shadow: 2px 2px 3px #0000003b;
+            /*box-shadow: 2px 2px 3px #0000003b;*/
             border: 1px solid var(--ls-border-color);
             border-radius: var(--ls-border-radius-low);
             background-color: var(--ls-tertiary-background-color);        
             margin: 0.5em 1em 0.5em 0em !important;
             padding: 0.25em 0em !important;
-            left: 2px;
+            left: 0.1em;
         }
 
     /*==== ls-border end ====== */
