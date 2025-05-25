@@ -1,5 +1,5 @@
 - Math explanations are an art, not always a science. Math explanations should predict where a solver and a reader would mess up their understanding and show those steps specifically.
-	- #eg "Do you need me to scan the left or the right?" and a person responds "right".
-		- Has the person meant "Yes, do the left scan?" because they have misunderstood?
+	- #eg "Do you need me to scan the left or the right?" and a coworker responds "right".
+		- Has the coworker meant "Yes, do the left scan?" because they have misunderstood?
 		- Or does the person mean "do the right scan"?
-		- This example comes from the role of x-ray technologist where communication with a coworker on a requested x-ray
+		- This example comes from the role of x-ray technologist where communication with a coworker on a requested x-ray needs to be unambiguous.
