@@ -792,7 +792,7 @@
             border: 1px solid var(--ls-border-color);
             border-radius: var(--ls-border-radius-medium);
             background-color: var(--ls-primary-background-color);
-            margin: 0em 0.5em 0.2em 1em !important;
+            margin: 0em 0.5em 1.2em 1em !important;
             padding: 0.5em 1em 0.5em 0em !important;
 
         }
@@ -806,3 +806,7 @@
         }
 
     /*==== ls-border end ====== */
+
+/*
+	CSS Theme Custom
+*/
