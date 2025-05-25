@@ -183,7 +183,7 @@ html[data-theme=dark][data-color=logseq] {
     background-color: var(--ls-secondary-background-color);
 }
 .title {
-    margin-bottom: 0em;
+    margin-bottom: 0rem; !important
     padding: 0.5rem;
 }
 
