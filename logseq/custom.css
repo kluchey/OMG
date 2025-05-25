@@ -182,6 +182,9 @@ html[data-theme=dark][data-color=logseq] {
     background-color: var(--ls-secondary-background-color);
 }
 
+.uniline-block {
+    top: -13px;
+}
 
 /* -- like dislike ----------------------------------------- */
 
