@@ -1,1 +1,1 @@
-- Math explanations should predict where a person
+- Math explanations are an art, not always a science. Math explanations should predict where a solver and a reader would mess up their understanding and show those steps specifically.
