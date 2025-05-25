@@ -13,7 +13,6 @@ icon:: 🍎
 	- ### Teaching
 		- {{embed ((6831285a-246d-4fd3-9bda-e83ab153c99b))}}
 		- {{embed ((68312831-afbd-4af6-8f51-fcd4edf4e4c9))}}
-		-
 	- ### Grade 9
 	  collapsed:: true
 		- [[MTH1W]] Mathematics 9 🚩
