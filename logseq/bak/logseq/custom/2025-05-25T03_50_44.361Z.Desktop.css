@@ -801,7 +801,7 @@
             border: 1px solid var(--ls-border-color);
             border-radius: var(--ls-border-radius-low);
             background-color: var(--ls-tertiary-background-color);        
-            margin: 0.5em 1em 0.5em 0em !important;
+            margin: 0.5em 1em 5.5em 0em !important;
             padding: 0.15em 0em !important;
         }
 
