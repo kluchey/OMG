@@ -1,11 +1,10 @@
-# Review Problem Set Part 1
+# Review Problem Set Part 1 #.v-border-children
 	- Topic:  Forms of Equations in 3D
 	  logseq.order-list-type:: number
 		- Determine the vector, parametric, and symmetric equations of the line through the points $A(3, -1, 5)$ and $B(-4, 5, -9)$.
 		  logseq.order-list-type:: number
 			- *Solution*.
 			  collapsed:: true
-			  ---
 				- Begin by finding the direction of the line, $\vec{d}$. Since the line travels between points $A$ and $B$ we reason that:
 				  logseq.order-list-type:: number
 				  $$\begin{align*}
@@ -28,15 +27,13 @@
 		  ![image.png](../assets/image_1747928145065_0.png){:height 350, :width 442}
 			- *Solution*.
 			  collapsed:: true
-			  ---
 				- ![image.png](../assets/image_1747960022652_0.png){:height 583, :width 728}
 				  logseq.order-list-type:: number
 				  <!-- [[draws/2025-05-22-15-10-22.excalidraw]] -->
 		- Why is there no scalar equation for a line in $\R^3$? Hint:  {{cloze Can you draw a diagram to help you figure out and describe what problems someone would have forming a scalar equation of a line in 3D?}}
 		  logseq.order-list-type:: number
-			- collapsed:: true
-			  *Solution*.
-			  ---
+			- *Solution*.
+			  collapsed:: true
 				- There is not one ==[[normal]]== vector that can define a line, instead there are multiple in many different directions. This does not lend well to an equation which needs to produce points consistently on a line in a specific direction.
 				  logseq.order-list-type:: number
 				- From another perspective, given a normal vector, there are multiple directions a line could be defined from it, so a normal vector does not define just one line but multiple... in fact it will define a plane.
@@ -51,7 +48,6 @@
 			- *Solution*.
 			  logseq.order-list-type:: number
 			  collapsed:: true
-			  ---
 				- *Fun Fact*:  I asked ChatGPT to invent a problem that had a point of intersection. It gave me this system. If I ask it to solve this system, it proves that there is no point of intersection. This just goes to show that you can't trust ChatGPT and always need to verify its results.
 				  ![image.png](../assets/image_1747963288277_0.png){:height 292, :width 427}
 				- **Strategy**:
@@ -104,7 +100,6 @@
 		  logseq.order-list-type:: number
 			- *Solution*.
 			  collapsed:: true
-			  ---
 				- No, there will not be a point of intersection. In the solution to part a, we found $t=2$ by using only the $x$ and $y$ components. We would follow the same strategy in this problem which means we'd get the same $t=2$ parameter for the potential point of intersection.
 				  logseq.order-list-type:: number
 				- Except, it still doesn't work since we would then have $\langle -1,-2,-8 \rangle$, where $x=-1$ and $y=-2$ will still not satisfy the symmetric equation.
@@ -114,7 +109,6 @@
 		  $$\begin{cases} L_3: & \{ x=1-k, 2y=k+1, z=2-2k \} \\ L_4: & \langle \frac{1}{2},\frac{3}{4},1 \rangle +t\langle 2,-1,4 \rangle \end{cases}$$
 			- *Solution*.
 			  collapsed:: true
-			  ---
 				- One should always check if the lines are parallel first. In fact these are:
 				  logseq.order-list-type:: number
 				  $$L_3:  \begin{cases} x=1-k \\ y = \frac{1}{2}+\frac{1}{2}k \\z = 2-2k \end{cases}$$
