@@ -10,7 +10,7 @@ icon:: 🍎
 	- My **goal** for this resource is a useful reference, effective learning tool, and [[Study Guide]]. I'm looking to preserve a set of stories and math problems from an Ontario classroom #culture.
 - ## Course Selection #.v-self-border-children
   id:: 682bd1c7-1d93-46f1-a1c9-42e5ef4ce4cf
-	- ### Working
+	- ### Teaching
 		- [[MCV4U]]
 		- [[MTH1W]]
 	- ### Grade 9
@@ -57,5 +57,3 @@ icon:: 🍎
 	- If you have used the content on this site please consider contributing back, here are some suggestions:
 		- Donate time. Have a great idea? Send it to [k@cluchey.ca](mailto: k@cluchey.ca) and if your idea ends up getting used, you will be credited in this resource.
 			- Massive amounts of time? Fork a copy of the [OMG Github Repository](https://github.com/kluchey/OMG) and start making your own free Ontario resource. Send me what you create!
-- <iframe src="https://google.ca" style="width: 900px; height: 600px"></iframe>
--
