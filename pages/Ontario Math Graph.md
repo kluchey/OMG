@@ -43,19 +43,19 @@ icon:: 🍎
 		- [[MAP4C]] Foundations for College Math 12
 		- [[MEL4E]] Math for Work & Life
 - # 📰 News & TODO #.v-self-border
-	- This is what I'm working on right now and a road map for the future.
-	- DOING Working on [[MTH1W]] Course Content
-	  :LOGBOOK:
-	  CLOCK: [2025-05-18 Sun 21:43:48]
-	  CLOCK: [2025-05-18 Sun 21:43:53]--[2025-05-18 Sun 21:44:04] =>  00:00:11
-	  CLOCK: [2025-05-18 Sun 21:44:09]
-	  :END:
-	- TODO Add more Flashcards for math words and practice.
-	  :LOGBOOK:
-	  CLOCK: [2025-05-20 Tue 13:07:54]--[2025-05-20 Tue 13:11:46] =>  00:03:52
-	  :END:
-	- TODO Add more games.
-	- TODO Add more cryptographic puzzles to autocorrect solutions practice.
+	- I'm working on this stuff now and in the future:
+		- DOING Working on [[MTH1W]] Course Content
+		  :LOGBOOK:
+		  CLOCK: [2025-05-18 Sun 21:43:48]
+		  CLOCK: [2025-05-18 Sun 21:43:53]--[2025-05-18 Sun 21:44:04] =>  00:00:11
+		  CLOCK: [2025-05-18 Sun 21:44:09]
+		  :END:
+		- TODO Add more Flashcards for math words and practice.
+		  :LOGBOOK:
+		  CLOCK: [2025-05-20 Tue 13:07:54]--[2025-05-20 Tue 13:11:46] =>  00:03:52
+		  :END:
+		- TODO Add more games.
+		- TODO Add more cryptographic puzzles to autocorrect solutions practice.
 - ### Want to Contribute? #.v-self-border
 	- This is a free and open source effort hosted on [Github](https://github.com/kluchey/OMG), crafted using [Logseq](https://logseq.com/), and published via [Logseq-SPA](https://github.com/logseq/publish-spa).
 	- If you have used the content on this site please consider contributing back, here are some suggestions:
