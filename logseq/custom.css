@@ -187,6 +187,11 @@ html[data-theme=dark][data-color=logseq] {
     padding: 0.5rem;
 }
 
+/* No Margins on Blocks */
+.ls-block {
+    margin: 0;
+}
+
 
 /* -- like dislike ----------------------------------------- */
 
