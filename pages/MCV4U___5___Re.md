@@ -189,7 +189,6 @@
 			  logseq.order-list-type:: number
 			- Therefore, $\vec{v}=(1,-2,9) + t(1,3,2)$ for $t\in\R$.
 			  logseq.order-list-type:: number
-		- ---
 	- Thinking & Application
 	  logseq.order-list-type:: number
 	  id:: 682fc283-1a69-4041-a488-2832ca1eaf96
@@ -197,14 +196,12 @@
 		  logseq.order-list-type:: number
 			- *Solution*.
 			  collapsed:: true
-			  ---
 				- We know the y-coordinate is $0$. I.e. every vector looks like $(\#, 0, \#)$.
 				  logseq.order-list-type:: number
 		- Find the equation of the line which has a direction vector perpendicular to the xy-plane and passing through the origin. This line has another name, what is it?
 		  logseq.order-list-type:: number
 			- *Solution*.
 			  collapsed:: true
-			  ---
 				- A vector perpendicular to the xy-plane is $(0,0,1)$ and if this line passes through $(0,0,0)$ then we know the equation is, for $t\in\R$:
 				  logseq.order-list-type:: number
 				  $$(x,y,z)=t(0,0,1)$$
@@ -214,8 +211,9 @@
 		  logseq.order-list-type:: number
 		  $$\begin{cases} L_1: & \langle x,y,z \rangle = \langle 0,17,-10 \rangle +k\langle 2,0,1 \rangle \\ L_2: & \langle x,y,z \rangle =\langle 13,30,19 \rangle +t\langle 5,6,5 \rangle \end{cases}$$
 			- *Solution*.
-			  ---
+			  collapsed:: true
 				- **Strategy**:
+				  collapsed:: true
 					- This is a complicated one, let's break it down.
 					- If you made A a vector, what would it need to look like? What does every vector on $L_1$ look like? Use parameters to get a formula for the vector A.
 					- Do the same for vector B.

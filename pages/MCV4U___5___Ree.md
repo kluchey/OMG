@@ -37,7 +37,6 @@
 		- {{embed ((682fc283-167a-4783-aa8e-b38c9fbb8ffc))}}
 		- *Solution*.
 		  collapsed:: true
-		  ---
 			- We need to be knowledgeable about the symmetric equation. Its general form is
 			  $$\frac{x-P_{x}}{d_{x}}=_{}\frac{y-P_{x}}{d_{y}}=\frac{z-P_{z}}{d_{z}}$$
 			- Since the new line is ==[[parallel]]== we can use the same direction vector $\vec{d}=(d_x,d_y,d_z)$ as the original line. The new line needs to pass through the given point, so we let $\vec{P}$ be that point.
@@ -45,5 +44,3 @@
 	- What is your **strategy** to solve the 5c problem? How do 5a and 5b help? Do we need to know anything else from Unit 1 to be able to solve 5c?
 	  logseq.order-list-type:: number
 		- {{embed ((682fc283-1a69-4041-a488-2832ca1eaf96))}}
-		  logseq.order-list-type:: number
-	-
