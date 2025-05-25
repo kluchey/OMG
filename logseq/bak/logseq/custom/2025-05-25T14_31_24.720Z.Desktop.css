@@ -1,3 +1,8 @@
+/*
+	Logseq Logtools CSS from Github
+	https://github.com/cannibalox/logtools
+*/
+
 /* -- like dislike ----------------------------------------- */
 
         .ls-block[data-refs-self*="like"] .block-children .bullet-container .bullet {
@@ -802,3 +807,26 @@
 
     /*==== ls-border end ====== */
 
+/*
+	CSS Theme Custom
+*/
+
+/* headings */
+        .editor-inner .uniline-block:is(.h1,.h2), .ls-block :is(h1,h2) {
+            margin: .4em 0;
+        }
+        .ls-block:is(.h1) {
+            font-size: 2rem;
+            font-weight: 900;
+            color: #fff;
+        }
+
+        .ls-block:is(.h2) {
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: #b4b4b4;
+        }
+
+        .ls-block[data-refs-self*=".h"]>.flex-1.flex-row>.flex>.block-content a.tag {
+            display: none
+        }
