@@ -132,10 +132,10 @@
 				  ---
 		- **New!** Determine the point of intersection for the following system of equations in $\R^3$. **This system actually has a point of intersection**. $t,k\in\R$
 		  logseq.order-list-type:: number
-		  $$L_5:  \begin{cases} x=3+k \\ y=-7-2k \\ z=5+4k \end{cases} \text{ and } L_6:  \begin{cases} x=-7+3t \\ y=-8+t \\ z=4-t \end{cases}$$
-			- collapsed:: true
-			  *Solution*.
-			  ---
+		  $$L_5:  \begin{cases} x=3+k \\ y=-7-2k \\ z=5+4k \end{cases} \text{ and }$$
+		  $$L_6:  \begin{cases} x=-7+3t \\ y=-8+t \\ z=4-t \end{cases}$$
+			- *Solution*.
+			  collapsed:: true
 				- Let's first notice that the direction vectors are not scalar multiples of one another, so this system is not parallel or coincident.
 				  logseq.order-list-type:: number
 				- Set $x$, $y$, and $z$ equal to each other.
@@ -171,7 +171,6 @@
 		- Create a ==[[flowchart]]== to explain the steps you should take to efficiently write down the solution to \#3a. Hint: {{cloze The first step in your flowchart should be "Check if the two lines are parallel".  Why is this the suggested first step and how do you check?}}
 		  logseq.order-list-type:: number
 		- *No solutions given*. This problem is extra practice. Compare to your classmates.
-		- ---
 	- Find the vector equation of a line parallel to $7-x=\frac{y+5}{3}=\frac{z+26}{2}$ and passing through the point $(1,-2,9)$.
 	  logseq.order-list-type:: number
 	  id:: 682fc283-167a-4783-aa8e-b38c9fbb8ffc
