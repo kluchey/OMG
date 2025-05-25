@@ -977,7 +977,7 @@ html[data-theme=dark][data-color=logseq] {
 
         }
         [data-refs-self*="border-child"]>.block-children-container.flex>.block-children>.ls-block {
-            box-shadow: 2px 2px 3px #0000003b;
+            /*box-shadow: 2px 2px 3px #0000003b;*/
             border: 1px solid var(--ls-border-color);
             border-radius: var(--ls-border-radius-low);
             background-color: var(--ls-tertiary-background-color);        
