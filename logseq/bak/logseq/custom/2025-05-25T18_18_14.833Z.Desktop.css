@@ -177,8 +177,8 @@ html[data-theme=dark][data-color=logseq] {
 
 .ls-page-title {
     border-color: var(--ls-active-primary-color);
-    border-width: 10px;
-    border-radius: 5px;
+    border-width: 1px;
+    border-radius: var(--ls-border-radius-medium);
     background-color: var(--ls-secondary-background-color);
 }
 
