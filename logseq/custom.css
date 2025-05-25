@@ -189,7 +189,7 @@ html[data-theme=dark][data-color=logseq] {
 
 /* No Margins on Blocks */
 .ls-block {
-    margin: 0;
+    margin: 0 !important !important;
 }
 
 
