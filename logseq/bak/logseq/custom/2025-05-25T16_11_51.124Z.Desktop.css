@@ -176,7 +176,9 @@ html[data-theme=dark][data-color=logseq] {
 }
 
 .ls-page-title {
-    border-color: #000000;
+    border-color: var(--ls-active-primary-color);
+    border-width: 1px;
+    border-radius: var(--ls-border-radius-low);
     background-color: var(--ls-secondary-background-color);
 }
 

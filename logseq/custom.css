@@ -178,14 +178,8 @@ html[data-theme=dark][data-color=logseq] {
 .ls-page-title {
     border-color: var(--ls-active-primary-color);
     border-width: 1px;
-    border-radius: 10px;
-    border-ra
+    border-radius: var(--ls-border-radius-medium);
     background-color: var(--ls-secondary-background-color);
-}
-.page-title {
-    border-radius: 10px;
-    border-width: 1px;
-    
 }
 
 
