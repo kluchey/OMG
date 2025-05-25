@@ -2,4 +2,6 @@
 	- #eg "Do you need me to scan the left or the right?" and a coworker responds "right".
 		- Has the coworker meant "Yes, do the left scan?" because they have misunderstood?
 		- Or does the person mean "do the right scan"?
-		- This example comes from the role of x-ray technologist where communication with a coworker on a requested x-ray needs to be unambiguous. Instead, the question
+		- This example comes from the role of x-ray technologist where communication with a coworker on a requested x-ray needs to be unambiguous. Instead, the question should be
+			- The coworker can be
+	- #eg
