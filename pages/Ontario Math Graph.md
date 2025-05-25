@@ -11,9 +11,11 @@ icon:: 🍎
 - ## Course Selection #.v-self-border-children
   id:: 682bd1c7-1d93-46f1-a1c9-42e5ef4ce4cf
 	- ### Teaching
+		- {{embed ((6831285a-246d-4fd3-9bda-e83ab153c99b))}}
 		- {{embed ((68312831-afbd-4af6-8f51-fcd4edf4e4c9))}}
 		-
 	- ### Grade 9
+	  collapsed:: true
 		- [[MTH1W]] Mathematics 9 🚩
 		  id:: 68312831-afbd-4af6-8f51-fcd4edf4e4c9
 			- [3 Dice Games]([[MTH1W/3/Dice Games]])
@@ -30,6 +32,7 @@ icon:: 🍎
 		- [[MBF3C]] Foundations for College Math 11
 		- [[MEL3E]] Math for Work & Life
 	- ### Grade 12
+	  collapsed:: true
 		- [[MHF4U]] Advanced Functions
 		- [[MCV4U]] Calculus & Vectors 🚩
 		  id:: 6831285a-246d-4fd3-9bda-e83ab153c99b
