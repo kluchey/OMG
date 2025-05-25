@@ -44,7 +44,7 @@ html[data-theme='light'] {
 html[data-theme=light][data-color=logseq] {
   --ls-primary-background-color: #ffffff;
   --ls-secondary-background-color: #f7f7f7;
-  --ls-tertiary-background-color: #ffffff;
+  --ls-tertiary-background-color: #eaeaea;
   --ls-quaternary-background-color: #dcdcdc;
   --ls-table-tr-even-background-color: var(--ls-secondary-background-color);
   --ls-active-primary-color: rgb(0, 105, 182);
@@ -175,7 +175,10 @@ html[data-theme=dark][data-color=logseq] {
   --color-level-6: #3a7e8e;
 }
 
-
+.ls-page-title {
+    border-width: 1px;
+    background-color: var(--ls-secondary-background-color);
+}
 
 
 /* -- like dislike ----------------------------------------- */

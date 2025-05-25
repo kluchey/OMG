@@ -176,6 +176,7 @@ html[data-theme=dark][data-color=logseq] {
 }
 
 .ls-page-title {
+    border-color: #000000;
     background-color: var(--ls-secondary-background-color);
 }
 
