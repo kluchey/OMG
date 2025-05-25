@@ -1,2 +1,4 @@
 - Math explanations are an art, not always a science. Math explanations should predict where a solver and a reader would mess up their understanding and show those steps specifically.
-	- #eg "Do you want me to scan the left or the right?" and a person responds "right?
+	- #eg "Do you want me to scan the left or the right?" and a person responds "right".
+		- Has the person meant "Yes, do the left scan?" because they have misunderstood?
+		-
