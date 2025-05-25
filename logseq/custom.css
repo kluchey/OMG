@@ -180,7 +180,7 @@ html[data-theme=dark][data-color=logseq] {
     border-color: var(--ls-active-primary-color);
     /*border-width: 1px;*/
     border-radius: var(--ls-border-radius-medium);
-    background-color: var(--ls-secondary-background-color);
+    /* background-color: var(--ls-secondary-background-color); */
 }
 .title {
     margin-bottom: 0rem !important;
