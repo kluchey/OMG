@@ -181,6 +181,9 @@ html[data-theme=dark][data-color=logseq] {
     border-radius: 10px;
     background-color: var(--ls-secondary-background-color);
 }
+.page-title {
+    border-radius: 10px;
+}
 
 
 /* -- like dislike ----------------------------------------- */
