@@ -3,7 +3,7 @@
 :root {
   --ls-tag-text-opacity: 0.8;
   --ls-tag-text-hover-opacity: 1;
-  --ls-page-text-size: 2em;
+  --ls-page-text-size: 1em;
   --ls-page-title-size: 36px;
   --ls-main-content-max-width: 810px;
   --ls-main-content-max-width-wide: 1280px;
@@ -175,7 +175,9 @@ html[data-theme=dark][data-color=logseq] {
   --color-level-6: #3a7e8e;
 }
 
-
+.ls-page-title[data-theme=dark] {
+    background-color: var(--ls-active-primary-color);
+}
 
 
 /* -- like dislike ----------------------------------------- */
