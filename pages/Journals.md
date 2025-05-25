@@ -1,7 +1,9 @@
 - [[2025-05-25]] Math explanations are an art, not always a science. Math explanations should predict where a solver and a reader would mess up their understanding and show those steps specifically in addition to steps which have clear reasoning, i.e. Computational Steps.
 	- #eg "Do you need me to scan the left or the right?" and a coworker responds "right".
-		- This example comes from the role of x-ray technologist where communication with a coworker on a requested x-ray needs to be unambiguous. Instead, the question should be reworded so the answer "right" is not ambiguous.
-			- The coworker could think about their response more to be unambiguous, however that still needs to be clarified. This is why we need to reword the question.
 		- Has the coworker meant "Yes, do the left scan?" because they have misunderstood?
 		- Or does the person mean "do the right scan"?
+		- This example comes from the role of x-ray technologist where communication with a coworker on a requested x-ray needs to be unambiguous.
+			- Instead, the question should be reworded so the answer "right" is not ambiguous.
+			- Right can be "correct" or "right side".
+			- The coworker could think about their response more to be unambiguous, however that still needs to be clarified by the question asker. This is why we need to reword the question.
 	- #eg Have you ever had a friend who, when asked a binary question like "Would you like cucumber or onion?" they respond with just "Yes"? --> Ambiguity.
