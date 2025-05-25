@@ -1,9 +1,9 @@
 # Let's form some strategies:  Specific Questions #.v-border-children
-	- Is the point $\begin{bmatrix}3\\ 4\end{bmatrix}$ on the line $\begin{bmatrix}x\\ y\end{bmatrix}=\begin{bmatrix}-1\\ 3\end{bmatrix}+t\begin{bmatrix}5\\ 7\end{bmatrix}$
+	- Is the point $\begin{bmatrix}3\\ 4\end{bmatrix}$ on the line
 	  logseq.order-list-type:: number
+	  $$\begin{bmatrix}x\\ y\end{bmatrix}=\begin{bmatrix}-1\\ 3\end{bmatrix}+t\begin{bmatrix}5\\ 7\end{bmatrix}$$
 		- *Solution*.
 		  collapsed:: true
-		  ---
 			- To check if a point is on a vector equation, we need there to exist a value of $t\in\R$ that gives us this point using the equation for the line.
 			  logseq.order-list-type:: number
 				- If we substitute our $(3,4)$ into the equation, we can then solve for $t$.
@@ -13,12 +13,12 @@
 					- If $t$ is ==[[consistent]]== then the point is on the line.
 					  logseq.order-list-type:: number
 			- logseq.order-list-type:: number
-	- Is the point $\begin{bmatrix}3\\ 4\end{bmatrix}$ on the line $\begin{bmatrix}x\\ y\end{bmatrix}=t\begin{bmatrix}-1\\ 3\end{bmatrix}+\begin{bmatrix}5\\ -2\end{bmatrix}$
+	- Is the point $\begin{bmatrix}3\\ 4\end{bmatrix}$ on the line 
 	  logseq.order-list-type:: number
+	  $$\begin{bmatrix}x\\ y\end{bmatrix}=t\begin{bmatrix}-1\\ 3\end{bmatrix}+\begin{bmatrix}5\\ -2\end{bmatrix}$$
 		- *Solution*.
 		  logseq.order-list-type:: number
 		  collapsed:: true
-		  ---
 			- We will solve this by ==[[inspection]]==, a strategy you are allowed in higher maths when solving simple equations.
 			  logseq.order-list-type:: number
 			- By inspection, the solution $t=2$ demonstrates that:
