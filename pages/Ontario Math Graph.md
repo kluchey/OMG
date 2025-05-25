@@ -11,10 +11,11 @@ icon:: 🍎
 - ## Course Selection #.v-self-border-children
   id:: 682bd1c7-1d93-46f1-a1c9-42e5ef4ce4cf
 	- ### Teaching
-		- [[MCV4U]]
-		- [[MTH1W]]
+		- {{embed ((68312831-afbd-4af6-8f51-fcd4edf4e4c9))}}
+		-
 	- ### Grade 9
 		- [[MTH1W]] Mathematics 9 🚩
+		  id:: 68312831-afbd-4af6-8f51-fcd4edf4e4c9
 			- [3 Dice Games]([[MTH1W/3/Dice Games]])
 		- [[MAT1L]] Essentials of Math 9
 	- ### Grade 10
@@ -31,6 +32,7 @@ icon:: 🍎
 	- ### Grade 12
 		- [[MHF4U]] Advanced Functions
 		- [[MCV4U]] Calculus & Vectors 🚩
+		  id:: 6831285a-246d-4fd3-9bda-e83ab153c99b
 			- [5-3 PoI]([[MCV4U/5/3 Intersection of Lines]])
 			- [5-Re Review Part 1]([[MCV4U/5/Re]])
 			- [5-Ree Examples]([[MCV4U/5/Ree]])
