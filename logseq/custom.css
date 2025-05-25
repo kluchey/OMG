@@ -179,10 +179,12 @@ html[data-theme=dark][data-color=logseq] {
     border-color: var(--ls-active-primary-color);
     border-width: 10px;
     border-radius: 10px;
+    border-ra
     background-color: var(--ls-secondary-background-color);
 }
 .page-title {
     border-radius: 10px;
+    border-width: 1px;
 }
 
 
