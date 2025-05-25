@@ -1,4 +1,6 @@
-# How should I Study Mathematics in High School? A Guide
+icon:: 📚
+
+- # How should I Study Mathematics in High School? A Guide
 	- Click on the side bar to expand sections or click the bullet points to focus on specific sections for easier reading (recommended).
 	- ## 👻 Avoid Illusions of Knowing
 	  collapsed:: true
