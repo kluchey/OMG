@@ -26,7 +26,7 @@
 :block/properties 
 {}
 :block/uuid #uuid "68325d91-24d5-4a0d-a81e-21892f05b40e"} 
-{:block/content "Ontario Grade 8 Math Curriculum\n<iframe src=\"/assets/websites/OnMath8/OntarioMath8.html\" style=\"width: 900px; height: 600px\"></iframe>"
+{:block/content ""
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "68325d91-24d5-4a0d-a81e-21892f05b40e"}
@@ -34,35 +34,7 @@
 {:block/uuid #uuid "68325a5b-1af6-466e-9b02-a875d507daf8"}
 :block/properties 
 {}
-:block/uuid #uuid "68325f59-99d3-4ff5-ba98-09e259498736"} 
-{:block/created-at 1748131897201
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:blockType "B"
-:stroke ""
-:rotation 0
-:collapsed false
-:borderRadius 8
-:index 0
-:scale [1 1]
-:pageId "68325f59-99d3-4ff5-ba98-09e259498736"
-:scaleLevel "md"
-:fill ""
-:compact true
-:isAutoResizing true
-:type "logseq-portal"
-:size [792 88.8979062438011]
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:id "4cd1d760-38fc-11f0-8cfe-97bc872299b0"
-:noFill false
-:point [-224 144]
-:parentId "68325a5b-1af6-466e-9b02-a875d507daf8"
-:collapsedHeight 0
-:nonce 1748131672097}}
-:block/updated-at 1748131897201})
+:block/uuid #uuid "68325f59-99d3-4ff5-ba98-09e259498736"})
 :pages (
 {:block/uuid #uuid "68325a5b-1af6-466e-9b02-a875d507daf8"
 :block/properties 
@@ -74,8 +46,8 @@
 {}
 :nonce 1
 :assets []
-:shapes-index ("4cd1d760-38fc-11f0-8cfe-97bc872299b0")}}
-:block/updated-at 1748131897699
+:shapes-index ()}}
+:block/updated-at 1748131950361
 :block/created-at 1748130395715
 :block/type "whiteboard"
 :block/name "curriculum compare"
