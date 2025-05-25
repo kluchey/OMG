@@ -182,7 +182,7 @@ html[data-theme=dark][data-color=logseq] {
     background-color: var(--ls-secondary-background-color);
 }
 
-.uniline-block {
+.block-main-container {
     top: -13px;
 }
 
