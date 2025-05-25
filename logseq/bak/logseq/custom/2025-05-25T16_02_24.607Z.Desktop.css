@@ -175,7 +175,9 @@ html[data-theme=dark][data-color=logseq] {
   --color-level-6: #3a7e8e;
 }
 
-
+.ls-page-title[data-theme=dark][data-color=logseq] {
+    background-color: var(--ls-active-primary-color);
+}
 
 
 /* -- like dislike ----------------------------------------- */
