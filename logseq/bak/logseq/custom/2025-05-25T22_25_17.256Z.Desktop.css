@@ -182,8 +182,9 @@ html[data-theme=dark][data-color=logseq] {
     border-radius: var(--ls-border-radius-medium);
     background-color: var(--ls-secondary-background-color);
 }
-.page-title {
-    margin-bottom: 1em;
+.title {
+    margin-bottom: 0rem; !important
+    padding: 0.5rem;
 }
 
 
