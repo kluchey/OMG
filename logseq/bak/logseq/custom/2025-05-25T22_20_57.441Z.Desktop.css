@@ -142,7 +142,7 @@ html[data-theme=dark][data-color=logseq] {
   --ls-page-blockquote-bg-color: var(--ls-secondary-background-color);
   --ls-page-blockquote-border-color: var(--ls-border-color);
   --ls-page-mark-color: #262626;
-  --ls-page-mark-bg-color: #fef3ac;
+  --ls-page-mark-bg-color: #075007;
   --ls-page-inline-code-color: var(--ls-primary-text-color);
   --ls-page-inline-code-bg-color: #01222a;
   --ls-scrollbar-foreground-color: #11505f;
@@ -175,16 +175,17 @@ html[data-theme=dark][data-color=logseq] {
   --color-level-6: #3a7e8e;
 }
 
+/* Custom Title on each Page */
 .ls-page-title {
     border-color: var(--ls-active-primary-color);
     border-width: 1px;
     border-radius: var(--ls-border-radius-medium);
     background-color: var(--ls-secondary-background-color);
 }
-
-.block-main-container {
-    top: -13px;
+.page-title {
+    margin-bottom: 1em;
 }
+
 
 /* -- like dislike ----------------------------------------- */
 
