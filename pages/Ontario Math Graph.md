@@ -57,5 +57,5 @@ icon:: 🍎
 	- If you have used the content on this site please consider contributing back, here are some suggestions:
 		- Donate time. Have a great idea? Send it to [k@cluchey.ca](mailto: k@cluchey.ca) and if your idea ends up getting used, you will be credited in this resource.
 			- Massive amounts of time? Fork a copy of the [OMG Github Repository](https://github.com/kluchey/OMG) and start making your own free Ontario resource. Send me what you create!
-- <iframe src="../assets/websites/OnMath8/OntarioMath8.html" style="width: 900px; height: 600px"></iframe>
+- <iframe src="https://google.ca" style="width: 900px; height: 600px"></iframe>
 -
