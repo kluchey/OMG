@@ -183,7 +183,13 @@ html[data-theme=dark][data-color=logseq] {
     background-color: var(--ls-secondary-background-color);
 }
 .title {
-    margin-bottom: 1em;
+    margin-bottom: 0rem !important;
+    padding: 0.5rem;
+}
+
+/* No Margins on Blocks */
+.ls-block {
+    margin: 0 !important !important;
 }
 
 
