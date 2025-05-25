@@ -983,7 +983,7 @@ html[data-theme=dark][data-color=logseq] {
             background-color: var(--ls-tertiary-background-color);        
             margin: 0.5em 1em 0.5em 0em !important;
             padding: 0.25em 0em !important;
-            offset-position: 3em;
+            left: 2px;
         }
 
     /*==== ls-border end ====== */
