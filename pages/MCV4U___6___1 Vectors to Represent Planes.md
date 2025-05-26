@@ -149,13 +149,13 @@
 			- *Solutions.*
 				- Plane. Two parameters or two directions.
 				  logseq.order-list-type:: number
-				- Line.
+				- Line. One parameter or one direction.
 				  logseq.order-list-type:: number
-				- Plane.
+				- Plane. Two parameters, trickier to spot them.
 				  logseq.order-list-type:: number
-				- Plane.
+				- Plane. Two parameters, no position vector.
 				  logseq.order-list-type:: number
-				- Line.
+				- Line. Parallel directions, so we can set $k =
 				  logseq.order-list-type:: number
 		- Find the vector equation of a plane that contains the points $A(1,2,3)$, $B(-3, 4, 5)$, and $C(-4,5,2)$.
 		  logseq.order-list-type:: number
