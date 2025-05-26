@@ -152,7 +152,14 @@
 		  logseq.order-list-type:: number
 			- Find the coordinates of any point on the plane.
 			  logseq.order-list-type:: number
-			- What are the direction
+				- *Solution.*
+				  logseq.order-list-type:: number
+					- logseq.order-list-type:: number
+			- What are the direction vectors for the plane?
+			  logseq.order-list-type:: number
+			- What point corresponds to $t=-1$ and $k=3$?
+			  logseq.order-list-type:: number
+			- What values of $t$ and $k$ give the point $(0,6,-7)$?
 			  logseq.order-list-type:: number
 		- logseq.order-list-type:: number
 		- logseq.order-list-type:: number
