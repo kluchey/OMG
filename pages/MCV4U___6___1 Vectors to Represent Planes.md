@@ -234,3 +234,7 @@
 		  logseq.order-list-type:: number
 		- Why is there no symmetric equation for any plane?
 		  logseq.order-list-type:: number
+			- *Idea.*
+			  logseq.order-list-type:: number
+				- Having two parameters means why can no longer solve for just one of them. We could make something like a symmetric equation but
+				  logseq.order-list-type:: number
