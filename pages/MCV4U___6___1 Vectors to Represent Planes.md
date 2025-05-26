@@ -208,5 +208,7 @@
 					- Checking Consistency:
 					  logseq.order-list-type:: number
 					  $z = -1-3(0)-2(3)=-1-6=-7$ Good!
-		- Find the parametric equations for the plane
+		- Find the parametric equations for the plane passing through the points $A(1,1,0) and $B(4,5,-6)$ with direction vector $\vec{d}=(7,1,2)$. Be sure to define your parameters with a let statement.
+		  logseq.order-list-type:: number
+		- Explain why $(x,y,z)=
 		  logseq.order-list-type:: number
