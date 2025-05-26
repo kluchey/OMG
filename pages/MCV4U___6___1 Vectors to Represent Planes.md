@@ -130,7 +130,7 @@
 					  + q\begin{bmatrix} 1\\ 0\\ 2\end{bmatrix}
 					  + s \begin{bmatrix} 17 \\ 1 \\ 5 \end{bmatrix} $$
 				- Parametric Equations:
-					- $\left\lbrace\right.$
+					- $$\begin{cases}x=-3+q+17s\\ y=4+s\\ z=6+2q+5s\end{cases}$$
 - ## Consolidation #.v-self-border
 	- Explain the different parts of the vector equations of a plane:  $\vec{v}=\vec{P}+t\vec{u}+k\vec{w}$, $t,k\in\R$.
 	- Practice #later
