@@ -7,6 +7,9 @@
 		- Is the vector $(4,1,-2)$ on the line
 		  logseq.order-list-type:: number
 		  $$\begin{bmatrix}x\\ y\\ z\end{bmatrix}=\begin{bmatrix}1\\ 1\\ 0\end{bmatrix}+t\begin{bmatrix}-6\\ 0\\ 4\end{bmatrix}$$
-		- Are the following lines parallel or coincident?
+		- Are the following lines parallel or coincident? $t,k\in\R$
 		  logseq.order-list-type:: number
-		  $$\begin{bmatrix}x\\ y\\ z\end{bmatrix}=\begin{bmatrix}-3\\ 2\\ 9\end{bmatrix}+t\left\lbrack\right\rbrack$$
+			- logseq.order-list-type:: number
+			  $$\begin{bmatrix}x\\ y\\ z\end{bmatrix}=\begin{bmatrix}-3\\ 2\\ 9\end{bmatrix}+t\begin{bmatrix}5\\ -1\\ 0\end{bmatrix}$$
+			- $\begin{bmatrix}x\\ y\\ z\end{bmatrix}=$
+			  logseq.order-list-type:: number
