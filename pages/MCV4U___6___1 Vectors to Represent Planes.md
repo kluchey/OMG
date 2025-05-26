@@ -100,12 +100,17 @@
 			- $$\begin{bmatrix}x\\ y\\ z\end{bmatrix}=\begin{bmatrix}-3\\ 4\\ 6\end{bmatrix}+q\begin{bmatrix}1\\ 0\\ 2\end{bmatrix}$$
 			- for $t,k,q\in\R$. Draw the *roughest* diagram of this situation.
 			- **Strategy.**
+			  collapsed:: true
 				- Find the cross product of the two direction vectors of the plane provided. This gives a direction which is perpendicular to the plane provided.
 				  logseq.order-list-type:: number
 				- If we need to contain the line, the position vector and the direction must both be on our new plane.
 				  logseq.order-list-type:: number
 				- Counting what we have, you can see we have two directions and one position. This is all we need to define the plane.
 				  logseq.order-list-type:: number
-			- *Solution.*
+			- *Solution.* #LATER
+			  collapsed:: true
 				- Cross product:
-				-
+				- Position and second direction:
+				- Vector Equation:
+				- Parametric Equations:
+- ## Consolidation .v-self-
