@@ -140,8 +140,9 @@
 			  logseq.order-list-type:: number
 			- $\left(x,y,z\right)=\left(1,2,3\right)+k\left(7,8,9\right)$
 			  logseq.order-list-type:: number
+			- $\begin{cases}x=3+4k\\ y=4\\ z=t\end{cases}$
+			  logseq.order-list-type:: number
 			- logseq.order-list-type:: number
-			  $$$$
 		- Find the vector equation of a plane that contains the points $A(1,2,3)$, $B(-3, 4, 5)$, and $C(-4,5,2)$.
 		  logseq.order-list-type:: number
 		- logseq.order-list-type:: number
