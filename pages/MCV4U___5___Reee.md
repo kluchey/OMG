@@ -30,5 +30,5 @@
 		  logseq.order-list-type:: number
 		- Does the line have a y-intercept?
 		  logseq.order-list-type:: number
-		- What is a line that passes through $(3,1,4)$ and the point where $L_1$ intercepts the xy-
+		- What is a line that passes through $(3,1,4)$ and the point where $L_1$ intercepts the yz-plane?
 		  logseq.order-list-type:: number
