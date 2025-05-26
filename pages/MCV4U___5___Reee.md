@@ -17,5 +17,6 @@
 		  logseq.order-list-type:: number
 			- logseq.order-list-type:: number
 			  $$\begin{cases}
-			    \\ 
-			  \end{cases}$$$$
+			   \\begin{bmatrix}  \end{bmatrix} \\
+			  
+			  \end{cases}$$
