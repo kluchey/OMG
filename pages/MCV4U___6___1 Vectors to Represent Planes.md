@@ -200,7 +200,10 @@
 					  logseq.order-list-type:: number
 					- $x = 2t \implies 0 = 2t \implies t = 0$
 					  logseq.order-list-type:: number
-					- $y=-3t+2k
+					- $y=-3t+2k \implies 6 = 0 +2k \implies k = 3$
 					  logseq.order-list-type:: number
+					- Checking Consistency:
+					  logseq.order-list-type:: number
+					  $z = -1-3(0)-2(3)=-1-6=-7
 		- logseq.order-list-type:: number
 		- logseq.order-list-type:: number
