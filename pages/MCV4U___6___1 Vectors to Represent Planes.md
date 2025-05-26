@@ -146,6 +146,17 @@
 			  logseq.order-list-type:: number
 			- 🔥 $\begin{bmatrix}x\\ y\\ z\end{bmatrix}=\begin{bmatrix}1\\ 0\\ -1\end{bmatrix}+t\begin{bmatrix}3\\ 0\\ 6\end{bmatrix}+k\begin{bmatrix}-1\\ 0\\ -2\end{bmatrix}$
 			  logseq.order-list-type:: number
+			- *Solutions.*
+				- Plane. Two parameters or two directions.
+				  logseq.order-list-type:: number
+				- Line.
+				  logseq.order-list-type:: number
+				- Plane.
+				  logseq.order-list-type:: number
+				- Plane.
+				  logseq.order-list-type:: number
+				- Line.
+				  logseq.order-list-type:: number
 		- Find the vector equation of a plane that contains the points $A(1,2,3)$, $B(-3, 4, 5)$, and $C(-4,5,2)$.
 		  logseq.order-list-type:: number
 		- For the plane defined by $\begin{cases}x=2t \\ y=-3t+2k \\ z= -1 -3t-2k \end{cases}$
@@ -164,7 +175,8 @@
 			  logseq.order-list-type:: number
 				- *Solution.*
 				  logseq.order-list-type:: number
-				- logseq.order-list-type:: number
+					- $\vec{d_1}=
+					  logseq.order-list-type:: number
 			- What point corresponds to $t=-1$ and $k=3$?
 			  logseq.order-list-type:: number
 			- What values of $t$ and $k$ give the point $(0,6,-7)$?
