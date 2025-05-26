@@ -5,6 +5,7 @@
 	  logseq.order-list-type:: number
 		- *Solution.*
 		  logseq.order-list-type:: number
+		  collapsed:: true
 			- We use the ==[[cross product]]==: $\vec{u}\times \vec{v}$.
 			  logseq.order-list-type:: number
 			- logseq.order-list-type:: number
@@ -27,3 +28,7 @@
 			  $$\vec{w} = \frac12\begin{bmatrix}26\\ 50\\ -16\end{bmatrix}=\begin{bmatrix}13\\ 25\\ -8\end{bmatrix}$$
 	- Prove $\vec{w}$ is perpendicular to $\vec{v}$ and $\vec{u}$ by showing that $w\cdot u=0=w\cdot v$.
 	  logseq.order-list-type:: number
+		- *Solution.*
+		  logseq.order-list-type:: number
+			- $\begin{bmatrix}13\\ 25\\ -8\end{bmatrix}\cdot\left\lbrack\right\rbrack$
+			  logseq.order-list-type:: number
