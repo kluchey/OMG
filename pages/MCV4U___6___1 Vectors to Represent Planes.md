@@ -186,8 +186,9 @@
 				  logseq.order-list-type:: number
 					- logseq.order-list-type:: number
 					  $$\begin{align*}
-					  (x,y,z)&=(2(-1), -3(-1)+2(3), -1-3(-1)-2(3))
-					  &=(
+					  & (x,y,z) \\
+					  &=(2(-1), -3(-1)+2(3), -1-3(-1)-2(3)) \\
+					  &=(-1, 9,-3)
 					  \end{align*}$$
 			- What values of $t$ and $k$ give the point $(0,6,-7)$?
 			  logseq.order-list-type:: number
