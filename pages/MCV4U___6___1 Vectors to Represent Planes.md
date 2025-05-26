@@ -67,7 +67,8 @@
 				- So the xy-plane has equation $(x,y)=t(1,0)+k(0,1)$ for $t,k\in\R$.
 				- Let's use two vectors in the same way but without being restricted to the x and y axis.
 			- *Solution.*
-				- First we find vectors $\vec{AB}$ and $\vec{BC}$. These will be our "scale" or, as we will call them now, our two ==[direction vectors]([[direction vector]])==.
+				- First we find vectors $\vec{AB}$ and $\vec{BC}$. These will be our "scale" or, as we will call them now, our two ==[direction vectors]([[direction vector]])==. In future courses, you will call these your
 				  logseq.order-list-type:: number
-				- By ==[[inspection]]==, $\vec{AB} = (1,)$ and $\vec{BC}$
+				- By ==[[inspection]]==, $\vec{AB} = (1,3,11)$ and $\vec{BC} = (-5, 1, -5)$.
 				  logseq.order-list-type:: number
+				- logseq.order-list-type:: number
