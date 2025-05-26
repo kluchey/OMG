@@ -226,16 +226,24 @@
 				  logseq.order-list-type:: number
 		- Explain why $(x,y,z)=(1,2,3)+t(2,5,10)+k(-4,-10,-20)$ for $t,k\in\R$ is not actually a plane.
 		  logseq.order-list-type:: number
+		  collapsed:: true
 			- *Solution.*
 			  logseq.order-list-type:: number
+			  collapsed:: true
 				- The direction vectors are parallel. Notice that:
 				  logseq.order-list-type:: number
-				- $\begin{bmatrix}2\\ 5\\ 10\end{bmatrix}=-\frac12\begin{bmatrix}-4\\ -10\\ -20\end{bmatrix}$.
+				- $\begin{bmatrix}2\\ 5\\ 10\end{bmatrix}=-\frac12\begin{bmatrix}-4\\ -10\\ -20\end{bmatrix}$
+				  logseq.order-list-type:: number
+				- We need two non-parallel direction vectors to describe a plane.
 				  logseq.order-list-type:: number
 		- Find the vector equation of the plane passing through the point $(2,3,-5)$ and containing the line
 		  logseq.order-list-type:: number
 		  $$(x,y,z)=(1,6,3)+t(1,4,0)$$
 		  for $t\in R$. Can you reuse $t$ in your plane equation? Why or why not?
+			- *Answer.*
+			  logseq.order-list-type:: number
+				- $\begin{bmatrix}x\\ y\\ z\end{bmatrix}=\begin{bmatrix}1\\ 6\\ 3\end{bmatrix}+t$
+				  logseq.order-list-type:: number
 		- The plane $(x,y,z) = (1,2,3)+t(1,2,5)+k(1,-1,3)$ for $t,k\in\R$ intersects the y and z axes at the points $A$ and $B$ respectively. Determine the equation of the line passing through $A$ and $B$.
 		  logseq.order-list-type:: number
 		- Why is there no symmetric equation for any plane?
