@@ -95,4 +95,6 @@
 				  \end{cases}$$
 	- ### Example 2.
 		- Find the vector and parametric equations of the plane that is perpendicular to the plane
-		- $\begin{bmatrix}x\\ y\\ z\end{bmatrix}=\begin{bmatrix}1\\ 2\\ 3\end{bmatrix}+t\begin{bmatrix}-2\\ 4\\ 6\end{bmatrix}+$
+		- $$\begin{bmatrix}x\\ y\\ z\end{bmatrix}=\begin{bmatrix}1\\ 2\\ 3\end{bmatrix}+t\begin{bmatrix}-2\\ 4\\ 6\end{bmatrix}+k\begin{bmatrix}1\\ 3\\ -4\end{bmatrix}$$
+		- and contains the line
+		- $\begin{bmatrix}x\\ y\\ z\end{bmatrix}=\begin{bmatrix}-3\\ 4\\ 6\end{bmatrix}+q\begin{bmatrix}1\\ 0\\ 2\end{bmatrix}$
