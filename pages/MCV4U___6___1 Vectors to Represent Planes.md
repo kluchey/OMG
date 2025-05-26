@@ -57,4 +57,6 @@
 			  \end{align*}$$
 			- It's like magic!
 			  logseq.order-list-type:: number
-	-
+- ## Action
+	- ### Example 1.
+		- Find vector and parametric equations of the plane with points $A(2,4,-2)$, $
