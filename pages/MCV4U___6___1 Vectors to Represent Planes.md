@@ -208,4 +208,5 @@
 					- Checking Consistency:
 					  logseq.order-list-type:: number
 					  $z = -1-3(0)-2(3)=-1-6=-7$ Good!
-		- logseq.order-list-type:: number
+		- Find the parametric equations for the plane
+		  logseq.order-list-type:: number
