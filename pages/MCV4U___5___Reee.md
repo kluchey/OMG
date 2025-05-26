@@ -3,10 +3,12 @@
 	  logseq.order-list-type:: number
 		- Is the vector $(3,-4,2)$ on the line #card #mcv4u #cv5
 		  logseq.order-list-type:: number
+		  collapsed:: true
 		  $$\begin{bmatrix}x\\ y\\ z\end{bmatrix}=\begin{bmatrix}1\\ 0\\ -1\end{bmatrix}+t\begin{bmatrix}0\\ -4\\ 3\end{bmatrix}$$
 			- *Solution.*
 			  logseq.order-list-type:: number
-				- No. Note that on this line, $x=1$ is the parametric equation. This means $x$ must always be $1$. Since $(3,-4,2)$ has $x=3
+			  collapsed:: true
+				- No. Note that on this line, $x=1$ is the parametric equation. This means $x$ must always be $1$. Since $(3,-4,2)$ has $x=3$ it cannot be on this line.
 				  logseq.order-list-type:: number
 		- Is the vector $(4,1,-2)$ on the line
 		  logseq.order-list-type:: number
