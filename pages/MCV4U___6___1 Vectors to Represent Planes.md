@@ -63,7 +63,8 @@
 			- **Strategy.**
 				- A plane is a flat surface. We are familiar with one plane very well, the ==[Cartesian plane]([[Cartesian]])==. How many vectors are needed to find any point on this plane?
 				- You need two! An $\hat{x}=(1,0)$ and a $\hat{y}=(0,1)$. Using this scale, we can make any point on the plane.
-				- In fact, we can use any scale like this. We could take
+				- In fact, we can use any scale like this. We could take $\hat{x}=(3,0)$ and a $\hat{y}=(0,\frac17)$. This wouldn't be as convenient for integer points but we could make it work.
+				-
 			- *Solution.*
 				- First we find vectors $\vec{AB}$ and $\vec{BC}$.
 				  logseq.order-list-type:: number
