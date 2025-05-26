@@ -32,18 +32,19 @@
 		  logseq.order-list-type:: number
 			- logseq.order-list-type:: number
 			  $$\begin{align*}
-			  \begin{bmatrix}
+			  & \begin{bmatrix}
 			  13\\ 25\\ -8
 			  \end{bmatrix}
 			  \cdot\begin{bmatrix}
 			  -5\\ 1\\ -5
-			  \end{bmatrix}
-			  =13\left(-5\right)+25\left(1\right)+\left(-8\right)\left(-5\right)
-			  =-65+25+40
-			  =0
+			  \end{bmatrix} \\
+			  =& 13\left(-5\right)+25\left(1\right)+\left(-8\right)\left(-5\right) \\
+			  =& -65+25+40 \\
+			  =& 0
 			  \end{align*}$$
 			- logseq.order-list-type:: number
-			  $$\begin{bmatrix}
+			  $$
+			  \begin{bmatrix}
 			  13\\ 25\\ -8
 			  \end{bmatrix}
 			  \cdot\begin{bmatrix}
