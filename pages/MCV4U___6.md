@@ -14,5 +14,8 @@
 	  logseq.order-list-type:: number
 		- [[MCV4U/6/6i RREF Practice]]
 		  logseq.order-list-type:: number
-		- [[MCV4U/6/6i RREF Practice]]
+		- [[MCV4U/6/6ii Solving Systems with Matrices]]
 		  logseq.order-list-type:: number
+	- [[MCV4U/6/7 Shortest Distance]]
+	  logseq.order-list-type:: number
+		- logseq.order-list-type:: number
