@@ -31,7 +31,8 @@
 		- *Solution.*
 		  logseq.order-list-type:: number
 			- logseq.order-list-type:: number
-			  $$\begin{bmatrix}
+			  $$\begin{align*}
+			  \begin{bmatrix}
 			  13\\ 25\\ -8
 			  \end{bmatrix}
 			  \cdot\begin{bmatrix}
@@ -39,7 +40,8 @@
 			  \end{bmatrix}
 			  =13\left(-5\right)+25\left(1\right)+\left(-8\right)\left(-5\right)
 			  =-65+25+40
-			  =0$$
+			  =0
+			  \end{align*}$$
 			- logseq.order-list-type:: number
 			  $$\begin{bmatrix}
 			  13\\ 25\\ -8
@@ -47,6 +49,6 @@
 			  \cdot\begin{bmatrix}
 			  1\\ 3\\ 11
 			  \end{bmatrix}
-			  =13\left(-5\right)+25\left(1\right)+\left(-8\right)\left(-5\right)
-			  =-65+25+40
+			  =13\left(1\right)+25\left(3\right)+\left(-8\right)\left(11\right)
+			  =-5+3-88
 			  =0$$
