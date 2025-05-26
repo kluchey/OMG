@@ -250,7 +250,13 @@
 		  logseq.order-list-type:: number
 			- *Answer.*
 			  logseq.order-list-type:: number
-				- logseq.order-list-type:: number
+			  collapsed:: true
+				- $\begin{bmatrix}x\\ y\\ z\end{bmatrix}=\begin{bmatrix}0\\ 3\\ 0\end{bmatrix}+t\begin{bmatrix}0\\ 3\\ 2\end{bmatrix}$
+				  logseq.order-list-type:: number
+			- **Strategy.**
+			  logseq.order-list-type:: number
+				- What do we already know about a point on the y-axis? We know that
+				  logseq.order-list-type:: number
 		- Why is there no symmetric equation for any plane?
 		  logseq.order-list-type:: number
 		  collapsed:: true
