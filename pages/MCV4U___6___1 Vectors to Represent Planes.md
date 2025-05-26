@@ -57,7 +57,7 @@
 			  \end{align*}$$
 			- It's like magic!
 			  logseq.order-list-type:: number
-- ## Action
+- ## Action #.v-self-border
 	- ### Example 1.
 		- Find vector and parametric equations of the plane with points $A(2,4,-2)$, $B(3,7,9)$, and $C(-2,8,4)$. What is going on here? Draw a diagram. Why can a diagram help solve this problem?
 			- **Strategy.**
@@ -117,5 +117,7 @@
 	- Explain the different parts of the vector equations of a plane:  $\vec{v}=\vec{P}+t\vec{u}+k\vec{w}$, $t,k\in\R$.
 	- Practice #later
 		- Decide whether each equation would make a line or a plane. Use $t,k\in\R$ for all parts.
+		  logseq.order-list-type:: number
+		- Find the vector equation of a plane that contains the points $A(1,2,3)$, $B(-3, 4, 5)$, and $C(-4,5,2)$.
 		  logseq.order-list-type:: number
 		- logseq.order-list-type:: number
