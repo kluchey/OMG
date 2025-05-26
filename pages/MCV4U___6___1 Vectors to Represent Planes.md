@@ -138,6 +138,10 @@
 		  logseq.order-list-type:: number
 			- $\begin{bmatrix}x\\ y\\ z\end{bmatrix}=\begin{bmatrix}1\\ 2\\ 3\end{bmatrix}+t\begin{bmatrix}4\\ 5\\ 6\end{bmatrix}+k\begin{bmatrix}7\\ 8\\ 9\end{bmatrix}$
 			  logseq.order-list-type:: number
+			- $\left(x,y,z\right)=\left(1,2,3\right)+k\left(7,8,9\right)$
+			  logseq.order-list-type:: number
+			- logseq.order-list-type:: number
+			  $$$$
 		- Find the vector equation of a plane that contains the points $A(1,2,3)$, $B(-3, 4, 5)$, and $C(-4,5,2)$.
 		  logseq.order-list-type:: number
 		- logseq.order-list-type:: number
