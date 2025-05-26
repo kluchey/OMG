@@ -113,4 +113,5 @@
 				- Position and second direction:
 				- Vector Equation:
 				- Parametric Equations:
-- ## Consolidation .v-self-
+- ## Consolidation #.v-self-border
+	- Explain the different parts of the vector equations of a plane:  $\vec{v}=\vec{P}+t\vec{u}+k\vec{w}$, $t,k\in\R$.
