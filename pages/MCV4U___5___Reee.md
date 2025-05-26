@@ -22,4 +22,5 @@
 			  \end{cases}$$
 	- Topic:   #.v-self-border
 	  logseq.order-list-type:: number
-		- logseq.order-list-type:: number
+		- Given the line $\begin{bmatrix}x\\ y\\ z\end{bmatrix}=\begin{bmatrix}1\\ -1\\ 1\end{bmatrix}+t\left\lbrack\right\rbrack$
+		  logseq.order-list-type:: number
