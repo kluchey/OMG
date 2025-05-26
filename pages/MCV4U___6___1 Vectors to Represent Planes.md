@@ -71,10 +71,13 @@
 			- *Solution.*
 				- ![image.png](../assets/image_1748230825110_0.png)
 				  logseq.order-list-type:: number
-					- logseq.order-list-type:: number
+					- Source:  #cite #LATER https://thejuniverse.org/PUBLIC/LinearAlgebra/LOLA/planes/find.html
+					  logseq.order-list-type:: number
 				- First we find vectors $\vec{AB}$ and $\vec{BC}$. These will be our "scale" or, as we will call them now, our two ==[direction vectors]([[direction vector]])==. In future courses, you will call these vectors your [[basis]].
 				  logseq.order-list-type:: number
 				- By ==[[inspection]]==, $\vec{AB} = (1,3,11)$ and $\vec{BC} = (-5, 1, -5)$.
 				  logseq.order-list-type:: number
+				- Let $t,k\in\R$. Then our plane may be represented by:
+				  logseq.order-list-type:: number
 				- logseq.order-list-type:: number
-				- logseq.order-list-type:: number
+				  $$$$
