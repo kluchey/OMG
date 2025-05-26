@@ -121,11 +121,12 @@
 					  \end{bmatrix}$$
 					- We'll set $\vec{d}_1= \frac12 \begin{bmatrix} 2 \\ -14 \\ -10 \end{bmatrix} = \begin{bmatrix} 1 \\ -7 \\ -5 \end{bmatrix}$
 				- Position and second direction:
-					- $\vec{P}=\left\lbrack -3 \\ 4 \\ 6 \right\rbrack$
+					- $\vec{P}=\begin{bmatrix}-3\\ 4\\ 6\end{bmatrix}$
 					- $\vec{d}_2=\begin{bmatrix} 1\\ 0\\ 2\end{bmatrix}$
 				- Vector Equation: for $q,s\in\R$
 					- $$\begin{bmatrix}x\\ y\\ z\end{bmatrix}
-					  = q\begin{bmatrix} 1\\ 0\\ 2\end{bmatrix}
+					  = \begin{bmatrix}-3\\ 4\\ 6\end{bmatrix}
+					  + q\begin{bmatrix} 1\\ 0\\ 2\end{bmatrix}
 					  $$
 				- Parametric Equations:
 - ## Consolidation #.v-self-border
