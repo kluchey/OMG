@@ -210,6 +210,10 @@
 					  $z = -1-3(0)-2(3)=-1-6=-7$ Good!
 		- Find the parametric equations for the plane passing through the points $A(1,1,0) and $B(4,5,-6)$ with direction vector $\vec{d}=(7,1,2)$. Be sure to define your parameters with a let statement.
 		  logseq.order-list-type:: number
+			- *Answer.*
+			  logseq.order-list-type:: number
+				- $\left\lbrace\right\rbrace$
+				  logseq.order-list-type:: number
 		- Explain why $(x,y,z)=(1,2,3)+t(2,5,10)+k(-4,-10,-20)$ for $t,k\in\R$ is not actually a plane.
 		  logseq.order-list-type:: number
 		- Find the vector equation of the plane passing through the point $(2,3,-5)$ and containing the line
@@ -218,4 +222,5 @@
 		  for $t\in R$. Can you reuse $t$ in your plane equation? Why or why not?
 		- The plane $(x,y,z) = (1,2,3)+t(1,2,5)+k(1,-1,3)$ for $t,k\in\R$ intersects the y and z axes at the points $A$ and $B$ respectively. Determine the equation of the line passing through $A$ and $B$.
 		  logseq.order-list-type:: number
-		- logseq.order-list-type:: number
+		- Why is there no symmetric equation for any plane?
+		  logseq.order-list-type:: number
