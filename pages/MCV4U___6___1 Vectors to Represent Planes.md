@@ -117,9 +117,10 @@
 					  \begin{bmatrix} 
 					  4(-4) - (-6)(3) \\ -6(1) - (-2)(-4) \\ -2(3)-(4)(1) \end{bmatrix} 
 					  = \begin{bmatrix} 
-					  -16 \\ 50 \\ -16 
+					  2 \\ -14 \\ -10 
 					  \end{bmatrix}$$
 				- Position and second direction:
+					- $\vec{P}=\be
 				- Vector Equation:
 				- Parametric Equations:
 - ## Consolidation #.v-self-border
