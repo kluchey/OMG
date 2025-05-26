@@ -66,6 +66,7 @@
 				- In fact, we can use any scale like this. We could take $\hat{x}=(3,0)$ and a $\hat{y}=(0,\frac17)$. This wouldn't be as convenient for integer points but we could make it work.
 				- So the xy-plane has equation $(x,y)=t(1,0)+k(0,1)$ for $t,k\in\R$.
 				- Let's use two vectors in the same way but without being restricted to the x and y axis.
+				- ![image.png](../assets/image_1748230564531_0.png){:height 324, :width 376}
 			- *Solution.*
 				- First we find vectors $\vec{AB}$ and $\vec{BC}$. These will be our "scale" or, as we will call them now, our two ==[direction vectors]([[direction vector]])==. In future courses, you will call these vectors your [[basis]].
 				  logseq.order-list-type:: number
