@@ -24,5 +24,8 @@
 	  logseq.order-list-type:: number
 		- What point corresponds to $t = -3$?
 		  logseq.order-list-type:: number
-		- Is the line $\begin{bmatrix}x\\ y\\ z\end{bmatrix}=\begin{bmatrix}0\\ 1\\ 1\end{bmatrix}+t\begin{bmatrix}1\\ 5\\ 2\end{bmatrix}$ perpendicular to $
+		- Is the line $\begin{bmatrix}x\\ y\\ z\end{bmatrix}=\begin{bmatrix}0\\ 1\\ 1\end{bmatrix}+t\begin{bmatrix}1\\ 5\\ 2\end{bmatrix}$ perpendicular to $L_1$?
 		  logseq.order-list-type:: number
+		- What are the parametric and symmetric equations for $L_1$?
+		  logseq.order-list-type:: number
+		- logseq.order-list-type:: number
