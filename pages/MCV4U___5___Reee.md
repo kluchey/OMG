@@ -20,9 +20,9 @@
 			  \begin{bmatrix} 4 \\ -1 \\ 2 \end{bmatrix} + t\begin{bmatrix} 1 \\ 0 \\ 0 \end{bmatrix}  \\
 			  \begin{bmatrix} 10 \\ 5 \\ -2 \end{bmatrix} + k\begin{bmatrix} 0 \\ 1 \\ 0 \end{bmatrix}  
 			  \end{cases}$$
-	- Given the line $\begin{bmatrix}x\\ y\\ z\end{bmatrix}=\begin{bmatrix}1\\ -1\\ 1\end{bmatrix}+t\begin{bmatrix}-4\\ 2\\ 7\end{bmatrix}$, answer each problem below. $t,k\in\R$ #.v-self-border
+	- Given the line $L_1: \begin{bmatrix}x\\ y\\ z\end{bmatrix}=\begin{bmatrix}1\\ -1\\ 1\end{bmatrix}+t\begin{bmatrix}-4\\ 2\\ 7\end{bmatrix}$, answer each problem below. $t,k\in\R$ #.v-self-border
 	  logseq.order-list-type:: number
 		- What point corresponds to $t = -3$?
 		  logseq.order-list-type:: number
-		- Is the line $\begin{bmatrix}x\\ y\\ z\end{bmatrix}=\begin{bmatrix}0\\ -1\\ 1\end{bmatrix}+t\begin{bmatrix}-4\\ 2\\ 7\end{bmatrix}$
+		- Is the line $\begin{bmatrix}x\\ y\\ z\end{bmatrix}=\begin{bmatrix}0\\ 1\\ 1\end{bmatrix}+t\begin{bmatrix}1\\ 5\\ 2\end{bmatrix}$ perpendicular to $
 		  logseq.order-list-type:: number
