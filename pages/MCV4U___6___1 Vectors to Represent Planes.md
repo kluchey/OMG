@@ -107,8 +107,11 @@
 				- Counting what we have, you can see we have two directions and one position. This is all we need to define the plane.
 				  logseq.order-list-type:: number
 			- *Solution.* #LATER
-			  collapsed:: true
 				- Cross product:
+				- $$\begin{matrix}
+				  \cancel{-2} & 4 & -6 & -2 & 1 & \cancel{-5} \\
+				  \cancel{1} & 3 & 11 & 1 & 3 & \cancel{11}
+				  \end{matrix}$$
 				- Position and second direction:
 				- Vector Equation:
 				- Parametric Equations:
