@@ -3,4 +3,7 @@
 	  logseq.order-list-type:: number
 		- Is the vector $(3,-4,2)$ on the line
 		  logseq.order-list-type:: number
-		  $$\begin{bmatrix}x\\ y\\ z\end{bmatrix}=\left\lbrack\right\rbrack$$
+		  $$\begin{bmatrix}x\\ y\\ z\end{bmatrix}=\begin{bmatrix}1\\ 0\\ -1\end{bmatrix}+t\begin{bmatrix}0\\ -4\\ 3\end{bmatrix}$$
+		- Is the vector $(3,-4,2)$ on the line
+		  logseq.order-list-type:: number
+		  $$\begin{bmatrix}x\\ y\\ z\end{bmatrix}=\begin{bmatrix}1\\ 1\\ 0\end{bmatrix}+t\begin{bmatrix}0\\ -4\\ 3\end{bmatrix}$$
