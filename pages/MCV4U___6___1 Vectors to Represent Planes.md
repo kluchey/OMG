@@ -62,7 +62,8 @@
 		- Find vector and parametric equations of the plane with points $A(2,4,-2)$, $B(3,7,9)$, and $C(-2,8,4)$. What is going on here? Draw a diagram. Why can a diagram help solve this problem?
 			- **Strategy.**
 				- A plane is a flat surface. We are familiar with one plane very well, the ==[Cartesian plane]([[Cartesian]])==. How many vectors are needed to find any point on this plane?
-				- You need two! An
+				- You need two! An $\hat{x}=(1,0)$ and a $\hat{y}=(0,1)$. Using this scale, we can make any point on the plane.
+				- In fact, we can use any scale like this. We could take
 			- *Solution.*
 				- First we find vectors $\vec{AB}$ and $\vec{BC}$.
 				  logseq.order-list-type:: number
