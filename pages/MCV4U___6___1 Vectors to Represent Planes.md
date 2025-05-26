@@ -212,5 +212,9 @@
 		  logseq.order-list-type:: number
 		- Explain why $(x,y,z)=(1,2,3)+t(2,5,10)+k(-4,-10,-20)$ for $t,k\in\R$ is not actually a plane.
 		  logseq.order-list-type:: number
-		- Find the vector equation of the plane passing through the point $(2,3,-5)$ and containing the line $(x,y,z)=(1,6,
+		- Find the vector equation of the plane passing through the point $(2,3,-5)$ and containing the line
+		  logseq.order-list-type:: number
+		  $$(x,y,z)=(1,6,3)+t(1,4,0)$$
+		  for $t\in R$. Can you reuse $t$ in your plane equation? Why or why not?
+		- The plane $(x,y,z) =
 		  logseq.order-list-type:: number
