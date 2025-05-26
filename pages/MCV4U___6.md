@@ -18,4 +18,7 @@
 		  logseq.order-list-type:: number
 	- [[MCV4U/6/7 Shortest Distance]]
 	  logseq.order-list-type:: number
-		- logseq.order-list-type:: number
+		- [[MCV4U/6/7i Shortest Distance Practice]]
+		  logseq.order-list-type:: number
+	- [[MCV4U/6/8 Selected Topics & Applications]]
+	  logseq.order-list-type:: number
