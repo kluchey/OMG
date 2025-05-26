@@ -107,7 +107,8 @@
 				  logseq.order-list-type:: number
 				- Counting what we have, you can see we have two directions and one position. This is all we need to define the plane.
 				  logseq.order-list-type:: number
-			- *Solution.* #LATER
+			- *Solution.*
+			  collapsed:: true
 				- Cross product:
 					- $$\begin{matrix}
 					  \cancel{-2} & 4 & 6 & -2 & 4 & \cancel{6} \\
@@ -194,8 +195,10 @@
 					  \end{align*}$$
 			- What values of $t$ and $k$ give the point $(0,6,-7)$?
 			  logseq.order-list-type:: number
+			  collapsed:: true
 				- *Solution.*
 				  logseq.order-list-type:: number
+				  collapsed:: true
 					- Set $(x,y,z)=(0,6,-7)$ then:
 					  logseq.order-list-type:: number
 					- $x = 2t \implies 0 = 2t \implies t = 0$
@@ -204,6 +207,5 @@
 					  logseq.order-list-type:: number
 					- Checking Consistency:
 					  logseq.order-list-type:: number
-					  $z = -1-3(0)-2(3)=-1-6=-7
-		- logseq.order-list-type:: number
+					  $z = -1-3(0)-2(3)=-1-6=-7$ Good!
 		- logseq.order-list-type:: number
