@@ -110,13 +110,13 @@
 			- *Solution.* #LATER
 				- Cross product:
 					- $$\begin{matrix}
-					  \cancel{-2} & 4 & -6 & -2 & 4 & \cancel{5} \\
+					  \cancel{-2} & 4 & 6 & -2 & 4 & \cancel{6} \\
 					  \cancel{1} & 3 & -4 & 1 & 3 & \cancel{-4}
 					  \end{matrix}$$
 					- Then a perpendicular vector would be:
 					- $$
 					  \begin{bmatrix} 
-					  4(-4) - (-6)(3) \\ -6(1) - (-2)(-4) \\ -2(3)-(4)(1) \end{bmatrix} 
+					  4(-4) - (6)(3) \\ 6(1) - (-2)(-4) \\ -2(3)-(4)(1) \end{bmatrix} 
 					  = \begin{bmatrix} 
 					  2 \\ -14 \\ -10 
 					  \end{bmatrix}$$
