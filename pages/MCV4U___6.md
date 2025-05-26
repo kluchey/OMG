@@ -4,4 +4,7 @@
 	  logseq.order-list-type:: number
 	- [[MCV4U/6/2 Scalar Equations of Planes]]
 	  logseq.order-list-type:: number
-	- logseq.order-list-type:: number
+	- [[MCV4U/6/3 Intersection of Line & Plane]]
+	  logseq.order-list-type:: number
+	- [[MCV4U/6/3 Intersection of Line & Plane]]
+	  logseq.order-list-type:: number
