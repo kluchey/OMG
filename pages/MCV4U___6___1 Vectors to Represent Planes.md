@@ -69,6 +69,9 @@
 				- ![image.png](../assets/image_1748230564531_0.png){:height 324, :width 376}
 					- Source:  #cite #later https://medium.com/@joshua.wheeler/introduction-to-linear-algebra-with-applications-to-machine-learning-image-compression-f5de08f120df
 			- *Solution.*
+				- ![image.png](../assets/image_1748230825110_0.png)
+				  logseq.order-list-type:: number
+					- logseq.order-list-type:: number
 				- First we find vectors $\vec{AB}$ and $\vec{BC}$. These will be our "scale" or, as we will call them now, our two ==[direction vectors]([[direction vector]])==. In future courses, you will call these vectors your [[basis]].
 				  logseq.order-list-type:: number
 				- By ==[[inspection]]==, $\vec{AB} = (1,3,11)$ and $\vec{BC} = (-5, 1, -5)$.
