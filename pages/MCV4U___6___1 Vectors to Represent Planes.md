@@ -134,7 +134,7 @@
 					- $$\begin{cases}x=-3+q+17s\\ y=4+s\\ z=6+2q+5s\end{cases}$$
 - ## Consolidation #.v-self-border
 	- Explain the different parts of the vector equations of a plane:  $\vec{v}=\vec{P}+t\vec{u}+k\vec{w}$, $t,k\in\R$.
-	- Practice #later
+	- #### Practice #later
 		- Decide whether each equation would make a line or a plane. Use $t,k\in\R$ for all parts.
 		  logseq.order-list-type:: number
 			- $\begin{bmatrix}x\\ y\\ z\end{bmatrix}=\begin{bmatrix}1\\ 2\\ 3\end{bmatrix}+t\begin{bmatrix}4\\ 5\\ 6\end{bmatrix}+k\begin{bmatrix}7\\ 8\\ 9\end{bmatrix}$
@@ -161,12 +161,14 @@
 				  logseq.order-list-type:: number
 		- Find the vector equation of a plane that contains the points $A(1,2,3)$, $B(-3, 4, 5)$, and $C(-4,5,2)$.
 		  logseq.order-list-type:: number
+		  collapsed:: true
 			- *Answer.*
 			  logseq.order-list-type:: number
+			  collapsed:: true
 				- Answers may vary. Here is one.
 				  logseq.order-list-type:: number
-				- $\begin{bmatrix}x\\ y\\ z\end{bmatrix}=$
-				  logseq.order-list-type:: number
+				- logseq.order-list-type:: number
+				  $$\begin{bmatrix}x\\ y\\ z\end{bmatrix}=\begin{bmatrix}1\\ 2\\ 3\end{bmatrix}+t\begin{bmatrix}-4\\ 2\\ 2\end{bmatrix}+k\begin{bmatrix}-5\\ 3\\ -1\end{bmatrix}$$
 		- For the plane defined by $\begin{cases}x=2t \\ y=-3t+2k \\ z= -1 -3t-2k \end{cases}$
 		  logseq.order-list-type:: number
 			- Find the coordinates of any point on the plane.
