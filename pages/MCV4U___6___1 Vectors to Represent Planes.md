@@ -226,6 +226,7 @@
 				  logseq.order-list-type:: number
 		- Explain why $(x,y,z)=(1,2,3)+t(2,5,10)+k(-4,-10,-20)$ for $t,k\in\R$ is not actually a plane.
 		  logseq.order-list-type:: number
+			- logseq.order-list-type:: number
 		- Find the vector equation of the plane passing through the point $(2,3,-5)$ and containing the line
 		  logseq.order-list-type:: number
 		  $$(x,y,z)=(1,6,3)+t(1,4,0)$$
@@ -234,7 +235,9 @@
 		  logseq.order-list-type:: number
 		- Why is there no symmetric equation for any plane?
 		  logseq.order-list-type:: number
+		  collapsed:: true
 			- *Idea.*
 			  logseq.order-list-type:: number
-				- Having two parameters means why can no longer solve for just one of them. We could make something like a symmetric equation but
+			  collapsed:: true
+				- Having two parameters means why can no longer solve for just one of them. We could make something like a symmetric equation but, say if we solved for $t$, the new symmetric equation would still need to have $k$ input. The purpose of the symmetric equation was to eliminate all parameters.
 				  logseq.order-list-type:: number
