@@ -5,7 +5,6 @@
 	  logseq.order-list-type:: number
 		- *Solution.*
 		  logseq.order-list-type:: number
-		  collapsed:: true
 			- We use the ==[[cross product]]==: $\vec{u}\times \vec{v}$.
 			  logseq.order-list-type:: number
 			- logseq.order-list-type:: number
@@ -22,7 +21,7 @@
 			  = \begin{bmatrix} 
 			  26 \\ 50 \\ -16 
 			  \end{bmatrix}$$
-			- Since this vector is has large numbers and we will find a smaller parallel vector:  Let
+			- Since this vector has large numbers, we will find a shorter, parallel vector:  Let
 			  logseq.order-list-type:: number
 			- logseq.order-list-type:: number
 			  $$\vec{w} = \frac12\begin{bmatrix}26\\ 50\\ -16\end{bmatrix}=\begin{bmatrix}13\\ 25\\ -8\end{bmatrix}$$
