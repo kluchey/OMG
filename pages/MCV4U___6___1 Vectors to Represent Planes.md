@@ -69,4 +69,5 @@
 			- *Solution.*
 				- First we find vectors $\vec{AB}$ and $\vec{BC}$. These will be our "scale" or, as we will call them now, our two ==[direction vectors]([[direction vector]])==.
 				  logseq.order-list-type:: number
-				- logseq.order-list-type:: number
+				- By ==[[inspection]]==, $\vec{AB} = (1,)$ and $\vec{BC}$
+				  logseq.order-list-type:: number
