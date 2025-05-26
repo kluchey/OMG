@@ -174,12 +174,17 @@
 					  logseq.order-list-type:: number
 			- What are the direction vectors for the plane?
 			  logseq.order-list-type:: number
+			  collapsed:: true
 				- *Solution.*
 				  logseq.order-list-type:: number
-					- $\vec{d_1}=
+				  collapsed:: true
+					- $\vec{d}_1=(2,-3,-3)$ and $\vec{d}_2=(0,2,-2)$.
 					  logseq.order-list-type:: number
 			- What point corresponds to $t=-1$ and $k=3$?
 			  logseq.order-list-type:: number
+				- *Solution.*
+				  logseq.order-list-type:: number
+					- logseq.order-list-type:: number
 			- What values of $t$ and $k$ give the point $(0,6,-7)$?
 			  logseq.order-list-type:: number
 		- logseq.order-list-type:: number
