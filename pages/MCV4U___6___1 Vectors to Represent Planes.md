@@ -182,8 +182,10 @@
 					  logseq.order-list-type:: number
 			- What point corresponds to $t=-1$ and $k=3$?
 			  logseq.order-list-type:: number
+			  collapsed:: true
 				- *Solution.*
 				  logseq.order-list-type:: number
+				  collapsed:: true
 					- logseq.order-list-type:: number
 					  $$\begin{align*}
 					  & (x,y,z) \\
@@ -192,5 +194,11 @@
 					  \end{align*}$$
 			- What values of $t$ and $k$ give the point $(0,6,-7)$?
 			  logseq.order-list-type:: number
+				- *Solution.*
+				  logseq.order-list-type:: number
+					- Set $(x,y,z)=(0,6,-7)$ then:
+					  logseq.order-list-type:: number
+					- 0 = 2t
+					  logseq.order-list-type:: number
 		- logseq.order-list-type:: number
 		- logseq.order-list-type:: number
