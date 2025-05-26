@@ -119,12 +119,10 @@
 					  = \begin{bmatrix} 
 					  2 \\ -14 \\ -10 
 					  \end{bmatrix}$$
-					- We'll set $\vec{d}_1= \frac12 \begin{bmatrix} 2 \\ -14 \\ -10 \end{bmatrix}  \begin{bmatrix} 
-					  1 \\ -7 \\ -5 
-					  \end{bmatrix}$
+					- We'll set $\vec{d}_1= \frac12 \begin{bmatrix} 2 \\ -14 \\ -10 \end{bmatrix} = \begin{bmatrix} 1 \\ -7 \\ -5 \end{bmatrix}$
 				- Position and second direction:
 					- $\vec{P}=\left\lbrack -3 \\ 4 \\ 6 \right\rbrack$
-					-
+					- $\vec{d}_1=\begin{bmatrix} 1\\ 0\\ 2\end{bmatrix}$
 				- Vector Equation:
 				- Parametric Equations:
 - ## Consolidation #.v-self-border
