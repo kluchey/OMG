@@ -59,4 +59,7 @@
 			  logseq.order-list-type:: number
 - ## Action
 	- ### Example 1.
-		- Find vector and parametric equations of the plane with points $A(2,4,-2)$, $
+		- Find vector and parametric equations of the plane with points $A(2,4,-2)$, $B(3,7,9)$, and $C(-2,8,4)$. What is going on here? Draw a diagram. Why can a diagram help solve this problem?
+			- *Solution.*
+				- First we find vectors $
+				  logseq.order-list-type:: number
