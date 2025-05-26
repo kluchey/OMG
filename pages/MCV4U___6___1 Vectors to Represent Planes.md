@@ -255,7 +255,9 @@
 				  logseq.order-list-type:: number
 			- **Strategy.**
 			  logseq.order-list-type:: number
-				- What do we already know about a point on the y-axis? We know that
+				- What do we already know about a point on the y-axis? We know that $x=z=0$. Therefore, the point $(0,y,0)$ is on the y-axis. This can give us **one** equation in two variables, $t$ and $k$.
+				  logseq.order-list-type:: number
+				- To get a second equation in $t,k
 				  logseq.order-list-type:: number
 		- Why is there no symmetric equation for any plane?
 		  logseq.order-list-type:: number
