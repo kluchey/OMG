@@ -12,7 +12,7 @@
 			  \cancel{-5} & 1 & -5 & -5 & 1 & \cancel{-5} \\
 			  \cancel{1} & 3 & 11 & 1 & 3 & \cancel{11}
 			  \end{matrix}$$
-			- Let $\vec{w}= \begin{bmatrix} 1(11) - (-5)(3) \\ -5(1) - (-5)(11) \\ -5(3)-(1)(1) \end{bmatrix}$
+			- Let $\vec{w}= \begin{bmatrix} 1(11) - (-5)(3) \\ -5(1) - (-5)(11) \\ -5(3)-(1)(1) \end{bmatrix} = \begin{bmatrix} 26 \\ 50 \\ -5(3)-(1)(1) \end{bmatrix}$
 			  logseq.order-list-type:: number
 	- Prove $\vec{w}$ is perpendicular to $\vec{v}$ and $\vec{u}$ by showing that $w\cdot u=0=w\cdot v$.
 	  logseq.order-list-type:: number
