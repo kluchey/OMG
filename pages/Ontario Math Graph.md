@@ -38,6 +38,7 @@ icon:: 🍎
 			- [5-3 PoI]([[MCV4U/5/3 Intersection of Lines]])
 			- [5-Re Review Part 1]([[MCV4U/5/Re]])
 			- [5-Ree Examples]([[MCV4U/5/Ree]])
+			- [6-1 Planes🛫]()
 		- [[MDM4U]] Data Management
 		- [[MCT4C]] Math for College Tech
 		- [[MAP4C]] Foundations for College Math 12
