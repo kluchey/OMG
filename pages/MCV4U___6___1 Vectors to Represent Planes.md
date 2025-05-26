@@ -30,5 +30,5 @@
 	  logseq.order-list-type:: number
 		- *Solution.*
 		  logseq.order-list-type:: number
-			- $\begin{bmatrix}13\\ 25\\ -8\end{bmatrix}\cdot\left\lbrack\right\rbrack$
+			- $\begin{bmatrix}13\\ 25\\ -8\end{bmatrix}\cdot\begin{bmatrix}-5\\ 1\\ -5\end{bmatrix}=13\left(-5\right)+25\left(1\right)+\left(-8\right)\left(-5\right)=-65+25+40=0$$
 			  logseq.order-list-type:: number
