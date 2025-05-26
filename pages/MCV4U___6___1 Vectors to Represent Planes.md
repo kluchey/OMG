@@ -148,6 +148,11 @@
 			  logseq.order-list-type:: number
 		- Find the vector equation of a plane that contains the points $A(1,2,3)$, $B(-3, 4, 5)$, and $C(-4,5,2)$.
 		  logseq.order-list-type:: number
-		- For the plane defined by
+		- For the plane defined by $\begin{cases}x=2t \\ y=-3t+2k \\ z= -1 -3t-2k \end{cases}$
 		  logseq.order-list-type:: number
+			- Find the coordinates of any point on the plane.
+			  logseq.order-list-type:: number
+			- What are the direction
+			  logseq.order-list-type:: number
+		- logseq.order-list-type:: number
 		- logseq.order-list-type:: number
