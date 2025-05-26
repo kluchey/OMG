@@ -122,8 +122,9 @@
 					- We'll set $\vec{d}_1= \frac12 \begin{bmatrix} 2 \\ -14 \\ -10 \end{bmatrix} = \begin{bmatrix} 1 \\ -7 \\ -5 \end{bmatrix}$
 				- Position and second direction:
 					- $\vec{P}=\left\lbrack -3 \\ 4 \\ 6 \right\rbrack$
-					- $\vec{d}_1=\begin{bmatrix} 1\\ 0\\ 2\end{bmatrix}$
+					- $\vec{d}_2=\begin{bmatrix} 1\\ 0\\ 2\end{bmatrix}$
 				- Vector Equation:
+					- $\begin{bmatrix}x\\ y\\ z\end{bmatrix}=\begin{bmatrix} 1\\ 0\\ 2\end{bmatrix}$
 				- Parametric Equations:
 - ## Consolidation #.v-self-border
 	- Explain the different parts of the vector equations of a plane:  $\vec{v}=\vec{P}+t\vec{u}+k\vec{w}$, $t,k\in\R$.
