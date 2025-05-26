@@ -20,7 +20,6 @@
 			  \begin{bmatrix} 4 \\ -1 \\ 2 \end{bmatrix} + t\begin{bmatrix} 1 \\ 0 \\ 0 \end{bmatrix}  \\
 			  \begin{bmatrix} 10 \\ 5 \\ -2 \end{bmatrix} + k\begin{bmatrix} 0 \\ 1 \\ 0 \end{bmatrix}  
 			  \end{cases}$$
-	- Topic:   #.v-self-border
+	- Given the line $$\begin{bmatrix}x\\ y\\ z\end{bmatrix}=\begin{bmatrix}1\\ -1\\ 1\end{bmatrix}+t\begin{bmatrix}-4\\ 2\\ 7\end{bmatrix}$$, answer each problem below. #.v-self-border
 	  logseq.order-list-type:: number
-		- Given the line $\begin{bmatrix}x\\ y\\ z\end{bmatrix}=\begin{bmatrix}1\\ -1\\ 1\end{bmatrix}+t\left\lbrack\right\rbrack$
-		  logseq.order-list-type:: number
+		- logseq.order-list-type:: number
