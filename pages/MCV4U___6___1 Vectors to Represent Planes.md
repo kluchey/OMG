@@ -161,6 +161,12 @@
 				  logseq.order-list-type:: number
 		- Find the vector equation of a plane that contains the points $A(1,2,3)$, $B(-3, 4, 5)$, and $C(-4,5,2)$.
 		  logseq.order-list-type:: number
+			- *Answer.*
+			  logseq.order-list-type:: number
+				- Answers may vary. Here is one.
+				  logseq.order-list-type:: number
+				- $\begin{bmatrix}x\\ y\\ z\end{bmatrix}=$
+				  logseq.order-list-type:: number
 		- For the plane defined by $\begin{cases}x=2t \\ y=-3t+2k \\ z= -1 -3t-2k \end{cases}$
 		  logseq.order-list-type:: number
 			- Find the coordinates of any point on the plane.
@@ -210,9 +216,11 @@
 					  $z = -1-3(0)-2(3)=-1-6=-7$ Good!
 		- Find the parametric equations for the plane passing through the points $A(1,1,0) and $B(4,5,-6)$ with direction vector $\vec{d}=(7,1,2)$. Be sure to define your parameters with a let statement.
 		  logseq.order-list-type:: number
+		  collapsed:: true
 			- *Answer.*
 			  logseq.order-list-type:: number
-				- $\left\lbrace\right\rbrace$
+			  collapsed:: true
+				- $\begin{cases}x=1+3t+7k\\ y=1+4t+1k\\ z=-6t+2k\end{cases}$
 				  logseq.order-list-type:: number
 		- Explain why $(x,y,z)=(1,2,3)+t(2,5,10)+k(-4,-10,-20)$ for $t,k\in\R$ is not actually a plane.
 		  logseq.order-list-type:: number
