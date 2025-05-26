@@ -115,3 +115,7 @@
 				- Parametric Equations:
 - ## Consolidation #.v-self-border
 	- Explain the different parts of the vector equations of a plane:  $\vec{v}=\vec{P}+t\vec{u}+k\vec{w}$, $t,k\in\R$.
+	- Practice #later
+		- Decide whether each equation would make a line or a plane. Use $t,k\in\R$ for all parts.
+		  logseq.order-list-type:: number
+		- logseq.order-list-type:: number
