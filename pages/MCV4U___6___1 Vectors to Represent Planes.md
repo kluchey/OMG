@@ -108,17 +108,17 @@
 				  logseq.order-list-type:: number
 			- *Solution.* #LATER
 				- Cross product:
-				- $$\begin{matrix}
-				  \cancel{-2} & 4 & -6 & -2 & 4 & \cancel{5} \\
-				  \cancel{1} & 3 & -4 & 1 & 3 & \cancel{-4}
-				  \end{matrix}$$
-				- Then a perpendicular vector would be:
-				- $$
-				  \begin{bmatrix} 
-				  1(11) - (-5)(3) \\ -5(1) - (-5)(11) \\ -5(3)-(1)(1) \end{bmatrix} 
-				  = \begin{bmatrix} 
-				  26 \\ 50 \\ -16 
-				  \end{bmatrix}$$
+					- $$\begin{matrix}
+					  \cancel{-2} & 4 & -6 & -2 & 4 & \cancel{5} \\
+					  \cancel{1} & 3 & -4 & 1 & 3 & \cancel{-4}
+					  \end{matrix}$$
+					- Then a perpendicular vector would be:
+					- $$
+					  \begin{bmatrix} 
+					  4(-4) - (-6)(3) \\ -6(1) - (-2)(-4) \\ -2(3)-(4)(1) \end{bmatrix} 
+					  = \begin{bmatrix} 
+					  -16 \\ 50 \\ -16 
+					  \end{bmatrix}$$
 				- Position and second direction:
 				- Vector Equation:
 				- Parametric Equations:
