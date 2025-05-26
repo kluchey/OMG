@@ -99,4 +99,8 @@
 			- and contains the line
 			- $$\begin{bmatrix}x\\ y\\ z\end{bmatrix}=\begin{bmatrix}-3\\ 4\\ 6\end{bmatrix}+q\begin{bmatrix}1\\ 0\\ 2\end{bmatrix}$$
 			- for $t,k,q\in\R$. Draw the *roughest* diagram of this situation.
-			-
+			- **Strategy.**
+				- Find the cross product of the two direction vectors of the plane provided. This gives a
+				  logseq.order-list-type:: number
+			- *Solution.*
+				-
