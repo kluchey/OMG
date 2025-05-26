@@ -11,5 +11,5 @@
 		  logseq.order-list-type:: number
 			- logseq.order-list-type:: number
 			  $$\begin{bmatrix}x\\ y\\ z\end{bmatrix}=\begin{bmatrix}-3\\ 2\\ 9\end{bmatrix}+t\begin{bmatrix}5\\ -1\\ 0\end{bmatrix}$$
-			- $\begin{bmatrix}x\\ y\\ z\end{bmatrix}=$
+			- $\begin{bmatrix}x\\ y\\ z\end{bmatrix}=\begin{bmatrix}12\\ 0\\ 9\end{bmatrix}+k\begin{bmatrix}-20\\ 4\\ 0\end{bmatrix}$
 			  logseq.order-list-type:: number
