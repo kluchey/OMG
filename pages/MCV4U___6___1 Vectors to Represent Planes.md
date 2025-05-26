@@ -248,6 +248,7 @@
 				  logseq.order-list-type:: number
 		- The plane $(x,y,z) = (1,2,3)+t(1,2,5)+k(1,-1,3)$ for $t,k\in\R$ intersects the y and z axes at the points $A$ and $B$ respectively. Determine the equation of the line passing through $A$ and $B$.
 		  logseq.order-list-type:: number
+		  collapsed:: true
 			- *Answer.*
 			  logseq.order-list-type:: number
 			  collapsed:: true
@@ -255,6 +256,7 @@
 				  logseq.order-list-type:: number
 			- **Strategy.**
 			  logseq.order-list-type:: number
+			  collapsed:: true
 				- What do we already know about a point on the y-axis? We know that $x=z=0$. Therefore, the point $(0,y,0)$ is on the y-axis. This can give us **one** equation in two variables, $t$ and $k$.
 				  logseq.order-list-type:: number
 				- To get a second equation in $t,k$ we will use the z-axis point, or $(0,0,z)$.
@@ -263,7 +265,7 @@
 				  logseq.order-list-type:: number
 				- We use $t,k$ to find the points $A$ and $B$ from the original vector equation of the plane.
 				  logseq.order-list-type:: number
-				- We find $
+				- We find $\vec{AB}$ and use it as our direction vector. Then we use one of either point $A$ or $B$ as our position vector.
 				  logseq.order-list-type:: number
 		- Why is there no symmetric equation for any plane?
 		  logseq.order-list-type:: number
