@@ -28,4 +28,7 @@
 		  logseq.order-list-type:: number
 		- What are the parametric and symmetric equations for $L_1$?
 		  logseq.order-list-type:: number
-		- logseq.order-list-type:: number
+		- Does the line have a y-intercept?
+		  logseq.order-list-type:: number
+		- What is a line that passes through $
+		  logseq.order-list-type:: number
