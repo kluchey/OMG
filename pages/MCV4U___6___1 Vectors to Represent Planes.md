@@ -119,8 +119,10 @@
 					  = \begin{bmatrix} 
 					  2 \\ -14 \\ -10 
 					  \end{bmatrix}$$
+					- We'll set $\vec
 				- Position and second direction:
-					- $\vec{P}=\be
+					- $\vec{P}=\left\lbrack -3 \\ 4 \\ 6 \right\rbrack$
+					-
 				- Vector Equation:
 				- Parametric Equations:
 - ## Consolidation #.v-self-border
