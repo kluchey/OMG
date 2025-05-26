@@ -8,6 +8,8 @@
 			- We use the cross product: $\vec{u}\times \vec{v}$.
 			  logseq.order-list-type:: number
 			- logseq.order-list-type:: number
-			  $$$$
+			  $$\begin{matrix}
+			  -5 & 1 & -5 & -5 & 1 & -
+			  \end{matrix}$$
 	- Prove $\vec{w}$ is perpendicular to $\vec{v}$ and $\vec{u}$ by showing that $w\cdot u=0=w\cdot v$.
 	  logseq.order-list-type:: number
