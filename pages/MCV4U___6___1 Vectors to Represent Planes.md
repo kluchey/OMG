@@ -127,7 +127,7 @@
 					- $$\begin{bmatrix}x\\ y\\ z\end{bmatrix}
 					  = \begin{bmatrix}-3\\ 4\\ 6\end{bmatrix}
 					  + q\begin{bmatrix} 1\\ 0\\ 2\end{bmatrix}
-					  $$
+					  + s \begin{bmatrix} 1 \\ -7 \\ -5 \end{bmatrix} $$
 				- Parametric Equations:
 - ## Consolidation #.v-self-border
 	- Explain the different parts of the vector equations of a plane:  $\vec{v}=\vec{P}+t\vec{u}+k\vec{w}$, $t,k\in\R$.
