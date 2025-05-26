@@ -17,6 +17,6 @@
 		  logseq.order-list-type:: number
 			- logseq.order-list-type:: number
 			  $$\begin{cases}
-			   \\begin{bmatrix}  \end{bmatrix} \\
-			  
+			  \\begin{bmatrix} 4 \\ -1 \\ 2 \end{bmatrix} + t\\begin{bmatrix} 1 \\ 0 \\ 0 \end{bmatrix}  \\
+			   \\begin{bmatrix} 4 \\ -1 \\ 2 \end{bmatrix} + t\\begin{bmatrix} 1 \\ 0 \\ 0 \end{bmatrix}  \\
 			  \end{cases}$$
