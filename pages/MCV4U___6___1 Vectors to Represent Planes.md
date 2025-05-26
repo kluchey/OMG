@@ -184,7 +184,8 @@
 			  logseq.order-list-type:: number
 				- *Solution.*
 				  logseq.order-list-type:: number
-					- logseq.order-list-type:: number
+					- (x,y,z)=(2(-1), -3(-1)+2(3), -1-3(-1)-2(
+					  logseq.order-list-type:: number
 			- What values of $t$ and $k$ give the point $(0,6,-7)$?
 			  logseq.order-list-type:: number
 		- logseq.order-list-type:: number
