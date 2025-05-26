@@ -6,7 +6,8 @@
 		  $$\begin{bmatrix}x\\ y\\ z\end{bmatrix}=\begin{bmatrix}1\\ 0\\ -1\end{bmatrix}+t\begin{bmatrix}0\\ -4\\ 3\end{bmatrix}$$
 			- *Solution.*
 			  logseq.order-list-type:: number
-				- logseq.order-list-type:: number
+				- No. Note that on this line, $x=1$ is the parametric equation. This means $x$ must always be $1$. Since $(3,-4,2)$ has $x=3
+				  logseq.order-list-type:: number
 		- Is the vector $(4,1,-2)$ on the line
 		  logseq.order-list-type:: number
 		  $$\begin{bmatrix}x\\ y\\ z\end{bmatrix}=\begin{bmatrix}1\\ 1\\ 0\end{bmatrix}+t\begin{bmatrix}-6\\ 0\\ 4\end{bmatrix}$$
