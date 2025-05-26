@@ -152,11 +152,19 @@
 		  logseq.order-list-type:: number
 			- Find the coordinates of any point on the plane.
 			  logseq.order-list-type:: number
+			  collapsed:: true
 				- *Solution.*
 				  logseq.order-list-type:: number
-					- logseq.order-list-type:: number
+				  collapsed:: true
+					- Easiest point is likely the position vector, which we don't need to test to see if it is in the plane. The position vector is $(0,0,-1)$.
+					  logseq.order-list-type:: number
+					- Checking, this would be $t=k=0$.
+					  logseq.order-list-type:: number
 			- What are the direction vectors for the plane?
 			  logseq.order-list-type:: number
+				- *Solution.*
+				  logseq.order-list-type:: number
+				- logseq.order-list-type:: number
 			- What point corresponds to $t=-1$ and $k=3$?
 			  logseq.order-list-type:: number
 			- What values of $t$ and $k$ give the point $(0,6,-7)$?
