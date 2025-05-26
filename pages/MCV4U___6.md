@@ -12,5 +12,7 @@
 	  logseq.order-list-type:: number
 	- [[MCV4U/6/6 Putting it All Together:  A Matrix]]
 	  logseq.order-list-type:: number
-	- [[MCV4U/6/6 Putting it All Together:  A Matrix]]
-	  logseq.order-list-type:: number
+		- [[MCV4U/6/6i RREF Practice]]
+		  logseq.order-list-type:: number
+		- [[MCV4U/6/6i RREF Practice]]
+		  logseq.order-list-type:: number
