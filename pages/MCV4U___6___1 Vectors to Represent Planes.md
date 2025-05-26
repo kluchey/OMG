@@ -85,5 +85,7 @@
 				  logseq.order-list-type:: number
 				- logseq.order-list-type:: number
 				  $$\begin{cases}
-				  
+				  x &= 2 + t -5k \\
+				  y &= 4 + 3t + k \\
+				  z &= -2 + 11t -5k
 				  \end{cases}$$
