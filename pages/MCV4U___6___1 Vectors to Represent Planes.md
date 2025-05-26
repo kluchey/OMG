@@ -30,6 +30,7 @@
 	  logseq.order-list-type:: number
 		- *Solution.*
 		  logseq.order-list-type:: number
+		  collapsed:: true
 			- logseq.order-list-type:: number
 			  $$\begin{align*}
 			  & \begin{bmatrix}
@@ -51,6 +52,9 @@
 			  1\\ 3\\ 11
 			  \end{bmatrix} \\
 			  =& 13\left(1\right)+25\left(3\right)+\left(-8\right)\left(11\right) \\
-			  =& -5+3-88 \\
+			  =& 13+75-88 \\
 			  =& 0
 			  \end{align*}$$
+			- It's like magic!
+			  logseq.order-list-type:: number
+	-
