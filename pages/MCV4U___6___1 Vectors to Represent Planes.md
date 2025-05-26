@@ -118,9 +118,9 @@
 					  \begin{bmatrix} 
 					  4(-4) - (6)(3) \\ 6(1) - (-2)(-4) \\ -2(3)-(4)(1) \end{bmatrix} 
 					  = \begin{bmatrix} 
-					  2 \\ -14 \\ -10 
+					  -34 \\ -2 \\ -10 
 					  \end{bmatrix}$$
-					- We'll set $\vec{d}_1= \frac12 \begin{bmatrix} 2 \\ -14 \\ -10 \end{bmatrix} = \begin{bmatrix} 1 \\ -7 \\ -5 \end{bmatrix}$
+					- We'll set $\vec{d}_1= \frac12 \begin{bmatrix} -34 \\ -2 \\ -10 \end{bmatrix} = \begin{bmatrix} -17 \\ -1 \\ -5 \end{bmatrix}$
 				- Position and second direction:
 					- $\vec{P}=\begin{bmatrix}-3\\ 4\\ 6\end{bmatrix}$
 					- $\vec{d}_2=\begin{bmatrix} 1\\ 0\\ 2\end{bmatrix}$
