@@ -198,7 +198,9 @@
 				  logseq.order-list-type:: number
 					- Set $(x,y,z)=(0,6,-7)$ then:
 					  logseq.order-list-type:: number
-					- 0 = 2t
+					- $x = 2t \implies 0 = 2t \implies t = 0$
+					  logseq.order-list-type:: number
+					- $y=-3t+2k
 					  logseq.order-list-type:: number
 		- logseq.order-list-type:: number
 		- logseq.order-list-type:: number
