@@ -147,6 +147,7 @@
 			- 🔥 $\begin{bmatrix}x\\ y\\ z\end{bmatrix}=\begin{bmatrix}1\\ 0\\ -1\end{bmatrix}+t\begin{bmatrix}3\\ 0\\ 6\end{bmatrix}+k\begin{bmatrix}-1\\ 0\\ -2\end{bmatrix}$
 			  logseq.order-list-type:: number
 			- *Solutions.*
+			  collapsed:: true
 				- Plane. Two parameters or two directions.
 				  logseq.order-list-type:: number
 				- Line. One parameter or one direction.
@@ -155,7 +156,7 @@
 				  logseq.order-list-type:: number
 				- Plane. Two parameters, no position vector.
 				  logseq.order-list-type:: number
-				- Line. Parallel directions, so we can set $k =
+				- Line. Parallel directions, so we can set $k = -2t$ and get the line $(x,y,z)=(1,0,-1)-t(3,0,6)$.
 				  logseq.order-list-type:: number
 		- Find the vector equation of a plane that contains the points $A(1,2,3)$, $B(-3, 4, 5)$, and $C(-4,5,2)$.
 		  logseq.order-list-type:: number
