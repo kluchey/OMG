@@ -67,6 +67,7 @@
 				- So the xy-plane has equation $(x,y)=t(1,0)+k(0,1)$ for $t,k\in\R$.
 				- Let's use two vectors in the same way but without being restricted to the x and y axis.
 				- ![image.png](../assets/image_1748230564531_0.png){:height 324, :width 376}
+					- Source:  #cite #later https://medium.com/@joshua.wheeler/introduction-to-linear-algebra-with-applications-to-machine-learning-image-compression-f5de08f120df
 			- *Solution.*
 				- First we find vectors $\vec{AB}$ and $\vec{BC}$. These will be our "scale" or, as we will call them now, our two ==[direction vectors]([[direction vector]])==. In future courses, you will call these vectors your [[basis]].
 				  logseq.order-list-type:: number
