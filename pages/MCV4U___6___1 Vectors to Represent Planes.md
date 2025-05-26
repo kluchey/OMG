@@ -216,5 +216,6 @@
 		  logseq.order-list-type:: number
 		  $$(x,y,z)=(1,6,3)+t(1,4,0)$$
 		  for $t\in R$. Can you reuse $t$ in your plane equation? Why or why not?
-		- The plane $(x,y,z) =
+		- The plane $(x,y,z) = (1,2,3)+t(1,2,5)+k(1,-1,3)$ for $t,k\in\R$ intersects the y and z axes at the points $A$ and $B$ respectively. Determine the equation of the line passing through $A$ and $B$.
 		  logseq.order-list-type:: number
+		- logseq.order-list-type:: number
