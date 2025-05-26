@@ -16,4 +16,6 @@
 		- While Brooklynn and Danica were solving the following system, they found different values for the parameter $t$. What does this fact tell us about the solution to the system?
 		  logseq.order-list-type:: number
 			- logseq.order-list-type:: number
-			  $$$$
+			  $$\begin{cases}
+			    \\ 
+			  \end{cases}$$$$
