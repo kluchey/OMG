@@ -79,5 +79,11 @@
 				  logseq.order-list-type:: number
 				- Let $t,k\in\R$. Then our plane may be represented by:
 				  logseq.order-list-type:: number
-				- $\begin{bmatrix}2\\ 4\\ -2\end{bmatrix}+t\begin{bmatrix}1\\ 3\\ 11\end{bmatrix}+k\begin{bmatrix}-5\\ 1\\ -5\end{bmatrix}$
+				- logseq.order-list-type:: number
+				  $$\begin{bmatrix}2\\ 4\\ -2\end{bmatrix}+t\begin{bmatrix}1\\ 3\\ 11\end{bmatrix}+k\begin{bmatrix}-5\\ 1\\ -5\end{bmatrix}$$
+				- With parametric equations:
 				  logseq.order-list-type:: number
+				- logseq.order-list-type:: number
+				  $$\begin{cases}
+				  
+				  \end{cases}$$
