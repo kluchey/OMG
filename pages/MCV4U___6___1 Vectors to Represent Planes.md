@@ -5,7 +5,7 @@
 	  logseq.order-list-type:: number
 		- *Solution.*
 		  logseq.order-list-type:: number
-			- We use the [[cross product]]: $\vec{u}\times \vec{v}$.
+			- We use the ==[[cross product]]==: $\vec{u}\times \vec{v}$.
 			  logseq.order-list-type:: number
 			- logseq.order-list-type:: number
 			  $$\begin{matrix}

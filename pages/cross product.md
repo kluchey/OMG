@@ -1,2 +1,2 @@
--
+- #definiton #MCV4U A cross product will calculate a vector in $\R^3$ ==[[perpendicular]]== to two other vectors in $\R^3$.
 - ![image.png](../assets/image_1748229018348_0.png){:height 268, :width 457}
