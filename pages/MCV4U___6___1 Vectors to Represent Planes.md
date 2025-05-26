@@ -1,2 +1,2 @@
 # 3, 2, 1, Take off
-	- Today we're
+	- Today our goal is to
