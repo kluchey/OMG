@@ -60,6 +60,8 @@
 - ## Action
 	- ### Example 1.
 		- Find vector and parametric equations of the plane with points $A(2,4,-2)$, $B(3,7,9)$, and $C(-2,8,4)$. What is going on here? Draw a diagram. Why can a diagram help solve this problem?
+			- **Strategy.**
+				- A plane is a flat surface. We are familiar with on
 			- *Solution.*
-				- First we find vectors $
+				- First we find vectors $\vec{AB}$ and $\vec{BC}$.
 				  logseq.order-list-type:: number
