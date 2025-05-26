@@ -3,5 +3,9 @@
 - ## Forced Recall #.v-self-border
 	- Find a vector, $\vec{w}$, which is perpendicular to both $\vec{v}={}\begin{bmatrix}-5\\ 1\\ -5\end{bmatrix}$ and $\vec{u}={}\begin{bmatrix}1\\ 3\\ 11\end{bmatrix}$.
 	  logseq.order-list-type:: number
+		- *Solution.*
+		  logseq.order-list-type:: number
+			- We use the cross product: $\vec{u}\times v$
+			  logseq.order-list-type:: number
 	- Prove $\vec{w}$ is perpendicular to $\vec{v}$ and $\vec{u}$ by showing that $w\cdot u=0=w\cdot v$.
 	  logseq.order-list-type:: number
