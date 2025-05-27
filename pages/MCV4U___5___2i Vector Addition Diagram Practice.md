@@ -30,33 +30,25 @@ alias:: MCV4U 5-2i, CV5-2i
 		  logseq.order-list-type:: number
 		- logseq.order-list-type:: number
 		  ---
-	- i) Draw a graph/diagram and determine a vector equation for these **lines**. #.v-self-border
+	- i) Draw a graph/diagram and determine a vector equation for these **lines**. #.v-self-border-children
 	  logseq.order-list-type:: number
 	  ii) Be as *efficient* as possible with your solution; list the number of steps you took to complete each problem.
 		- logseq.order-list-type:: number
 		  $$y=3x+4$$
-		  ---
 		- logseq.order-list-type:: number
 		  $$3x-4y+5=0$$
-		  ---
 		- logseq.order-list-type:: number
 		  $$\text{Let } t\in \R \text{ then } x = 3-4t \text{ and } y=4-3t$$
-		  ---
 		- logseq.order-list-type:: number
 		  $$\frac{x-4}{3}=\frac{y+3}{-4}$$
-		  ---
 		- logseq.order-list-type:: number
 		  $$\frac{x-4}{3}=y+3$$
-		  ---
 		- logseq.order-list-type:: number
 		  $$\frac{x-4}{3}=\frac{y+3}{-4}=\frac{z+2}{5}$$
-		  ---
 		- This line is ==[[parallel]]== to $$3x-4y+5=0$$ and contains the point $$(3,4)$$.
 		  logseq.order-list-type:: number
-		  ---
 		- This line is parallel to $$6x-8y+10=0$$ and contains the point $$(3,4)$$
 		  logseq.order-list-type:: number
-		  ---
 		- This line is ==[[perpendicular]]== to $$3x-4y+5=0$$ and contains the point $$(3,4)$$
 		  logseq.order-list-type:: number
 		- This line intersects the xy-plane at the z-axis and has a direction vector of $$\begin{bmatrix} 4 \\ -3 \\ 5 \end{bmatrix}$$.
