@@ -182,7 +182,7 @@ html[data-theme=dark][data-color=logseq] {
 /* Custom Title on each Page */
 .ls-page-title {
     border-color: var(--ls-active-primary-color);
-    border-width: 1px;
+    border-width: 3px;
     border-radius: var(--ls-border-radius-medium);
     background-color: var(--ls-secondary-background-color);
 }
