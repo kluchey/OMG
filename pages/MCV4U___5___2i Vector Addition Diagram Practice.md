@@ -2,22 +2,25 @@ alias:: MCV4U 5-2i, CV5-2i
 
 - # This Practice Builds
 	- Complete each problem in the order given.
-	- Draw diagrams for these scenarios. #.v-self-border
+	- Draw diagrams for these scenarios. #.v-self-border-children
 	  logseq.order-list-type:: number
 		- An airplane, $$\vec{p}$$, is flying and there is wind, $$\vec{w}$$. The airplane wants to travel to a location $$[\text{N}8^\circ E]$$ of where it is currently located. Also draw the resultant, $$\vec{r}$$.
 		  logseq.order-list-type:: number
+		  collapsed:: true
 			- *Solution*.
 			  collapsed:: true
 				- Answers may vary since $\vec{p}$ and $\vec{w}$ do not have defined directions. Can you draw this diagram in with the vectors on the north side of the resultant?
 				- ![image.png](../assets/image_1748000724955_0.png){:height 188, :width 144}
 		- A person, $$\vec{p}$$, is swimming and there is a current, $$\vec{c}$$. The person wants to travel to a location $$[\text{N}30^\circ E]$$ of where they are currently located. Also draw the resultant, $$\vec{r}$$.
 		  logseq.order-list-type:: number
+		  collapsed:: true
 			- *Solution*.
 			  collapsed:: true
 				- Answers may vary.
 				- ![image.png](../assets/image_1748000877845_0.png){:height 196, :width 151}
 		- A person, $$\vec{p}$$, is swimming and there is a current, $$\vec{c}$$. The person's position is $$[\text{N}40^\circ E]$$ from where their destination is located. Also draw the resultant, $$\vec{r}$$.
 		  logseq.order-list-type:: number
+		  collapsed:: true
 			- *Solution*. <!-- [[draws/2025-05-23-07-36-10.excalidraw]] -->
 			  collapsed:: true
 				- Answers may vary.
@@ -28,8 +31,6 @@ alias:: MCV4U 5-2i, CV5-2i
 		  logseq.order-list-type:: number
 		- *Strategize*:  How do we phrase each problem with vectors? Is this a shared strategy or do the strategies differ?
 		  logseq.order-list-type:: number
-		- logseq.order-list-type:: number
-		  ---
 	- i) Draw a graph/diagram and determine a vector equation for these **lines**. #.v-self-border-children
 	  logseq.order-list-type:: number
 	  ii) Be as *efficient* as possible with your solution; list the number of steps you took to complete each problem.
@@ -65,7 +66,7 @@ alias:: MCV4U 5-2i, CV5-2i
 		  logseq.order-list-type:: number
 		  $$A = (0,0,1)+t(1,-1,2)$$
 		  $$A = (1,0,0)+k(-1,1,2)$$
-	- ## Consolidate #.v-self-border
+	- ## Consolidate #.v-self-border-children
 		- In which problems today did you see...
 		  logseq.order-list-type:: number
 			- Vector Addition?
@@ -95,4 +96,3 @@ alias:: MCV4U 5-2i, CV5-2i
 		  ![image.png](../assets/image_1747710311832_0.png){:height auto, :width 400}
 		- Create a relational graph for converting between forms of equations for lines in *3D*.
 		  logseq.order-list-type:: number
-		- logseq.order-list-type:: number
