@@ -188,7 +188,7 @@ html[data-theme=dark][data-color=logseq] {
 }
 
 /* Italics and Bold Emphasis*/
-i[data-theme=dark][data-color=logseq] {
+body:i {
     color: red !important;
 }
 

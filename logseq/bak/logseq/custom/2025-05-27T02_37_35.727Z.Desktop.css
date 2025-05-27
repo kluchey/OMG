@@ -7,7 +7,7 @@
   --ls-page-title-size: 36px;
   --ls-main-content-max-width: 810px;
   --ls-main-content-max-width-wide: 1280px;
-  --ls-font-family: Inter;
+  --ls-font-family: Inter; /* Inter*/
   --ls-scrollbar-width: 6px;
   --ls-border-radius-low: 0px;      /* 4px */
   --ls-border-radius-medium: 0px;   /* 8px */
@@ -185,6 +185,11 @@ html[data-theme=dark][data-color=logseq] {
 .title {
     margin-bottom: 0rem !important;
     padding: 0.5rem;
+}
+
+/* Italics and Bold Emphasis*/
+i[data-theme=dark][data-color=logseq] {
+    color: red !important;
 }
 
 /* No Margins on Blocks */
@@ -985,7 +990,7 @@ html[data-theme=dark][data-color=logseq] {
             border-radius: var(--ls-border-radius-medium);
             background-color: var(--ls-primary-background-color);
             margin: 0em 0em 1.2em 0.5em !important;
-            padding: 0.5em 5em 1em 0em !important;
+            padding: 0.5em 0.5em 1em 0em !important;
 
         }
         [data-refs-self*="border-child"]>.block-children-container.flex>.block-children>.ls-block {
