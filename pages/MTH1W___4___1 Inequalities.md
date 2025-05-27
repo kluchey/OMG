@@ -40,4 +40,4 @@
 - ## Lesson #.v-self-border
 	- We want to learn about these types of inequalities:
 		- $y>2x+3$
-	- Graph the line $
+		- **Strategy:** Graph the line $y=2x+3$.
