@@ -43,4 +43,4 @@
 		- **Strategy:** Graph the line $y=2x+3$.
 		  collapsed:: true
 			- <iframe src = "https://www.desmos.com/calculator/4brddn7vio" style="height: 400px; width: 100%" ></iframe>
-		- We can ask the question, like in the warm up,
+		- We can ask the question, like in the warm up, "What are the y-values greater than the line $2x+3$? Can you shade the side of your graph that this sentence is referring to?
