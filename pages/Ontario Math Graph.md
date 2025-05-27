@@ -18,6 +18,7 @@ icon:: 🍎
 		- [[MTH1W]] Mathematics 9 🚩
 		  id:: 68312831-afbd-4af6-8f51-fcd4edf4e4c9
 			- [3 Dice Games]([[MTH1W/3/Dice Games]])
+			-
 		- [[MAT1L]] Essentials of Math 9
 	- ### Grade 10
 	  collapsed:: true
