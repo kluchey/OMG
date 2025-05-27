@@ -91,7 +91,7 @@ html[data-theme=light][data-color=logseq] {
   --ls-a-chosen-bg: var(--ls-quaternary-background-color);
   --ls-pie-bg-color: #e1e1e1;
   --ls-pie-fg-color: #0a4a5d;
-  --ls-italic-color: #0000cd;
+  --ls-italic-color: var(--ls-cloze-text-color);
   --ls-bold-color: #e07000;
 
   --ls-error-text-color: var(--color-red-700);
@@ -157,7 +157,7 @@ html[data-theme=dark][data-color=logseq] {
   --ls-a-chosen-bg: var(--ls-quaternary-background-color);
   --ls-pie-bg-color: #01303b;
   --ls-pie-fg-color: #0b5869;
-  --ls-italic-color: #8fbc8f;
+  --ls-italic-color: var(--ls-cloze-text-color);
   --ls-bold-color: #e07000;
 
   --ls-error-text-color: var(--color-red-400);
