@@ -189,7 +189,7 @@ html[data-theme=dark][data-color=logseq] {
 
 /* Italics and Bold Emphasis*/
 .inline>i {
-    color: red !important;
+    color: green !important;
 }
 
 /* No Margins on Blocks */
