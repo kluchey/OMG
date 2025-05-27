@@ -25,17 +25,17 @@
 			- $3\leq-3$
 			- $-3<3$
 	- When we introduce variables, we begin asking questions where the answers are `True` or `False` Here is an example, can you make up new questions to match the ==[[subsequent]]== inequalities?
-		- #eg $x<3$ is like the question "What numbers are less than 3"? The answer $x=
+		- #eg $x<3$ is like the question "What numbers are less than 3"? The answer $x=2$ is `True` while the $x=4$ is `False`.
 		- $y>10$
 		- $n<-3$
 		- $k>-5$
-		- We can also match these questions to our number line. Here is an example, can you draw number lines for the rest?
-			- #eg An open circle means it does not equal 2. So $x>2$ has this picture:
-			  ![image.png](../assets/image_1748373147068_0.png)
-			- $y\geq10$
-			- $n<-3$
-			- $k\geq-5$
-			- Can you work backwards from the picture to write the inequality?
-				- ![image.png](../assets/image_1748374109210_0.png)
+	- We can also match these questions to our number line. Here is an example, can you draw number lines for the rest?
+		- #eg An open circle means it does not equal 2. So $x>2$ has this picture:
+		  ![image.png](../assets/image_1748373147068_0.png)
+		- $y\geq10$
+		- $n<-3$
+		- $k\geq-5$
+		- Can you work backwards from the number line to write the inequality?
+			- ![image.png](../assets/image_1748374109210_0.png)
 - ## Lesson #.v-self-border
 	-
