@@ -3,7 +3,7 @@
   #+END_CAUTION
 - # Preparing for EQAO #.v-self-border
 	- Here is a question posed on an EQAO practice test:
-		- Which inequality corresponds to this graph?
+		- Which inequality corresponds to this graph? #.v-border-children 
 		  logseq.order-list-type:: number
 		  ![image.png](../assets/image_1748372403293_0.png){:height 364, :width 382}
 			- $2x-y\leq-2$
@@ -12,3 +12,6 @@
 			  logseq.order-list-type:: number
 			- $x-2y\le-2$
 			  logseq.order-list-type:: number
+			- $x+2y\le-2$
+			  logseq.order-list-type:: number
+		- logseq.order-list-type:: number
