@@ -192,12 +192,15 @@ html[data-theme=dark][data-color=logseq] {
 }
 
 
-/* Italics and Bold Emphasis*/
+/* Italics and Bold Emphasis and TODO*/
 .inline>i {
     color: var(--ls-italic-color);
 }
 .inline>b {
     color: var(--ls-bold-color);
+}
+a.DOING {
+    color: darkred;
 }
 
 /* No Margins on Blocks */
