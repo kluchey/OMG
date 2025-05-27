@@ -37,4 +37,5 @@
 			- $k\geq-5$
 			- Can you work backwards from the picture to write the inequality?
 				- ![image.png](../assets/image_1748374109210_0.png)
-		- We
+- ## Lesson #.v-self-border
+	-
