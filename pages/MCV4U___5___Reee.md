@@ -12,6 +12,10 @@
 		- Is the vector $(4,1,-2)$ on the line
 		  logseq.order-list-type:: number
 		  $$\begin{bmatrix}x\\ y\\ z\end{bmatrix}=\begin{bmatrix}1\\ 1\\ 0\end{bmatrix}+t\begin{bmatrix}-6\\ 0\\ 4\end{bmatrix}$$
+			- *Solution.*
+			  logseq.order-list-type:: number
+				- Yes.
+				  logseq.order-list-type:: number
 		- Are the following lines only parallel or are they also coincident? $t,k\in\R$
 		  logseq.order-list-type:: number
 			- logseq.order-list-type:: number
