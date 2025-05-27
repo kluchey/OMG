@@ -38,4 +38,6 @@
 		- Can you work backwards from the number line to write the inequality?
 			- ![image.png](../assets/image_1748374109210_0.png)
 - ## Lesson #.v-self-border
-	-
+	- We want to learn about these types of inequalities:
+		- $y>2x+3$
+	- Graph the line $
