@@ -29,9 +29,10 @@
 			- logseq.order-list-type:: number
 			  $$\begin{bmatrix}x\\ y\\ z\end{bmatrix}=\begin{bmatrix}-3\\ 2\\ 9\end{bmatrix}+t\begin{bmatrix}5\\ -1\\ 0\end{bmatrix}$$
 			- logseq.order-list-type:: number
-			  $$\begin{bmatrix}x\\ y\\ z\end{bmatrix}=\begin{bmatrix}12\\ 0\\ 9\end{bmatrix}+k\begin{bmatrix}-20\\ 4\\ 0\end{bmatrix}$$
+			  $$\begin{bmatrix}x\\ y\\ z\end{bmatrix}=\begin{bmatrix}7\\ 0\\ 9\end{bmatrix}+k\begin{bmatrix}-20\\ 4\\ 0\end{bmatrix}$$
 				- *Answer.*
 				  logseq.order-list-type:: number
+				  collapsed:: true
 					- Coincident.
 					  logseq.order-list-type:: number
 		- While Brooklynn and Danica were solving the following system, they found different values for the parameter $t$. What does this fact tell us about the solution to the system? $t,k\in\R$
