@@ -30,7 +30,7 @@ alias:: MCV4U 5-2i, CV5-2i
 		  logseq.order-list-type:: number
 		- logseq.order-list-type:: number
 		  ---
-	- i) Draw a graph/diagram and determine a vector equation for these **lines**.
+	- i) Draw a graph/diagram and determine a vector equation for these **lines**. #.v-self-border
 	  logseq.order-list-type:: number
 	  ii) Be as *efficient* as possible with your solution; list the number of steps you took to complete each problem.
 		- logseq.order-list-type:: number
@@ -59,26 +59,21 @@ alias:: MCV4U 5-2i, CV5-2i
 		  ---
 		- This line is ==[[perpendicular]]== to $$3x-4y+5=0$$ and contains the point $$(3,4)$$
 		  logseq.order-list-type:: number
-		  ---
 		- This line intersects the xy-plane at the z-axis and has a direction vector of $$\begin{bmatrix} 4 \\ -3 \\ 5 \end{bmatrix}$$.
 		  logseq.order-list-type:: number
-		  ---
 		- This line passes through points $$(1,2,3)$$ and $$(-5,-4,-3)$$.
 		  logseq.order-list-type:: number
-		  ---
 		- This line ==[intersects]([[intersection]])== the **Line A**: 
 		  logseq.order-list-type:: number
 		  $$A = (-1,2,3) + k(3,2,1), k\in \R$$
 		  on the yz-plane and the **Line B**:
 		  $$B = (6,5,4) + t(4,3,-5), t \in \R $$
 		  on the xz plane.
-		  ---
 		- This line is perpendicular to both lines A and B and contains the origin, $$t,k\in \R$$
 		  logseq.order-list-type:: number
 		  $$A = (0,0,1)+t(1,-1,2)$$
 		  $$A = (1,0,0)+k(-1,1,2)$$
-		- ---
-	- ## Consolidate
+	- ## Consolidate #.v-self-border
 		- In which problems today did you see...
 		  logseq.order-list-type:: number
 			- Vector Addition?
@@ -97,21 +92,15 @@ alias:: MCV4U 5-2i, CV5-2i
 			  logseq.order-list-type:: number
 			- A normal vector?
 			  logseq.order-list-type:: number
-			- ---
 		- Is the point $$(1,4,-6)$$ on the line $$\vec{v}=(-3,-2,8)+t(2,3,0)$$?
 		  logseq.order-list-type:: number
-		  ---
 		- Is it possible to create a scalar equation for a line in $$\R^3$$? Why or why not? What questions does drawing a diagram of a line in 3D raise when you consider making the scalar equation? Hint:  Normal Vector.
 		  logseq.order-list-type:: number
-		  ---
 		- What do you know about every vector located on the xy-plane? yz-plane? xz-plane?
 		  logseq.order-list-type:: number
-		  ---
 		- Create a relational graph for converting between forms of equations for lines in *2D*.  Here is a relational graph for forms of quadratic equations as an example. Is your relational graph also a Triangle?
 		  logseq.order-list-type:: number
-		  ![image.png](../assets/image_1747710311832_0.png){:height auto, :width 400} 
-		  ---
+		  ![image.png](../assets/image_1747710311832_0.png){:height auto, :width 400}
 		- Create a relational graph for converting between forms of equations for lines in *3D*.
 		  logseq.order-list-type:: number
-		  ---
 		- logseq.order-list-type:: number
