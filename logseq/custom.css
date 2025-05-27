@@ -125,7 +125,7 @@ html[data-theme=dark][data-color=logseq] {
   --ls-menu-hover-color: var(--ls-secondary-background-color);
   --ls-primary-text-color: #e0e0e0;
   --ls-secondary-text-color: #dfdfdf;
-  --ls-title-text-color: #93a1a1;
+  --ls-title-text-color: #FFF;
   --ls-link-text-color: rgb(138, 187, 187);
   --ls-link-text-hover-color: var(--ls-active-secondary-color);
   --ls-link-ref-text-color: var(--ls-link-text-color);
