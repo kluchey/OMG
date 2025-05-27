@@ -211,6 +211,9 @@ h3 {
 a.DOING {
     color: var(--ls-bold-color);
 }
+span:last-child {
+    padding-bottom: 20px;
+}
 
 /* No Margins on Blocks */
 /*
