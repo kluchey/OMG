@@ -43,7 +43,7 @@ html[data-theme='light'] {
 
 html[data-theme=light][data-color=logseq] {
   --ls-primary-background-color: #ffffff;
-  --ls-secondary-background-color: #f7f7f7;
+  --ls-secondary-background-color: #a81313;
   --ls-tertiary-background-color: #eaeaea;
   --ls-quaternary-background-color: #dcdcdc;
   --ls-table-tr-even-background-color: var(--ls-secondary-background-color);
