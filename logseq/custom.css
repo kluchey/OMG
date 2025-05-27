@@ -202,7 +202,7 @@ h3 {
 
 
 /* Italics and Bold Emphasis and TODO*/
-.inline>i {
+i {
     color: var(--ls-italic-color);
 }
 b {
