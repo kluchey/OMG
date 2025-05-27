@@ -14,7 +14,10 @@
 		  $$\begin{bmatrix}x\\ y\\ z\end{bmatrix}=\begin{bmatrix}1\\ 1\\ 0\end{bmatrix}+t\begin{bmatrix}-6\\ 0\\ 4\end{bmatrix}$$
 			- *Solution.*
 			  logseq.order-list-type:: number
-				- Yes. Parametric $z=4t \implies -2=4t \implies t=\frac
+				- Yes. Parametric equation for $z$ yields
+				  logseq.order-list-type:: number
+				  $$z=4t \implies -2=4t \implies t=\frac{-1}{2}$$
+				- And checking $y$ and $
 				  logseq.order-list-type:: number
 		- Are the following lines only parallel or are they also coincident? $t,k\in\R$
 		  logseq.order-list-type:: number
