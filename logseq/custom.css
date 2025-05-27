@@ -190,6 +190,12 @@ html[data-theme=dark][data-color=logseq] {
     margin-bottom: 0rem !important;
     padding: 0.5rem;
 }
+h1 {
+    border-bottom: 3px solid !important;
+}
+h2 {
+    border-bottom: 2px solid !important;
+}
 
 
 /* Italics and Bold Emphasis and TODO*/
