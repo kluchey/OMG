@@ -204,6 +204,7 @@ h3 {
 /* Italics and Bold Emphasis and TODO*/
 i {
     color: var(--ls-italic-color);
+    -webkit-text-stroke: 2px var(--ls-italic-color);
 }
 b {
     color: var(--ls-bold-color);
