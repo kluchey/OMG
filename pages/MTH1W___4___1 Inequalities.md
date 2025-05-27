@@ -6,5 +6,9 @@
 		- Which inequality corresponds to this graph?
 		  logseq.order-list-type:: number
 		  ![image.png](../assets/image_1748372403293_0.png){:height 364, :width 382}
-			- logseq.order-list-type:: number
-			  $$$$
+			- $2x-y\leq-2$
+			  logseq.order-list-type:: number
+			- $2x+y\le-2$
+			  logseq.order-list-type:: number
+			- $x-2y\le-2$
+			  logseq.order-list-type:: number
