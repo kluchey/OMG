@@ -187,6 +187,11 @@ html[data-theme=dark][data-color=logseq] {
     padding: 0.5rem;
 }
 
+/* Italics and Bold Emphasis*/
+i[data-theme=light][data-color=logseq] {
+    color: red;
+}
+
 /* No Margins on Blocks */
 /*
 .ls-block {
