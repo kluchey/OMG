@@ -30,5 +30,8 @@
 			- $n<-3$
 			- $k>-5$
 		- We can also match these questions to our number line. Here is an example, can you draw number lines for the rest?
-			- #eg The open circle means it does not 
+			- #eg An open circle means it does not equal 2. So $x>2$ has this picture:
 			  ![image.png](../assets/image_1748373147068_0.png)
+			- $y\geq10$
+			- $n<-3$
+			- $k\geq-5$
