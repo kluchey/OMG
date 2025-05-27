@@ -29,4 +29,4 @@
 			- $y>10$
 			- $n<-3$
 			- $k>-5$
-			-
+		- We can also match these questions to our number line. Here is an example, can you draw number lines for the rest?
