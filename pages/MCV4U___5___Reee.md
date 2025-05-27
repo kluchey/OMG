@@ -32,7 +32,6 @@
 			  $$\begin{bmatrix}x\\ y\\ z\end{bmatrix}=\begin{bmatrix}12\\ 0\\ 9\end{bmatrix}+k\begin{bmatrix}-20\\ 4\\ 0\end{bmatrix}$$
 				- *Answer.*
 				  logseq.order-list-type:: number
-				  collapsed:: true
 					- Coincident.
 					  logseq.order-list-type:: number
 		- While Brooklynn and Danica were solving the following system, they found different values for the parameter $t$. What does this fact tell us about the solution to the system? $t,k\in\R$
@@ -44,6 +43,7 @@
 			  \end{cases}$$
 				- *Solution.*
 				  logseq.order-list-type:: number
+				  collapsed:: true
 					- Answers may vary slightly.
 					  logseq.order-list-type:: number
 					- Arriving at different values for $t$ means all potential solutions to the system are inconsistent. A PoI to a system needs to produce ==[[consistent]]== values for the parameter, meaning the point we are looking for would have the same $t$ value. Indeed, think about what two different $t$ values would mean... each point on the line is defined by just one $t$ value each (like a one-to-one function). So, having two different points solving this system, we have reasoned, is impossible. Recall:  we call this a logical ==[[contradiction]]==.
