@@ -17,8 +17,10 @@
 				- Yes. Parametric equation for $z$ yields
 				  logseq.order-list-type:: number
 				  $$z=4t \implies -2=4t \implies t=\frac{-1}{2}$$
-				- And checking $y$ and $
+				- And checking $y$ and $x$:
 				  logseq.order-list-type:: number
+				  $$y=1$$ Good!
+				  $$x=1+\left(\frac{-1}{2}\right)\left(-6\right)=1+3=4$$
 		- Are the following lines only parallel or are they also coincident? $t,k\in\R$
 		  logseq.order-list-type:: number
 			- logseq.order-list-type:: number
