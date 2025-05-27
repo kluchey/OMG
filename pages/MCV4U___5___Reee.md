@@ -14,12 +14,13 @@
 		  $$\begin{bmatrix}x\\ y\\ z\end{bmatrix}=\begin{bmatrix}1\\ 1\\ 0\end{bmatrix}+t\begin{bmatrix}-6\\ 0\\ 4\end{bmatrix}$$
 			- *Solution.*
 			  logseq.order-list-type:: number
+			  collapsed:: true
 				- Yes. Parametric equation for $z$ yields
 				  logseq.order-list-type:: number
 				  $$z=4t \implies -2=4t \implies t=\frac{-1}{2}$$
-				- And checking $y$ and $x$:
+				- And checking $y$ and $x$ for $t=\frac{-1}{2}
 				  logseq.order-list-type:: number
-				  $$y=1$$ Good!
+				  $$y=1$$
 				  $$x=1+\left(\frac{-1}{2}\right)\left(-6\right)=1+3=4$$
 		- Are the following lines only parallel or are they also coincident? $t,k\in\R$
 		  logseq.order-list-type:: number
