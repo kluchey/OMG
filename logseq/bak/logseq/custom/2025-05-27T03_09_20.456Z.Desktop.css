@@ -200,7 +200,7 @@ html[data-theme=dark][data-color=logseq] {
     color: var(--ls-bold-color);
 }
 a.DOING {
-    color: darkred;
+    color: var(--ls-active-primary-color);
     -webkit-text-stroke: 0.4px white;
 }
 
