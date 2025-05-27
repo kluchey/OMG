@@ -47,4 +47,5 @@
 			- *Solution.*
 			  collapsed:: true
 				- <iframe src = "https://www.desmos.com/calculator/f01d8fn3hi" style="height: 400px; width: 100%" ></iframe>
-	- But this still isn't the EQAO Question.
+	- But this still isn't the EQAO Question! What can we do with $$$2x-y\leq-2$$$ and the other answers?
+		-
