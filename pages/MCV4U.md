@@ -12,7 +12,10 @@ title:: MCV4U
 		  CLOCK: [2025-05-23 Fri 10:30:47]--[2025-05-23 Fri 10:31:15] =>  00:00:28
 		  CLOCK: [2025-05-23 Fri 10:31:17]
 		  :END:
-		- TODO Unit 6
+		- DOING Unit 6
+		  :LOGBOOK:
+		  CLOCK: [2025-05-26 Mon 23:26:03]
+		  :END:
 		- TODO Mark Update
 	- Culminating 30%
 		- TODO Exam Study
