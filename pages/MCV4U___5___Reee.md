@@ -44,7 +44,9 @@
 			  \end{cases}$$
 				- *Solution.*
 				  logseq.order-list-type:: number
-					- Answers may vary
+					- Answers may vary slightly.
+					  logseq.order-list-type:: number
+					- Arriving at different values for $t$ will
 					  logseq.order-list-type:: number
 	- Given the line $L_1: \begin{bmatrix}x\\ y\\ z\end{bmatrix}=\begin{bmatrix}1\\ -1\\ 1\end{bmatrix}+t\begin{bmatrix}-4\\ 2\\ 7\end{bmatrix}$, answer each problem below. $t,k\in\R$ #.v-self-border
 	  logseq.order-list-type:: number
