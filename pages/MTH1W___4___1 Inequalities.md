@@ -15,4 +15,4 @@
 			- $x+2y\le-2$
 			  logseq.order-list-type:: number
 - ## Action #.v-self-border
-	-
+	- In mathematics,
