@@ -49,7 +49,8 @@ icon:: 🍎
 		  :LOGBOOK:
 		  CLOCK: [2025-05-18 Sun 21:43:48]
 		  CLOCK: [2025-05-18 Sun 21:43:53]--[2025-05-18 Sun 21:44:04] =>  00:00:11
-		  CLOCK: [2025-05-18 Sun 21:44:09]
+		  CLOCK: [2025-05-18 Sun 21:44:09]--[2025-05-27 Tue 11:43:55] =>  205:59:46
+		  CLOCK: [2025-05-27 Tue 11:43:58]
 		  :END:
 		- TODO Add more Flashcards for math words and practice.
 		  :LOGBOOK:
