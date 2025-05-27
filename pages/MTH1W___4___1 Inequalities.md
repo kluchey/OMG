@@ -1,4 +1,4 @@
 - #+BEGIN_CAUTION
-  Today we begin Unit 4:  Mathematical Modelling and are beginning to learn how we can 
+  Today we begin Unit 4:  Mathematical Modelling and will learn to describe inequalities using our knowledge of Linear Relations.
   #+END_CAUTION
 -
