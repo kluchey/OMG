@@ -22,4 +22,5 @@
 			- $3<4$
 			- $3\leq3$
 			- $3<3$
-		- When we introduce variables, we begin asking questions. Here is an example, can you make up new questions to match the ==subsequent== inequalities?
+		- When we introduce variables, we begin asking questions. Here is an example, can you make up new questions to match the ==[[subsequent]]== inequalities?
+			- #eg $x<3$ is like the question "What numbers are less than 3"?
