@@ -91,6 +91,7 @@ html[data-theme=light][data-color=logseq] {
   --ls-a-chosen-bg: var(--ls-quaternary-background-color);
   --ls-pie-bg-color: #e1e1e1;
   --ls-pie-fg-color: #0a4a5d;
+  --ls-italic-color: #0000cd;
 
   --ls-error-text-color: var(--color-red-700);
   --ls-error-background-color: var(--color-red-100);
@@ -155,6 +156,7 @@ html[data-theme=dark][data-color=logseq] {
   --ls-a-chosen-bg: var(--ls-quaternary-background-color);
   --ls-pie-bg-color: #01303b;
   --ls-pie-fg-color: #0b5869;
+  --ls-italic-color: #8fbc8f;
 
   --ls-error-text-color: var(--color-red-400);
   --ls-error-background-color: var(--color-red-900);
@@ -189,7 +191,7 @@ html[data-theme=dark][data-color=logseq] {
 
 /* Italics and Bold Emphasis*/
 .inline>i {
-    color: green !important;
+    color: var(--ls-italic-color);
 }
 
 /* No Margins on Blocks */
