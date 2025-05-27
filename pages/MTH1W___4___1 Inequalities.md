@@ -19,7 +19,7 @@
 		- Examples: Which of the following statements are `True`?
 			- $3>4$
 			- $4<3$
-			- $3<4
+			- $3<4$
 			- $3\leq3$
-			- $3<3
-			-
+			- $3<3$
+		- When we introduce variables, we begin asking questions. Here is an example, can you make up new questions to match the ==subsequent== inequalities?
