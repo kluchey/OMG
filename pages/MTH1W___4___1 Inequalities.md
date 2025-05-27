@@ -57,3 +57,5 @@
 		  \end{align*} $$
 		- Can we now see why a. is not the answer to the EQAO question?
 	- Exit Ticket:
+		- Draw the region of the graph defined by $y<4x-5$.
+		- Draw the region of the graph defined by $-4x-2y>6$.
