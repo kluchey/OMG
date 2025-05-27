@@ -190,6 +190,15 @@ html[data-theme=dark][data-color=logseq] {
     margin-bottom: 0rem !important;
     padding: 0.5rem;
 }
+h1 {
+    border-bottom: 3px solid !important;
+}
+h2 {
+    border-bottom: 2px solid !important;
+}
+h3 {
+    border-bottom: 1px solid !important;
+}
 
 
 /* Italics and Bold Emphasis and TODO*/
@@ -200,7 +209,10 @@ html[data-theme=dark][data-color=logseq] {
     color: var(--ls-bold-color);
 }
 a.DOING {
-    color: var(--ls-active-primary-color);
+    color: var(--ls-bold-color);
+}
+.ls-block:last-child {
+    padding-bottom: 0.5rem;
 }
 
 /* No Margins on Blocks */

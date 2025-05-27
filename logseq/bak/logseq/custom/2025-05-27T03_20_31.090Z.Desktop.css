@@ -211,8 +211,8 @@ h3 {
 a.DOING {
     color: var(--ls-bold-color);
 }
-span:last-child {
-    margin-bottom: 20px;
+div.w-full:last-child {
+    padding-bottom: 0.5rem;
 }
 
 /* No Margins on Blocks */
