@@ -1,4 +1,4 @@
-- < 
-  #+BEGIN_EXPORT latex
-  $$$$
-  #+END_EXPORT
+- #+BEGIN_CAUTION
+  Today we are learning about 
+  #+END_CAUTION
+-
