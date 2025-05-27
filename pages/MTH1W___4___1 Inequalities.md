@@ -50,6 +50,9 @@
 	- But this still isn't the EQAO Question! What can we do with $$$2x-y\leq-2$$$ and the other answers?
 		- We can guess points. We can try points inside the region, on the line, and outside the region.
 		- Or, we can use reasoning:  our goal is to get $y<line$ or $y>line$.
-		- $ \begin{align*}
-		  2x - y < -2
+		- $$$$ \begin{align*}
+		  2x - y &< -2 \\
+		  2x &< -2 + y \\
+		  2x +2 &< y
 		  \end{align*} $
+		-
