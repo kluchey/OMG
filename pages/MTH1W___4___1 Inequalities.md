@@ -14,7 +14,7 @@
 			  logseq.order-list-type:: number
 			- $x+2y\le-2$
 			  logseq.order-list-type:: number
-- ## Action #.v-self-border
+- ## Warm Up #.v-self-border
 	- An ==[[inequality]]== is a `True` or `False` statement using numbers.
 		- Examples: Which of the following statements are `True`?
 			- $3>4$
@@ -43,4 +43,4 @@
 		- **Strategy:** Graph the line $y=2x+3$.
 		  collapsed:: true
 			- <iframe src = "https://www.desmos.com/calculator/4brddn7vio" style="height: 400px; width: 100%" ></iframe>
-		-
+		- We can ask the question, like in the warm up,
