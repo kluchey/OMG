@@ -46,7 +46,7 @@
 				  logseq.order-list-type:: number
 					- Answers may vary slightly.
 					  logseq.order-list-type:: number
-					- Arriving at different values for $t$ means all potential solutions to the system are inconsistent. A PoI to a system needs to produce ==[[consistent]]== values for the parameter, meaning the point we are looking for would have the same $t$ value. Indeed, think about what a
+					- Arriving at different values for $t$ means all potential solutions to the system are inconsistent. A PoI to a system needs to produce ==[[consistent]]== values for the parameter, meaning the point we are looking for would have the same $t$ value. Indeed, think about what two different $t$ values would mean:  it means we would have two different points solving this system which we have reasoned is impossible. Recall:  we call this a ==contradiction==.
 					  logseq.order-list-type:: number
 	- Given the line $L_1: \begin{bmatrix}x\\ y\\ z\end{bmatrix}=\begin{bmatrix}1\\ -1\\ 1\end{bmatrix}+t\begin{bmatrix}-4\\ 2\\ 7\end{bmatrix}$, answer each problem below. $t,k\in\R$ #.v-self-border
 	  logseq.order-list-type:: number
