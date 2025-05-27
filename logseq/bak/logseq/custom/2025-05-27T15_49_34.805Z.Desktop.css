@@ -59,7 +59,7 @@ html[data-theme=light][data-color=logseq] {
   --ls-menu-hover-color: var(--ls-a-chosen-bg);
   --ls-primary-text-color: #000;
   --ls-secondary-text-color: #171717;
-  --ls-title-text-color: #000;
+  --ls-title-text-color: darkslategrey;;
   --ls-link-text-color: #106ba3;
   --ls-link-text-hover-color: #1a537c;
   --ls-link-ref-text-color: var(--ls-link-text-color);
@@ -204,7 +204,7 @@ h3 {
 /* Italics and Bold Emphasis and TODO*/
 i {
     color: var(--ls-italic-color);
-    -webkit-text-stroke: 2px var(--ls-italic-color);
+    -webkit-text-stroke: 0.2px var(--ls-italic-color);
 }
 b {
     color: var(--ls-bold-color);
@@ -215,6 +215,7 @@ a.DOING {
 .ls-block:last-child {
     padding-bottom: 0.5rem;
 }
+
 
 /* No Margins on Blocks */
 /*
