@@ -15,8 +15,11 @@
 			- $x+2y\le-2$
 			  logseq.order-list-type:: number
 - ## Action #.v-self-border
-	- An ==[[inequality]]== is a `True` or **False** statement using numbers.
-		- Examples: Which of the following statements are **True**?
-			- 3>4
-			- 4<3
+	- An ==[[inequality]]== is a `True` or `False` statement using numbers.
+		- Examples: Which of the following statements are `True`?
+			- $3>4$
+			- $4<3$
+			- $3<4
+			- $3\leq3$
+			- $3<3
 			-
