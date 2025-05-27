@@ -41,4 +41,4 @@
 	- We want to learn about these types of inequalities:
 		- $y>2x+3$
 		- **Strategy:** Graph the line $y=2x+3$.
-		- <iframe src = "https://www.desmos.com/calculator/yasxqdxrxu" style="height: 320; width 480: ></iframe>
+		- <iframe src = "https://www.desmos.com/calculator/yasxqdxrxu" style="height: 600px; width: 100%" ></iframe>
