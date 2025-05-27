@@ -35,3 +35,4 @@
 			- $y\geq10$
 			- $n<-3$
 			- $k\geq-5$
+			- Can you work backwards from the picture to write the inequality?
