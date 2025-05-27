@@ -8,7 +8,7 @@ icon:: 🍎
 	- **Welcome** to Mr. Cluchey's Ontario Math Graph. Students, Parents, and Teachers are welcome to use or adapt these self-directed lessons to help your Ontario student learn mathematics.
 	- "**Explain it like I'm a Grade 9**" I write this resource by assuming the reader has or is developing a [Grade 9]([[MTH1W]]) understanding of math. Later years in high school are built up from Grade 9.
 	- My **goal** for this resource is a useful reference, effective learning tool, and [[Study Guide]]. I'm looking to preserve a set of stories and math problems from an Ontario classroom #culture.
-- ## Course Selection #.v-self-border-children
+- ## Course Selection #.v-self-border
   id:: 682bd1c7-1d93-46f1-a1c9-42e5ef4ce4cf
 	- ### Teaching
 		- {{embed ((6831285a-246d-4fd3-9bda-e83ab153c99b))}}
