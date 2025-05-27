@@ -2,8 +2,7 @@ alias:: MCV4U 5-2i, CV5-2i
 
 - # This Practice Builds
 	- Complete each problem in the order given.
-	  ---
-	- Draw diagrams for these scenarios.
+	- Draw diagrams for these scenarios. #.v-self-border
 	  logseq.order-list-type:: number
 		- An airplane, $$\vec{p}$$, is flying and there is wind, $$\vec{w}$$. The airplane wants to travel to a location $$[\text{N}8^\circ E]$$ of where it is currently located. Also draw the resultant, $$\vec{r}$$.
 		  logseq.order-list-type:: number
