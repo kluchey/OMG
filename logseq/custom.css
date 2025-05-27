@@ -212,7 +212,7 @@ a.DOING {
     color: var(--ls-bold-color);
 }
 .ls-block:last-child {
-    padding-bottom: 1rem;
+    padding-bottom: 0.5rem;
 }
 
 /* No Margins on Blocks */
