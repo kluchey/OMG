@@ -49,5 +49,7 @@
 				- <iframe src = "https://www.desmos.com/calculator/f01d8fn3hi" style="height: 400px; width: 100%" ></iframe>
 	- But this still isn't the EQAO Question! What can we do with $$$2x-y\leq-2$$$ and the other answers?
 		- We can guess points. We can try points inside the region, on the line, and outside the region.
-		- Or, we can use reasoning:  Our goal is to get $y<line$ or $y>line$.
-		-
+		- Or, we can use reasoning:  our goal is to get $y<line$ or $y>line$.
+		- $ \begin{align*}
+		  2x - y < -2
+		  \end{align*} $
