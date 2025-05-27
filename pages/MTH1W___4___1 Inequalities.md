@@ -30,3 +30,5 @@
 			- $n<-3$
 			- $k>-5$
 		- We can also match these questions to our number line. Here is an example, can you draw number lines for the rest?
+			- #eg The open circle means it does not 
+			  ![image.png](../assets/image_1748373147068_0.png)
