@@ -192,7 +192,7 @@ html[data-theme=dark][data-color=logseq] {
 }
 h1 {
     border-bottom: 3px solid !important;
-    color: darkred;
+    color: darkslategrey;
 }
 h2 {
     border-bottom: 2px solid !important;
