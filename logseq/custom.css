@@ -192,6 +192,7 @@ html[data-theme=dark][data-color=logseq] {
 }
 h1 {
     border-bottom: 3px solid !important;
+    color: darkred;
 }
 h2 {
     border-bottom: 2px solid !important;
@@ -215,9 +216,7 @@ a.DOING {
 .ls-block:last-child {
     padding-bottom: 0.5rem;
 }
-h1 {
-    color: red;
-}
+
 
 /* No Margins on Blocks */
 /*

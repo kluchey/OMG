@@ -192,6 +192,7 @@ html[data-theme=dark][data-color=logseq] {
 }
 h1 {
     border-bottom: 3px solid !important;
+    border-color: darkred;
 }
 h2 {
     border-bottom: 2px solid !important;
@@ -202,10 +203,11 @@ h3 {
 
 
 /* Italics and Bold Emphasis and TODO*/
-.inline>i {
+i {
     color: var(--ls-italic-color);
+    -webkit-text-stroke: 0.2px var(--ls-italic-color);
 }
-.inline>b {
+b {
     color: var(--ls-bold-color);
 }
 a.DOING {
@@ -214,6 +216,7 @@ a.DOING {
 .ls-block:last-child {
     padding-bottom: 0.5rem;
 }
+
 
 /* No Margins on Blocks */
 /*
