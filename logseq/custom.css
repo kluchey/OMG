@@ -205,7 +205,7 @@ h3 {
 .inline>i {
     color: var(--ls-italic-color);
 }
-.ls-block>b {
+b {
     color: var(--ls-bold-color);
 }
 a.DOING {
