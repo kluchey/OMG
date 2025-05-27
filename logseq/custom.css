@@ -215,6 +215,9 @@ a.DOING {
 .ls-block:last-child {
     padding-bottom: 0.5rem;
 }
+h1 {
+    color: red;
+}
 
 /* No Margins on Blocks */
 /*
