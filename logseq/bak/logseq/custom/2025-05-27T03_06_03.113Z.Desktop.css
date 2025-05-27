@@ -200,7 +200,8 @@ html[data-theme=dark][data-color=logseq] {
     color: var(--ls-bold-color);
 }
 a.DOING {
-    color: darkred;
+    color: maroon;
+    -webkit-text-stroke: 0.3px white;
 }
 
 /* No Margins on Blocks */
