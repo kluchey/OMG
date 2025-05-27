@@ -196,6 +196,9 @@ h1 {
 h2 {
     border-bottom: 2px solid !important;
 }
+h3 {
+    border-bottom: 1px solid !important;
+}
 
 
 /* Italics and Bold Emphasis and TODO*/
