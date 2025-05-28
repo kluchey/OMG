@@ -20,7 +20,6 @@
 	  logseq.order-list-type:: number
 		- Find the scalar equation of the plane, $t,k\in\R$:
 		  logseq.order-list-type:: number
-		  collapsed:: true
 		  $$\begin{bmatrix}x\\ y\\ z\end{bmatrix}=\begin{bmatrix}1\\ 2\\ 3\end{bmatrix}+t\begin{bmatrix}-2\\ 4\\ 6\end{bmatrix}+k\begin{bmatrix}1\\ 3\\ -4\end{bmatrix}$$
 			- **Strategy:**
 			  logseq.order-list-type:: number
@@ -75,7 +74,8 @@
 					  -10 \\  9 \\ 39
 					  \end{bmatrix}
 					  \end{align*}$$
-					- logseq.order-list-type:: number
+					- Checking $(-10,9,39)$ on
+					  logseq.order-list-type:: number
 	- Find the scalar equation of the plane that contains the points $(1,4,5)$ and $(3, 2, 1)$ and is perpendicular to $2x-y+z-10=0$.
 	  logseq.order-list-type:: number
 - ## Consolidation
