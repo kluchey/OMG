@@ -90,7 +90,9 @@
 		  logseq.order-list-type:: number
 			- Unlike in 2D, for vectors in 3D we need two vectors to find a ==[[perpendicular]]== third vector by using the cross product. Where do our two vectors come from in this problem?
 			  logseq.order-list-type:: number
-			- One is the
+			- One is the normal vector of $2x-y+z-10=0$ which serves as one of our new plane's direction vectors.
+			  logseq.order-list-type:: number
+			- A second is the vector $\vec{}
 			  logseq.order-list-type:: number
 - ## Consolidation
 	- What information is needed to create a scalar equation of a plane?
