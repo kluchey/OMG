@@ -16,7 +16,7 @@
 		- ![image.png](../assets/image_1748445121689_0.png)
 		- Note that our idea that a normal vector is perpendicular to the direction(s) still holds true. Our $n$ is perpendicular to **both** $S$ and $R$.
 		- Try using Desmos 3D to plot the scalar equation:  $3x-2y+z-4=0$.
-			- <iframe src
+			- <iframe src="https://www.desmos.com/3d" style="height: 500px; width: px;"></iframe>
 - ## Action #.v-self-border
 	- Examples
 	  logseq.order-list-type:: number
