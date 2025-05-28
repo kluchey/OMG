@@ -63,5 +63,5 @@
 		  logseq.order-list-type:: number
 	- Exit Ticket:
 	  logseq.order-list-type:: number
-		- There are
+		- A room has an Area of $120\text{m}^2$.
 		  logseq.order-list-type:: number
