@@ -23,6 +23,7 @@
 		  $$\begin{bmatrix}x\\ y\\ z\end{bmatrix}=\begin{bmatrix}1\\ 2\\ 3\end{bmatrix}+t\begin{bmatrix}-2\\ 4\\ 6\end{bmatrix}+k\begin{bmatrix}1\\ 3\\ -4\end{bmatrix}$$
 			- We need a vector perpendicular to both direction vectors. We need the **cross product**!
 			  logseq.order-list-type:: number
+			  collapsed:: true
 				- logseq.order-list-type:: number
 				  $$\begin{matrix}\cancel{-2} & 4 & 6 & -2 & 4 & \cancel{6}\\ \cancel{1} & 3 & -4 & 1 & 3 & \cancel{-4}\end{matrix}$$
 				- So then
@@ -51,6 +52,8 @@
 				  $$\begin{align*}16-14+15 &= -D \\ 16+1 &= \\ 17 &=-D\end{align*}$$
 				- Therefore, $D=-17$
 				  logseq.order-list-type:: number
+			- Therefore, the scalar equation is $16x-7y+5-17=0$
+			  logseq.order-list-type:: number
 		- Show that the point represented by $t=4$ and $k=-3$ is in fact also on the scalar equation you found.
 		  logseq.order-list-type:: number
 	- Find the scalar equation of the plane that contains the points $(1,4,5)$ and $(3, 2, 1)$ and is perpendicular to $2x-y+z-10=0$.
