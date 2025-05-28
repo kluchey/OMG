@@ -94,9 +94,13 @@
 			  logseq.order-list-type:: number
 			- A second is the vector $\vec{AB}$ given we set $A=(1,4,5)$ and $B=(3,2,1)$.
 			  logseq.order-list-type:: number
-				- $$
+				- logseq.order-list-type:: number
+				  $$\begin{align*}
+				  \vec{AB} &= (3,2,1)-(1,4,5) \\
+				  &= (2,-2,-4)
+				  \end{align*}$$
+				- So $(
 				  logseq.order-list-type:: number
-				  \vect{AB} &=
 - ## Consolidation
 	- What information is needed to create a scalar equation of a plane?
 	- What are the steps to use a vector equation of a plane to get the scalar equation?
