@@ -77,5 +77,5 @@
 			  logseq.order-list-type:: number
 			- $What does $5d+6c$ mean? Why does it make sense to set it equal to $500?
 			  logseq.order-list-type:: number
-			- If the bakery sold $
+			- If on this day the bakery sold 40 donuts, how many cupcakes were sold? *Solve an equation to answer this problem.*
 			  logseq.order-list-type:: number
