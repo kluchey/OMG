@@ -39,7 +39,7 @@
 					  17 \\ -7 \\ 5
 					  \end{bmatrix}
 					  \end{align*}$$
-					- And we'll let $\vec{n}=\begin{bmatrix}16\\ -7\\ 5\end{bmatrix}$
+					- And we'll let $\vec{n}=\begin{bmatrix}17\\ -7\\ 5\end{bmatrix}$
 					  logseq.order-list-type:: number
 				- Therefore the scalar equation is (so far):
 				  logseq.order-list-type:: number
@@ -48,14 +48,13 @@
 					  logseq.order-list-type:: number
 				- Substituting $(1,2,3)$ to solve for $D$:
 				  logseq.order-list-type:: number
-				  collapsed:: true
-					- $16(1)-7(2)+5(3)=-D$
+					- $17(1)-7(2)+5(3)=-D$
 					  logseq.order-list-type:: number
 					- logseq.order-list-type:: number
-					  $$\begin{align*}16-14+15 &= -D \\ 16+1 &= \\ 17 &=-D\end{align*}$$
-					- Therefore, $D=-17$
+					  $$\begin{align*}16-14+15 &= -D \\ 17+1 &= \\ 18 &=-D\end{align*}$$
+					- Therefore, $D=-18$
 					  logseq.order-list-type:: number
-				- Therefore, the scalar equation is $16x-7y+5z-17=0$
+				- Therefore, the scalar equation is $16x-7y+5z-18=0$
 				  logseq.order-list-type:: number
 		- Show that the point represented by $t=4$ and $k=-3$ is in fact also on the scalar equation you found.
 		  logseq.order-list-type:: number
