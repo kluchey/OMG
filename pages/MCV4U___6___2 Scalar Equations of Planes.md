@@ -137,5 +137,7 @@
 		  logseq.order-list-type:: number
 	- Find the scalar equation of the plane that passes through $(1,2,3)$ and has $\vec{n}=(2,-5,7)$.
 	  logseq.order-list-type:: number
-	- Find the scalar equation of the plane containing the points $A(-2,3,1)$, $B
+	- Find the scalar equation of the plane containing the points $A(-2,3,1)$, $B(3,4,5)$, and $C(1,1,0)$.
+	  logseq.order-list-type:: number
+	- The line $(x,y,z) = (2,0,1)+t(-4,5,5)
 	  logseq.order-list-type:: number
