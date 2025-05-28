@@ -88,3 +88,7 @@
 		  logseq.order-list-type:: number
 		- $1>2x-y$
 		  logseq.order-list-type:: number
+	- Create an inequality that is `True` for **all** of the following points:
+	  logseq.order-list-type:: number
+		- (1,1), (1, 2), (3, 3), (3, 2)
+		  logseq.order-list-type:: number
