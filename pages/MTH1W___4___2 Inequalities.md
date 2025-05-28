@@ -53,8 +53,7 @@
 	- But this still isn't the EQAO Question! What can we do with $$$2x-y\leq-2$$$ and the other answers?
 		- We can guess points. We can try points inside the region, on the line, and outside the region.
 			- ![image.png](../assets/image_1748372403293_0.png){:height 364, :width 382}
-			- Take the point (0,1) which is on the line, what should we expect to happen?
-				- If (0.1)
+			- Take the point (-1,1) which is inside the shaded region. If we want to find the correct answer to this question, we can check if that point is `True` for the in
 		- Or, we can use reasoning:  our goal is to get $y<line$ or $y>line$.
 		- $$ \begin{align*}
 		  2x - y &< -2 \\
