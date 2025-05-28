@@ -34,9 +34,9 @@
 		- If together, Cooper, Finn, and Lucas have 1305 tooth brushes, how many tooth brushes must Cooper have?
 - ## Action #.v-self-border-children
 	- Here's a question from #EQAO in 2024. How would you model it using Algebra?
-		- ![image.png](../assets/image_1748394775799_0.png){:height 287, :width 278}
+		- ![image.png](../assets/image_1748394775799_0.png){:height 252, :width 241}
 	- This is a question from #EQAO in 2023. How would you model it using Algebra?
-		- ![image.png](../assets/image_1748393501044_0.png){:height 250, :width 285}
+		- ![image.png](../assets/image_1748393501044_0.png){:height 214, :width 237}
 	- Here's a question from the #EQAO practice test. Can you model this question using Algebra? What else can you use?
 		- ![image.png](../assets/image_1748394726186_0.png){:height 350, :width 272}
 	- **Compare:**  What do all of these problems have in common?
