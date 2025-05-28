@@ -1,5 +1,5 @@
 - #+BEGIN_CAUTION
-  Today we begin Unit 4:  Mathematical Modelling and will learn to describe inequalities using our knowledge of Linear Relations.
+  Today we will learn to describe inequalities using our knowledge of Linear Relations to further model interesting objects on graphs.
   #+END_CAUTION
 - ## Preparing for EQAO #.v-self-border
 	- Here is a question posed on an #EQAO practice test. What do you understand about it? What do not notice that is familiar? What do you notice that is not familiar?
