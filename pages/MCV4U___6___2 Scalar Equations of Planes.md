@@ -105,8 +105,11 @@
 				- logseq.order-list-type:: number
 				  $$\begin{matrix}\cancel{2} & -1 & 1 & 2 & -1 & \cancel{1}\\ 
 				  \cancel{2} & -2 & -4 & 2 & -2 & \cancel{-4}\end{matrix}$$
-				- $\begin{bmatrix}-1\left(-4\right)-\left(1\right)\left(-2\right)\\ 1\left(2\right)-\left(2\right)\left(-4\right)\\ 2\left(-2\right)-\left(-1\right)\left(2\right)\end{bmatrix}=\left\lbrack\right\rbrack$
+				- $\begin{bmatrix}-1\left(-4\right)-\left(1\right)\left(-2\right)\\ 1\left(2\right)-\left(2\right)\left(-4\right)\\ 2\left(-2\right)-\left(-1\right)\left(2\right)\end{bmatrix}=\begin{bmatrix}6\\ -6\\ -2\end{bmatrix}$
 				  logseq.order-list-type:: number
+				- We'll use $\vec{n}=(3,-3,-1)$
+				  logseq.order-list-type:: number
+				- logseq.order-list-type:: number
 - ## Consolidation
 	- What information is needed to create a scalar equation of a plane?
 	- What are the steps to use a vector equation of a plane to get the scalar equation?
