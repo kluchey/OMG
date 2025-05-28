@@ -47,12 +47,11 @@
 - ## Consolidation
 	- Which problems require **Algebra** to model and which can be modelled with **Number Sense** alone? Solve each problem first and then **categorize** each as needing Algebra or Number Sense.
 	  logseq.order-list-type:: number
-		- Solve this Riddle:  A number plus ten, minus eleven, plus four is equal to a quarter of its size
+		- Solve this Riddle:  A number plus ten, minus four, plus seven is equal to a quarter of its size less eleven.
 		  logseq.order-list-type:: number
 		- A quarter of all Canadians love Pineapple on Pizza. A tenth of the Pineapple lovers also love Grapes on Pizza. If there are 40.1 million Canadians, how many would eat Grapes and Pineapple on their Pizza?
 		  logseq.order-list-type:: number
-		- 3
-		  logseq.order-list-type:: number
+		- logseq.order-list-type:: number
 	- A lot of problems on the #EQAO test will require you to model a situation using **Algebra** or **Number Sense** and then solve or simplify.
 	  logseq.order-list-type:: number
 		- Describe what **Algebra** means in one sentence, using your own words.
