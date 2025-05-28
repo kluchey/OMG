@@ -103,6 +103,9 @@
 			- To get the scalar equation for our new plane, we need a normal vector for the plane, which can be found using the cross product.
 			  logseq.order-list-type:: number
 				- logseq.order-list-type:: number
+				  $$\begin{matrix}\cancel{2} & -1 & 1 & 2 & -1 & \cancel{1}\\ 
+				  \cancel{2} & -2 & -4 & 2 & -2 & \cancel{-4}\end{matrix}$$
+				- logseq.order-list-type:: number
 - ## Consolidation
 	- What information is needed to create a scalar equation of a plane?
 	- What are the steps to use a vector equation of a plane to get the scalar equation?
