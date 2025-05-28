@@ -50,7 +50,8 @@
 			- *Open this section to see the Solution.*
 			  collapsed:: true
 				- <iframe src = "https://www.desmos.com/calculator/f01d8fn3hi" style="height: 400px; width: 100%" ></iframe>
-	- <iframe width="560" height="420" src="https://www.youtube.com/embed/P_-c9D6mjGA?si=93BnTj_s2tu_Dwie" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+	- ### Watch this Video
+		- <iframe width="560" height="420" src="https://www.youtube.com/embed/P_-c9D6mjGA?si=93BnTj_s2tu_Dwie" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 		- But this still isn't the EQAO Question! What can we do with $2x-y\leq-2$ and the other answers?
 			- We can guess points. We can try points inside the region, on the line, and outside the region.
 				- ![image.png](../assets/image_1748372403293_0.png){:height 364, :width 382}
