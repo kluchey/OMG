@@ -12,9 +12,13 @@
 				  collapsed:: true
 					- *Answer* is $3x+5$ since the 5 more books is added after the tripling.
 			- Cal has double the number of books Braveen has.
+			  collapsed:: true
 				- If Braveen has $3x+5$ what is double?
+				  collapsed:: true
 					- $2(3x+5)$ or $(2)3x+5$?
-						- $2(3x+5)=6x+10$ because we need to double the entire amount of books.
+					  collapsed:: true
+						- *Answer.* $2(3x+5)=6x+10$ because we need to double the entire amount of books. The brackets $(\square)$ group Braveen's together into one number we need to calculate first.
+			-
 	- And here's a question from EQAO in 2024:
 		- ![image.png](../assets/image_1748394775799_0.png){:height 287, :width 278}
 - ## Action
