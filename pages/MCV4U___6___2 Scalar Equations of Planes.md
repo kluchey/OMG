@@ -135,4 +135,5 @@
 		  logseq.order-list-type:: number
 		- Find the coordinates of any three points on the plane.
 		  logseq.order-list-type:: number
-		- logseq.order-list-type:: number
+	- Find the scalar equation of the plane that passes through $(1,2,3)$ and has $
+	  logseq.order-list-type:: number
