@@ -52,7 +52,7 @@
 				- <iframe src = "https://www.desmos.com/calculator/f01d8fn3hi" style="height: 400px; width: 100%" ></iframe>
 	- ### Watch this Video
 		- <iframe width="560" height="420" src="https://www.youtube.com/embed/P_-c9D6mjGA?si=93BnTj_s2tu_Dwie" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-		- We can guess points. We can try points inside the region, on the line, and outside the region and guess them inside the first possible answer $2x-y\leq-2$
+		- We can guess points to eliminate answers to the EQAO problem. We can try points inside the region, on the line, and outside the region them inside the first possible answer $2x-y\leq-2$
 			- ![image.png](../assets/image_1748372403293_0.png){:height 364, :width 382}
 			- Find **two** points and answer the question:
 				- Find a point inside the region on this graph that makes $2x-y\leq-2$ `False`. This proves option A is not the answer to the EQAO problem.
