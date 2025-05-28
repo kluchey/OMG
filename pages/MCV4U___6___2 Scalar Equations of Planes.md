@@ -1,5 +1,5 @@
 - #+BEGIN_WARNING
-  In this lesson our **goal** is to describe a plane with a scalar equation, i.e. an equation without vectors. We will learn to use Desmos 3D to represent 
+  In this lesson our **goal** is to describe a plane with a scalar equation, i.e. an equation without vectors.
   #+END_WARNING
 - ## Recall #.v-self-border
 	- Given the scalar equation in 2D for a line, what is the normal vector?
@@ -15,6 +15,7 @@
 		- Where $\begin{bmatrix}A\\ B\\ C\end{bmatrix}$ is a normal vector to the plane depicted as $n$ in the diagram below where $S$ and $R$ are direction vectors in the plane.
 		- ![image.png](../assets/image_1748445121689_0.png)
 		- Note that our idea that a normal vector is perpendicular to the direction(s) still holds true. Our $n$ is perpendicular to **both** $S$ and $R$.
+		- Try using Desmos
 - ## Action #.v-self-border
 	- Examples
 	  logseq.order-list-type:: number
