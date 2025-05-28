@@ -1,1 +1,2 @@
-- #definiton A remainder in division is the amount that is leftover, after repeated subtracted,
+- #definiton A remainder in division is the amount that is leftover, after repeated subtracted, that still needs to be divided.
+- #eg $\frac73 = 2$ remainder $1$. After we subtract 3 from 4 as many times as possible $(2)$
