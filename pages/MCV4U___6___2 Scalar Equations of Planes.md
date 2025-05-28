@@ -37,8 +37,12 @@
 			  16 \\ -7 \\ 5
 			  \end{bmatrix}
 			  \end{align*}$$
-			- And we'll let $\vec{n}=\left\lbrack16\right\rbrack$
+			- And we'll let $\vec{n}=\begin{bmatrix}16\\ -7\\ 5\end{bmatrix}$
 			  logseq.order-list-type:: number
+			- Therefore the scalar equation is (so far):
+			  logseq.order-list-type:: number
+				- $16x-7y+5
+				  logseq.order-list-type:: number
 		- Show that the point represented by $t=4$ and $k=-3$ is in fact also on the scalar equation you found.
 		  logseq.order-list-type:: number
 	- Find the scalar equation of the plane that contains the points $(1,4,5)$ and $(3, 2, 1)$ and is perpendicular to $2x-y+z-10=0$.
