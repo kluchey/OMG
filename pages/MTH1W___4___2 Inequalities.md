@@ -24,7 +24,7 @@
 			- $3<3$
 			- $3\leq-3$
 			- $-3<3$
-	- When we introduce variables, we begin asking questions where the answers are `True` or `False` Here is an example, can you make up new questions to match the ==[[subsequent]]== inequalities?
+	- When we introduce variables, we begin asking questions where the answers are `True` or `False` Here is an example, **can you make up new questions to match** the ==[[subsequent]]== inequalities?
 		- #eg $x<3$ is like the question:
 			- "What numbers are less than 3?"
 			- The answer $x=2$ is `True` while $x=4$ would `False`.
@@ -32,7 +32,7 @@
 		- $y>10$ - The Question you make:  "What numbers are \_\_\_\_ than \_\_\_\_?"
 		- $n<-3$
 		- $k>-5$
-	- We can also match these questions to our number line. Here is an example, can you draw number lines for the rest?
+	- We can also match these questions to our number line. Here is an example, **can you draw number lines for the rest?**
 		- #eg An open circle means it does not equal 2. So $x>2$ has this picture:
 		  ![image.png](../assets/image_1748373147068_0.png)
 		- $y\geq10$
@@ -40,10 +40,10 @@
 		- $k\geq-5$
 		- Can you work backwards from the number line to write the inequality?
 			- ![image.png](../assets/image_1748374109210_0.png)
-- ## Lesson #.v-self-border
+- ## Lesson #.v-self-border-children
 	- We want to learn about these types of inequalities:
 		- $y>2x+3$
-		- **Strategy:** Graph the line $y=2x+3$.
+		- **Strategy:** Graph the line $y=2x+3$ using []
 		  collapsed:: true
 			- <iframe src = "https://www.desmos.com/calculator/4brddn7vio" style="height: 400px; width: 100%" ></iframe>
 		- We can ask the question, like in the warm up, "What are the y-values greater than the line $2x+3$? Can you identify the ==[[region]]== of the graph this question is creating?
