@@ -3,7 +3,7 @@
   #+END_WARNING
 - ## Warm Up
 	- Let's translate some English into Algebra, here's an example:
-		- There are five more than
+		-
 - ## Action
 	- This is a question from #EQAO in 2023:
 		- ![image.png](../assets/image_1748393501044_0.png){:height 250, :width 285}
