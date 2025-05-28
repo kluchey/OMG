@@ -25,18 +25,20 @@
 			  logseq.order-list-type:: number
 			- logseq.order-list-type:: number
 			  $$\begin{matrix}\cancel{-2} & 4 & 6 & -2 & 4 & \cancel{6}\\ \cancel{1} & 3 & -4 & 1 & 3 & \cancel{-4}\end{matrix}$$
-			- So let 
+			- So then
 			  logseq.order-list-type:: number
-			  $$\begin{align*}\vec{n} &=\begin{bmatrix}
+			  $$\begin{align*}&=\begin{bmatrix}
 			  4\left(-4\right)-3\left(6\right)\\ 6\left(1\right)-\left(-2\right)\left(-4\right)\\ -2\left(3\right)-4\left(1\right)
 			  \end{bmatrix} \\
 			  &= \begin{bmatrix}
 			  -32 \\ 14 \\ -10
 			  \end{bmatrix} \\
-			  &= \begin{bmatrix}
-			  -32 \\ 14 \\ -10
+			  &= -\frac12 \begin{bmatrix}
+			  16 \\ -7 \\ 5
 			  \end{bmatrix}
 			  \end{align*}$$
+			- And we'll let $\vec{n}=\left\lbrack16\right\rbrack$
+			  logseq.order-list-type:: number
 		- Show that the point represented by $t=4$ and $k=-3$ is in fact also on the scalar equation you found.
 		  logseq.order-list-type:: number
 	- Find the scalar equation of the plane that contains the points $(1,4,5)$ and $(3, 2, 1)$ and is perpendicular to $2x-y+z-10=0$.
