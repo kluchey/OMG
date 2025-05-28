@@ -65,5 +65,7 @@
 	  logseq.order-list-type:: number
 		- A rectangular room has an Area of $120\text{m}^2$. The length of the room is three times the width. What are the dimensions (length and width) of the room?
 		  logseq.order-list-type:: number
-		- Donuts c
+	- Additional Practice:
+	  logseq.order-list-type:: number
+		- A bakery has price $5 per donut and $6 per c cost $6 each.
 		  logseq.order-list-type:: number
