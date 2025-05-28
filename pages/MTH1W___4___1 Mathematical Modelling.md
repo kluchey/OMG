@@ -47,9 +47,8 @@
 - ## Consolidation
 	- Which problems require **Algebra** to model and which can be modelled with **Number Sense** alone?
 	  logseq.order-list-type:: number
-		- A quarter of all Canadians love Pineapple on Pizza. A tenth of the Pineapple lovers also love Grapes on Pizza. If there are 40 million Canadians, how many
-		  logseq.order-list-type:: number
-		- 2
+		- logseq.order-list-type:: number
+		- A quarter of all Canadians love Pineapple on Pizza. A tenth of the Pineapple lovers also love Grapes on Pizza. If there are 40.1 million Canadians, how many would eat Grapes and Pineapple on their Pizza?
 		  logseq.order-list-type:: number
 		- 3
 		  logseq.order-list-type:: number
