@@ -76,6 +76,10 @@
 					  \end{align*}$$
 					- Checking $(-10,9,39)$ on $16x-7y+5-17=0$
 					  logseq.order-list-type:: number
+						- logseq.order-list-type:: number
+						  $$\begin{align*}
+						  
+						  \end{align*}$$
 	- Find the scalar equation of the plane that contains the points $(1,4,5)$ and $(3, 2, 1)$ and is perpendicular to $2x-y+z-10=0$.
 	  logseq.order-list-type:: number
 - ## Consolidation
