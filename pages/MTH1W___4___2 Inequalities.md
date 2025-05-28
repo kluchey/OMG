@@ -61,8 +61,10 @@
 				  logseq.order-list-type:: number
 				- Why do we need to check a few points in each inequality option to solve this EQAO question?
 				  logseq.order-list-type:: number
-	- **Exit Ticket:****
+	- ***Exit Ticket:***
 		- Draw the region of the graph defined by $y<4x-5$.
 		- Determine **two** points, one inside the region of the graph defined by $-4x-2y>6$ and one outside of the region.
 - ## Practice #.v-self-border
-	-
+	- For each inequality, is the region *above the line* or *below the line* shaded? Check your answers using
+	  logseq.order-list-type:: number
+		- logseq.order-list-type:: number
