@@ -126,4 +126,13 @@
 	- Add this information to your toolbox:
 		- Scalar Equation of a Plane:  $Ax+By+Cz+D=0$
 		- $(A,B,C)$ is a ==[[normal]]== vector to the plane.
--
+- ## Practice
+	- For the plane $x-7y-18z=0$:
+	  logseq.order-list-type:: number
+		- What is the normal vector?
+		  logseq.order-list-type:: number
+		- Does this plane pass through the origin?
+		  logseq.order-list-type:: number
+		- Find the coordinates of any three points on the plane.
+		  logseq.order-list-type:: number
+		- logseq.order-list-type:: number
