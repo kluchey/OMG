@@ -4,4 +4,5 @@
 - ## Recall
 	- Given the scalar equation in 2D for a line, what is the normal vector?
 		- Use $Ax+By+C=0$ or, #eg $3x-5y-1=0$.
-	-
+			- **Recall:**
+				- A normal is a vector who is perpendicular to the direction of the line.
