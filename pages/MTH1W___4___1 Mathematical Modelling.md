@@ -59,4 +59,9 @@
 		  logseq.order-list-type:: number
 		- Describe what **Number Sense** means, in one sentence, using your own words.
 		  logseq.order-list-type:: number
-		- logseq.order-list-type:: number
+		- What is the difference between Algebra and Number Sense? How are they related to each other?
+		  logseq.order-list-type:: number
+	- Exit Ticket:
+	  logseq.order-list-type:: number
+		- There are
+		  logseq.order-list-type:: number
