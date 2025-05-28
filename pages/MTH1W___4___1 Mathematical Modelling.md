@@ -89,3 +89,5 @@
 			  logseq.order-list-type:: number
 			- Water:  The same amount as Flour.
 			  logseq.order-list-type:: number
+			- Salt:  Double
+			  logseq.order-list-type:: number
