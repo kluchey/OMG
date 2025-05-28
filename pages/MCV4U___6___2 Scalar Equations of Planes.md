@@ -21,7 +21,7 @@
 		- Find the scalar equation of the plane, $t,k\in\R$:
 		  logseq.order-list-type:: number
 		  $$\begin{bmatrix}x\\ y\\ z\end{bmatrix}=\begin{bmatrix}1\\ 2\\ 3\end{bmatrix}+t\begin{bmatrix}-2\\ 4\\ 6\end{bmatrix}+k\begin{bmatrix}1\\ 3\\ -4\end{bmatrix}$$
-			- We need a vector perpendicular to both direction vectors. We need the ****
+			- We need a vector perpendicular to both direction vectors. We need the **cross product**!
 			  logseq.order-list-type:: number
 		- Show that the point represented by $t=4$ and $k=-3$ is in fact also on the scalar equation you found.
 		  logseq.order-list-type:: number
