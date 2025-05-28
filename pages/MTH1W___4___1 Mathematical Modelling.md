@@ -44,10 +44,10 @@
 	- **Compare:**  What do all of these problems have in common?
 	- **Contrast:**  What is different about each of these problems?
 	- **Strategize:**  How will you approach a problem like this on EQAO? How will you know you received a similar problem?
-- ## Consolidation
-	- Which problems require **Algebra** to model and which can be modelled with **Number Sense** alone? Solve each problem first and then **categorize** each as needing Algebra or Number Sense.
+- ## Consolidation #.v-self-border
+	- Which problems require **Algebra** to model and which can be modelled with **Number Sense** alone? Solve each problem first and then **categorize** each as needing Algebra or Number Sense. #.v-border-children
 	  logseq.order-list-type:: number
-		- To estimate the population of elephants in Kenya, aerial photographs are recorded. It is well known in Kenya that *Maasai Mara* National Reserve hosts approximately three times the population of elephants than *Samburu* National Reserve hosts. If a photograph is taken in each National Reserve and a total of 388 elephants are counted in
+		- To estimate the population of elephants in Kenya, aerial photographs are recorded. It is well known in Kenya that *Maasai Mara* National Reserve hosts approximately three times the population of elephants than *Samburu* National Reserve hosts. If a photograph is taken in each National Reserve and a total of 388 elephants are counted across both photos, how many elephants are in each photo?
 		  logseq.order-list-type:: number
 		- A quarter of all Canadians love Pineapple on Pizza. A tenth of the Pineapple lovers also love Grapes on Pizza. If there are 40.1 million Canadians, how many would eat Grapes and Pineapple on their Pizza?
 		  logseq.order-list-type:: number
@@ -61,7 +61,7 @@
 		  logseq.order-list-type:: number
 		- What is the difference between Algebra and Number Sense? How are they related to each other?
 		  logseq.order-list-type:: number
-	- Exit Ticket:
+	- Exit Ticket: #.v-border-children
 	  logseq.order-list-type:: number
 		- A rectangular room has an Area of $120\text{m}^2$. The length of the room is three times the width. What are the dimensions (length and width) of the room?
 		  logseq.order-list-type:: number
