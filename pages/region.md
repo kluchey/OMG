@@ -1,2 +1,3 @@
 - #definiton A region is an #Area of a graph plotted as points inside or on one side of a border. The border is usually a shape's edge, a line, or a curve.
-- #eg $y>2x+3$ defines a region of "All y-values larger than the line "$3x+4$"'s y-values.
+- #eg $y>2x+3$ defines a region of "All y-values larger than the line $3x+4$'s y-values". So we are looking for the points above the line $y=2x+3$ and n
+	- <iframe src = "https://www.desmos.com/calculator/f01d8fn3hi" style="height: 400px; width: 100%" ></iframe>
