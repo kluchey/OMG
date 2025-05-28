@@ -30,7 +30,7 @@
 	- Complete this next one on your own.
 		- Cooper has a weirdly large number of tooth brushes.
 		  
-		  Finn has
+		  If we add 5 more to Cooper's amount and then double it, we get Finn's significantly larger collection of tooth brushes.
 	- And here's a question from EQAO in 2024:
 		- ![image.png](../assets/image_1748394775799_0.png){:height 287, :width 278}
 - ## Action
