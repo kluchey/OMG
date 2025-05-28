@@ -31,7 +31,7 @@
 		- Cooper has a weirdly large number of tooth brushes.
 			- If we add 5 more to Cooper's amount and then double it, we get the size of Finn's significantly larger collection of tooth brushes.
 				- Even more impressive is Lucas's collection which is ten times larger minus one tooth brush, which he recently lost in a freak tooth whitening incident.
-		- If together, Cooper, Finn, and Lucas have How many tooth brushes does Cooper have?
+		- If together, Cooper, Finn, and Lucas have  How many tooth brushes does Cooper have?
 	- And here's a question from EQAO in 2024:
 		- ![image.png](../assets/image_1748394775799_0.png){:height 287, :width 278}
 - ## Action
