@@ -24,7 +24,7 @@
 			- $3<3$
 			- $3\leq-3$
 			- $-3<3$
-	- When we introduce variables, we begin asking questions where the answers are `True` or `False` Here is an example, **can you make up new questions to match** the ==[[subsequent]]== inequalities?
+	- When we introduce variables, we begin asking questions where the answers are `True` or `False` Here is an example, **can you make up new questions to match** the ==[[subsequent]]== inequalities? #.v-border-children
 		- #eg $x<3$ is like the question:
 			- "What numbers are less than 3?"
 			- The answer $x=2$ is `True` while $x=4$ would `False`.
@@ -32,7 +32,7 @@
 		- $y>10$ - The Question you make:  "What numbers are \_\_\_\_ than \_\_\_\_?"
 		- $n<-3$
 		- $k>-5$
-	- We can also match these questions to our number line. Here is an example, **can you draw number lines for the rest?**
+	- We can also match these questions to our number line. Here is an example, **can you draw number lines for the rest?** #.v-border-children
 		- #eg An open circle means it does not equal 2. So $x>2$ has this picture:
 		  ![image.png](../assets/image_1748373147068_0.png)
 		- $y\geq10$
