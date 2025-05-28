@@ -4,7 +4,7 @@
 - ## Warm Up
 	- Let's think about how to translate some English into Algebra, here's an example:
 	- And here's a question from EQAO in 2024:
-		- ![image.png](../assets/image_1748394775799_0.png){:height 342, :width 342}
+		- ![image.png](../assets/image_1748394775799_0.png){:height 287, :width 278}
 - ## Action
 	- This is a question from #EQAO in 2023:
 		- ![image.png](../assets/image_1748393501044_0.png){:height 250, :width 285}
