@@ -28,6 +28,7 @@
 		- #eg $x<3$ is like the question:
 		  "What numbers are less than 3"?
 		  The answer $x=2$ is `True` while $x=4$ would `False`.
+		  We can substitute to check:  $2<3$ is `True` and $4<2$ is `False`
 		- $y>10$
 		- $n<-3$
 		- $k>-5$
