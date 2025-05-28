@@ -45,6 +45,6 @@
 	- **Contrast:**  What is different about each of these problems?
 	- **Strategize:**  How will you approach a problem like this on EQAO? How will you know you received a similar problem?
 - ## Consolidation
-	- Which problems require **Algebra** to solve?
+	- Which problems require **Algebra** to solve and which can be done with number sense alone?
 	  logseq.order-list-type:: number
 		- logseq.order-list-type:: number
