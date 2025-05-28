@@ -37,7 +37,10 @@
 - ## Action
 	- This is a question from #EQAO in 2023:
 		- ![image.png](../assets/image_1748393501044_0.png){:height 250, :width 285}
-	- ![image.png](../assets/image_1748394726186_0.png)
+	- And here's a question from EQAO in 2024:
+		- ![image.png](../assets/image_1748394775799_0.png){:height 287, :width 278}
+		- Here's a question from the practice test:
+			- ![image.png](../assets/image_1748394726186_0.png){:height 350, :width 272}
 	-
 - ## Consolidation
 -
