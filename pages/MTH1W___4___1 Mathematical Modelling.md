@@ -67,5 +67,5 @@
 		  logseq.order-list-type:: number
 	- Additional Practice:
 	  logseq.order-list-type:: number
-		- A bakery has price $5 per donut and $6 per c cost $6 each.
+		- A bakery has price $5 per donut and $6 per cupcake. In total, they sell $500 worth of donuts and cupcakes in one day. This sentence can be modelled by the Algebra:  $$$$
 		  logseq.order-list-type:: number
