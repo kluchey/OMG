@@ -43,6 +43,8 @@
 		- ![image.png](../assets/image_1748394726186_0.png){:height 350, :width 272}
 	- **Compare:**  What do all of these problems have in common?
 	- **Contrast:**  What is different about each of these problems?
-	- **Strategize:**  How will you do if you receive one of these problems
+	- **Strategize:**  How will you approach a problem like this on EQAO? How will you know you received a similar problem?
 - ## Consolidation
--
+	- Which problems require **Algebra** to solve?
+	  logseq.order-list-type:: number
+		- logseq.order-list-type:: number
