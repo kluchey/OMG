@@ -88,7 +88,9 @@
 	  logseq.order-list-type:: number
 		- **Strategy:**
 		  logseq.order-list-type:: number
-			- Unlike in 2D, for vectors in 3D we need two to find a third ==[[perpendicular]]==.
+			- Unlike in 2D, for vectors in 3D we need two vectors to find a ==[[perpendicular]]== third vector by using the cross product. Where do our two vectors come from in this problem?
+			  logseq.order-list-type:: number
+			- One is the
 			  logseq.order-list-type:: number
 - ## Consolidation
 	- What information is needed to create a scalar equation of a plane?
