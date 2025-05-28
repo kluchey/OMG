@@ -19,7 +19,10 @@
 					  collapsed:: true
 						- *Answer.* $2(3x+5)=6x+10$ because we need to double the entire amount of books. The brackets $(\square)$ group Braveen's together into one number we need to calculate first.
 			- In total they have 245 books:
-				- Nancy + Braveen + Cal
+				- Nancy + Braveen + Cal = 245
+					- $x + (3x+5) + 2(3x+5) = 245$
+					  now solve for x.
+						- *Answer.*
 	- And here's a question from EQAO in 2024:
 		- ![image.png](../assets/image_1748394775799_0.png){:height 287, :width 278}
 - ## Action
