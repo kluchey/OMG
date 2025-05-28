@@ -4,7 +4,8 @@
 - ## Warm Up
 	- Let's think about how to translate some English into Algebra, here's an example from EQAO:
 		- ![image.png](../assets/image_1748396924758_0.png){:height 294, :width 343}
-		-
+		- *Solution.*
+			- By giving Nancy $x$ books, we can discuss Nancy's amount without knowing the number. Let's analyze the next se
 	- And here's a question from EQAO in 2024:
 		- ![image.png](../assets/image_1748394775799_0.png){:height 287, :width 278}
 - ## Action
