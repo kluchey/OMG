@@ -59,10 +59,10 @@
 				  logseq.order-list-type:: number
 				- Find a point inside the region on this graph that makes $2x-y\leq-2$ `True`. Does this prove that option A is the correct answer to the EQAO problem?
 				  logseq.order-list-type:: number
-				- Why do we need to check a few points to solve this EQAO question?
+				- Why do we need to check a few points in each inequality option to solve this EQAO question?
 				  logseq.order-list-type:: number
 	- Exit Ticket:
 		- Draw the region of the graph defined by $y<4x-5$.
-		- Draw the region of the graph defined by $-4x-2y>6$.
+		- Determine **two** points, one inside the region of the graph defined by $-4x-2y>6$ and one outside of the region.
 - ## Practice #.v-self-border
 	-
