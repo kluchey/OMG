@@ -75,5 +75,6 @@
 		  logseq.order-list-type:: number
 		- $\frac15 x-2 > y$
 		  logseq.order-list-type:: number
-	- Are the graphs of $y>3x+4$ and $3x+4>y$ the same?
+	- Are the graphs of $y>3x+4$ and $3x+4>y$ the same? How can you know from the inequalities before you use Desmos?
 	  logseq.order-list-type:: number
+	- logseq.order-list-type:: number
