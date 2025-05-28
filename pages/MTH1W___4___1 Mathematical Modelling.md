@@ -28,7 +28,9 @@
 					  now solve for x.
 						- *Answer.* $x=23$
 	- Complete this next one on your own.
-		-
+		- Cooper has a weirdly large number of tooth brushes.
+		  
+		  Finn has
 	- And here's a question from EQAO in 2024:
 		- ![image.png](../assets/image_1748394775799_0.png){:height 287, :width 278}
 - ## Action
