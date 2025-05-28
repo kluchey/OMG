@@ -125,3 +125,5 @@
 	- What are the steps to use a vector equation of a plane to get the scalar equation?
 	- Add this information to your toolbox:
 		- Scalar Equation of a Plane:  $Ax+By+Cz+D=0$
+		- $(A,B,C)$ is a ==[[normal]]== vector to the plane.
+-
