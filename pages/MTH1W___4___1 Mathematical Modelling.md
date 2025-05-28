@@ -45,7 +45,7 @@
 	- **Contrast:**  What is different about each of these problems?
 	- **Strategize:**  How will you approach a problem like this on EQAO? How will you know you received a similar problem?
 - ## Consolidation
-	- Which problems require **Algebra** to solve and which can be done with number sense alone?
+	- Which problems require **Algebra** to solve and which can be done with **Number Sense** alone?
 	  logseq.order-list-type:: number
 		- 1
 		  logseq.order-list-type:: number
@@ -53,5 +53,10 @@
 		  logseq.order-list-type:: number
 		- 3
 		  logseq.order-list-type:: number
-	- A lot of problems on the #EQAO test will require **Algebra** or Number Sense to solve.
+	- A lot of problems on the #EQAO test will require **Algebra** or **Number Sense** to solve.
 	  logseq.order-list-type:: number
+		- Describe what **Algebra** means in one sentence, using your own words.
+		  logseq.order-list-type:: number
+		- Describe what **Number Sense** means, in one sentence, using your own words.
+		  logseq.order-list-type:: number
+		- logseq.order-list-type:: number
