@@ -37,11 +37,8 @@ icon:: 🍎
 		- [[MHF4U]] Advanced Functions
 		- [[MCV4U]] Calculus & Vectors 🚩
 		  id:: 6831285a-246d-4fd3-9bda-e83ab153c99b
-			- [5-Re Review Part 1]([[MCV4U/5/Re]])
-			- [5-Ree Examples]([[MCV4U/5/Ree]])
-			- [[MCV4U/5/Reee]]
 			- [6-1 Planes🛫]([[MCV4U/6/1 Vectors to Represent Planes]])
-			- [6-2 Scalar Planes]
+			- [6-2 Scalar Planes]([[MCV4U/6/2 Scalar Equations of Planes]])
 		- [[MDM4U]] Data Management
 		- [[MCT4C]] Math for College Tech
 		- [[MAP4C]] Foundations for College Math 12
