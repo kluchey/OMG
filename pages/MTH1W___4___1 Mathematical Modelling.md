@@ -47,7 +47,7 @@
 - ## Consolidation
 	- Which problems require **Algebra** to model and which can be modelled with **Number Sense** alone? Solve each problem first and then **categorize** each as needing Algebra or Number Sense.
 	  logseq.order-list-type:: number
-		- A number plus ten, minus eleven plus four is
+		- Solve this Riddle:  A number plus ten, minus eleven, plus four is equal to a quarter of its size
 		  logseq.order-list-type:: number
 		- A quarter of all Canadians love Pineapple on Pizza. A tenth of the Pineapple lovers also love Grapes on Pizza. If there are 40.1 million Canadians, how many would eat Grapes and Pineapple on their Pizza?
 		  logseq.order-list-type:: number
