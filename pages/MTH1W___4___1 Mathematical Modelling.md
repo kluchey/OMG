@@ -81,8 +81,9 @@
 			  logseq.order-list-type:: number
 			- Why would a bakery want to model sales using an algebra?
 			  logseq.order-list-type:: number
-		- A very old recipe, and a family favourite, for Pizza Dough has a number worn out but luckily all other measures are based on the missing number. Can you figure out how much yeast is used?
+		- You are trying to recreate a very old family favourite recipe for Pizza Dough has a number worn out but luckily all other measures are based on the missing number. Can you figure out how much yeast is used?
 		  logseq.order-list-type:: number
 			- *missing* grams of Yeast.
 			  logseq.order-list-type:: number
-			- logseq.order-list-type:: number
+			- Flour:  Forty times the amount of Teast.
+			  logseq.order-list-type:: number
