@@ -5,7 +5,10 @@
 	- Let's think about how to translate some English into Algebra, here's an example from EQAO:
 		- ![image.png](../assets/image_1748396924758_0.png){:height 294, :width 343}
 		- *Solution.*
-			- By giving Nancy $x$ books, we can discuss Nancy's amount without knowing the number. Let's analyze the next se
+			- By giving Nancy $x$ books, we can discuss Nancy's amount without knowing the number. Let's analyze the next sentences:
+			- Braveen has triple the number of books Nancy has, plus 5 more books.
+				- $3x+4$ or $3(x+5)$?
+					- $
 	- And here's a question from EQAO in 2024:
 		- ![image.png](../assets/image_1748394775799_0.png){:height 287, :width 278}
 - ## Action
