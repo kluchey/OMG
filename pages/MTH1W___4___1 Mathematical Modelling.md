@@ -65,7 +65,7 @@
 	  logseq.order-list-type:: number
 		- A rectangular room has an Area of $120\text{m}^2$. The length of the room is three times the width. What are the dimensions (length and width) of the room?
 		  logseq.order-list-type:: number
-	- Additional Practice:
+	- Practice:
 	  logseq.order-list-type:: number
 		- A bakery has prices $5 per donut and $6 per cupcake. In total, they sell $500 worth of donuts and cupcakes in one day. This situation can be modelled by the Algebra:  $5d+6c=500$.
 		  logseq.order-list-type:: number
@@ -79,7 +79,7 @@
 			  logseq.order-list-type:: number
 			- If on this day the bakery sold 40 donuts, how many cupcakes were sold? *Solve an equation to answer this problem.*
 			  logseq.order-list-type:: number
-			- **Challenge:** Ignore the last part. Instead, what if the bakery knew it sold a combined total of 90 baked goods (cupcakes and donuts combined). Can you make a new equation to model this situation? Can you use your two equations to figure out, specifically, how many donuts and
+			- **Challenge:** Ignore the last part. Instead, what if the bakery knew it sold a combined total of 90 baked goods (cupcakes and donuts combined). Can you make a new equation to model this situation? Can you use your two equations to figure out, specifically, how many donuts and cupcakes were sold?
 			  logseq.order-list-type:: number
 			- Why would a bakery want to model sales using an algebra?
 			  logseq.order-list-type:: number
