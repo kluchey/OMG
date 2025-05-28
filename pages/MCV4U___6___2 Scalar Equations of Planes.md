@@ -10,4 +10,5 @@
 				- Given $Ax+By+C=0$ we can get the normal vector by reading off $A$ and $B$. I.e. the normal vector is $\begin{bmatrix}A\\ B\end{bmatrix}$.
 				- In the example above, a normal vector is $\begin{bmatrix}3\\ -5\end{bmatrix}$
 - ## Lesson
-	-
+	- The scalar equation of a plane is similar to the one for a line, but has an extra parameter:
+		-
