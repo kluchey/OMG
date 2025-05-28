@@ -54,7 +54,9 @@
 		- <iframe width="560" height="420" src="https://www.youtube.com/embed/P_-c9D6mjGA?si=93BnTj_s2tu_Dwie" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 		- We can guess points. We can try points inside the region, on the line, and outside the region and guess them inside the first possible answer $2x-y\leq -2$
 			- ![image.png](../assets/image_1748372403293_0.png){:height 364, :width 382}
-			-
+			- Find **three** points:
+				- Find a point inside the region on this graph that makes
+				  logseq.order-list-type:: number
 	- Exit Ticket:
 		- Draw the region of the graph defined by $y<4x-5$.
 		- Draw the region of the graph defined by $-4x-2y>6$.
