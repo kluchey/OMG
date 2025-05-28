@@ -20,4 +20,4 @@
 	  logseq.order-list-type:: number
 		- Find the scalar equation of the plane
 		  logseq.order-list-type:: number
-		  $$$$
+		  $$\begin{bmatrix}x\\ y\\ z\end{bmatrix}=\begin{bmatrix}1\\ 2\\ 3\end{bmatrix}+t\left\lbrack\right\rbrack$$
