@@ -39,7 +39,7 @@
 		- $n<-3$
 		- $k\geq-5$
 		- Can you work backwards from the number line to write the inequality?
-			- ![image.png](../assets/image_1748374109210_0.png){:height 415, :width 551}
+			- ![image.png](../assets/image_1748374109210_0.png){:height 396, :width 502}
 - ## Lesson #.v-self-border-children
 	- We want to learn about these types of inequalities:
 		- $y>2x+3$
