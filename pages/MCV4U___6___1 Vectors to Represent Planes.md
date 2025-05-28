@@ -9,10 +9,7 @@
 			- We use the ==[[cross product]]==: $\vec{u}\times \vec{v}$.
 			  logseq.order-list-type:: number
 			- logseq.order-list-type:: number
-			  $$\begin{matrix}
-			  \cancel{-5} & 1 & -5 & -5 & 1 & \cancel{-5} \\
-			  \cancel{1} & 3 & 11 & 1 & 3 & \cancel{11}
-			  \end{matrix}$$
+			  $$\begin{matrix}\cancel{-5} & 1 & -5 & -5 & 1 & \cancel{-5}\\ \cancel{1} & 3 & 11 & 1 & 3 & \cancel{11}\end{matrix}$$
 			- Then a perpendicular vector would be:
 			  logseq.order-list-type:: number
 			- logseq.order-list-type:: number
