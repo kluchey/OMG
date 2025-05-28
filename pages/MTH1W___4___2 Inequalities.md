@@ -80,6 +80,11 @@
 	- Which inequality graphs this region?
 	  logseq.order-list-type:: number
 	  ![image.png](../assets/image_1748459566679_0.png){:height 405, :width 391}
-		- logseq.order-list-type:: number
-		- $y<2x-1$
+		- $y>2x-1$
+		  logseq.order-list-type:: number
+		- $y+1<2x$
+		  logseq.order-list-type:: number
+		- $y+1>2x$
+		  logseq.order-list-type:: number
+		- $1>2x-y$
 		  logseq.order-list-type:: number
