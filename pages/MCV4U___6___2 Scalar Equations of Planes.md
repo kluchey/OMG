@@ -65,7 +65,7 @@
 			  logseq.order-list-type:: number
 				- Get the point defined by $t=4$ and $k=-3$.
 				  logseq.order-list-type:: number
-				- logseq.order-list-type:: number
+					- logseq.order-list-type:: number
 	- Find the scalar equation of the plane that contains the points $(1,4,5)$ and $(3, 2, 1)$ and is perpendicular to $2x-y+z-10=0$.
 	  logseq.order-list-type:: number
 - ## Consolidation
