@@ -139,5 +139,7 @@
 	  logseq.order-list-type:: number
 	- Find the scalar equation of the plane containing the points $A(-2,3,1)$, $B(3,4,5)$, and $C(1,1,0)$.
 	  logseq.order-list-type:: number
-	- The line $(x,y,z) = (2,0,1)+t(-4,5,5)
+	- The line $(x,y,z) = (2,0,1)+t(-4,5,5)$ for $t\in\R$ lies on a plane that contains the point $(1,3,0)$. Find the scalar equation of this plane.
+	  logseq.order-list-type:: number
+	- Determine the scalar equation of the plane passing through
 	  logseq.order-list-type:: number
