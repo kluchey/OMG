@@ -14,4 +14,10 @@
 		- $$Ax+By+Cz+D=0$$
 		- Where $\begin{bmatrix}A\\ B\\ C\end{bmatrix}$ is a normal vector to the plane depicted as $n$ in the diagram below where $S$ and $R$ are direction vectors in the plane.
 		- ![image.png](../assets/image_1748445121689_0.png)
-		- Note that our idea that a normal vector is perpendicular to the direction(s) still holds true. Our $n$ is perpendicular to **both** $S$ and $R$ wh
+		- Note that our idea that a normal vector is perpendicular to the direction(s) still holds true. Our $n$ is perpendicular to **both** $S$ and $R$.
+- ## Action
+	- Examples
+	  logseq.order-list-type:: number
+		- Find the scalar equation of the plane
+		  logseq.order-list-type:: number
+		  $$$$
