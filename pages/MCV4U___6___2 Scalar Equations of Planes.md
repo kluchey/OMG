@@ -51,10 +51,10 @@
 					- $17(1)+1(2)+5(3)=-D$
 					  logseq.order-list-type:: number
 					- logseq.order-list-type:: number
-					  $$\begin{align*}17+15 &= -D \\ 17+1 &= \\ 18 &=-D\end{align*}$$
-					- Therefore, $D=-18$
+					  $$\begin{align*}17+2 +15&= -D \\ 17+17 &= \\ 34 &=-D\end{align*}$$
+					- Therefore, $D=-34$
 					  logseq.order-list-type:: number
-				- Therefore, the scalar equation is $16x-7y+5z-18=0$
+				- Therefore, the scalar equation is $17x+y+5z-18=0$
 				  logseq.order-list-type:: number
 		- Show that the point represented by $t=4$ and $k=-3$ is in fact also on the scalar equation you found.
 		  logseq.order-list-type:: number
