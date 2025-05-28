@@ -41,6 +41,8 @@
 		- ![image.png](../assets/image_1748393501044_0.png){:height 250, :width 285}
 	- Here's a question from the #EQAO practice test:
 		- ![image.png](../assets/image_1748394726186_0.png){:height 350, :width 272}
-	-
+	- **Compare:**  What do all of these problems have in common?
+	- **Contrast:**  What is different about each of these problems?
+	- **Strategize:**  How will you do if you receive one of these problems
 - ## Consolidation
 -
