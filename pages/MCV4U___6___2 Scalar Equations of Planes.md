@@ -31,7 +31,7 @@
 			  4\left(-4\right)-3\left(6\right)\\ 6\left(1\right)-\left(-2\right)\left(-4\right)\\ -2\left(3\right)-4\left(1\right)
 			  \end{bmatrix}
 			  &= \begin{bmatrix}
-			  
+			  \\ \\
 			  \end{bmatrix}
 			  \end{align*}$$
 		- Show that the point represented by $t=4$ and $k=-3$ is in fact also on the scalar equation you found.
