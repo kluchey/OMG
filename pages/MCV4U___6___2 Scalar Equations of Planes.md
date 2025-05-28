@@ -56,7 +56,7 @@
 					  $$\begin{align*}16-14+15 &= -D \\ 16+1 &= \\ 17 &=-D\end{align*}$$
 					- Therefore, $D=-17$
 					  logseq.order-list-type:: number
-				- Therefore, the scalar equation is $16x-7y+5-17=0$
+				- Therefore, the scalar equation is $16x-7y+5z-17=0$
 				  logseq.order-list-type:: number
 		- Show that the point represented by $t=4$ and $k=-3$ is in fact also on the scalar equation you found.
 		  logseq.order-list-type:: number
@@ -74,11 +74,11 @@
 					  -10 \\  9 \\ 39
 					  \end{bmatrix}
 					  \end{align*}$$
-					- Checking $(-10,9,39)$ on $16x-7y+5-17=0$
+					- Checking $(-10,9,39)$ on $16x-7y+5z-17=0$
 					  logseq.order-list-type:: number
 						- logseq.order-list-type:: number
 						  $$\begin{align*}
-						  
+						  16(-10) - 7(9) + 5(39)
 						  \end{align*}$$
 	- Find the scalar equation of the plane that contains the points $(1,4,5)$ and $(3, 2, 1)$ and is perpendicular to $2x-y+z-10=0$.
 	  logseq.order-list-type:: number
