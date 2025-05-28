@@ -2,4 +2,4 @@
 - Usually, this question can be answered `True` or `False` but sometimes we need to figure out what values will make it `T` or `F`.
 - #eg Is $3>4$? `False`
 - #eg What numbers make $x>3$ `True`? Well... the answer is all numbers bigger than 3 make this inequality true.
--
+- #eg What numbers make $x+1>4$ `True`? The answer is all numbers bigger than 3. Can you see why?
