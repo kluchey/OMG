@@ -91,5 +91,5 @@
 			  logseq.order-list-type:: number
 			- Salt:  Quadruple the amount of Yeast less 1 gram.
 			  logseq.order-list-type:: number
-			- In total, weigh your mixture,
+			- In total, weigh your mixture, it should be 494 grams.
 			  logseq.order-list-type:: number
