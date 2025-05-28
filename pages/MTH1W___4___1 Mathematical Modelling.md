@@ -81,5 +81,6 @@
 			  logseq.order-list-type:: number
 			- Why would a bakery want to model sales using an algebra?
 			  logseq.order-list-type:: number
-		- A very old recipe but  for Pizza Dough has a number worn out but luckily all other
+		- A very old recipe, and a family favourite, for Pizza Dough has a number worn out but luckily all other measures are based on the missing number. Can you figure out how much yeast is used?
 		  logseq.order-list-type:: number
+			- logseq.order-list-type:: number
