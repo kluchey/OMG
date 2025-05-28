@@ -5,6 +5,9 @@
 	- Given the scalar equation in 2D for a line, what is the normal vector?
 		- Use $Ax+By+C=0$ or, #eg $3x-5y-1=0$.
 			- **Recall:**
+			  collapsed:: true
 				- A normal is a vector that is perpendicular to the direction of the line.
 				- Given $Ax+By+C=0$ we can get the normal vector by reading off $A$ and $B$. I.e. the normal vector is $\begin{bmatrix}A\\ B\end{bmatrix}$.
-				- In the example
+				- In the example above, a normal vector is $\begin{bmatrix}3\\ -5\end{bmatrix}$
+- ## Lesson
+	-
