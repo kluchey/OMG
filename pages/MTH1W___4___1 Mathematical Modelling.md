@@ -35,12 +35,12 @@
 				- Even more impressive is Lucas's collection which is ten times larger minus one tooth brush, which he recently lost in a freak tooth whitening incident.
 		- If together, Cooper, Finn, and Lucas have 1305 tooth brushes, how many tooth brushes must Cooper have?
 - ## Action
+	- Here's a question from #EQAO in 2024:
+		- ![image.png](../assets/image_1748394775799_0.png){:height 287, :width 278}
 	- This is a question from #EQAO in 2023:
 		- ![image.png](../assets/image_1748393501044_0.png){:height 250, :width 285}
-	- And here's a question from EQAO in 2024:
-		- ![image.png](../assets/image_1748394775799_0.png){:height 287, :width 278}
-		- Here's a question from the practice test:
-			- ![image.png](../assets/image_1748394726186_0.png){:height 350, :width 272}
+	- Here's a question from the #EQAO practice test:
+		- ![image.png](../assets/image_1748394726186_0.png){:height 350, :width 272}
 	-
 - ## Consolidation
 -
