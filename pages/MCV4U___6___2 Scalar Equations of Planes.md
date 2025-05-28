@@ -18,6 +18,10 @@
 - ## Action
 	- Examples
 	  logseq.order-list-type:: number
-		- Find the scalar equation of the plane
+		- Find the scalar equation of the plane, $t,k\in\R$:
 		  logseq.order-list-type:: number
-		  $$\begin{bmatrix}x\\ y\\ z\end{bmatrix}=\begin{bmatrix}1\\ 2\\ 3\end{bmatrix}+t\left\lbrack\right\rbrack$$
+		  $$\begin{bmatrix}x\\ y\\ z\end{bmatrix}=\begin{bmatrix}1\\ 2\\ 3\end{bmatrix}+t\begin{bmatrix}-2\\ 4\\ 6\end{bmatrix}+k\begin{bmatrix}1\\ 3\\ -4\end{bmatrix}$$
+		- Show that the point represented by $t=4$ and $k=-3$ is in fact also on the scalar equation you found.
+		  logseq.order-list-type:: number
+	- Find the scalar
+	  logseq.order-list-type:: number
