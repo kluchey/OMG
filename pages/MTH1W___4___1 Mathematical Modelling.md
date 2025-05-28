@@ -27,7 +27,7 @@
 					  collapsed:: true
 					  now solve for x.
 						- *Answer.* $x=23$
-	- Complete this next one on your own. (Unfold the next section to see the rest of this question)
+	- ### Complete this next one on your own.
 		- Cooper has a weirdly large number of tooth brushes.
 			- If we add 5 more to Cooper's amount and then double it, we get the size of Finn's significantly larger collection of tooth brushes.
 				- Even more impressive is Lucas's collection which is ten times larger minus one tooth brush, which he recently lost in a freak tooth whitening incident in Hillsburgh, ON at 2:30 AM Tuesday.
