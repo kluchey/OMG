@@ -63,5 +63,7 @@
 		  logseq.order-list-type:: number
 	- Exit Ticket:
 	  logseq.order-list-type:: number
-		- A rectangular room has an Area of $120\text{m}^2$. The length of the room is
+		- A rectangular room has an Area of $120\text{m}^2$. The length of the room is three times the width. What are the dimensions (length and width) of the room?
+		  logseq.order-list-type:: number
+		- Donuts c
 		  logseq.order-list-type:: number
