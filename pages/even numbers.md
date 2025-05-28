@@ -1,0 +1,2 @@
+- #definiton An even numbers is not an odd number.
+	- All even numbers are divisible by 2 without ==[[remainder]]==.
