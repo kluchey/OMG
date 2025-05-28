@@ -2,7 +2,7 @@
   Today we will learn to describe inequalities using our knowledge of Linear Relations to further model interesting objects on graphs.
   #+END_CAUTION
 - ## Preparing for EQAO #.v-self-border
-	- Here is a question posed on an #EQAO practice test. What do you understand about it? What do not notice that is *familiar*? What do you notice that is *not familiar*?
+	- Here is a question posed on an #EQAO practice test. What do you understand about it? What do you notice that is *familiar*? What do you notice that is *not familiar*?
 		- Which inequality corresponds to this graph? #.v-border-children 
 		  logseq.order-list-type:: number
 		  ![image.png](../assets/image_1748372403293_0.png){:height 364, :width 382}
