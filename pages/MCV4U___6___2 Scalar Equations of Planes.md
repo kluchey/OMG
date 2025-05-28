@@ -111,8 +111,10 @@
 				  logseq.order-list-type:: number
 			- Our scalar equation is currently $3x-3y-z+D=0$. We know $(3,2,1)$ is a point on the plane. Let's substitute to solve for $D$.
 			  logseq.order-list-type:: number
-				- $(3
+				- $D=-(3(3)-3(2)-1)=-(9-6-1)=-2$
 				  logseq.order-list-type:: number
+			- Therefore our Scalar Equation is $3x-3y-z-2
+			  logseq.order-list-type:: number
 - ## Consolidation
 	- What information is needed to create a scalar equation of a plane?
 	- What are the steps to use a vector equation of a plane to get the scalar equation?
