@@ -24,7 +24,7 @@
 			- We need a vector perpendicular to both direction vectors. We need the **cross product**!
 			  logseq.order-list-type:: number
 			- logseq.order-list-type:: number
-			  $$\begin{matrix}\cancel{-5} & 1 & -5 & -5 & 1 & \cancel{-5}\\ \cancel{1} & 3 & 11 & 1 & 3 & \cancel{11}\end{matrix}$$
+			  $$\begin{matrix}\cancel{-2} & 4 & 6 & -2 & 4 & \cancel{6}\\ \cancel{1} & 3 & -4 & 1 & 3 & \cancel{-4}\end{matrix}$$
 			- logseq.order-list-type:: number
 		- Show that the point represented by $t=4$ and $k=-3$ is in fact also on the scalar equation you found.
 		  logseq.order-list-type:: number
