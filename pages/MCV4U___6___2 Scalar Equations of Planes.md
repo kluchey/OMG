@@ -23,25 +23,29 @@
 		  $$\begin{bmatrix}x\\ y\\ z\end{bmatrix}=\begin{bmatrix}1\\ 2\\ 3\end{bmatrix}+t\begin{bmatrix}-2\\ 4\\ 6\end{bmatrix}+k\begin{bmatrix}1\\ 3\\ -4\end{bmatrix}$$
 			- We need a vector perpendicular to both direction vectors. We need the **cross product**!
 			  logseq.order-list-type:: number
-			- logseq.order-list-type:: number
-			  $$\begin{matrix}\cancel{-2} & 4 & 6 & -2 & 4 & \cancel{6}\\ \cancel{1} & 3 & -4 & 1 & 3 & \cancel{-4}\end{matrix}$$
-			- So then
-			  logseq.order-list-type:: number
-			  $$\begin{align*}&=\begin{bmatrix}
-			  4\left(-4\right)-3\left(6\right)\\ 6\left(1\right)-\left(-2\right)\left(-4\right)\\ -2\left(3\right)-4\left(1\right)
-			  \end{bmatrix} \\
-			  &= \begin{bmatrix}
-			  -32 \\ 14 \\ -10
-			  \end{bmatrix} \\
-			  &= -\frac12 \begin{bmatrix}
-			  16 \\ -7 \\ 5
-			  \end{bmatrix}
-			  \end{align*}$$
-			- And we'll let $\vec{n}=\begin{bmatrix}16\\ -7\\ 5\end{bmatrix}$
-			  logseq.order-list-type:: number
+				- logseq.order-list-type:: number
+				  $$\begin{matrix}\cancel{-2} & 4 & 6 & -2 & 4 & \cancel{6}\\ \cancel{1} & 3 & -4 & 1 & 3 & \cancel{-4}\end{matrix}$$
+				- So then
+				  logseq.order-list-type:: number
+				  $$\begin{align*}&=\begin{bmatrix}
+				  4\left(-4\right)-3\left(6\right)\\ 6\left(1\right)-\left(-2\right)\left(-4\right)\\ -2\left(3\right)-4\left(1\right)
+				  \end{bmatrix} \\
+				  &= \begin{bmatrix}
+				  -32 \\ 14 \\ -10
+				  \end{bmatrix} \\
+				  &= -\frac12 \begin{bmatrix}
+				  16 \\ -7 \\ 5
+				  \end{bmatrix}
+				  \end{align*}$$
+				- And we'll let $\vec{n}=\begin{bmatrix}16\\ -7\\ 5\end{bmatrix}$
+				  logseq.order-list-type:: number
 			- Therefore the scalar equation is (so far):
 			  logseq.order-list-type:: number
-				- $16x-7y+5
+				- $16x-7y+5+D=0$
+				  logseq.order-list-type:: number
+			- Substituting $(1,2,3)$ to solve for $D$:
+			  logseq.order-list-type:: number
+				- $16(1)-7(2)+
 				  logseq.order-list-type:: number
 		- Show that the point represented by $t=4$ and $k=-3$ is in fact also on the scalar equation you found.
 		  logseq.order-list-type:: number
