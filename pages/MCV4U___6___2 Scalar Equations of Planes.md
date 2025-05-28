@@ -45,7 +45,11 @@
 				  logseq.order-list-type:: number
 			- Substituting $(1,2,3)$ to solve for $D$:
 			  logseq.order-list-type:: number
-				- $16(1)-7(2)+
+				- $16(1)-7(2)+5(3)=-D$
+				  logseq.order-list-type:: number
+				- $\begin{align*}16-14+15=16+1=17=-D\end{align*}$
+				  logseq.order-list-type:: number
+				- $D=-17$
 				  logseq.order-list-type:: number
 		- Show that the point represented by $t=4$ and $k=-3$ is in fact also on the scalar equation you found.
 		  logseq.order-list-type:: number
