@@ -5,6 +5,7 @@
 	- Let's think about how to translate some English into Algebra, here's an example from EQAO:
 		- ![image.png](../assets/image_1748396924758_0.png){:height 294, :width 343}
 		- *Solution.*
+		  collapsed:: true
 			- By giving Nancy $x$ books, we can discuss Nancy's amount without knowing the number. Let's analyze the next sentences:
 			- Braveen has triple the number of books Nancy has, plus 5 more books.
 			  collapsed:: true
@@ -19,10 +20,15 @@
 					  collapsed:: true
 						- *Answer.* $2(3x+5)=6x+10$ because we need to double the entire amount of books. The brackets $(\square)$ group Braveen's together into one number we need to calculate first.
 			- In total they have 245 books:
+			  collapsed:: true
 				- Nancy + Braveen + Cal = 245
+				  collapsed:: true
 					- $x + (3x+5) + 2(3x+5) = 245$
+					  collapsed:: true
 					  now solve for x.
-						- *Answer.*
+						- *Answer.* $x=23$
+	- Complete this next one on your own.
+		-
 	- And here's a question from EQAO in 2024:
 		- ![image.png](../assets/image_1748394775799_0.png){:height 287, :width 278}
 - ## Action
