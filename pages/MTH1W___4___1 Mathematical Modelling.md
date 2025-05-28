@@ -67,7 +67,7 @@
 		  logseq.order-list-type:: number
 	- Additional Practice:
 	  logseq.order-list-type:: number
-		- A bakery has price $5 per donut and $6 per cupcake. In total, they sell $500 worth of donuts and cupcakes in one day. This sentence can be modelled by the Algebra:  $5d+6c=500$.
+		- A bakery has prices $5 per donut and $6 per cupcake. In total, they sell $500 worth of donuts and cupcakes in one day. This sentence can be modelled by the Algebra:  $5d+6c=500$.
 		  logseq.order-list-type:: number
 			- What are $d$ and $c$ measuring? Write let statements for the variables.
 			  logseq.order-list-type:: number
@@ -75,7 +75,8 @@
 			  logseq.order-list-type:: number
 			- What does $6c$ calculate? Interpret the meaning of this algebra.
 			  logseq.order-list-type:: number
-			- $What does $5d+6c$ mean? Why does it make sense to set it equal to $500?
+			- What does $5d+6c$ mean? Why does it make sense to set it equal to $500?
 			  logseq.order-list-type:: number
 			- If on this day the bakery sold 40 donuts, how many cupcakes were sold? *Solve an equation to answer this problem.*
 			  logseq.order-list-type:: number
+		- logseq.order-list-type:: number
