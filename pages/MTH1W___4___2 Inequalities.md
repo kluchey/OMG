@@ -39,7 +39,7 @@
 		- $n<-3$
 		- $k\geq-5$
 		- Can you work backwards from the number line to write the inequality?
-			- ![image.png](../assets/image_1748374109210_0.png)
+			- ![image.png](../assets/image_1748374109210_0.png){:height 415, :width 551}
 - ## Lesson #.v-self-border-children
 	- We want to learn about these types of inequalities:
 		- $y>2x+3$
@@ -52,7 +52,8 @@
 				- <iframe src = "https://www.desmos.com/calculator/f01d8fn3hi" style="height: 400px; width: 100%" ></iframe>
 	- But this still isn't the EQAO Question! What can we do with $$$2x-y\leq-2$$$ and the other answers?
 		- We can guess points. We can try points inside the region, on the line, and outside the region.
-		-
+			- ![image.png](../assets/image_1748372403293_0.png){:height 364, :width 382}
+			- Take the point (0,1)
 		- Or, we can use reasoning:  our goal is to get $y<line$ or $y>line$.
 		- $$ \begin{align*}
 		  2x - y &< -2 \\
