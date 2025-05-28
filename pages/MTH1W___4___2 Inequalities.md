@@ -55,7 +55,7 @@
 			- ![image.png](../assets/image_1748372403293_0.png){:height 364, :width 382}
 			- Take the point (-1,1) which is inside the shaded region. If we want to find the correct answer to this question, we can check if that point is `True` for the possible answers. The answer that describes the region must be `True` for the point (-1,1).
 			- Check more points, can you use this strategy to locate the correct answer for the #EQAO question at the beginning of this lesson?
-		- Or, we can use reasoning:  our goal is to get $y<line$ or $y>line$.
+		- Or, we can use reasoning:  our goal is to get $+y$ on one side, just like solving, but we
 			- $$ \begin{align*}
 			  2x - y &< -2 \\
 			  2x &< -2 + y \\
