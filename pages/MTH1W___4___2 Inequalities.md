@@ -52,7 +52,7 @@
 				- <iframe src = "https://www.desmos.com/calculator/f01d8fn3hi" style="height: 400px; width: 100%" ></iframe>
 	- ### Watch this Video
 		- <iframe width="560" height="420" src="https://www.youtube.com/embed/P_-c9D6mjGA?si=93BnTj_s2tu_Dwie" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-		- We can guess points to eliminate answers to the EQAO problem. We can try points inside the region, on the line, and outside the region them inside the first possible answer $2x-y\leq-2$
+		- We can guess points to eliminate answers to the EQAO problem. We can try points inside the region, on the line, and outside the region. When we say "try points" we mean we will substitute the point into the first possible answer $2x-y\leq-2$ and every other answer.
 			- ![image.png](../assets/image_1748372403293_0.png){:height 364, :width 382}
 			- Find **two** points and answer the question:
 				- Find a point inside the region on this graph that makes $2x-y\leq-2$ `False`. This proves option A is not the answer to the EQAO problem.
@@ -61,7 +61,7 @@
 				  logseq.order-list-type:: number
 				- Why do we need to check a few points in each inequality option to solve this EQAO question?
 				  logseq.order-list-type:: number
-	- Exit Ticket:
+	- **Exit Ticket:****
 		- Draw the region of the graph defined by $y<4x-5$.
 		- Determine **two** points, one inside the region of the graph defined by $-4x-2y>6$ and one outside of the region.
 - ## Practice #.v-self-border
