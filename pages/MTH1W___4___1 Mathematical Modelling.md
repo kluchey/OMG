@@ -53,7 +53,7 @@
 		  logseq.order-list-type:: number
 		- Solve this Riddle:  A number plus ten, minus four, plus seven is equal to a quarter of its size less eleven.
 		  logseq.order-list-type:: number
-	- A lot of problems on the #EQAO test will require you to model a situation using **Algebra** or **Number Sense** and then solve or simplify.
+	- A lot of problems on the #EQAO test will require you to model a situation using **Algebra** or **Number Sense** and then solve or simplify. #.v-border-children
 	  logseq.order-list-type:: number
 		- Describe what **Algebra** means in one sentence, using your own words.
 		  logseq.order-list-type:: number
@@ -61,11 +61,11 @@
 		  logseq.order-list-type:: number
 		- What is the difference between Algebra and Number Sense? How are they related to each other?
 		  logseq.order-list-type:: number
-	- Exit Ticket: #.v-border-children
+	- ***Exit Ticket***: #.v-border-children
 	  logseq.order-list-type:: number
 		- A rectangular room has an Area of $120\text{m}^2$. The length of the room is three times the width. What are the dimensions (length and width) of the room?
 		  logseq.order-list-type:: number
-	- Practice:
+	- Practice: #.v-border-children
 	  logseq.order-list-type:: number
 		- A bakery has prices $5 per donut and $6 per cupcake. In total, they sell $500 worth of donuts and cupcakes in one day. This situation can be modelled by the Algebra:  $5d+6c=500$.
 		  logseq.order-list-type:: number
