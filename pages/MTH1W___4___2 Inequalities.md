@@ -65,6 +65,12 @@
 		- Draw the region of the graph defined by $y<4x-5$.
 		- Determine **two** points, one inside the region of the graph defined by $-4x-2y>6$ and one outside of the region.
 - ## Practice #.v-self-border
-	- For each inequality, is the region *above the line* or *below the line* shaded? Check your answers using
+	- For each inequality, is the region *above the line* or *below the line* shaded? Check your answers using [Desmos](https://desmos.com/calculator).
 	  logseq.order-list-type:: number
+		- $y>3x+4$
+		  logseq.order-list-type:: number
+		- $4x-3<y$
+		  logseq.order-list-type:: number
+		- $y< -3x-1$
+		  logseq.order-list-type:: number
 		- logseq.order-list-type:: number
