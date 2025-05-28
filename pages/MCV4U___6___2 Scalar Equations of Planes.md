@@ -101,7 +101,7 @@
 				  \end{align*}$$
 				- So $(2,-2,-4)$ is our second direction vector for our new plane.
 				  logseq.order-list-type:: number
-			- To get the scalar equation for our new plane, we need a normal vector, which
+			- To get the scalar equation for our new plane, we need a normal vector for the plane, which
 			  logseq.order-list-type:: number
 - ## Consolidation
 	- What information is needed to create a scalar equation of a plane?
