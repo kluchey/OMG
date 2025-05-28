@@ -43,15 +43,16 @@
 - ## Lesson #.v-self-border-children
 	- We want to learn about these types of inequalities:
 		- $y>2x+3$
-		- **Strategy:** Graph the line $y=2x+3$ using []
+		- **Strategy:** Graph the line $y=2x+3$ using [Desmos](https://desmos.com/calculator)
 		  collapsed:: true
 			- <iframe src = "https://www.desmos.com/calculator/4brddn7vio" style="height: 400px; width: 100%" ></iframe>
 		- We can ask the question, like in the warm up, "What are the y-values greater than the line $2x+3$? Can you identify the ==[[region]]== of the graph this question is creating?
-			- *Solution.*
+			- *Open this section to see the Solution.*
 			  collapsed:: true
 				- <iframe src = "https://www.desmos.com/calculator/f01d8fn3hi" style="height: 400px; width: 100%" ></iframe>
 	- But this still isn't the EQAO Question! What can we do with $$$2x-y\leq-2$$$ and the other answers?
 		- We can guess points. We can try points inside the region, on the line, and outside the region.
+		-
 		- Or, we can use reasoning:  our goal is to get $y<line$ or $y>line$.
 		- $$ \begin{align*}
 		  2x - y &< -2 \\
