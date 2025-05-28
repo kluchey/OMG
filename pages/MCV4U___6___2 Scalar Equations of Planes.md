@@ -25,6 +25,7 @@
 			  logseq.order-list-type:: number
 				- We need a vector perpendicular to both direction vectors. We need the **cross product**!
 				  logseq.order-list-type:: number
+				  collapsed:: true
 					- logseq.order-list-type:: number
 					  $$\begin{matrix}\cancel{-2} & 4 & 6 & -2 & 4 & \cancel{6}\\ \cancel{1} & 3 & -4 & 1 & 3 & \cancel{-4}\end{matrix}$$
 					- So then
@@ -48,6 +49,7 @@
 					  logseq.order-list-type:: number
 				- Substituting $(1,2,3)$ to solve for $D$:
 				  logseq.order-list-type:: number
+				  collapsed:: true
 					- $17(1)+1(2)+5(3)=-D$
 					  logseq.order-list-type:: number
 					- logseq.order-list-type:: number
@@ -62,6 +64,7 @@
 			  logseq.order-list-type:: number
 				- Get the point defined by $t=4$ and $k=-3$.
 				  logseq.order-list-type:: number
+				  collapsed:: true
 					- logseq.order-list-type:: number
 					  $$\begin{align*}
 					  \begin{bmatrix}x\\ y\\ z\end{bmatrix}&=\begin{bmatrix}1\\ 2\\ 3\end{bmatrix}+4\begin{bmatrix}-2\\ 4\\ 6\end{bmatrix}-3\begin{bmatrix}1\\ 3\\ -4\end{bmatrix} \\
@@ -72,16 +75,20 @@
 					  -10 \\  9 \\ 39
 					  \end{bmatrix}
 					  \end{align*}$$
-					- Checking $(-10,9,39)$ on $16x-7y+5z-17=0$
-					  logseq.order-list-type:: number
-						- logseq.order-list-type:: number
-						  $$\begin{align*}
-						  0 &\stackrel{?}{=} 17(-10) +(9) + 5(39) -34 \\
-						  &= -170 +9 + 195 -34 \\
-						  &=0
-						  \end{align*}$$
+				- Checking $(-10,9,39)$ on $16x+y+5z-34=0$
+				  logseq.order-list-type:: number
+				  collapsed:: true
+					- logseq.order-list-type:: number
+					  $$\begin{align*}
+					  0 &\stackrel{?}{=} 17(-10) +(9) + 5(39) -34 \\
+					  &= -170 +9 + 195 -34 \\
+					  &=0
+					  \end{align*}$$
 	- Find the scalar equation of the plane that contains the points $(1,4,5)$ and $(3, 2, 1)$ and is perpendicular to $2x-y+z-10=0$.
 	  logseq.order-list-type:: number
+		- **Strategy:**
+		  logseq.order-list-type:: number
+			- logseq.order-list-type:: number
 - ## Consolidation
 	- What information is needed to create a scalar equation of a plane?
 	- What are the steps to use a vector equation of a plane to get the scalar equation?
