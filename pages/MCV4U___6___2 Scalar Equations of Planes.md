@@ -25,7 +25,6 @@
 			  logseq.order-list-type:: number
 				- We need a vector perpendicular to both direction vectors. We need the **cross product**!
 				  logseq.order-list-type:: number
-				  collapsed:: true
 					- logseq.order-list-type:: number
 					  $$\begin{matrix}\cancel{-2} & 4 & 6 & -2 & 4 & \cancel{6}\\ \cancel{1} & 3 & -4 & 1 & 3 & \cancel{-4}\end{matrix}$$
 					- So then
@@ -101,8 +100,9 @@
 				  \end{align*}$$
 				- So $(2,-2,-4)$ is our second direction vector for our new plane.
 				  logseq.order-list-type:: number
-			- To get the scalar equation for our new plane, we need a normal vector for the plane, which
+			- To get the scalar equation for our new plane, we need a normal vector for the plane, which can be found using the cross product.
 			  logseq.order-list-type:: number
+				- logseq.order-list-type:: number
 - ## Consolidation
 	- What information is needed to create a scalar equation of a plane?
 	- What are the steps to use a vector equation of a plane to get the scalar equation?
