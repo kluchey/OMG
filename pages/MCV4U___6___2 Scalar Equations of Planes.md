@@ -92,8 +92,11 @@
 			  logseq.order-list-type:: number
 			- One is the normal vector of $2x-y+z-10=0$ which serves as one of our new plane's direction vectors.
 			  logseq.order-list-type:: number
-			- A second is the vector $\vec{}
+			- A second is the vector $\vec{AB}$ given we set $A=(1,4,5)$ and $B=(3,2,1)$.
 			  logseq.order-list-type:: number
+				- $$
+				  logseq.order-list-type:: number
+				  \vect{AB} &=
 - ## Consolidation
 	- What information is needed to create a scalar equation of a plane?
 	- What are the steps to use a vector equation of a plane to get the scalar equation?
