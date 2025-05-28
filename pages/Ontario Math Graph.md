@@ -41,6 +41,7 @@ icon:: 🍎
 			- [5-Ree Examples]([[MCV4U/5/Ree]])
 			- [[MCV4U/5/Reee]]
 			- [6-1 Planes🛫]([[MCV4U/6/1 Vectors to Represent Planes]])
+			- [6-2 Scalar Planes]
 		- [[MDM4U]] Data Management
 		- [[MCT4C]] Math for College Tech
 		- [[MAP4C]] Foundations for College Math 12
