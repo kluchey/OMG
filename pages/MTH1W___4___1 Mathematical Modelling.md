@@ -1,7 +1,7 @@
 - #+BEGIN_WARNING
   Our **goal** this lesson is to learn how to create general mathematical models from words.
   #+END_WARNING
-- ## Warm Up
+- ## Warm Up #.v-self-border
 	- Let's think about how to translate some English into Algebra, here's an example from EQAO:
 		- ![image.png](../assets/image_1748396924758_0.png){:height 294, :width 343}
 		- *Solution.*
@@ -29,12 +29,10 @@
 						- *Answer.* $x=23$
 	- Complete this next one on your own. (Unfold the next section to see the rest of this question)
 		- Cooper has a weirdly large number of tooth brushes.
-		  collapsed:: true
 			- If we add 5 more to Cooper's amount and then double it, we get the size of Finn's significantly larger collection of tooth brushes.
-			  collapsed:: true
-				- Even more impressive is Lucas's collection which is ten times larger minus one tooth brush, which he recently lost in a freak tooth whitening incident.
+				- Even more impressive is Lucas's collection which is ten times larger minus one tooth brush, which he recently lost in a freak tooth whitening incident in .
 		- If together, Cooper, Finn, and Lucas have 1305 tooth brushes, how many tooth brushes must Cooper have?
-- ## Action
+- ## Action #.v-self-border
 	- Here's a question from #EQAO in 2024. How would you model it using Algebra?
 		- ![image.png](../assets/image_1748394775799_0.png){:height 287, :width 278}
 	- This is a question from #EQAO in 2023. How would you model it using Algebra?
