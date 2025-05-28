@@ -1,1 +1,2 @@
-- #definition The next item
+- #definition The next item(s) in a list or the next the next number in a pattern.
+- Related word:  ==[[consecutive]]==
