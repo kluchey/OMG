@@ -47,7 +47,7 @@
 - ## Consolidation
 	- Which problems require **Algebra** to model and which can be modelled with **Number Sense** alone? Solve each problem first and then **categorize** each as needing Algebra or Number Sense.
 	  logseq.order-list-type:: number
-		- While s
+		- To estimate the population of elephants in Kenya, aerial photographs are recorded and it is found that there are
 		  logseq.order-list-type:: number
 		- A quarter of all Canadians love Pineapple on Pizza. A tenth of the Pineapple lovers also love Grapes on Pizza. If there are 40.1 million Canadians, how many would eat Grapes and Pineapple on their Pizza?
 		  logseq.order-list-type:: number
