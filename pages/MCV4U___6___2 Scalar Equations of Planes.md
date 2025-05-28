@@ -135,5 +135,7 @@
 		  logseq.order-list-type:: number
 		- Find the coordinates of any three points on the plane.
 		  logseq.order-list-type:: number
-	- Find the scalar equation of the plane that passes through $(1,2,3)$ and has $
+	- Find the scalar equation of the plane that passes through $(1,2,3)$ and has $\vec{n}=(2,-5,7)$.
+	  logseq.order-list-type:: number
+	- Find the scalar equation of the plane containing the points $A(-2,3,1)$, $B
 	  logseq.order-list-type:: number
