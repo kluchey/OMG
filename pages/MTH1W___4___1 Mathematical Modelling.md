@@ -4,7 +4,7 @@
 - ## Warm Up
 -
 - ## Action
-	- ![image.png](../assets/image_1748393501044_0.png)
+	- ![image.png](../assets/image_1748393501044_0.png){:height 250, :width 285}
 	-
 - ## Consolidation
 -
