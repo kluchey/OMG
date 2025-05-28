@@ -39,7 +39,7 @@
 		- ![image.png](../assets/image_1748394775799_0.png){:height 287, :width 278}
 	- This is a question from #EQAO in 2023. How would you model it using Algebra?
 		- ![image.png](../assets/image_1748393501044_0.png){:height 250, :width 285}
-	- Here's a question from the #EQAO practice test. Do you
+	- Here's a question from the #EQAO practice test. Can you model this question using Algebra? What else can you use?
 		- ![image.png](../assets/image_1748394726186_0.png){:height 350, :width 272}
 	- **Compare:**  What do all of these problems have in common?
 	- **Contrast:**  What is different about each of these problems?
@@ -47,4 +47,11 @@
 - ## Consolidation
 	- Which problems require **Algebra** to solve and which can be done with number sense alone?
 	  logseq.order-list-type:: number
-		- logseq.order-list-type:: number
+		- 1
+		  logseq.order-list-type:: number
+		- 2
+		  logseq.order-list-type:: number
+		- 3
+		  logseq.order-list-type:: number
+	- A lot of problems on the #EQAO test will require **Algebra** or Number Sense to solve.
+	  logseq.order-list-type:: number
