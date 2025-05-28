@@ -1,0 +1,1 @@
+- #definiton An inequality is a question asked mathematically about whether two  numbers or expressions
