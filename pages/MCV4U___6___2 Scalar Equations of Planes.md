@@ -107,9 +107,12 @@
 				  \cancel{2} & -2 & -4 & 2 & -2 & \cancel{-4}\end{matrix}$$
 				- $\begin{bmatrix}-1\left(-4\right)-\left(1\right)\left(-2\right)\\ 1\left(2\right)-\left(2\right)\left(-4\right)\\ 2\left(-2\right)-\left(-1\right)\left(2\right)\end{bmatrix}=\begin{bmatrix}6\\ -6\\ -2\end{bmatrix}$
 				  logseq.order-list-type:: number
-				- We'll use $\vec{n}=(3,-3,-1)$
+				- We'll use $\vec{n}=(3,-3,-1)$ for simplicity.
 				  logseq.order-list-type:: number
-				- logseq.order-list-type:: number
+			- Our scalar equation is currently $3x-3y-z+D=0$. We know $(3,2,1)$ is a point on the plane. Let's substitute to solve for $D$.
+			  logseq.order-list-type:: number
+				- $(3
+				  logseq.order-list-type:: number
 - ## Consolidation
 	- What information is needed to create a scalar equation of a plane?
 	- What are the steps to use a vector equation of a plane to get the scalar equation?
