@@ -45,15 +45,15 @@
 	- **Contrast:**  What is different about each of these problems?
 	- **Strategize:**  How will you approach a problem like this on EQAO? How will you know you received a similar problem?
 - ## Consolidation
-	- Which problems require **Algebra** to solve and which can be done with **Number Sense** alone?
+	- Which problems require **Algebra** to model and which can be modelled with **Number Sense** alone?
 	  logseq.order-list-type:: number
-		- 1
+		- A quarter of all Canadians love Pineapple on Pizza
 		  logseq.order-list-type:: number
 		- 2
 		  logseq.order-list-type:: number
 		- 3
 		  logseq.order-list-type:: number
-	- A lot of problems on the #EQAO test will require **Algebra** or **Number Sense** to solve.
+	- A lot of problems on the #EQAO test will require you to model a situation using **Algebra** or **Number Sense** and then solve or simplify.
 	  logseq.order-list-type:: number
 		- Describe what **Algebra** means in one sentence, using your own words.
 		  logseq.order-list-type:: number
