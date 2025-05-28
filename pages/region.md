@@ -1,2 +1,2 @@
 - #definiton A region is an #Area of a graph plotted as points inside or on one side of a border. The border is usually a shape's edge, a line, or a curve.
-- #eg $$$$
+- #eg $y>2x+3$ defines a region of "All y-values larger than the line "$3x+4$"'s y-values.
