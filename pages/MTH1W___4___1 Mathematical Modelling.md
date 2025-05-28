@@ -79,7 +79,7 @@
 			  logseq.order-list-type:: number
 			- If on this day the bakery sold 40 donuts, how many cupcakes were sold? *Solve an equation to answer this problem.*
 			  logseq.order-list-type:: number
-			- **Challenge:** Ignore the last part. Instead, what if the bakery knew it sold
+			- **Challenge:** Ignore the last part. Instead, what if the bakery knew it sold a combined total of
 			  logseq.order-list-type:: number
 			- Why would a bakery want to model sales using an algebra?
 			  logseq.order-list-type:: number
