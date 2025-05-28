@@ -52,18 +52,9 @@
 				- <iframe src = "https://www.desmos.com/calculator/f01d8fn3hi" style="height: 400px; width: 100%" ></iframe>
 	- ### Watch this Video
 		- <iframe width="560" height="420" src="https://www.youtube.com/embed/P_-c9D6mjGA?si=93BnTj_s2tu_Dwie" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-		- But this still isn't the EQAO Question! What can we do with $2x-y\leq-2$ and the other answers?
-			- We can guess points. We can try points inside the region, on the line, and outside the region.
-				- ![image.png](../assets/image_1748372403293_0.png){:height 364, :width 382}
-				- Take the point (-1,1) which is inside the shaded region. If we want to find the correct answer to this question, we can check if that point is `True` for the possible answers. Check (-1,1) in
-				- Check more points, can you use this strategy to locate the correct answer for the #EQAO question at the beginning of this lesson?
-			- Or, we can use reasoning:  our goal is to get $+y$ on one side, just like solving, but we
-				- $$ \begin{align*}
-				  2x - y &< -2 \\
-				  2x &< -2 + y \\
-				  2x +2 &< y
-				  \end{align*} $$
-			- Can we now see why a. is not the answer to the EQAO question?
+		- We can guess points. We can try points inside the region, on the line, and outside the region and guess them inside the first possible answer $2x-y\leq -2$
+			- ![image.png](../assets/image_1748372403293_0.png){:height 364, :width 382}
+			-
 	- Exit Ticket:
 		- Draw the region of the graph defined by $y<4x-5$.
 		- Draw the region of the graph defined by $-4x-2y>6$.
