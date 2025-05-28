@@ -141,5 +141,6 @@
 	  logseq.order-list-type:: number
 	- The line $(x,y,z) = (2,0,1)+t(-4,5,5)$ for $t\in\R$ lies on a plane that contains the point $(1,3,0)$. Find the scalar equation of this plane.
 	  logseq.order-list-type:: number
-	- Determine the scalar equation of the plane passing through $(1,4,5)$ and $(3,2,1)$ and is perpendicular
+	- Determine the scalar equation of the plane passing through $(1,4,5)$ and $(3,2,1)$ and is perpendicular to the plane $2x-y+z-1=0$.
 	  logseq.order-list-type:: number
+		- logseq.order-list-type:: number
