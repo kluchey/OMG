@@ -12,5 +12,6 @@
 - ## Lesson
 	- The scalar equation of a plane is similar to the one for a line, but has an extra parameter:
 		- $$Ax+By+Cz+D=0$$
-		- Where $\begin{bmatrix}A\\ B\\ C\end{bmatrix}$ is a normal vector to the plane depicted as $n$ in the diagram below.
+		- Where $\begin{bmatrix}A\\ B\\ C\end{bmatrix}$ is a normal vector to the plane depicted as $n$ in the diagram below where $S$ and $R$ are direction vectors in the plane.
 		- ![image.png](../assets/image_1748445121689_0.png)
+		- Note that our idea that a normal vector is perpendicular to direction still holds true. Our $n$ is perpendi
