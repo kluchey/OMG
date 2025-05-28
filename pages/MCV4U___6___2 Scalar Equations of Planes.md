@@ -36,10 +36,10 @@
 					  -34 \\ -2 \\ -10
 					  \end{bmatrix} \\
 					  &= -\frac12 \begin{bmatrix}
-					  17 \\ -7 \\ 5
+					  17 \\ 1 \\ 5
 					  \end{bmatrix}
 					  \end{align*}$$
-					- And we'll let $\vec{n}=\begin{bmatrix}17\\ -7\\ 5\end{bmatrix}$
+					- And we'll let $\vec{n}=\begin{bmatrix}17\\ 1\\ 5\end{bmatrix}$
 					  logseq.order-list-type:: number
 				- Therefore the scalar equation is (so far):
 				  logseq.order-list-type:: number
@@ -48,10 +48,10 @@
 					  logseq.order-list-type:: number
 				- Substituting $(1,2,3)$ to solve for $D$:
 				  logseq.order-list-type:: number
-					- $17(1)-7(2)+5(3)=-D$
+					- $17(1)+1(2)+5(3)=-D$
 					  logseq.order-list-type:: number
 					- logseq.order-list-type:: number
-					  $$\begin{align*}16-14+15 &= -D \\ 17+1 &= \\ 18 &=-D\end{align*}$$
+					  $$\begin{align*}17+15 &= -D \\ 17+1 &= \\ 18 &=-D\end{align*}$$
 					- Therefore, $D=-18$
 					  logseq.order-list-type:: number
 				- Therefore, the scalar equation is $16x-7y+5z-18=0$
