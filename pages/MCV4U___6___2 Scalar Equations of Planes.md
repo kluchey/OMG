@@ -49,7 +49,6 @@
 					  logseq.order-list-type:: number
 				- Substituting $(1,2,3)$ to solve for $D$:
 				  logseq.order-list-type:: number
-				  collapsed:: true
 					- $16(1)-7(2)+5(3)=-D$
 					  logseq.order-list-type:: number
 					- logseq.order-list-type:: number
