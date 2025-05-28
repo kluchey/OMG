@@ -27,4 +27,4 @@
 	  logseq.order-list-type:: number
 - ## Consolidation
 	- What information is needed to create a scalar equation of a plane?
-	- What are the steps
+	- What are the steps to use a vector equation of a plane to get the scalar equation?
