@@ -78,9 +78,9 @@
 					  logseq.order-list-type:: number
 						- logseq.order-list-type:: number
 						  $$\begin{align*}
-						  &\stackrel{?}{=} 16(-10) - 7(9) + 5(39) \\
+						  0 &\stackrel{?}{=} 16(-10) - 7(9) + 5(39) \\
 						  &= -160 - 63 + 195 \\
-						  $=0
+						  &=0
 						  \end{align*}$$
 	- Find the scalar equation of the plane that contains the points $(1,4,5)$ and $(3, 2, 1)$ and is perpendicular to $2x-y+z-10=0$.
 	  logseq.order-list-type:: number
