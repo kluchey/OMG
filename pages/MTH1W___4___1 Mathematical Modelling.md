@@ -73,5 +73,7 @@
 			  logseq.order-list-type:: number
 			- What does $5d$ calculate? Interpret this algebra.
 			  logseq.order-list-type:: number
-			- What does $6c
+			- What does $6c$ calculate? Interpret this algebra.
+			  logseq.order-list-type:: number
+			- $What does $5d+6c$ mean? Why is it equal to $500
 			  logseq.order-list-type:: number
