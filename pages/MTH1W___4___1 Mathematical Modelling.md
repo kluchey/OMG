@@ -7,8 +7,12 @@
 		- *Solution.*
 			- By giving Nancy $x$ books, we can discuss Nancy's amount without knowing the number. Let's analyze the next sentences:
 			- Braveen has triple the number of books Nancy has, plus 5 more books.
-				- $3x+4$ or $3(x+5)$?
-					- $
+			  collapsed:: true
+				- $3x+5$ or $3(x+5)$?
+				  collapsed:: true
+					- *Answer* is $3x+5$ since the 5 more books is added after the tripling.
+			- Cal has double the number of books Braveen has.
+				- If Braveen has
 	- And here's a question from EQAO in 2024:
 		- ![image.png](../assets/image_1748394775799_0.png){:height 287, :width 278}
 - ## Action
