@@ -67,10 +67,10 @@
 				  logseq.order-list-type:: number
 					- logseq.order-list-type:: number
 					  $$\begin{align*}
-					  \begin{bmatrix}x\\ y\\ z\end{bmatrix}&=\begin{bmatrix}1\\ 2\\ 3\end{bmatrix}+4\begin{bmatrix}-2\\ 4\\ 6\end{bmatrix}-3\begin{bmatrix}1\\ 3\\ -4\end{bmatrix}
+					  \begin{bmatrix}x\\ y\\ z\end{bmatrix}&=\begin{bmatrix}1\\ 2\\ 3\end{bmatrix}+4\begin{bmatrix}-2\\ 4\\ 6\end{bmatrix}-3\begin{bmatrix}1\\ 3\\ -4\end{bmatrix} \\
 					  &= \begin{bmatrix}
 					  1 -8 -3 \\ 2 + 16 -9 \\ 3 + 24 +12
-					  \end{bmatrix}
+					  \end{bmatrix} \\
 					  &= \begin{bmatrix}
 					  -10 \\  9 \\ 39
 					  \end{bmatrix}
