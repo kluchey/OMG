@@ -5,6 +5,7 @@
 	- Given the scalar equation in 2D for a line, what is the normal vector?
 		- Use $Ax+By+C=0$ or, #eg $3x-5y-1=0$.
 			- **Recall:**
+			  collapsed:: true
 				- A normal is a vector that is perpendicular to the direction of the line.
 				- Given $Ax+By+C=0$ we can get the normal vector by reading off $A$ and $B$. I.e. the normal vector is $\begin{bmatrix}A\\ B\end{bmatrix}$.
 				- In the example above, a normal vector is $\begin{bmatrix}3\\ -5\end{bmatrix}$
@@ -25,6 +26,7 @@
 		  $$\begin{bmatrix}x\\ y\\ z\end{bmatrix}=\begin{bmatrix}1\\ 2\\ 3\end{bmatrix}+t\begin{bmatrix}-2\\ 4\\ 6\end{bmatrix}+k\begin{bmatrix}1\\ 3\\ -4\end{bmatrix}$$
 			- **Strategy:**
 			  logseq.order-list-type:: number
+			  collapsed:: true
 				- We need a vector perpendicular to both direction vectors. We need the **cross product**!
 				  logseq.order-list-type:: number
 				  collapsed:: true
@@ -64,6 +66,7 @@
 		  logseq.order-list-type:: number
 			- **Strategy:**
 			  logseq.order-list-type:: number
+			  collapsed:: true
 				- Get the point defined by $t=4$ and $k=-3$.
 				  logseq.order-list-type:: number
 				  collapsed:: true
@@ -90,6 +93,7 @@
 	  logseq.order-list-type:: number
 		- **Strategy:**
 		  logseq.order-list-type:: number
+		  collapsed:: true
 			- Unlike in 2D, for vectors in 3D we need two vectors to find a ==[[perpendicular]]== third vector by using the cross product. Where do our two vectors come from in this problem?
 			  logseq.order-list-type:: number
 			- One is the normal vector of $2x-y+z-10=0$ which serves as one of our new plane's direction vectors.
