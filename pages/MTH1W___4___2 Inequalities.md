@@ -73,4 +73,7 @@
 		  logseq.order-list-type:: number
 		- $y< -3x-1$
 		  logseq.order-list-type:: number
-		- logseq.order-list-type:: number
+		- $\frac15 x-2 > y$
+		  logseq.order-list-type:: number
+	- Are the graphs of $y>3x+4$ and $3x+4>y$ the same?
+	  logseq.order-list-type:: number
