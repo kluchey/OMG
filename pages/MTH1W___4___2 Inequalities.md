@@ -25,7 +25,9 @@
 			- $3\leq-3$
 			- $-3<3$
 	- When we introduce variables, we begin asking questions where the answers are `True` or `False` Here is an example, can you make up new questions to match the ==[[subsequent]]== inequalities?
-		- #eg $x<3$ is like the question "What numbers are less than 3"? The answer $x=2$ is `True` while the $x=4$ is `False`.
+		- #eg $x<3$ is like the question:
+		  "What numbers are less than 3"?
+		  The answer $x=2$ is `True` while $x=4$ would `False`.
 		- $y>10$
 		- $n<-3$
 		- $k>-5$
