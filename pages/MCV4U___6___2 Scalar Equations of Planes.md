@@ -11,4 +11,6 @@
 				- In the example above, a normal vector is $\begin{bmatrix}3\\ -5\end{bmatrix}$
 - ## Lesson
 	- The scalar equation of a plane is similar to the one for a line, but has an extra parameter:
-		-
+		- $$Ax+By+Cz+D=0$$
+		- Where $\begin{bmatrix}A\\ B\\ C\end{bmatrix}$ is a normal vector to the plane depicted as $n$ in the diagram below.
+		- ![image.png](../assets/image_1748445121689_0.png)
