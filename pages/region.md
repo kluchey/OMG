@@ -1,1 +1,2 @@
-- #definiton A
+- #definiton A region is an #Area of a graph plotted as points inside or on one side of a border. The border is usually a shape's edge, a line, or a curve.
+- #eg $$$$
