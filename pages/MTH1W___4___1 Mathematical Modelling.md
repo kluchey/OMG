@@ -1,7 +1,7 @@
 - #+BEGIN_WARNING
   Our **goal** this lesson is to learn how to create general mathematical models from words.
   #+END_WARNING
-- ## Warm Up #.v-self-border
+- ## Warm Up #.v-self-border-children
 	- Let's think about how to translate some English into Algebra, here's an example from EQAO:
 		- ![image.png](../assets/image_1748396924758_0.png){:height 294, :width 343}
 		- *Solution.*
