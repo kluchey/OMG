@@ -99,8 +99,10 @@
 				  \vec{AB} &= (3,2,1)-(1,4,5) \\
 				  &= (2,-2,-4)
 				  \end{align*}$$
-				- So $(
+				- So $(2,-2,-4)$ is our second direction vector for our new plane.
 				  logseq.order-list-type:: number
+			- To get the scalar equation for our new plane, we need a normal vector, which
+			  logseq.order-list-type:: number
 - ## Consolidation
 	- What information is needed to create a scalar equation of a plane?
 	- What are the steps to use a vector equation of a plane to get the scalar equation?
