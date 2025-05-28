@@ -81,4 +81,5 @@
 			  logseq.order-list-type:: number
 			- Why would a bakery want to model sales using an algebra?
 			  logseq.order-list-type:: number
-		- logseq.order-list-type:: number
+		- A very old recipe has a number
+		  logseq.order-list-type:: number
