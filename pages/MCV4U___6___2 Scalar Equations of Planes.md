@@ -61,8 +61,11 @@
 				  logseq.order-list-type:: number
 		- Show that the point represented by $t=4$ and $k=-3$ is in fact also on the scalar equation you found.
 		  logseq.order-list-type:: number
-			- **st**
+			- **Strategy:**
 			  logseq.order-list-type:: number
+				- Get the point defined by $t=4$ and $k=-3$.
+				  logseq.order-list-type:: number
+				- logseq.order-list-type:: number
 	- Find the scalar equation of the plane that contains the points $(1,4,5)$ and $(3, 2, 1)$ and is perpendicular to $2x-y+z-10=0$.
 	  logseq.order-list-type:: number
 - ## Consolidation
