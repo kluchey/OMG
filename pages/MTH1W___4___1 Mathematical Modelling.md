@@ -79,6 +79,8 @@
 			  logseq.order-list-type:: number
 			- If on this day the bakery sold 40 donuts, how many cupcakes were sold? *Solve an equation to answer this problem.*
 			  logseq.order-list-type:: number
+			- **Challenge:** Ignore the last part.
+			  logseq.order-list-type:: number
 			- Why would a bakery want to model sales using an algebra?
 			  logseq.order-list-type:: number
 		- You are trying to recreate a very old family favourite recipe for Pizza Dough for Father's Day. Luckily, it was written by your Mathematician Great Aunt and despite a number being worn out, all other measures are based on the missing number. Can you figure out how much yeast is used?
@@ -89,7 +91,7 @@
 			  logseq.order-list-type:: number
 			- Water:  The same amount as Flour.
 			  logseq.order-list-type:: number
-			- Salt:  Quadruple the amount of Yeast less 1 gram.
+			- Salt:  Quadruple the amount of Yeast, less 1 gram.
 			  logseq.order-list-type:: number
 			- In total, weigh your mixture, it should be 494 grams.
 			  logseq.order-list-type:: number
