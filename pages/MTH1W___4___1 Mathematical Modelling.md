@@ -71,9 +71,11 @@
 		  logseq.order-list-type:: number
 			- What are $d$ and $c$ measuring? Write let statements for the variables.
 			  logseq.order-list-type:: number
-			- What does $5d$ calculate? Interpret this algebra.
+			- What does $5d$ calculate? Interpret the meaning of this algebra.
 			  logseq.order-list-type:: number
-			- What does $6c$ calculate? Interpret this algebra.
+			- What does $6c$ calculate? Interpret the meaning of this algebra.
 			  logseq.order-list-type:: number
-			- $What does $5d+6c$ mean? Why is it equal to $500
+			- $What does $5d+6c$ mean? Why does it make sense to set it equal to $500?
+			  logseq.order-list-type:: number
+			- If the bakery sold $
 			  logseq.order-list-type:: number
