@@ -63,5 +63,5 @@
 		  logseq.order-list-type:: number
 	- Exit Ticket:
 	  logseq.order-list-type:: number
-		- A room has an Area of $120\text{m}^2$.
+		- A rectangular room has an Area of $120\text{m}^2$. The length of the room is
 		  logseq.order-list-type:: number
