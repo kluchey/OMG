@@ -77,4 +77,9 @@
 		  logseq.order-list-type:: number
 	- Are the graphs of $y>3x+4$ and $3x+4>y$ the same? How can you know from the inequalities before you use Desmos?
 	  logseq.order-list-type:: number
-	- logseq.order-list-type:: number
+	- Which inequality graphs this region?
+	  logseq.order-list-type:: number
+	  ![image.png](../assets/image_1748459566679_0.png){:height 405, :width 391}
+		- logseq.order-list-type:: number
+		- $y<2x-1$
+		  logseq.order-list-type:: number
