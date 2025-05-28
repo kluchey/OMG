@@ -61,7 +61,7 @@
 					  logseq.order-list-type:: number
 				- Therefore, the scalar equation is $17x+y+5z-34=0$
 				  logseq.order-list-type:: number
-		- Show that the point represented by $t=4$ and $k=-3$ is in fact also on the scalar equation you found.
+		- Show that the point represented by $t=4$ and $k=-3$ is in fact also on the scalar equation you found. You can also check this using Desmos 3D.
 		  logseq.order-list-type:: number
 			- **Strategy:**
 			  logseq.order-list-type:: number
