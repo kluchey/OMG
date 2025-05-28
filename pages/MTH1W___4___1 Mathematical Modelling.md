@@ -85,7 +85,7 @@
 		  logseq.order-list-type:: number
 			- *missing* grams of Yeast.
 			  logseq.order-list-type:: number
-			- Flour:  Forty times the amount of Yeast.
+			- Flour:  Eighty times the amount of Yeast.
 			  logseq.order-list-type:: number
-			- Water:  Half
+			- Water:  The same amount as Flour.
 			  logseq.order-list-type:: number
