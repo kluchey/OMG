@@ -89,5 +89,7 @@
 			  logseq.order-list-type:: number
 			- Water:  The same amount as Flour.
 			  logseq.order-list-type:: number
-			- Salt:  Double
+			- Salt:  Quadruple the amount of Yeast less 1 gram.
+			  logseq.order-list-type:: number
+			- In total, weigh your
 			  logseq.order-list-type:: number
