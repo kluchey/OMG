@@ -1,1 +1,2 @@
-- #definiton An inequality is a question asked mathematically about whether two  numbers or expressions
+- #definiton An inequality is a question asked mathematically about whether two or more numbers or expressions are greater or lesser than each other. Usually, this question can be answered `True` or `False` but sometimes we need to
+- #eg Is $3>4$?
