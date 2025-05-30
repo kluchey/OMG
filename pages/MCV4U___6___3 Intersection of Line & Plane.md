@@ -6,4 +6,5 @@
 - ## Action:  Examples #.v-self-border
 	- Find the intersection of each of the following, $k\in \R$ in each.
 	  logseq.order-list-type:: number
-		- logseq.order-list-type:: number
+		- $\left\lbrace\right\rbrace$
+		  logseq.order-list-type:: number
