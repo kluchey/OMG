@@ -85,18 +85,9 @@
 				  0+0k &= \\
 				  0 &= 0
 				  \end{align*}$$
-				- Our point of int
+				- We have not reached a contradiction, in fact, we have found what is known as a ==[[tautology]]==; this is a statement that is always correct.
 				  logseq.order-list-type:: number
-				- Therefore, we have one point of intersection, it is $(6,2,-4)$. We can verify this point by checking if it is also on the plane:
-				  logseq.order-list-type:: number
-					- logseq.order-list-type:: number
-					  $$\begin{align*}
-					  & 2(6)-(2)+6(-4)+14 \\
-					  &= 12-2-24+14 \\
-					  &= 0
-					  \end{align*}$$
-					- It is! So this is the PoI.
-					  logseq.order-list-type:: number
+				- logseq.order-list-type:: number
 - ## Consolidation
 	- For this consolidation, review the examples you solved in the action. We will let $L$ represent a Line and $P$ represent a Plane.
 	  logseq.order-list-type:: number
