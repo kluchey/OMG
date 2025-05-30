@@ -87,7 +87,8 @@
 				  \end{align*}$$
 				- We have not reached a contradiction, in fact, we have found what is known as a ==[[tautology]]==; this is a statement that is always correct.
 				  logseq.order-list-type:: number
-				- logseq.order-list-type:: number
+				- Therefore, the attempt we
+				  logseq.order-list-type:: number
 - ## Consolidation
 	- For this consolidation, review the examples you solved in the action. We will let $L$ represent a Line and $P$ represent a Plane.
 	  logseq.order-list-type:: number
