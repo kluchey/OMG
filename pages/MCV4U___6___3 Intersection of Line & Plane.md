@@ -10,6 +10,10 @@
 		  logseq.order-list-type:: number
 			- *Solution.*
 			  logseq.order-list-type:: number
+				- Substitute the parametric equations into the scalar plane equation:
+				  logseq.order-list-type:: number
+				- $2(4-k)-(6+2k)
+				  logseq.order-list-type:: number
 		- $\begin{cases}x=5+k\\ y=4+2k\\ z=7+2k\\ 2x+3y-4z+7=0\end{cases}$
 		  logseq.order-list-type:: number
 			- *Solution.*
