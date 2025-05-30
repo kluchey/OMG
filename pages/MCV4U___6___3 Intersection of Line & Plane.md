@@ -44,6 +44,7 @@
 		  logseq.order-list-type:: number
 			- *Solution.*
 			  logseq.order-list-type:: number
+			  collapsed:: true
 				- Substitute the parametric equations into the scalar plane equation:
 				  logseq.order-list-type:: number
 				- logseq.order-list-type:: number
@@ -69,18 +70,17 @@
 					  &=2+6-8 \\
 					  &=0
 					  \end{align*}$$
-					- If you notice carefully in the second step of this solution, we saw $2k+6k-8k$ happen in that step already. So
+					- If you notice carefully in the second step of this solution, we saw $2k+6k-8k$ happen in that step already. So this "verification" step isn't totally necessary but can feel like a good confirmation or a quick sanity check.
 					  logseq.order-list-type:: number
 		- $\begin{cases}\left(x,y,z\right)=\left(2,14,1\right)+k\left(-1,-1,1\right)\\ 3x-y+2z+6=0\end{cases}$
 		  logseq.order-list-type:: number
 			- *Solution.*
 			  logseq.order-list-type:: number
-			  collapsed:: true
 				- Substitute the parametric equations into the scalar plane equation:
 				  logseq.order-list-type:: number
 				- logseq.order-list-type:: number
 				  $$\begin{align*}
-				  2(4-k)-(6+2k)+6(-2+k)+14 &=0 \\
+				  3(4-k)-(6+2k)+2(-2+k)+14 &=0 \\
 				  8-2k-6-2k-12+6k+14 &= \\
 				  4+2k &= \\
 				  2k &= -4 \\
