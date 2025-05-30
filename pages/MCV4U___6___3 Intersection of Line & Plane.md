@@ -27,5 +27,7 @@
 		  logseq.order-list-type:: number
 		- $\begin{cases}\left(x,y,z\right)=\left(-1,3,4\right)+k\left(6,1,-2\right)\\ x+2y-z+29=0\end{cases}$
 		  logseq.order-list-type:: number
-		- $\left\lbrace\right\rbrace$
+		- $\begin{cases}\left(x,y,z\right)=\left(1,5,6\right)+k\left(1,-2,-2\right)\\ 2x-3y+4z+11=0\end{cases}$
+		  logseq.order-list-type:: number
+		- $\begin{cases}\\ \placeholder{}\end{cases}$
 		  logseq.order-list-type:: number
