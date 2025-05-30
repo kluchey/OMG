@@ -76,6 +76,7 @@
 		  logseq.order-list-type:: number
 			- *Solution.*
 			  logseq.order-list-type:: number
+			  collapsed:: true
 				- Substitute the parametric equations into the scalar plane equation:
 				  logseq.order-list-type:: number
 				- logseq.order-list-type:: number
@@ -91,8 +92,8 @@
 				  logseq.order-list-type:: number
 				- When a line is contained by a plane, if $L$ is the line and $P$ is the plane, we can say $L\subset P$.
 				  logseq.order-list-type:: number
-- ## Consolidation
-	- For this consolidation, review the examples you solved in the action. We will let $L$ represent a Line and $P$ represent a Plane.
+- ## Consolidation #.v-border-children
+	- For this consolidation, review the examples you solved in the action. We will let $L$ represent a Line and $P$ represent a Plane. #.v-border-children
 	  logseq.order-list-type:: number
 		- If $L$ and $P$ meet at one point of intersection, what do we expect to have found at the end of our algebraic solution?
 		  logseq.order-list-type:: number
@@ -100,7 +101,7 @@
 		  logseq.order-list-type:: number
 		- If $L\subset P$ ($L$ is contained by $P$), what do we expect to have found at the end of our algebraic solution?
 		  logseq.order-list-type:: number
-	- Find the intersection of each of the following:
+	- Find the intersection of each of the following: #.v-border-children
 	  logseq.order-list-type:: number
 		- $\begin{cases}x=-2+k\\ y=1-k\\ z=2+3k\\ x+4y+z-4=0\end{cases}$
 		  logseq.order-list-type:: number
