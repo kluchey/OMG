@@ -4,4 +4,6 @@
 - ## Warm Up
 	- Grab a pencil and a piece of paper. How many *different* ways can this paper interact with the pencil? Which object is like a line and which is like a plane in this situation? Summarize all of the ways to interact with sketches.
 - ## Action:  Examples #.v-self-border
-	- logseq.order-list-type:: number
+	- Find the intersection of each of the following, $k\in \R$ in each.
+	  logseq.order-list-type:: number
+		- logseq.order-list-type:: number
