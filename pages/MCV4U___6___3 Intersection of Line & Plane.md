@@ -80,9 +80,9 @@
 				  logseq.order-list-type:: number
 				- logseq.order-list-type:: number
 				  $$\begin{align*}
-				  3(4-k)-(6+2k)+2(-2+k)+14 &=0 \\
-				  8-2k-6-2k-12+6k+14 &= \\
-				  4+2k &= \\
+				  3(2-k)-(14-k)+2(1+k)+6 &=0 \\
+				  6-3k-14+k+2+2k+6 &= \\
+				  0+2k &= \\
 				  2k &= -4 \\
 				  k &= \frac{-4}{2} \\
 				  k &= -2
