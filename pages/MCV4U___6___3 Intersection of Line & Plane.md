@@ -33,8 +33,8 @@
 				  logseq.order-list-type:: number
 					- logseq.order-list-type:: number
 					  $$\begin{align*}
-					  2(6)-(2)+6(-4)+14
-					   12-2-24+14=0
+					  & 2(6)-(2)+6(-4)+14 \\
+					  &= 12-2-24+14
 					  \end{align*}$$
 					- logseq.order-list-type:: number
 		- $\begin{cases}x=5+k\\ y=4+2k\\ z=7+2k\\ 2x+3y-4z+7=0\end{cases}$
