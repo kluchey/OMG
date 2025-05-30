@@ -4,7 +4,7 @@
 - ## Warm Up
 	- Grab a pencil and a piece of paper. How many *different* ways can this paper interact with the pencil? Which object is like a line and which is like a plane in this situation? Summarize all of the ways to interact with sketches.
 - ## Action:  Examples #.v-self-border
-	- Find the intersection (if any)of each of the following, $k\in \R$ in each.
+	- Find the intersection (if any) for each of the following systems in $\R^3$, $k\in \R$ in each.
 	  logseq.order-list-type:: number
 		- $\begin{cases}\left(x,y,z\right)=\left(4,6,-2\right)+k\left(-1,2,1\right)\\ 2x-y+6z+14=0\end{cases}$
 		  logseq.order-list-type:: number
@@ -14,4 +14,4 @@
 		  logseq.order-list-type:: number
 - ## Consolidation
 	- For this consolidation, review the examples you solved in the action. We will let $L$ represent a Line and $P$ represent a Plane.
-		- If $L$ and $P$ meet at one point of intersection, what do we expect
+		- If $L$ and $P$ meet at one point of intersection, what do we expect to have found at the end of an algebraic solution?
