@@ -15,7 +15,10 @@
 				- logseq.order-list-type:: number
 				  $$\begin{align*}
 				  2(4-k)-(6+2k)+6(-2+k)+14 &=0 \\
-				  8-2k-6-2k-12+6k+14 &= \\ 
+				  8-2k-6-2k-12+6k+14 &= \\
+				  4+2k &= \\
+				  2k &= -4 \\
+				  k &= \frac{-4}{}
 				  \end{align*}$$
 		- $\begin{cases}x=5+k\\ y=4+2k\\ z=7+2k\\ 2x+3y-4z+7=0\end{cases}$
 		  logseq.order-list-type:: number
