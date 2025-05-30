@@ -51,18 +51,10 @@
 				  2(5+k)+3(4+2k)-4(7+2k)+7 &\stackrel{?}{=}0 \\
 				  10+2k+12+6k-28-8k+7 &= \\
 				  3+0k &= \\
-				  2k &= -4 \\
-				  k &= \frac{-4}{2} \\
-				  k &= -2
+				  3 &= 0
 				  \end{align*}$$
-				- Our point of intersection is defined by the parameter $k=-2$ so we will now calculate it:
+				- We have reached a contradiction. This means we cannot substitute the line into the plane
 				  logseq.order-list-type:: number
-					- logseq.order-list-type:: number
-					  $$\begin{align*}
-					  (x,y,z) &= (4,6,-2)-2(-1,2,1) \\
-					  &= (4+2,6-4,-2-2) \\
-					  &= (6,2,-4)
-					  \end{align*}$$
 				- Therefore, we have one point of intersection, it is $(6,2,-4)$. We can verify this point by checking if it is also on the plane:
 				  logseq.order-list-type:: number
 					- logseq.order-list-type:: number
