@@ -25,5 +25,5 @@
 	  logseq.order-list-type:: number
 		- $\begin{cases}x=-2+k\\ y=1-k\\ z=2+3k\\ x+4y+z-4=0\end{cases}$
 		  logseq.order-list-type:: number
-		- logseq.order-list-type:: number
-		  $$$$
+		- $\begin{cases}\left(x,y,z\right)=\left(-1,3,4\right)+k\left(6,1,-2\right)\\ x+2y\end{cases}$
+		  logseq.order-list-type:: number
