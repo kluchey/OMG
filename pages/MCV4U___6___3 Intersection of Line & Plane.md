@@ -10,6 +10,7 @@
 		  logseq.order-list-type:: number
 			- *Solution.*
 			  logseq.order-list-type:: number
+			  collapsed:: true
 				- Substitute the parametric equations into the scalar plane equation:
 				  logseq.order-list-type:: number
 				- logseq.order-list-type:: number
@@ -34,17 +35,79 @@
 					- logseq.order-list-type:: number
 					  $$\begin{align*}
 					  & 2(6)-(2)+6(-4)+14 \\
-					  &= 12-2-24+14
+					  &= 12-2-24+14 \\
+					  &= 0
 					  \end{align*}$$
-					- logseq.order-list-type:: number
+					- It is! So this is the PoI.
+					  logseq.order-list-type:: number
 		- $\begin{cases}x=5+k\\ y=4+2k\\ z=7+2k\\ 2x+3y-4z+7=0\end{cases}$
 		  logseq.order-list-type:: number
 			- *Solution.*
 			  logseq.order-list-type:: number
+			  collapsed:: true
+				- Substitute the parametric equations into the scalar plane equation:
+				  logseq.order-list-type:: number
+				- logseq.order-list-type:: number
+				  $$\begin{align*}
+				  2(4-k)-(6+2k)+6(-2+k)+14 &=0 \\
+				  8-2k-6-2k-12+6k+14 &= \\
+				  4+2k &= \\
+				  2k &= -4 \\
+				  k &= \frac{-4}{2} \\
+				  k &= -2
+				  \end{align*}$$
+				- Our point of intersection is defined by the parameter $k=-2$ so we will now calculate it:
+				  logseq.order-list-type:: number
+					- logseq.order-list-type:: number
+					  $$\begin{align*}
+					  (x,y,z) &= (4,6,-2)-2(-1,2,1) \\
+					  &= (4+2,6-4,-2-2) \\
+					  &= (6,2,-4)
+					  \end{align*}$$
+				- Therefore, we have one point of intersection, it is $(6,2,-4)$. We can verify this point by checking if it is also on the plane:
+				  logseq.order-list-type:: number
+					- logseq.order-list-type:: number
+					  $$\begin{align*}
+					  & 2(6)-(2)+6(-4)+14 \\
+					  &= 12-2-24+14 \\
+					  &= 0
+					  \end{align*}$$
+					- It is! So this is the PoI.
+					  logseq.order-list-type:: number
 		- $\begin{cases}\left(x,y,z\right)=\left(2,14,1\right)+k\left(-1,-1,1\right)\\ 3x-y+2z+6=0\end{cases}$
 		  logseq.order-list-type:: number
 			- *Solution.*
 			  logseq.order-list-type:: number
+			  collapsed:: true
+				- Substitute the parametric equations into the scalar plane equation:
+				  logseq.order-list-type:: number
+				- logseq.order-list-type:: number
+				  $$\begin{align*}
+				  2(4-k)-(6+2k)+6(-2+k)+14 &=0 \\
+				  8-2k-6-2k-12+6k+14 &= \\
+				  4+2k &= \\
+				  2k &= -4 \\
+				  k &= \frac{-4}{2} \\
+				  k &= -2
+				  \end{align*}$$
+				- Our point of intersection is defined by the parameter $k=-2$ so we will now calculate it:
+				  logseq.order-list-type:: number
+					- logseq.order-list-type:: number
+					  $$\begin{align*}
+					  (x,y,z) &= (4,6,-2)-2(-1,2,1) \\
+					  &= (4+2,6-4,-2-2) \\
+					  &= (6,2,-4)
+					  \end{align*}$$
+				- Therefore, we have one point of intersection, it is $(6,2,-4)$. We can verify this point by checking if it is also on the plane:
+				  logseq.order-list-type:: number
+					- logseq.order-list-type:: number
+					  $$\begin{align*}
+					  & 2(6)-(2)+6(-4)+14 \\
+					  &= 12-2-24+14 \\
+					  &= 0
+					  \end{align*}$$
+					- It is! So this is the PoI.
+					  logseq.order-list-type:: number
 - ## Consolidation
 	- For this consolidation, review the examples you solved in the action. We will let $L$ represent a Line and $P$ represent a Plane.
 	  logseq.order-list-type:: number
