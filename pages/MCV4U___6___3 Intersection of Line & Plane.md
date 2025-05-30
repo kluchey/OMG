@@ -24,6 +24,9 @@
 				- Our point of intersection is defined by the parameter $k=-2$ so we will now calculate it:
 				  logseq.order-list-type:: number
 					- logseq.order-list-type:: number
+					  $$
+					  (x,y,z) = (4,6,-2)-2(-1,2,1)
+					  $$
 		- $\begin{cases}x=5+k\\ y=4+2k\\ z=7+2k\\ 2x+3y-4z+7=0\end{cases}$
 		  logseq.order-list-type:: number
 			- *Solution.*
