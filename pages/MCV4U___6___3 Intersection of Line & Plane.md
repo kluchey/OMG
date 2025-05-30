@@ -80,21 +80,13 @@
 				  logseq.order-list-type:: number
 				- logseq.order-list-type:: number
 				  $$\begin{align*}
-				  3(2-k)-(14-k)+2(1+k)+6 &=0 \\
+				  3(2-k)-(14-k)+2(1+k)+6 &\stackrel{?}{=} 0 \\
 				  6-3k-14+k+2+2k+6 &= \\
-				  0+2k &= \\
-				  2k &= -4 \\
-				  k &= \frac{-4}{2} \\
-				  k &= -2
+				  0+0k &= \\
+				  0 &= 0
 				  \end{align*}$$
-				- Our point of intersection is defined by the parameter $k=-2$ so we will now calculate it:
+				- Our point of int
 				  logseq.order-list-type:: number
-					- logseq.order-list-type:: number
-					  $$\begin{align*}
-					  (x,y,z) &= (4,6,-2)-2(-1,2,1) \\
-					  &= (4+2,6-4,-2-2) \\
-					  &= (6,2,-4)
-					  \end{align*}$$
 				- Therefore, we have one point of intersection, it is $(6,2,-4)$. We can verify this point by checking if it is also on the plane:
 				  logseq.order-list-type:: number
 					- logseq.order-list-type:: number
