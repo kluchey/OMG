@@ -33,12 +33,12 @@ icon:: 🍎
 		- [[MBF3C]] Foundations for College Math 11
 		- [[MEL3E]] Math for Work & Life
 	- ### Grade 12
-	  collapsed:: true
 		- [[MHF4U]] Advanced Functions
 		- [[MCV4U]] Calculus & Vectors 🚩
 		  id:: 6831285a-246d-4fd3-9bda-e83ab153c99b
 			- [6-1 Planes🛫]([[MCV4U/6/1 Vectors to Represent Planes]])
 			- [6-2 Scalar Planes]([[MCV4U/6/2 Scalar Equations of Planes]])
+			- [6-3 Line & Plane]([[MCV4U/6/3 Intersection of Line & Plane]])
 		- [[MDM4U]] Data Management
 		- [[MCT4C]] Math for College Tech
 		- [[MAP4C]] Foundations for College Math 12
