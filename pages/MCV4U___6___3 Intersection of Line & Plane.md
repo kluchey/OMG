@@ -10,12 +10,11 @@
 		  logseq.order-list-type:: number
 			- *Solution.*
 			  logseq.order-list-type:: number
-			  collapsed:: true
 				- Substitute the parametric equations into the scalar plane equation:
 				  logseq.order-list-type:: number
 				- logseq.order-list-type:: number
 				  $$\begin{align*}
-				  2(4-k)-(6+2k)+6(-2+k)+14 &=0 \\
+				  2(4-k)-(6+2k)+6(-2+k)+14 &\stackrelation{?}{=} 0 \\
 				  8-2k-6-2k-12+6k+14 &= \\
 				  4+2k &= \\
 				  2k &= -4 \\
@@ -48,8 +47,8 @@
 				  logseq.order-list-type:: number
 				- logseq.order-list-type:: number
 				  $$\begin{align*}
-				  2(5+k)+3(4+2k)-4(7+2k)+7 &=0 \\
-				  10+2k+12+6k-12+6k+14 &= \\
+				  2(5+k)+3(4+2k)-4(7+2k)+7 &\stackrelation{?}{=}0 \\
+				  10+2k+12+6k-28-8k+7 &= \\
 				  4+2k &= \\
 				  2k &= -4 \\
 				  k &= \frac{-4}{2} \\
