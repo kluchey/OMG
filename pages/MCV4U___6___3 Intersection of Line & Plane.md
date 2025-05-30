@@ -14,6 +14,10 @@
 		  logseq.order-list-type:: number
 - ## Consolidation
 	- For this consolidation, review the examples you solved in the action. We will let $L$ represent a Line and $P$ represent a Plane.
+	  logseq.order-list-type:: number
 		- If $L$ and $P$ meet at one point of intersection, what do we expect to have found at the end of our algebraic solution?
+		  logseq.order-list-type:: number
 		- If $L$ and $P$ do not intersect, what do we expect to have found at the end of our algebraic solution?
-		- If $L\subset P$ (), what do we expect to have found at the end of our algebraic solution?
+		  logseq.order-list-type:: number
+		- If $L\subset P$ ($L$ is contained by $P$), what do we expect to have found at the end of our algebraic solution?
+		  logseq.order-list-type:: number
