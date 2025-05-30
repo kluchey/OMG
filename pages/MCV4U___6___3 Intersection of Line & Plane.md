@@ -6,5 +6,7 @@
 - ## Action:  Examples #.v-self-border
 	- Find the intersection of each of the following, $k\in \R$ in each.
 	  logseq.order-list-type:: number
+		- $\begin{cases}\left(x,y,z\right)=\left(4,6,-2\right)+k\left(-1,2,1\right)\\ 2x-y+6z+14\end{cases}$
+		  logseq.order-list-type:: number
 		- $\left\lbrace\right\rbrace$
 		  logseq.order-list-type:: number
