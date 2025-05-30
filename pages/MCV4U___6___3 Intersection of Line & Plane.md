@@ -57,15 +57,16 @@
 				  logseq.order-list-type:: number
 				- We can verify if the Line and Plane are parallel by considering the normal of the Plane, which would also be normal to the Line's direction vector if the line is in fact parallel.
 				  logseq.order-list-type:: number
-					- Line's Direction:  (1,2,2)
+					- Line's Direction:  $(1,2,2)$
 					  logseq.order-list-type:: number
-					- Plane's Normal:  (2,-1,6)
+					- Plane's Normal:  $(2,3,-4)$
 					  logseq.order-list-type:: number
 					- Dot product:
 					  logseq.order-list-type:: number
 					  $$\begin{align*}
-					  &(1,2,2)\cdot (2,-1,6) \\
-					  &=1(2)
+					  &(1,2,2)\cdot (2,3,-4) \\
+					  &=1(2)+2(3)-4(6) \\
+					  
 					  \end{align*}$$
 		- $\begin{cases}\left(x,y,z\right)=\left(2,14,1\right)+k\left(-1,-1,1\right)\\ 3x-y+2z+6=0\end{cases}$
 		  logseq.order-list-type:: number
