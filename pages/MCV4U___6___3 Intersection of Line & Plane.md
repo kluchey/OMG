@@ -21,3 +21,9 @@
 		  logseq.order-list-type:: number
 		- If $L\subset P$ ($L$ is contained by $P$), what do we expect to have found at the end of our algebraic solution?
 		  logseq.order-list-type:: number
+	- Find the intersection of each of the following:
+	  logseq.order-list-type:: number
+		- $\begin{cases}x=-2+k\\ y=1-k\\ z=2+3k\\ x+4y+z-4=0\end{cases}$
+		  logseq.order-list-type:: number
+		- logseq.order-list-type:: number
+		  $$$$
