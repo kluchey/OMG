@@ -18,8 +18,12 @@
 				  8-2k-6-2k-12+6k+14 &= \\
 				  4+2k &= \\
 				  2k &= -4 \\
-				  k &= \frac{-4}{}
+				  k &= \frac{-4}{2} \\
+				  k &= -2
 				  \end{align*}$$
+				- Our point of intersection is defined by the parameter $k=-2$ so we will now calculate it:
+				  logseq.order-list-type:: number
+					- logseq.order-list-type:: number
 		- $\begin{cases}x=5+k\\ y=4+2k\\ z=7+2k\\ 2x+3y-4z+7=0\end{cases}$
 		  logseq.order-list-type:: number
 			- *Solution.*
