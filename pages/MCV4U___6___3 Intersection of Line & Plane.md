@@ -8,10 +8,16 @@
 	  logseq.order-list-type:: number
 		- $\begin{cases}\left(x,y,z\right)=\left(4,6,-2\right)+k\left(-1,2,1\right)\\ 2x-y+6z+14=0\end{cases}$
 		  logseq.order-list-type:: number
+			- *Solution.*
+			  logseq.order-list-type:: number
 		- $\begin{cases}x=5+k\\ y=4+2k\\ z=7+2k\\ 2x+3y-4z+7=0\end{cases}$
 		  logseq.order-list-type:: number
+			- *Solution.*
+			  logseq.order-list-type:: number
 		- $\begin{cases}\left(x,y,z\right)=\left(2,14,1\right)+k\left(-1,-1,1\right)\\ 3x-y+2z+6=0\end{cases}$
 		  logseq.order-list-type:: number
+			- *Solution.*
+			  logseq.order-list-type:: number
 - ## Consolidation
 	- For this consolidation, review the examples you solved in the action. We will let $L$ represent a Line and $P$ represent a Plane.
 	  logseq.order-list-type:: number
