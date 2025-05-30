@@ -31,5 +31,8 @@
 		  logseq.order-list-type:: number
 		- $\begin{cases}\frac{x-1}{4}=-y-2=z-3\\ 2x+7y+z+15=0\end{cases}$
 		  logseq.order-list-type:: number
-		- $\begin{cases}\left(x,y,z\right)=\left(-1,1,0\right)+k\left(-1,2,2\right)\\ 2x\end{cases}$
+		- $\begin{cases}\left(x,y,z\right)=\left(-1,1,0\right)+k\left(-1,2,2\right)\\ 2x-2y+3z-1=0\end{cases}$
 		  logseq.order-list-type:: number
+	- *Answers:*
+	  collapsed:: true
+		- 2.a) the line lies on the plane b) (-19,0,10) c) the line is parallel to the plane d) (-11,1,0) e) The line and plane are parallel
