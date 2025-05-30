@@ -10,3 +10,5 @@
 		  logseq.order-list-type:: number
 		- $\begin{cases}x=5+k\\ y=4+2k\\ z=7+2k\\ 2x+3y-4z+7=0\end{cases}$
 		  logseq.order-list-type:: number
+		- $\left\lbrace\right\rbrace$
+		  logseq.order-list-type:: number
