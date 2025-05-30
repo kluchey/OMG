@@ -13,4 +13,4 @@
 		- $\begin{cases}\left(x,y,z\right)=\left(2,14,1\right)+k\left(-1,-1,1\right)\\ 3x-y+2z+6=0\end{cases}$
 		  logseq.order-list-type:: number
 - ## Consolidation
-	- For this consolidation, review the examples you solved.
+	- For this consolidation, review the examples you solved in the action. We will let $L$ represent a Line and
