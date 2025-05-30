@@ -53,18 +53,10 @@
 				  3+0k &= \\
 				  3 &= 0
 				  \end{align*}$$
-				- We have reached a contradiction. This means we cannot substitute the line into the plane
+				- We have reached a contradiction. This means we cannot substitute the line into the plane or else we will always get a contradiction, and so the line must be parallel to the plane.
 				  logseq.order-list-type:: number
-				- Therefore, we have one point of intersection, it is $(6,2,-4)$. We can verify this point by checking if it is also on the plane:
+				- We can verify if the Line and Plane are parallel by
 				  logseq.order-list-type:: number
-					- logseq.order-list-type:: number
-					  $$\begin{align*}
-					  & 2(6)-(2)+6(-4)+14 \\
-					  &= 12-2-24+14 \\
-					  &= 0
-					  \end{align*}$$
-					- It is! So this is the PoI.
-					  logseq.order-list-type:: number
 		- $\begin{cases}\left(x,y,z\right)=\left(2,14,1\right)+k\left(-1,-1,1\right)\\ 3x-y+2z+6=0\end{cases}$
 		  logseq.order-list-type:: number
 			- *Solution.*
