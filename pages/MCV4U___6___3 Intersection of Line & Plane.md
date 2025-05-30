@@ -29,7 +29,10 @@
 					  &= (4+2,6-4,-2-2) \\
 					  &= (6,2,-4)
 					  \end{align*}$$
-				- logseq.order-list-type:: number
+				- Therefore, we have one point of intersection, it is $(6,2,-4)$. We can verify this point by checking if it is also on the plane:
+				  logseq.order-list-type:: number
+					- $2(6)-(2)+6(-4)+14 =
+					  logseq.order-list-type:: number
 		- $\begin{cases}x=5+k\\ y=4+2k\\ z=7+2k\\ 2x+3y-4z+7=0\end{cases}$
 		  logseq.order-list-type:: number
 			- *Solution.*
