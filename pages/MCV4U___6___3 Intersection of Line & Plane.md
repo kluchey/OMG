@@ -65,8 +65,8 @@
 					  logseq.order-list-type:: number
 					  $$\begin{align*}
 					  &(1,2,2)\cdot (2,3,-4) \\
-					  &=1(2)+2(3)-4(6) \\
-					  
+					  &=1(2)+2(3)+2(6) \\
+					  &=2+6-24
 					  \end{align*}$$
 		- $\begin{cases}\left(x,y,z\right)=\left(2,14,1\right)+k\left(-1,-1,1\right)\\ 3x-y+2z+6=0\end{cases}$
 		  logseq.order-list-type:: number
