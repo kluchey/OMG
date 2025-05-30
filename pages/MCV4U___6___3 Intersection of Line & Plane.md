@@ -65,9 +65,12 @@
 					  logseq.order-list-type:: number
 					  $$\begin{align*}
 					  &(1,2,2)\cdot (2,3,-4) \\
-					  &=1(2)+2(3)+2(6) \\
-					  &=2+6-24
+					  &=1(2)+2(3)+2(-4) \\
+					  &=2+6-8 \\
+					  &=0
 					  \end{align*}$$
+					- If you notice carefully in the second step of this solution, we saw $2k+6k-8k$ happen in that step already. So
+					  logseq.order-list-type:: number
 		- $\begin{cases}\left(x,y,z\right)=\left(2,14,1\right)+k\left(-1,-1,1\right)\\ 3x-y+2z+6=0\end{cases}$
 		  logseq.order-list-type:: number
 			- *Solution.*
