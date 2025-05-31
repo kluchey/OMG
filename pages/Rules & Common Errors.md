@@ -61,7 +61,10 @@
 					- $$\begin{align*}
 					  3x+2y &=1 \\
 					  2y &= -3x +1 \\
+					  y &= \frac{-3}{2}x + \frac{1}{2}
 					  \end{align*}$$
+					- And so the y-intercept is $b=\frac12$.
+				-
 - ## Spilling the t
   collapsed:: true
 	- #eg #MCV4U A symmetric equation is given by $\frac{x-2}{3}=\frac{y-1}{4}$ and a student is asked to write the parametric equations. Either:
