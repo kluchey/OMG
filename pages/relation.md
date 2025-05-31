@@ -1,6 +1,6 @@
 - #definiton A relation is a connection between two or more objects.
 - #eg #MTH1W A fraction is a relation between two values or quantities. $\frac12$ can have several meanings that are all relations:
 	- 1 out of 2
-	- half, 50%, 0.5
+	- half, 50%, or 0.5
 	- 3 out of 6, since $\frac12 = \frac36$
-	- 50%
+	- 1 object for every 2 objects, eg. $1 earned for every 2 minutes working.
