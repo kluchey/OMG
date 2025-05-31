@@ -1,0 +1,1 @@
+- #definiton An [[operation]] is commutative if and only if the order of the operation does not matter to the result.
