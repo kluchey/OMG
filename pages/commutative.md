@@ -3,4 +3,4 @@
 - #eg Subtraction, Multiplication, and Division are all commutative.
 	- $x-y = -y+x$, note that the negative on $y$ is the same as multiplying by $-1$
 	- $x\cdot y = y \cdot x$
-	- $\frac{x}{y} = \frac{1}{y}\cdot x$, note that dividing is the same a smul
+	- $\frac{x}{y} = \frac{1}{y}\cdot x$, note that dividing is the same as multiplying by "1 over" the value, in this case "1 over y" or $\frac{1}{y}$.
