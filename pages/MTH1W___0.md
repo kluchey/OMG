@@ -37,8 +37,10 @@ alias:: MTH1W 0, 1W0
 		- Who is the robot 🤖 in this video? How successfully do you think they would follow *your* instructions? Can you modify your instructions so that the robot can follow them accurately?
 		- What did the kids not expect to have happen and why did they not expect this behaviour from their dad? Why is their dad behaving this way; what lesson is he trying to teach about how language is used?
 	- ## Take Action #.v-self-border
+		- #+BEGIN_CAUTION
+		  Goal:  How will you teach the robot about numbers? By the end of this lesson, you can describe a ==[[relation]]==, explain the purpose of ==[equals, "="]([[equal]])==, and can reason using ==[[equivalent fractions]]==.
+		  #+END_CAUTION
 		- Tools:  You will need a set of [[relational rods]].
-		- Goal:  How will you teach the robot about numbers? By the end of this lesson, you can describe a ==[[relation]]==, explain the purpose of ==[equals, "="]([[equal]])==, and can reason using ==[[equivalent fractions]]==.
 		- TODO Videos or gifs to pose the problems below.
 		- Viewing and manipulating the relational rods, what do you notice?
 			- What is the ==[[value]]== you would assign to the smallest piece? The largest?
