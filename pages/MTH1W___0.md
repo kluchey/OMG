@@ -20,7 +20,7 @@ id:: 682a36fc-2f8d-4932-b9b0-2b8dea761241
 	- ## Take Action #.v-self-border
 		- Tools:  You will need a set of [[relational rods]].
 		- Goal:  How will you teach the robot about numbers? By the end of this lesson, you can describe a ==[[relation]]==, explain the purpose of ==[equals, "="]([[equal]])==, and can reason using ==[[equivalent fractions]]==.
-		- #TODO Vid
+		- TODO Videos or gifs to pose the problems below.
 		- Viewing the relational rods, what do you notice?
 			- What is the ==[[value]]== you would assign to the smallest piece? The largest?
 			- How do we know the largest has that value? What values can we give to the other rods?
@@ -32,6 +32,7 @@ id:: 682a36fc-2f8d-4932-b9b0-2b8dea761241
 		- ### Exit Ticket
 			- Write down a list of instructions your robot would have to follow in order to use the relational rods to add the fractions $$\frac{1}{4} + \frac{1}{8}$$.
 			- Why do we need to have the same value for our denominators before we add fractions?
+- # Lesson 0
 - ## Learning Tasks #.v-self-border
 	- This is just the start of the robot's training. You still need to teach it to move around 🦿 and then you have also decided it should learn to do some tasks 🦾 around your home to make your life easier. #.v-border-children
 		- Lesson:  [How do I navigate?]([[MTH1W/0/1 Coordinates]])
