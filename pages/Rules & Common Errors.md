@@ -16,7 +16,7 @@
 - ## Plot Twist
 	- #eg A point is plotted on a graph and can be seen in the following image:
 		- ![image.png](../assets/image_1748665423882_0.png){:height 424, :width 588}
-		- The student describes this point as $(0,2)$, swapping the . The actual point is $(2,0)$ since all points are $(x,y)$ pairs, where $x$ is the horizontal coordinate and $y$ is the vertical coordinate.
+		- The student describes this point as $(0,2)$, either accidentally or intentionally writing the coordinates backwards. The actual point is $\color(2,0)$ since all points are $(x,y)$ pairs, where $x$ is the horizontal coordinate and $y$ is the vertical coordinate.
 	- To reliably avoid this error, always run before you rise when reading graphs.
 - ## Copy Error
   collapsed:: true
