@@ -1,1 +1,1 @@
-- #definiton The sound made when s
+- #definiton The sound made when something, which should have gone well, actually goes horribly wrong.
