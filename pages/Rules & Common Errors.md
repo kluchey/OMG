@@ -21,3 +21,5 @@
 		  A &= l\cdot w
 		  \end{align} $$
 	- To reliably avoid this error, always re-read the statement of a problem before you begin solving and after you have finished each step.
+- ## Spilling the t
+	- #eg #MCV4U A symmetric equation is given by $\frac{x-2}{3}=$
