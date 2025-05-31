@@ -3,5 +3,6 @@
   #+END_TIP
 - ## Dropping a Negative
 	- #+BEGIN_IMPORTANT
-	  Award Winner!  This error is the 
+	  Award Winner!  This error is the **most common** to make in high school.
 	  #+END_IMPORTANT
+	- #eg Imagine yourself calculating slope using the formula $m
