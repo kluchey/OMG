@@ -2,7 +2,7 @@
 id:: 682a36fc-2f8d-4932-b9b0-2b8dea761241
 | [MTH1W Homepage]([[MTH1W]]) | [Unit 0 Overview]([[MTH1W/0]]) | Go to [next lesson]([[MTH1W/0/1 Coordinates]]) |
 - # Unit 0 Overview:  *Mathematics is...*
-	- ## Learning Objectives for MTH1W #.v-self-border
+	- ## Learning Objectives for Unit 0 and this whole Course #.v-self-border
 		- Students will review three key skills that they also continue to develop throughout all units of Grade 9 Mathematics. *What is mathematics?* Mathematics is...
 			- Representing Quantities 📈 such as fractions
 			  logseq.order-list-type:: number
