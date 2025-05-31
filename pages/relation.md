@@ -4,3 +4,4 @@
 	- half, 50%, or 0.5
 	- 3 out of 6, since $\frac12 = \frac36$
 	- 1 object for every 2 objects, eg. $1 earned for every 2 minutes working.
+	- An object has value 1 when compared to an object of value 2, eg. 50g is 1 part and 100g is 2 parts
