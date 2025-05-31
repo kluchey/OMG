@@ -34,7 +34,7 @@ id:: 682a36fc-2f8d-4932-b9b0-2b8dea761241
 			- Why do we need to have the same value for our denominators before we add fractions?
 - # Lessons in Unit 0 #.v-self-border
   id:: 683a70f9-ca80-429d-843b-8143c333d865
-	- This is just the start of the robot's training. You still need to teach it to move around 🦿 and then you have also decided it should learn to do some tasks 🦾 around your home to make your life easier. #.v-border-children
+	- This is just the start of the robot's training. You still need to teach it to move around 🦿 and then you have also decided it should learn to do some tasks 🦾 around your home to make your life easier.
 		- Lesson:  [How do I navigate?]([[MTH1W/0/1 Coordinates]])
 		  logseq.order-list-type:: number
 		- Practice:  Writing clear instructions
