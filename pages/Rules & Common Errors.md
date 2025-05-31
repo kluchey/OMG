@@ -14,6 +14,8 @@
 	- To reliably avoid this error, always show intermediary steps, even in your practice, so you can look back at **every. single. calculation.** you have made during your process.
 - ## Plot Twist
 	- #eg A point on a graph can be seen in the following image:
+		- ![image.png](../assets/image_1748665423882_0.png){:height 424, :width 588}
+		- The student describes this point as $(0,2)$. The actual point is $(2,0)$ since all points are $(x,
 - ## Copy Error
   collapsed:: true
 	- #+BEGIN_IMPORTANT
