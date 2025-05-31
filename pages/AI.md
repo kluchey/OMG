@@ -1,0 +1,1 @@
+- #definiton This is an acronym standing for Artificial Intelligence assuming the meaning
