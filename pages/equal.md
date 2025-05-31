@@ -1,1 +1,2 @@
-- #definiton Equal, as in "Equivalence" or when using the symbol "=" called an equals sign"
+- #definiton Equal, as in "Equivalence" or when using the symbol "=" called an "equals sign" is an ==[[operation]]== on two numbers to check if they have *the same* ==[[value]]==.
+	- #eg
