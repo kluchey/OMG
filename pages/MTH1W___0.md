@@ -38,7 +38,10 @@ alias:: MTH1W 0, 1W0
 		- What did the kids not expect to have happen and why did they not expect this behaviour from their dad? Why is their dad behaving this way; what lesson is he trying to teach about how language is used?
 	- ## Take Action #.v-self-border
 		- #+BEGIN_CAUTION
-		  Goal:  How will you teach the robot about numbers? By the end of this lesson, you can describe a ==[[relation]]==, explain the purpose of ==[equals, "="]([[equal]])==, and can reason using ==[[equivalent fractions]]==.
+		  How will you teach the robot about numbers? By the end of this lesson, you can:
+		  1. describe what a ==[[relation]]== is in mathematical terms,
+		  2. explain the purpose of ==[equals, "="]([[equal]])==, and
+		  3. can reason using ==[[equivalent fractions]]==.
 		  #+END_CAUTION
 		- Tools:  You will need a set of [[relational rods]].
 		- TODO Videos or gifs to pose the problems below.
