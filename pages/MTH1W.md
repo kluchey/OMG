@@ -1,6 +1,6 @@
 icon:: 💡
 
-- # Grade 9 Mathematics #.v-self-border
+- # 🏠 Grade 9 Mathematics #.v-self-border
 	- ## Course Outline #.v-self-border
 		- id:: 68292d34-6cf9-4f6a-b05c-7a8b7cb8b992
 		  0. [Key Skills for Review]([[MTH1W/0]])
