@@ -1,1 +1,2 @@
-- #definiton An operation is an action on one or more objects.
+- #definiton An operation is an action taken on one or more objects.
+- #eg We have an acronym to remember the ====
