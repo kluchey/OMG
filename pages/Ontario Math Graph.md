@@ -17,7 +17,6 @@ icon:: 🍎
 	  collapsed:: true
 		- [[MTH1W]] Mathematics 9 🚩
 		  id:: 68312831-afbd-4af6-8f51-fcd4edf4e4c9
-			- [3 Dice Games]([[MTH1W/3/Dice Games]])
 			- [[MTH1W/4/1 Mathematical Modelling]]
 			- [[MTH1W/4/2 Inequalities]]
 		- [[MAT1L]] Essentials of Math 9
@@ -33,6 +32,7 @@ icon:: 🍎
 		- [[MBF3C]] Foundations for College Math 11
 		- [[MEL3E]] Math for Work & Life
 	- ### Grade 12
+	  collapsed:: true
 		- [[MHF4U]] Advanced Functions
 		- [[MCV4U]] Calculus & Vectors 🚩
 		  id:: 6831285a-246d-4fd3-9bda-e83ab153c99b
