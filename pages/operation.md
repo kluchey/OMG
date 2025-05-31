@@ -1,3 +1,3 @@
 - #definiton An operation is an action taken on one or more objects.
 - #eg We use the ==[[acronym]]== BEDMAS to remember the ==[[Order of Operations]]==. Brackets, Exponents, Division, Multiplication, Addition, and Subtraction are all examples of operations.
-- #eg We can take the action $+4$ on a number. So $
+- #eg We can take the action $+$ on a number. So $3+4$ has the operation of Addition acting on $3$ and $4$. This operation is
