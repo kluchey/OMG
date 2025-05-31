@@ -64,7 +64,7 @@
 					  y &= \frac{-3}{2}x + \frac{1}{2}
 					  \end{align*}$$
 					- And so the y-intercept is $b=\frac12$.
-				-
+				- Only two statements are necessary, one to describe the direction and one to answer the question or problem posed. All other statements are superfluous and serve only to teach.
 - ## Spilling the t
   collapsed:: true
 	- #eg #MCV4U A symmetric equation is given by $\frac{x-2}{3}=\frac{y-1}{4}$ and a student is asked to write the parametric equations. Either:
