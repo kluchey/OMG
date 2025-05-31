@@ -1,6 +1,6 @@
 ### Navigation Unit 0
 id:: 682a36fc-2f8d-4932-b9b0-2b8dea761241
-| [MTH1W Homepage]([[MTH1W]]) | [Unit 0 Lessons](logseq://graph/OMG?block-id=683a70f9-ca80-429d-843b-8143c333d865) | Go to [next lesson]([[MTH1W/0/1 Coordinates]]) |
+| [MTH1W Homepage]([[MTH1W]]) | [Unit 0 Lessons](((683a70f9-ca80-429d-843b-8143c333d865))) | Go to [next lesson]([[MTH1W/0/1 Coordinates]]) |
 - # Unit 0 Overview:  *Mathematics is...*
 	- ## Learning Objectives for Unit 0 and our Course #.v-self-border
 		- Students will review three key skills that they also continue to develop throughout all units of Grade 9 Mathematics. *What is mathematics?* Mathematics is...
