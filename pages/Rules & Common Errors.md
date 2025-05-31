@@ -60,7 +60,7 @@
 				- We can rearrange the equation into the form $y=mx+b$:
 					- $$\begin{align*}
 					  3x+2y &=1 \\
-					  2y
+					  2y &= -3x +1 \\
 					  \end{align*}$$
 - ## Spilling the t
   collapsed:: true
