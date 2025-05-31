@@ -56,7 +56,7 @@
 			- First of all, this answer was produced by ChatGPT for this article and not by a student. Could you tell upon first reading?
 			- Second, there are frequent interruptions to explain when only **two** statements are necessary (as seen in the suggested solution that follows).
 			- Third, depending on how this skill is taught, ChatGPT has solved by referencing slope-intercept form when a substitution of $x=0$ might be the content taught in-class.
-			- Fourth, students do not speak this way, as if to explicate every detail with no cost to writing this level of detail, because students and many working mathematicians are inherently lazy people. When given the opportunity, it is most likely that
+			- Fourth, students do not speak this way, as if to explicate every detail with no regard to the cost of writing this level of detail. Students and many working mathematicians are inherently lazy people who write [[chicken scratch]] in most situations. When given the opportunity, it is most likely that
 - ## Spilling the t
   collapsed:: true
 	- #eg #MCV4U A symmetric equation is given by $\frac{x-2}{3}=\frac{y-1}{4}$ and a student is asked to write the parametric equations. Either:
