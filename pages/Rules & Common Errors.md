@@ -2,6 +2,7 @@
   This is a fairly exhaustive list of common high school math errors named and categorized by the mathematical rule they break or misinterpret. Study this list well but make a personalized list for yourself.
   #+END_TIP
 - ## Dropping a Negative
+  collapsed:: true
 	- #+BEGIN_IMPORTANT
 	  Award Winner!  This error is the **most common** to make in high school.
 	  #+END_IMPORTANT
@@ -13,10 +14,10 @@
 		- Did you just see it? $3-(-3) = 3+3 = 6$ not $0$. By not showing the intermediary step of $3+3$ this student has *dropped a negative*.
 	- To reliably avoid this error, always show intermediary steps, even in your practice, so you can look back at **every. single. calculation.** you have made during your process.
 - ## Plot Twist
-	- #eg A point on a graph can be seen in the following image:
+	- #eg A point is plotted on a graph and can be seen in the following image:
 		- ![image.png](../assets/image_1748665423882_0.png){:height 424, :width 588}
-		- The student describes this point as $(0,2)$. The actual point is $(2,0)$ since all points are $(x,y)$ pairs, where $x$ is the horizontal coordinate and $y$ is the vertical coordinate.
-	- To reliably avoid this error, always run before you rise.
+		- The student describes this point as $(0,2)$, swapping the . The actual point is $(2,0)$ since all points are $(x,y)$ pairs, where $x$ is the horizontal coordinate and $y$ is the vertical coordinate.
+	- To reliably avoid this error, always run before you rise when reading graphs.
 - ## Copy Error
   collapsed:: true
 	- #+BEGIN_IMPORTANT
