@@ -42,13 +42,13 @@
 			  
 			  where $b$ is the y-intercept.
 			  
-			  Solve for yyy in the equation 3x+2y=13x + 2y = 13x+2y=1:
+			  Solve for $y$ in the equation $3x+2y=1$:
 			  
-			  2y=−3x+12y = -3x + 12y=−3x+1
-			  y=−32x+12y = -\frac{3}{2}x + \frac{1}{2}y=−23​x+21​
+			  $2y=−3x+1$
+			  $y = -\frac{3}{2}x + \frac{1}{2}$​
 			- ### Step 2: Identify the y-intercept
 			  
-			  The y-intercept is the constant term b=12b = \frac{1}{2}b=21​.
+			  The y-intercept is the constant term $b = \frac{1}{2}$​.
 			  
 			  Thus, the **y-intercept** is:
 			  
