@@ -7,6 +7,7 @@
 	  #+END_IMPORTANT
 	- #eg Imagine yourself calculating slope using the formula $m=\frac{y_2-y_1}{x_2-x_1}$:
 		- $$ \begin{align}
-		  m &= \frac{3-(-3)}{2-1}
+		  m &= \frac{3-(-3)}{2-1} \\
 		  &= \frac{0}{1}
 		  \end{align} $$
+		- Did you just see it? $3-(-3) = 3+3 = 6$ not $0$. By not showing the intermediary step of $3+3$ this student has *dropped a negative*.
