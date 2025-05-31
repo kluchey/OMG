@@ -1,4 +1,6 @@
 - #definiton An [[operation]] is commutative if and only if the order of the operation does not matter to the result.
 - #eg Addition is commutative:  $4+5$ is the same as $5+4$ or $x+y$ is the same as $y+x$.
 - #eg Subtraction, Multiplication, and Division are all commutative.
-	- $x-y = -y+x$, note that the negative on
+	- $x-y = -y+x$, note that the negative on $y$ is the same as multiplying by $-1$
+	- $x\cdot y = y \cdot x$
+	- $\frac{x}{y} = \frac{1}{y}\cdot x$, note that dividing is the same a smul
