@@ -1,2 +1,5 @@
 - #definiton A relation is a connection between two or more objects.
-- #eg #MTH1W A relatio
+- #eg #MTH1W A fraction is a relation between two values or quantities. $\frac12$ can have several meanings that are all relations:
+	- 1 out of 2
+	- half, as in "half of a
+	-
