@@ -52,11 +52,13 @@
 			  
 			  Thus, the **y-intercept** is:
 			  
-			  12\boxed{\frac{1}{2}}21​​
+			  $\boxed{\frac{1}{2}}$​​
 			  
 			  Or as a coordinate point:
 			  
-			  (0,12)\boxed{(0, \frac{1}{2})}(0,21​)​
+			  $\boxed{(0, \frac{1}{2})}$
+		- Stylistic choices to notice:
+			-
 - ## Spilling the t
   collapsed:: true
 	- #eg #MCV4U A symmetric equation is given by $\frac{x-2}{3}=\frac{y-1}{4}$ and a student is asked to write the parametric equations. Either:
