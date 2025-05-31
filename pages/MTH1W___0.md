@@ -19,7 +19,7 @@ id:: 682a36fc-2f8d-4932-b9b0-2b8dea761241
 		- What did the kids not expect to have happen and why did they not expect this behaviour from their dad? Why is their dad behaving this way; what lesson is he trying to teach about how language is used?
 	- ## Take Action #.v-self-border
 		- Tools:  You will need a set of [[relational rods]].
-		- Goal:  How will you teach the robot about numbers? By the end of this lesson, you can describe a **relation** and
+		- Goal:  How will you teach the robot about numbers? By the end of this lesson, you can describe a **relation** and can reason about ==[[equivalent fractions]]==.
 		- Viewing the relational rods, what do you notice?
 			- What is the size or ==[[value]]== of the smallest piece? The largest?
 			- How do we know the largest has that value? What values can we give to the other rods?
