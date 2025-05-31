@@ -57,7 +57,11 @@
 			- Second, there are frequent interruptions to explain when only **two** statements are necessary (as seen in the suggested solution that follows).
 			- Third, depending on how this skill is taught, ChatGPT has solved by referencing slope-intercept form when a substitution of $x=0$ might be the content taught in-class.
 			- Fourth, students do not speak this way, as if to explicate every detail with no regard to the cost of writing this level of detail. Students and many working mathematicians are inherently lazy people who write [[chicken scratch]] in most situations in order to quickly think on paper and not be burdened with writing formally. When given the opportunity, it is most likely, though not a rule, that student formal writing resembles chicken scratch and not ChatGPT. Observe the expected student response using a similar solution:
-				-
+				- We can rearrange the equation into the form $y=mx+b$:
+					- $$\begin{align*}
+					  3x+2y &=1 \\
+					  2y
+					  \end{align*}$$
 - ## Spilling the t
   collapsed:: true
 	- #eg #MCV4U A symmetric equation is given by $\frac{x-2}{3}=\frac{y-1}{4}$ and a student is asked to write the parametric equations. Either:
