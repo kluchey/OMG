@@ -5,4 +5,4 @@
 	- $x\cdot y = y \cdot x$
 	- $x\cdot \frac{1}{y} = \frac{x}{y} = \frac{1}{y}\cdot x$, note that dividing is the same as multiplying by "1 over" the value, in this case "1 over y" or $\frac{1}{y}$.
 	- "The operation is respected" only when it also commutes with its operand, eg. $x-y$ is not equal to $y-x$ because the negative did not commute with the operand $y$ as it should.
-		- This rule is true for all commutative operations and we will say "The Operation is Respected" to refer to the correct use of this rule or "The Operation is not Respected" to refer to a common error. See the [[Rules & Common Errors]] list for more named
+		- This rule is true for all commutative operations and we will say "The Operation is Respected" to refer to the correct use of this rule or "The Operation is not Respected" to refer to a common error. See the [[Rules & Common Errors]] list for more.
