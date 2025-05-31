@@ -1,5 +1,5 @@
 alias:: Calculus, Vectors
-icon:: ⇀∆
+icon:: ∆
 title:: MCV4U
 
 - # Grade 12 Calculus & Vectors #.v-kanban-self-border
