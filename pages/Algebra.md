@@ -1,1 +1,1 @@
-- #definiton The study of variables and reasoning
+- #definiton The study of logical reasoning using symbols, especially [[variables]].
