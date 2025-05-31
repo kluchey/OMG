@@ -5,4 +5,7 @@
 	- #+BEGIN_IMPORTANT
 	  Award Winner!  This error is the **most common** to make in high school.
 	  #+END_IMPORTANT
-	- #eg Imagine yourself calculating slope using the formula $m
+	- #eg Imagine yourself calculating slope using the formula $m=\frac{y_2-y_1}{x_2-x_1}$:
+		- $$ \begin{align}
+		  m=
+		  \end{align} $$
