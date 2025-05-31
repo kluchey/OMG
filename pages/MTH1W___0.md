@@ -11,6 +11,23 @@ id:: 682a36fc-2f8d-4932-b9b0-2b8dea761241
 			- Computational Thinking 🧮 by organizing & communicating instructions
 			  logseq.order-list-type:: number
 		- Educators, please see the [[Elementary Curriculum Connector]].
+	- ## Lessons in Unit 0 #.v-self-border
+	  id:: 683a70f9-ca80-429d-843b-8143c333d865
+		- This is just the start of the robot's training. You still need to teach it to move around 🦿 and then you have also decided it should learn to do some tasks 🦾 around your home to make your life easier.
+			- Lesson:  [How do I navigate?]([[MTH1W/0/1 Coordinates]])
+			  logseq.order-list-type:: number
+			- Practice:  Writing clear instructions
+			  logseq.order-list-type:: number
+			- Lesson:  How do I measure?
+			  logseq.order-list-type:: number
+			- Practice:  Direction, Area, and Fraction
+			  logseq.order-list-type:: number
+			- Lesson:  How do I reason, organize, and remember?
+			  logseq.order-list-type:: number
+			- Practice:  Solving for an unknown
+			  logseq.order-list-type:: number
+			- Practice:  Computational steps
+			  logseq.order-list-type:: number
 - # Lesson 0:  Welcome to Grade 9 Math!
 	- ## Background #.v-self-border
 		- You've been assigned to train a robot assistant 🤖 and right now it can't think, it can only follow the exact words of your instructions. You didn't know going to high school would mean you'd have this huge responsibility to train a robot how to think, yet here you are, and you're *hungry*. You decide to ask the robot to make you a PB&J Sandwich (or a school safe SB&J). What are the instructions you give the robot to make the sandwich? Write them down and then watch the video below.
@@ -32,23 +49,6 @@ id:: 682a36fc-2f8d-4932-b9b0-2b8dea761241
 		- ### Exit Ticket
 			- Write down a list of instructions your robot would have to follow in order to use the relational rods to add the fractions $$\frac{1}{4} + \frac{1}{8}$$.
 			- Why do we need to have the same value for our denominators before we add fractions?
-- # Lessons in Unit 0 #.v-self-border
-  id:: 683a70f9-ca80-429d-843b-8143c333d865
-	- This is just the start of the robot's training. You still need to teach it to move around 🦿 and then you have also decided it should learn to do some tasks 🦾 around your home to make your life easier.
-		- Lesson:  [How do I navigate?]([[MTH1W/0/1 Coordinates]])
-		  logseq.order-list-type:: number
-		- Practice:  Writing clear instructions
-		  logseq.order-list-type:: number
-		- Lesson:  How do I measure?
-		  logseq.order-list-type:: number
-		- Practice:  Direction, Area, and Fraction
-		  logseq.order-list-type:: number
-		- Lesson:  How do I reason, organize, and remember?
-		  logseq.order-list-type:: number
-		- Practice:  Solving for an unknown
-		  logseq.order-list-type:: number
-		- Practice:  Computational steps
-		  logseq.order-list-type:: number
-- ## Review #.v-self-border
+- # Review #.v-self-border
 	- After you have finished each task, return to this section to quiz yourself on the key ideas with the flashcards below. This unit ends when you write your summary test.
 	- {{cards [[1W0]]}}
