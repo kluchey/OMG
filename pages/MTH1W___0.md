@@ -1,6 +1,8 @@
-### Navigation Unit 0
-id:: 682a36fc-2f8d-4932-b9b0-2b8dea761241
-| [MTH1W Homepage]([[MTH1W]]) | [Unit 0 Lessons](((683a70f9-ca80-429d-843b-8143c333d865))) | Go to [next lesson]([[MTH1W/0/1 Coordinates]]) |
+alias:: MTH1W 0, 1W0
+
+- ### Navigation Unit 0
+  id:: 682a36fc-2f8d-4932-b9b0-2b8dea761241
+  | [MTH1W Homepage]([[MTH1W]]) | [Unit 0 Lessons](((683a70f9-ca80-429d-843b-8143c333d865))) | Go to [next lesson]([[MTH1W/0/1 Coordinates]]) |
 - # Unit 0 Overview:  *Mathematics is...*
 	- ## Learning Objectives for Unit 0 and our Course #.v-self-border
 		- Students will review three key skills that they also continue to develop throughout all units of Grade 9 Mathematics. *What is mathematics?* Mathematics is...
@@ -49,6 +51,6 @@ id:: 682a36fc-2f8d-4932-b9b0-2b8dea761241
 		- ### Exit Ticket
 			- Write down a list of instructions your robot would have to follow in order to use the relational rods to add the fractions $$\frac{1}{4} + \frac{1}{8}$$.
 			- Why do we need to have the same value for our denominators before we add fractions?
-- # Review #.v-self-border
+- # Unit 0 Review #.v-self-border
 	- After you have finished each task, return to this section to quiz yourself on the key ideas with the flashcards below. This unit ends when you write your summary test.
 	- {{cards [[1W0]]}}
