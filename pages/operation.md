@@ -1,0 +1,1 @@
+- #definiton An operation is an action on one or more objects.
