@@ -14,5 +14,6 @@
 	- To reliably avoid this error, always show intermediary steps, even in your practice, so you can look back at **every. single. calculation.** you have made during your process.
 - ## Copy Error
 	- #+BEGIN_IMPORTANT
-	  Award Winner! This error is the **silliest** 
+	  Award Winner! This error is the **silliest** and also *feels bad*.
 	  #+END_IMPORTANT
+	- #eg A test has the formula $A=
