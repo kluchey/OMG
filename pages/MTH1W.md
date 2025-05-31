@@ -10,9 +10,7 @@ icon:: 💡
 		  logseq.order-list-type:: number
 		- [Linear Relations]([[MTH1W/3]])
 		  logseq.order-list-type:: number
-		- [Financial Reasoning]([[MTH1W/4]])
-		  logseq.order-list-type:: number
-		- [Mathematical Modelling]([[MTH1W/5]])
+		- [Mathematical Modelling]([[MTH1W/4]])
 		  logseq.order-list-type:: number
 		- [Resources & Projects]([[MTH1W/Resources]])
 		  logseq.order-list-type:: number
