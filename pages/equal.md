@@ -1,0 +1,1 @@
+- #definiton Equal, as in "Equivalence" or when using the symbol "=" called an equals sign"
