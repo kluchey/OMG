@@ -13,4 +13,6 @@
 		- Did you just see it? $3-(-3) = 3+3 = 6$ not $0$. By not showing the intermediary step of $3+3$ this student has *dropped a negative*.
 	- To reliably avoid this error, always show intermediary steps, even in your practice, so you can look back at **every. single. calculation.** you have made during your process.
 - ## Copy Error
-	-
+	- #+BEGIN_IMPORTANT
+	  Award Winner! This error is the **silliest** 
+	  #+END_IMPORTANT
