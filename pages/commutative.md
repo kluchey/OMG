@@ -4,4 +4,4 @@
 	- $x-y = -y+x$, note that the negative on $y$ is the same as multiplying by $-1$
 	- $x\cdot y = y \cdot x$
 	- $x\cdot \frac{1}{y} = \frac{x}{y} = \frac{1}{y}\cdot x$, note that dividing is the same as multiplying by "1 over" the value, in this case "1 over y" or $\frac{1}{y}$.
-	- "
+	- "The operation is respected" only when it also commutes with its actor, eg. $x-y$ is not equal to $y-x$ because the negative did not
