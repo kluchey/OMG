@@ -40,7 +40,7 @@ alias:: MTH1W 0, 1W0
 		- Tools:  You will need a set of [[relational rods]].
 		- Goal:  How will you teach the robot about numbers? By the end of this lesson, you can describe a ==[[relation]]==, explain the purpose of ==[equals, "="]([[equal]])==, and can reason using ==[[equivalent fractions]]==.
 		- TODO Videos or gifs to pose the problems below.
-		- Viewing the relational rods, what do you notice?
+		- Viewing and manipulating the relational rods, what do you notice?
 			- What is the ==[[value]]== you would assign to the smallest piece? The largest?
 			- How do we know the largest has that value? What values can we give to the other rods?
 			- A ==relation== is the name for this idea, that the value of one rod is dependent on the value of another. We can't actually say what size each rod is without relating at least two rods together.
