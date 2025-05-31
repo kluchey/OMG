@@ -14,10 +14,10 @@
 	- To reliably avoid this error, always show intermediary steps, even in your practice, so you can look back at **every. single. calculation.** you have made during your process.
 - ## Copy Error
 	- #+BEGIN_IMPORTANT
-	  Award Winner! This error is the **silliest** and also *feels bad*.
+	  Award Winner! This error is the **silliest** and *feels bad*. #oof
 	  #+END_IMPORTANT
 	- #eg A test has the formula $A=\frac{1}{2}\cdot l\cdot w$ for the Area of a Triangle. When a student goes to copy this formula for use in their math, this is what they write:
 		- $$ \begin{align}
 		  A &= l\cdot w
 		  \end{align} $$
-	-
+	- Oof.
