@@ -20,4 +20,4 @@
 		- $$ \begin{align}
 		  A &= l\cdot w
 		  \end{align} $$
-	- Oof.
+	- To avo
