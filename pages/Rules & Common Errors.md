@@ -7,5 +7,6 @@
 	  #+END_IMPORTANT
 	- #eg Imagine yourself calculating slope using the formula $m=\frac{y_2-y_1}{x_2-x_1}$:
 		- $$ \begin{align}
-		  m=
+		  m &= \frac{3-(-3)}{2-1}
+		  &= \frac{0}{1}
 		  \end{align} $$
