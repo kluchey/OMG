@@ -2,6 +2,7 @@
   This is a fairly exhaustive list of common high school math errors named and categorized by the mathematical rule they break or misinterpret. Study this list well but make a personalized list for yourself.
   #+END_TIP
 - ## Dropping a Negative
+  collapsed:: true
 	- #+BEGIN_IMPORTANT
 	  Award Winner!  This error is the **most common** to make in high school.
 	  #+END_IMPORTANT
@@ -13,6 +14,7 @@
 		- Did you just see it? $3-(-3) = 3+3 = 6$ not $0$. By not showing the intermediary step of $3+3$ this student has *dropped a negative*.
 	- To reliably avoid this error, always show intermediary steps, even in your practice, so you can look back at **every. single. calculation.** you have made during your process.
 - ## Copy Error
+  collapsed:: true
 	- #+BEGIN_IMPORTANT
 	  Award Winner! This error is the **silliest** and *feels bad*. #oof
 	  #+END_IMPORTANT
@@ -22,9 +24,10 @@
 		  \end{align} $$
 	- To reliably avoid this error, always re-read the statement of a problem before you begin solving and after you have finished each step.
 - ## Spilling the t
+  collapsed:: true
 	- #eg #MCV4U A symmetric equation is given by $\frac{x-2}{3}=\frac{y-1}{4}$ and a student is asked to write the parametric equations. Either:
 		- The student does not know how, claiming there is no $t$ so how can they make the parametric equations?
 		- Or, when the parametric equations are made: $\begin{cases}x=2+3t\\ y=1+4t\end{cases}$, the student forgets to define the parameter $t$ as "for $t\in\R$" or "Let $t\in\R$.
 	- To reliably avoid this error, students need to have a strong understanding of functions as relations on [sets]([[set]]). All variables needs to be [[well-defined]] with sets or else paradoxes and contradictions can occur.
 		- In this specific case, not defining the [[universal set]] clearly can result clarity errors. What if $t$ is a vector? What if $t$ is an integer? What if $t$ is another set? We simply do not know until it is clearly defined.
-			- While in MCV4U, $t$ is rarely not $\in\R$ it is best practice to build these habits for future courses and communication
+			- While in MCV4U, $t$ is rarely not $\in\R$ it is best practice to build these habits for future courses and communications.
