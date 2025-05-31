@@ -20,4 +20,4 @@
 		- $$ \begin{align}
 		  A &= l\cdot w
 		  \end{align} $$
-	- To avo
+	- To reliably avoid this error, always re-read the statement of a problem before you begin solving and after you have finished each step.
