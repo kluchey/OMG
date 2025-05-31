@@ -65,7 +65,8 @@
 					  \end{align*}$$
 					- And so the y-intercept is $b=\frac12$.
 				- Only two statements are necessary, one to describe the direction and one to answer the question or problem posed. All other statements are superfluous from a problem-solver's perspective (but not from a teacher's perspective, which AI takes on).
-	- To reliably avoid this error, always write solutions without looking at completed solutions you have seen or solved before to develop your own style.
+				- This solution is beautifully concise and can be read, understood, and marked in seconds. The conversational solution
+	- To reliably avoid this error, always write solutions without looking at completed solutions you have seen or solved before to develop your own style. AI is not a gold standard.
 - ## Spilling the t
   collapsed:: true
 	- #eg #MCV4U A symmetric equation is given by $\frac{x-2}{3}=\frac{y-1}{4}$ and a student is asked to write the parametric equations. Either:
