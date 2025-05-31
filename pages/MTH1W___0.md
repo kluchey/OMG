@@ -3,7 +3,7 @@ id:: 682a36fc-2f8d-4932-b9b0-2b8dea761241
 | [MTH1W Homepage]([[MTH1W]]) | [Unit 0 Overview]([[MTH1W/0]]) | Go to [next lesson]([[MTH1W/0/1 Coordinates]]) |
 - # Unit 0 Overview:  *Mathematics is...*
 	- ## Learning Objectives for MTH1W #.v-self-border
-		- Students will review three key skills that they also continue to develop throughout all units of Grade 9 Mathematics. We
+		- Students will review three key skills that they also continue to develop throughout all units of Grade 9 Mathematics. *What is mathematics?* Mathematics is...
 			- Representing Quantities 📈 such as fractions
 			  logseq.order-list-type:: number
 			- Solving for an Unknown 🟰 by using equations & formulas
@@ -11,6 +11,7 @@ id:: 682a36fc-2f8d-4932-b9b0-2b8dea761241
 			- Computational Thinking 🧮 by organizing & communicating instructions
 			  logseq.order-list-type:: number
 		- Educators, please see the [[Elementary Curriculum Connector]].
+	-
 	- ## Background #.v-self-border
 		- You've been assigned to train a robot assistant 🤖 and right now it can't think, it can only follow the exact words of your instructions. You didn't know going to high school would mean you'd have this huge responsibility to train a robot how to think, yet here you are, and you're *hungry*. You decide to ask the robot to make you a PB&J Sandwich (or a school safe SB&J). What are the instructions you give the robot to make the sandwich? Write them down and then watch the video below.
 		- {{video https://youtube.com/watch?v=FN2RM-CHkuI&si=1ePr5-ggg5uNEG0D}}
