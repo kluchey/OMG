@@ -1,0 +1,1 @@
+- #definiton An explanation or piece of writing that incorporates more steps (verbs) than is necessary to a
