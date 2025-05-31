@@ -32,8 +32,7 @@ id:: 682a36fc-2f8d-4932-b9b0-2b8dea761241
 		- ### Exit Ticket
 			- Write down a list of instructions your robot would have to follow in order to use the relational rods to add the fractions $$\frac{1}{4} + \frac{1}{8}$$.
 			- Why do we need to have the same value for our denominators before we add fractions?
-- # Lesson 0
-- ## Learning Tasks #.v-self-border
+- # Lessons in Unit 0 #.v-self-border
 	- This is just the start of the robot's training. You still need to teach it to move around 🦿 and then you have also decided it should learn to do some tasks 🦾 around your home to make your life easier. #.v-border-children
 		- Lesson:  [How do I navigate?]([[MTH1W/0/1 Coordinates]])
 		  logseq.order-list-type:: number
