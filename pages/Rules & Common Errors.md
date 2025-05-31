@@ -18,6 +18,6 @@
 	  #+END_IMPORTANT
 	- #eg A test has the formula $A=\frac{1}{2}\cdot l\cdot w$ for the Area of a Triangle. When a student goes to copy this formula for use in their math, this is what they write:
 		- $$ \begin{align}
-		  A &= \frac{}{2} \\
-		  &= \frac{0}{1}
+		  A &= l\cdot w
 		  \end{align} $$
+	-
