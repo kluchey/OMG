@@ -1,6 +1,6 @@
 ### Navigation Unit 0
 id:: 682a36fc-2f8d-4932-b9b0-2b8dea761241
-| Return to [[MTH1W]] Homepage | Return to [Unit 0]([[MTH1W 0]]) Overview | Go to [next unit]([[MTH1W 1 Number]]) |
+| Return to [[MTH1W]] Homepage | Return to [Unit 0]([[MTH1W 0]]) Overview | Go to [next lesson]([[MTH1W/0/1 Coordinates]]) |
 - # Key Skills for Review & Lesson 0
 	- ## Learning Objectives for MTH1W #.v-self-border
 		- Students will review three key skills that they also continue to develop throughout all units of Grade 9 Mathematics.
@@ -18,7 +18,7 @@ id:: 682a36fc-2f8d-4932-b9b0-2b8dea761241
 		- What did the kids not expect to have happen and why did they not expect this behaviour from their dad? Why is their dad behaving this way; what lesson is he trying to teach about how language is used?
 - ## Action #.v-self-border
 	- Tools:  You will need a set of [[relational rods]].
-	- Objective:  How precise do we need to be?
+	- Objective:  How
 	- Viewing the relational rods, what do you notice?
 		- What is the size or ==[[value]]== of the smallest piece? The largest?
 		- How do we know the largest has that value? What values can we give to the other rods?
