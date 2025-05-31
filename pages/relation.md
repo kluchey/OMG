@@ -1,0 +1,2 @@
+- #definiton A relation is a connection between two or more objects.
+- #eg #MTH1W A relatio
