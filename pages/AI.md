@@ -1,1 +1,1 @@
-- #definiton This is an acronym standing for Artificial Intelligence assuming the meaning
+- #definiton This is an acronym standing for Artificial Intelligence but will often mean one of the many Large Language Models, such as ChatGPT or Gemini, which are not intelligent and do not reason with logic.
