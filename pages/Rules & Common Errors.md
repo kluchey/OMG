@@ -31,7 +31,7 @@
 	- To reliably avoid this error, always re-read the statement of a problem before you begin solving and after you have finished each step.
 - ## Brevity is the Soul of Wit
 	- This is more of a stylistic choice than an error. However, this author has noticed that students who use [[AI]] to learn tend to alter the way they communicate [[Algebra]] to be more conversational and [[verbose]], as if they were a teacher and not the problem solver.
-		- This author believes that Algebraic manipulation should never be interrupted. It is better to use the Algebra to communicate reasoning than to explicitly state reasoning for a reader, unless you are a teacher, in which case you might explain steps by interjecting thoughts, reasons, and justifications.
+		- This author believes that Algebraic manipulation should not be interrupted on paper. It is better to use the Algebra to communicate reasoning than to explicitly state reasoning for a reader, unless you are a teacher, in which case you might explain steps by interjecting thoughts, reasons, and justifications. A two-column style can also be used to inject thoughts at each step of a solution
 		- #eg Problem:  Given the line $3x+2y=1$ determine its y-intercept. Here, the student begins their solution:
 			- To find the y-intercept, first we substitute $0$ for $x$ because a y-intercept
 				- $3(0)+2y=1$
