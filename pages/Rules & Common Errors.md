@@ -22,4 +22,5 @@
 		  \end{align} $$
 	- To reliably avoid this error, always re-read the statement of a problem before you begin solving and after you have finished each step.
 - ## Spilling the t
-	- #eg #MCV4U A symmetric equation is given by $\frac{x-2}{3}=$
+	- #eg #MCV4U A symmetric equation is given by $\frac{x-2}{3}=\frac{y-1}{4}$ and a student is asked to write the parametric equations. Either:
+		- The student does not know how, claiming there is no $y
