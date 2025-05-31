@@ -27,3 +27,4 @@
 		- Or, when the parametric equations are made: $\begin{cases}x=2+3t\\ y=1+4t\end{cases}$, the student forgets to define the parameter $t$ as "for $t\in\R$" or "Let $t\in\R$.
 	- To reliably avoid this error, students need to have a strong understanding of functions as relations on [sets]([[set]]). All variables needs to be [[well-defined]] with sets or else paradoxes and contradictions can occur.
 		- In this specific case, not defining the [[universal set]] clearly can result clarity errors. What if $t$ is a vector? What if $t$ is an integer? What if $t$ is another set? We simply do not know until it is clearly defined.
+			- While in MCV4U, $t$ is rarely not $\in\R$ it is best practice to build these habits for future courses and communication
