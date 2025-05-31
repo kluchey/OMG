@@ -31,6 +31,7 @@
 	- To reliably avoid this error, always re-read the statement of a problem before you begin solving and after you have finished each step.
 - ## Brevity is the Soul of Wit
 	- This is more of a stylistic choice than an error. However, this author has noticed that students who use [[AI]] to learn tend to alter the way they communicate [[Algebra]] to be more conversational and [[verbose]], as if they were a teacher and not the problem solver.
+		- This author believes that Algebraic manipulation should never be interrupted
 - ## Spilling the t
   collapsed:: true
 	- #eg #MCV4U A symmetric equation is given by $\frac{x-2}{3}=\frac{y-1}{4}$ and a student is asked to write the parametric equations. Either:
