@@ -14,11 +14,13 @@ icon:: 🍎
 		- {{embed ((6831285a-246d-4fd3-9bda-e83ab153c99b))}}
 		- {{embed ((68312831-afbd-4af6-8f51-fcd4edf4e4c9))}}
 	- ### Grade 9
+	  collapsed:: true
 		- [[MTH1W]] Mathematics 9 🚩
 		  id:: 68312831-afbd-4af6-8f51-fcd4edf4e4c9
 			- [[MTH1W/4/1 Mathematical Modelling]]
 			- [[MTH1W/4/2 Inequalities]]
-			-
+			- [[MTH1W/4/3 Angles in a Circle]]
+			- [[MTH1W/4/4 Investigating Changing Dimensions]]
 		- [[MAT1L]] Essentials of Math 9
 	- ### Grade 10
 	  collapsed:: true
