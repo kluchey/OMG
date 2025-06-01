@@ -1,1 +1,2 @@
-- #definiton
+- #definiton The Surface Area of a 3D shape (solid) is the sum of the Area of every face:  $SA=\sum A_{\text{Faces}}$.
+-
