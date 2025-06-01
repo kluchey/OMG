@@ -20,4 +20,7 @@
 	  logseq.order-list-type:: number
 	  $$V=2L2W2H$$
 	  Simplify this formula so that it looks like $V=\#LWH$ what is $\#$?
-		- logseq.order-list-type:: number
+		- Why are we substituting $2L$ and 2 times all the other dimensions? How is this related to question 2 above?
+		  logseq.order-list-type:: number
+		- What is the significance of $\#$?
+		  logseq.order-list-type:: number
