@@ -26,5 +26,8 @@
 		  logseq.order-list-type:: number
 	- If all dimensions are tripled, how does the Volume change? Solve this problem without revisiting your warm-up solutions.
 	  logseq.order-list-type:: number
-	- If all dimensions are halved,
+	- If all dimensions are halved, how does the Volume change?
+	  logseq.order-list-type:: number
+- ## Consolidation
+	- Determine the Volume of the each Solid. Use the EQAO Formula Sheet if necessary. It helps to know that Prisms are always $
 	  logseq.order-list-type:: number
