@@ -39,5 +39,7 @@
 		  logseq.order-list-type:: number
 		- Halved
 		  logseq.order-list-type:: number
-	- How does the Surface Area of the Rectangular Prism change from the original when all th
+	- How does the Surface Area of the Rectangular Prism change from the original when all of the dimensions are tripled?
+	  logseq.order-list-type:: number
+	- Suppose you knew that the Volume of a Rectangular Prism is $4000 \text{cm}^3$. You also know its Length and Width are both 20 cm.  Use this information and that V=LWH to solve for the unknown H.
 	  logseq.order-list-type:: number
