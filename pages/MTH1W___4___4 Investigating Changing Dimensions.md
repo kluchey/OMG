@@ -3,7 +3,8 @@
   #+END_CAUTION
 - ## Warm Up Exercises
 	- Reference Formulas for a Rectangular Prism:
-		-
+		- $V=LWH$
+		- $SA = \sum \text{All Faces} = 2(LW+WH+LH)$
 	- ![image.png](../assets/image_1748742851912_0.png){:height 155, :width 164} ![image.png](../assets/image_1748742872033_0.png){:height 134, :width 201}
 	- For the two problems below, you want to create two very organized solutions that you will modify later.
 		- Calculate the ==[[Volume]]== of a rectangular prism with $L=3$cm, $W=2$cm, and $H=4$cm.
