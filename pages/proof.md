@@ -1,1 +1,1 @@
-- #definiton A mathematical proof is an argument used to convince another person of a
+- #definiton A mathematical proof is an argument used to convince another person of a truth.
