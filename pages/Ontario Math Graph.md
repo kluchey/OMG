@@ -20,7 +20,7 @@ icon:: 🍎
 			- [[MTH1W/4/1 Mathematical Modelling]]
 			- [[MTH1W/4/2 Inequalities]]
 			- [[MTH1W/4/3 Angles in a Circle]]
-			- [[MTH1W/4/4 Investigating Changing Dimensions]]
+			- [[MTH1W/4/5 Investigating Changing Dimensions]]
 		- [[MAT1L]] Essentials of Math 9
 	- ### Grade 10
 	  collapsed:: true

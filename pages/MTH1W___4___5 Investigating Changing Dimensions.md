@@ -43,5 +43,5 @@
 	  logseq.order-list-type:: number
 	- Suppose you knew that the Volume of a Rectangular Prism is $4000 \text{cm}^3$. You also know its Length and Width are both 20 cm.  Use this information and that $V=LWH$ to solve for the unknown $H$.
 	  logseq.order-list-type:: number
-	- The Volume of a Cylinder is $V=\pi r^2h$. Prove that if the radius, $r
+	- The Volume of a Cylinder is $V=\pi r^2h$. Prove that if the radius, $r$, is doubled then the volume of the new cylinder is four times the old volume of the cylinder.
 	  logseq.order-list-type:: number
