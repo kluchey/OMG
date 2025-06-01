@@ -31,7 +31,7 @@
 - ## Consolidation
 	- Determine the Volume of the each Solid. Use the EQAO Formula Sheet if necessary. It helps to know that the Volume for Prisms is always $V_{prism}=A_{base}\times h$.
 	  logseq.order-list-type:: number
-	- Determine the Volume of the Rectangular Prism and the Cylinder above when **all** dimensions have been:
+	- Determine the new Volume of the Rectangular Prism and the Cylinder above when **all** dimensions have been:
 	  logseq.order-list-type:: number
 		- Doubled
 		  logseq.order-list-type:: number
@@ -39,3 +39,5 @@
 		  logseq.order-list-type:: number
 		- Halved
 		  logseq.order-list-type:: number
+	- How does the Surface Area of the Rectangular Prism change from the original when all th
+	  logseq.order-list-type:: number
