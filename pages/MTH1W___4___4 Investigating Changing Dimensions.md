@@ -16,5 +16,6 @@
 	  logseq.order-list-type:: number
 	- If all dimensions are doubled, what are the new Volume and Surface Area?
 	  logseq.order-list-type:: number
-	- Algebra is a very powerful language. If we alter our original formula or $V$ to have $2L$ instead of $L$,
+	- Algebra is a very powerful language. If we alter our original formula for $V$ to have $2L$ instead of $L$, $2W$ instead of $W$, and $2H$ instead of $H$, this is what happens:
 	  logseq.order-list-type:: number
+	  $$V=2$$
