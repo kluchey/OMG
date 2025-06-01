@@ -22,5 +22,9 @@
 	  Simplify this formula so that it looks like $V=\#LWH$ what is $\#$?
 		- Why are we substituting $2L$ and 2 times all the other dimensions? How is this related to question 2 above?
 		  logseq.order-list-type:: number
-		- What is the significance of $\#$?
+		- What is the significance of $\#$ when we want to answer question 2?
 		  logseq.order-list-type:: number
+	- If all dimensions are tripled, how does the Volume change? Solve this problem without revisiting your warm-up solutions.
+	  logseq.order-list-type:: number
+	- If all dimensions are halved,
+	  logseq.order-list-type:: number
