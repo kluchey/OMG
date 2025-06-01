@@ -18,4 +18,6 @@
 	  logseq.order-list-type:: number
 	- Algebra is a very powerful language. If we alter our original formula for $V$ to have $2L$ instead of $L$, $2W$ instead of $W$, and $2H$ instead of $H$, this is what happens:
 	  logseq.order-list-type:: number
-	  $$V=2$$
+	  $$V=2L2W2H$$
+	  Simplify this formula so that it looks like $V=\#LWH$ what is $\#$?
+		- logseq.order-list-type:: number
