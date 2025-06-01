@@ -9,5 +9,5 @@
 		- Calculate the ==[[Surface Area]]== of the same rectangular prism.
 		  logseq.order-list-type:: number
 - ## Action
-	- If the width, $W$, is do
+	- If the width, $W$, is doubled from $2$ to $4$, can you draw new images for the Volume and Surface Area (net)
 	  logseq.order-list-type:: number
