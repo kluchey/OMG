@@ -26,4 +26,7 @@
 		  logseq.order-list-type:: number
 		- Swap the order of equations.
 		  logseq.order-list-type:: number
-	-
+	- Practice:
+		- ![image.png](../assets/image_1748834409972_0.png){:height 269, :width 452}
+		  collapsed:: true
+			- ![image.png](../assets/image_1748834429108_0.png){:height 144, :width 432}
