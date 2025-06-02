@@ -26,3 +26,4 @@
 		  logseq.order-list-type:: number
 		- Swap the order of equations.
 		  logseq.order-list-type:: number
+	-
