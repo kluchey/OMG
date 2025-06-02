@@ -82,7 +82,7 @@
 	- This mistake happens a lot in different contexts. It's related to a [copy error](((683a7e89-077a-4d4c-a06b-ec73002fe174))) but is its own in many ways.
 	- Here's a summary:  When any of us is focusing on one *topic* for a long time, we are likely to miss facts or details. Sometimes we dismiss them and other times we just don't see them at all. Sometimes, we are new to a topic and don't yet know what details we are missing.
 	- A reliable method to avoid this error is derived from its name:  you need to regain your attention to detail. Take a break and/or complete a forced recall + focused practice again on the topic in question.
-	- #eg #MCV4U When using Elimination, Grade 12 students are prone to mixing up equations and either [Ouroboros](((683d1731-38ea-4e69-877f-7f0956b4bdf1))) or mistake their system's equations to be just one and
+	- #eg #MCV4U When using Elimination, Grade 12 students are prone to mixing up equations and either [Ouroboros](((683d1731-38ea-4e69-877f-7f0956b4bdf1))) or mistake their system's equations with the multiples of
 - ## Ouroboros
   id:: 683d1731-38ea-4e69-877f-7f0956b4bdf1
 	- Don't substitute an equation into itself. This is a specific example of a [loss of attention](((683d14e7-506f-43a0-ba8e-ba6bb9b31956))) mistake.
