@@ -20,6 +20,7 @@
 		  logseq.order-list-type:: number
 - ## Consolidation
 	- What are the allowed operations when using elimination? There are **three** but the last is very subtle.
+	  collapsed:: true
 		- Multiply an equation by a constant.
 		  logseq.order-list-type:: number
 		- Add or subtract two different equations. Each equation in a system is still itself, even after multiplied by a constant, so don't mix up equations by [thinking a multiple of one is a distinct equation in your system](((683d14e7-506f-43a0-ba8e-ba6bb9b31956))).
