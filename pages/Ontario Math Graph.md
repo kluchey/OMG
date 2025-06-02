@@ -41,6 +41,7 @@ icon:: 🍎
 			- [6-1 Planes🛫]([[MCV4U/6/1 Vectors to Represent Planes]])
 			- [6-2 Scalar Planes]([[MCV4U/6/2 Scalar Equations of Planes]])
 			- [6-3 Line & Plane]([[MCV4U/6/3 Intersection of Line & Plane]])
+			- [6-4 2 Planes]([[MCV4U/6/4 Intersection of Two Planes]])
 		- [[MDM4U]] Data Management
 		- [[MCT4C]] Math for College Tech
 		- [[MAP4C]] Foundations for College Math 12
