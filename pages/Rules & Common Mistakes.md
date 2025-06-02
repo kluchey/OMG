@@ -1,5 +1,5 @@
 - #+BEGIN_TIP
-  This is a fairly exhaustive list of common high school math errors named and categorized by the mathematical rule they break or misinterpret. Study this list well but make a personalized list for yourself.
+  This is a fairly exhaustive list of common high school math mistakes named and categorized by the mathematical rule they break or misinterpret. Study this list well but make a personalized list for yourself.
   #+END_TIP
 - ## Dropping a Negative
   collapsed:: true
@@ -77,4 +77,5 @@
 			- While in MCV4U, $t$ is rarely not $\in\R$ it is best practice to build these habits for future courses and communications.
 - ## Loss of Attention
   id:: 683d14e7-506f-43a0-ba8e-ba6bb9b31956
-	- #eg
+	- This mistake happens a lot
+	- #eg #MCV4U
