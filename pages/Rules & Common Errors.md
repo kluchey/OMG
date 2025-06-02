@@ -69,11 +69,12 @@
 				- This solution is beautifully concise and can be read, understood, and most importantly for the student-teacher roles:  marked in seconds.
 	- To reliably avoid this error, always write solutions without looking at completed solutions you have seen or solved before to develop your own style. AI is not a gold standard.
 - ## Spilling the t
-  collapsed:: true
 	- #eg #MCV4U A symmetric equation is given by $\frac{x-2}{3}=\frac{y-1}{4}$ and a student is asked to write the parametric equations. Either:
 		- The student does not know how, claiming there is no $t$ so how can they make the parametric equations?
 		- Or, when the parametric equations are made: $\begin{cases}x=2+3t\\ y=1+4t\end{cases}$, the student forgets to define the parameter $t$ as "for $t\in\R$" or "Let $t\in\R$.
 	- To reliably avoid this error, students need to have a strong understanding of functions as relations on [sets]([[set]]). All variables needs to be [[well-defined]] with sets or else paradoxes and contradictions can occur.
 		- In this specific case, not defining the [[universal set]] clearly can result clarity errors. What if $t$ is a vector? What if $t$ is an integer? What if $t$ is another set? We simply do not know until it is clearly defined.
 			- While in MCV4U, $t$ is rarely not $\in\R$ it is best practice to build these habits for future courses and communications.
-- ##
+- ## Loss of Attention
+  id:: 683d14e7-506f-43a0-ba8e-ba6bb9b31956
+	- #eg
