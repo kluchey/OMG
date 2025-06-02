@@ -22,5 +22,7 @@
 	- What are the allowed operations when using elimination? There are **three** but the last is very subtle.
 		- Multiply an equation by a constant.
 		  logseq.order-list-type:: number
-		- Add or subtract two different equations. Don't
+		- Add or subtract two different equations. Don't 
+		  logseq.order-list-type:: number
+		- Swap the order of equations.
 		  logseq.order-list-type:: number
