@@ -20,6 +20,7 @@
 		- The student describes this point as $\color{red} (0,2)$, either accidentally or intentionally writing the coordinates backwards. The actual point is $\color{green} (2,0)$ since all points are $(x,y)$ pairs, where $x$ is the horizontal coordinate and $y$ is the vertical coordinate.
 	- To reliably avoid this error, always run (read $x$) before you rise (read $y$) when reading graphs.
 - ## Copy Error
+  id:: 683a7e89-077a-4d4c-a06b-ec73002fe174
   collapsed:: true
 	- #+BEGIN_IMPORTANT
 	  Award Winner! This error is the **silliest** and *feels bad*. #oof
@@ -69,6 +70,7 @@
 				- This solution is beautifully concise and can be read, understood, and most importantly for the student-teacher roles:  marked in seconds.
 	- To reliably avoid this error, always write solutions without looking at completed solutions you have seen or solved before to develop your own style. AI is not a gold standard.
 - ## Spilling the t
+  collapsed:: true
 	- #eg #MCV4U A symmetric equation is given by $\frac{x-2}{3}=\frac{y-1}{4}$ and a student is asked to write the parametric equations. Either:
 		- The student does not know how, claiming there is no $t$ so how can they make the parametric equations?
 		- Or, when the parametric equations are made: $\begin{cases}x=2+3t\\ y=1+4t\end{cases}$, the student forgets to define the parameter $t$ as "for $t\in\R$" or "Let $t\in\R$.
@@ -77,5 +79,5 @@
 			- While in MCV4U, $t$ is rarely not $\in\R$ it is best practice to build these habits for future courses and communications.
 - ## Loss of Attention
   id:: 683d14e7-506f-43a0-ba8e-ba6bb9b31956
-	- This mistake happens a lot
+	- This mistake happens a lot in different contexts. It's related to a [copy error](((683a7e89-077a-4d4c-a06b-ec73002fe174))) but is its own
 	- #eg #MCV4U
