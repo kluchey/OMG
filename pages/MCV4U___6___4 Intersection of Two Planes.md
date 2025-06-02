@@ -19,4 +19,8 @@
 		- $2x+8y-6z+11=0$
 		  logseq.order-list-type:: number
 - ## Consolidation
-	- What are the allowed operations when using elimination?
+	- What are the allowed operations when using elimination? There are **three** but the last is very subtle.
+		- Multiply an equation by a constant.
+		  logseq.order-list-type:: number
+		- Add or subtract two different equations. Don't
+		  logseq.order-list-type:: number
