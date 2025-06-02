@@ -30,6 +30,7 @@
 		  \end{align} $$
 	- To reliably avoid this error, always re-read the statement of a problem before you begin solving and after you have finished each step.
 - ## Brevity is the Soul of Wit
+  collapsed:: true
 	- This is more of a stylistic choice than an error. However, this author has noticed that students who use [[AI]] to learn tend to alter the way they communicate [[Algebra]] to be more conversational and [[verbose]], as if they were a teacher and not the problem solver.
 		- This author believes that Algebraic manipulation should not be interrupted on paper. It is better to use the Algebra to communicate reasoning than to explicitly state reasoning for a reader, unless you are a teacher, in which case you might explain steps by interjecting thoughts, reasons, and justifications. A two-column style can also be used to inject thoughts at each step of a solution which is especially useful in a [[proof]].
 		- #eg Problem:  Given the line $3x+2y=1$ determine its y-intercept. Here, the student begins their solution:
@@ -75,3 +76,4 @@
 	- To reliably avoid this error, students need to have a strong understanding of functions as relations on [sets]([[set]]). All variables needs to be [[well-defined]] with sets or else paradoxes and contradictions can occur.
 		- In this specific case, not defining the [[universal set]] clearly can result clarity errors. What if $t$ is a vector? What if $t$ is an integer? What if $t$ is another set? We simply do not know until it is clearly defined.
 			- While in MCV4U, $t$ is rarely not $\in\R$ it is best practice to build these habits for future courses and communications.
+- ##
