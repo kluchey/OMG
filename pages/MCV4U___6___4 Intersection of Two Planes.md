@@ -16,5 +16,7 @@
 	  logseq.order-list-type:: number
 		- $x+4y-3z+6=0$
 		  logseq.order-list-type:: number
-		- $2x+8y-6z
+		- $2x+8y-6z+11=0$
 		  logseq.order-list-type:: number
+- ## Consolidation
+	- What are the allowed operations when using elimination?
