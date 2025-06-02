@@ -80,5 +80,5 @@
 - ## Loss of Attention
   id:: 683d14e7-506f-43a0-ba8e-ba6bb9b31956
 	- This mistake happens a lot in different contexts. It's related to a [copy error](((683a7e89-077a-4d4c-a06b-ec73002fe174))) but is its own in many ways.
-	- Here's a summary:  When any of us is focusing on one *topic* for a long time, we are likely to miss
+	- Here's a summary:  When any of us is focusing on one *topic* for a long time, we are likely to miss facts or details. Sometimes we dismiss them and other times we just don't see them at all.
 	- #eg #MCV4U
