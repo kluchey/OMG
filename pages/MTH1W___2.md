@@ -1,0 +1,2 @@
+- [[MTH1W/1/Exponent Laws]]
+-
