@@ -1,2 +1,2 @@
 ## Practice
-	- Fill in the blank:  $$$$
+	- Fill in the blank:  $\frac{x^3x^{\square}}{x}$
