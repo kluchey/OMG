@@ -29,12 +29,11 @@ icon:: 🍎
 	- ### Grade 11
 		- [[MCR3U]] Functions
 		  id:: 68312856-a600-4d76-9168-5d8484dfdc00
-			- Summer School Schedule
+			- [Summer School Schedule]([[MCR3USS]])
 		- [[MCF3M]] Functions & Applications
 		- [[MBF3C]] Foundations for College Math 11
 		- [[MEL3E]] Math for Work & Life
 	- ### Grade 12
-	  collapsed:: true
 		- [[MHF4U]] Advanced Functions
 		- [[MCV4U]] Calculus & Vectors 🚩
 		  id:: 6831285a-246d-4fd3-9bda-e83ab153c99b
