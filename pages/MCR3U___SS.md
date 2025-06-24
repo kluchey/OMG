@@ -6,6 +6,8 @@
 	- Scroll left/right to see more days.
 - ### Week One #.v-kanban-wide
 	- Wed JL-02
+		- Diagnostic
+		-
 	- Thurs JL-03
 	- Fri JL-04
 - ### Week Two #.v-kanban-wide
