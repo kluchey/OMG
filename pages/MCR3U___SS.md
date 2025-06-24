@@ -6,7 +6,9 @@
 	- Scroll left/right to see more days.
 - ### Week One #.v-kanban-wide
 	- Wed JL-02
-		- Diagnostic
+		- TODO Diagnostic
+		- TODO 1-1
+		- TODO 1-2
 		-
 	- Thurs JL-03
 	- Fri JL-04
