@@ -7,9 +7,8 @@
 - ### Week One #.v-kanban-wide
 	- Wed JL-02
 		- TODO Diagnostic
-		- TODO 1-1
-		- TODO 1-2
-		-
+		- TODO 1-1 Functions & Their Key Features
+		- TODO 1-2 Representations of Functions
 	- Thurs JL-03
 	- Fri JL-04
 - ### Week Two #.v-kanban-wide
