@@ -2,8 +2,26 @@
 	- #+BEGIN_CAUTION
 	  This is an intensive 18-day course. Six (6) hours every day are required by students to complete all tasks. Learning is *slow* and this course is *fast*.
 	  #+END_CAUTION
-- ## Course Calendar (and To-Do) #.v-kanban-wide
-- Week One
+- ## Course Calendar (and To-Do)
+- ### Week One #.v-kanban-wide
+	- Monday
+	- Tuesday
+	- Wednesday
+	- Thursday
+	- Friday
+- ### Week Two #.v-kanban-wide
+	- Monday
+	- Tuesday
+	- Wednesday
+	- Thursday
+	- Friday
+- ### Week Three #.v-kanban-wide
+	- Monday
+	- Tuesday
+	- Wednesday
+	- Thursday
+	- Friday
+- ### Week Four #.v-kanban-wide
 	- Monday
 	- Tuesday
 	- Wednesday
