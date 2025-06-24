@@ -5,9 +5,9 @@
 - ## Course Calendar (and To-Do)
 	- Scroll left/right to see more days.
 - ### Week One #.v-kanban-wide
-	- W-JL-02
-	- Thursday
-	- Friday
+	- Wed JL-02
+	- Thurs JL-03
+	- Fri JL-04
 - ### Week Two #.v-kanban-wide
 	- Monday
 	- Tuesday
