@@ -11,8 +11,7 @@ icon:: 🍎
 - ## Course Selection #.v-self-border
   id:: 682bd1c7-1d93-46f1-a1c9-42e5ef4ce4cf
 	- ### Currently Teaching
-		- {{embed ((6831285a-246d-4fd3-9bda-e83ab153c99b))}}
-		- {{embed ((68312831-afbd-4af6-8f51-fcd4edf4e4c9))}}
+		- {{embed ((68312856-a600-4d76-9168-5d8484dfdc00))}}
 	- ### Grade 9
 	  collapsed:: true
 		- [[MTH1W]] Mathematics 9 🚩
@@ -28,8 +27,9 @@ icon:: 🍎
 		- [[MFM2P]] Fundamentals of Math 10
 		- [[MAT2L]] Essentials of Math 10
 	- ### Grade 11
-	  collapsed:: true
 		- [[MCR3U]] Functions
+		  id:: 68312856-a600-4d76-9168-5d8484dfdc00
+			- Summer School Schedule
 		- [[MCF3M]] Functions & Applications
 		- [[MBF3C]] Foundations for College Math 11
 		- [[MEL3E]] Math for Work & Life
