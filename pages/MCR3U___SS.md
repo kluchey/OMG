@@ -6,6 +6,7 @@
 	- Scroll left/right to see more days.
 - ### Week One #.v-kanban-wide
 	- Wed JL-02
+		- TODO Daily Quiz
 		- TODO Diagnostic
 		- TODO 1-1 Functions & Their Key Features
 		- TODO 1-2 Representations of Functions
