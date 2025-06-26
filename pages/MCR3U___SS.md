@@ -13,9 +13,13 @@
 	- Thurs JL-03
 		- TODO Daily Quiz
 		- TODO Diagnostic
-		- TODO 1-1 Functions & Their Key Features
-		- TODO 1-2 Representations of Functions
+		- TODO 1-3 Inverses of Functions
+		- TODO 1-4 Transformations of Functions
 	- Fri JL-04
+		- TODO Daily Quiz + Journals Reminder
+		- TODO Diagnostic
+		- TODO 1-3 Inverses of Functions
+		- TODO 1-4 Transformations of Functions
 - ### Week Two #.v-kanban-wide
 	- Monday
 	- Tuesday
