@@ -11,6 +11,10 @@
 		- TODO 1-1 Functions & Their Key Features
 		- TODO 1-2 Representations of Functions
 	- Thurs JL-03
+		- TODO Daily Quiz
+		- TODO Diagnostic
+		- TODO 1-1 Functions & Their Key Features
+		- TODO 1-2 Representations of Functions
 	- Fri JL-04
 - ### Week Two #.v-kanban-wide
 	- Monday
