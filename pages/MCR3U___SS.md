@@ -17,9 +17,8 @@
 		- TODO 1-4 Transformations of Functions
 	- Fri JL-04
 		- TODO Daily Quiz + Journals Reminder
-		- TODO Diagnostic
-		- TODO 1-3 Inverses of Functions
-		- TODO 1-4 Transformations of Functions
+		- TODO 1-5 Discrete Functions
+		- TODO 1-F Transformations of Functions
 - ### Week Two #.v-kanban-wide
 	- Monday
 	- Tuesday
