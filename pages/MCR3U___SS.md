@@ -18,7 +18,7 @@
 	- Fri JL-04
 		- TODO Daily Quiz + Journals Reminder
 		- TODO 1-5 Discrete Functions
-		- TODO 1-F Transformations of Functions
+		- TODO 2-1 Equivalent Algebraic Expressions
 - ### Week Two #.v-kanban-wide
 	- Monday
 	- Tuesday
