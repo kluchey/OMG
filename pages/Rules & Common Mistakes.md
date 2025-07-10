@@ -91,6 +91,10 @@
 	- This error is similar to the message behind this popular meme from the 2010's. It likely occurs because the learner thinks steps in their math work are *obvious* or the learner does not know how to write the steps or does not see them as [significant computations](computational steps).
 		- ![image.png](../assets/image_1752147551935_0.png)
 			- Source:  https://teachreal.wordpress.com/2025/01/25/now-draw-the-owl/
-	- #eg Solve for $x$ in the equation $y = \frac12 x - 3$
-		- $y=\frac
+	- #eg Solve for $x$ in the equation $y=\frac12x-3$
+		- $y=\frac12x-3$
+		  logseq.order-list-type:: number
+		- $y+3=\frac12x$
+		  logseq.order-list-type:: number
+		- 2y+3=x$
 		  logseq.order-list-type:: number
