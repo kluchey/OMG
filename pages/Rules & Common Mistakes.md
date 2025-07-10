@@ -92,3 +92,5 @@
 		- ![image.png](../assets/image_1752147551935_0.png)
 			- Source:  https://teachreal.wordpress.com/2025/01/25/now-draw-the-owl/
 	- #eg Solve for $x$ in the equation $y = \frac12 x - 3$
+		- $y=\frac
+		  logseq.order-list-type:: number
