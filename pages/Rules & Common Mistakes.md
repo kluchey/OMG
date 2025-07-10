@@ -89,4 +89,5 @@
 - ## Lazy Logic (Gaps in Reasoning)
 	- This error is similar to the message behind this popular meme from the 2010's:
 		- ![image.png](../assets/image_1752147551935_0.png)
-		-
+			- Source:  https://teachreal.wordpress.com/2025/01/25/now-draw-the-owl/
+	- #eg
