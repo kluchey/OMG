@@ -86,3 +86,5 @@
 - ## Ouroboros
   id:: 683d1731-38ea-4e69-877f-7f0956b4bdf1
 	- Don't substitute an equation into itself. This is a specific example of a [loss of attention](((683d14e7-506f-43a0-ba8e-ba6bb9b31956))) mistake.
+- ## Lazy Logic (Gaps in Reasoning)
+	- This error is similar to the
