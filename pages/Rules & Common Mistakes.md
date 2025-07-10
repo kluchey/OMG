@@ -86,9 +86,9 @@
 - ## Ouroboros
   id:: 683d1731-38ea-4e69-877f-7f0956b4bdf1
 	- Don't substitute an equation into itself. This is a specific example of a [loss of attention](((683d14e7-506f-43a0-ba8e-ba6bb9b31956))) mistake.
-- ## Lazy Logic (Gap in Reasoning)
+- ## Lazy Logic (A Gap in Reasoning)
   id:: 686fa612-cba8-4da5-b03d-6cd1702baa97
 	- This error is similar to the message behind this popular meme from the 2010's. It likely occurs because the learner thinks steps in their math work are *obvious* or the learner does not know how to write the steps or does not see them as [significant computations](computational steps).
 		- ![image.png](../assets/image_1752147551935_0.png)
 			- Source:  https://teachreal.wordpress.com/2025/01/25/now-draw-the-owl/
-	- #eg
+	- #eg Solve for $x$ in the equation $y = \frac12 x - 3$
