@@ -98,4 +98,4 @@
 		  logseq.order-list-type:: number
 		- $2y+6=x$
 		  logseq.order-list-type:: number
-		- Did you catch the missing step? Click to reveal: {cloze The solution distributes multiplying by 2 without showing the step. We should see}
+		- Did you catch the missing step? Click to reveal: {cloze The solution distributes multiplying by 2 without showing the step. We should see 2(y+3) = x between lines 2 and 3 to properly show every step of our reasoning.}
