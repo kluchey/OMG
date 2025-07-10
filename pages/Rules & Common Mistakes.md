@@ -96,5 +96,6 @@
 		  logseq.order-list-type:: number
 		- $y+3=\frac12x$
 		  logseq.order-list-type:: number
-		- 2y+3=x$
+		- $2y+6=x$
 		  logseq.order-list-type:: number
+		- Did you catch the missing step?
