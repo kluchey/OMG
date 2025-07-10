@@ -6,4 +6,4 @@
 		  logseq.order-list-type:: number
 		- $\frac{y+6}{5} = x$
 		  logseq.order-list-type:: number
-	-
+	- #not #eg A lazy logic error, also known as a gap in reasoning, is the name for
