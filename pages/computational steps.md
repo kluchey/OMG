@@ -4,4 +4,6 @@
 		  logseq.order-list-type:: number
 		- $y + 6 = 5x$
 		  logseq.order-list-type:: number
-		- logseq.order-list-type:: number
+		- $\frac{y+6}{5} = x$
+		  logseq.order-list-type:: number
+	-
