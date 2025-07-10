@@ -1,1 +1,2 @@
 - #definiton A computational step is any step in a mathematical solution, during your solving process, that was the result of an operation.
+	- #eg Solve the equation for the variable x: $y = 5x - 6$
