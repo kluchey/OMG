@@ -13,13 +13,11 @@ icon:: 🍎
 	- ### Currently Teaching
 		- {{embed ((68312856-a600-4d76-9168-5d8484dfdc00))}}
 		- {{embed ((6831286f-a019-4a28-9668-42d4f86a3b33))}}
+		- {{embed ((68312831-afbd-4af6-8f51-fcd4edf4e4c9))}}
 	- ### Grade 9
+	  collapsed:: true
 		- [[MTH1W]] Mathematics 9 🚩
 		  id:: 68312831-afbd-4af6-8f51-fcd4edf4e4c9
-			- [[MTH1W/4/1 Mathematical Modelling]]
-			- [[MTH1W/4/2 Inequalities]]
-			- [[MTH1W/4/3 Angles in a Circle]]
-			- [[MTH1W/4/5 Investigating Changing Dimensions]]
 		- [[MAT1L]] Essentials of Math 9
 	- ### Grade 10
 	  collapsed:: true
@@ -27,16 +25,16 @@ icon:: 🍎
 		- [[MFM2P]] Fundamentals of Math 10
 		- [[MAT2L]] Essentials of Math 10
 	- ### Grade 11
-	  collapsed:: true
-		- [[MCR3U]] Functions
+		- [[MCR3U]] Functions🚩
 		  id:: 68312856-a600-4d76-9168-5d8484dfdc00
 		- [[MCF3M]] Functions & Applications
 		- [[MBF3C]] Foundations for College Math 11
 		- [[MEL3E]] Math for Work & Life
 	- ### Grade 12
-		- [[MHF4U]] Advanced Functions
+	  collapsed:: true
+		- [[MHF4U]] Advanced Functions🚩
 		  id:: 6831286f-a019-4a28-9668-42d4f86a3b33
-		- [[MCV4U]] Calculus & Vectors 🚩
+		- [[MCV4U]] Calculus & Vectors
 		  id:: 6831285a-246d-4fd3-9bda-e83ab153c99b
 			- [6-1 Planes🛫]([[MCV4U/6/1 Vectors to Represent Planes]])
 			- [6-2 Scalar Planes]([[MCV4U/6/2 Scalar Equations of Planes]])
