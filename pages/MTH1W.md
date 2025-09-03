@@ -1,4 +1,4 @@
-icon:: 💡
+icon:: 🤖
 
 - # 🏠 Grade 9 Mathematics #.v-self-border
 	- ## Course Outline #.v-self-border
