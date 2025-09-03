@@ -1,4 +1,5 @@
-# Grade 11 Functions [Course Outline]([[MCR3U Outline]])
+- ico
+- # Grade 11 Functions [Course Outline]([[MCR3U Outline]])
 - # 🏠 Grade 9 Mathematics #.v-self-border
 	- ## Course Outline #.v-self-border
 		- 0. [Mathematics is...]([[MTH1W/0]])
