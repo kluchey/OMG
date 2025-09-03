@@ -16,7 +16,7 @@
 		  logseq.order-list-type:: number
 		- [Discrete Functions & Financial Applications]([[MCR3U/7]])
 		  logseq.order-list-type:: number
-		- [Resources]([[MCR3U Resources]])
+		- [Resources]([[MCR3U/Resources]])
 		  logseq.order-list-type:: number
 - ## What am I learning this year?
 	- You are learning how to think and be creative with mathematics. $$ f(x) = \begin{cases} x^2 &\text{if } x\leq 4 \\ 20-x &\text{if } x>4 \end{cases} $$
