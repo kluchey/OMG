@@ -12,8 +12,8 @@ icon:: 🍎
   id:: 682bd1c7-1d93-46f1-a1c9-42e5ef4ce4cf
 	- ### Currently Teaching
 		- {{embed ((68312856-a600-4d76-9168-5d8484dfdc00))}}
+		- {{embed ((6831286f-a019-4a28-9668-42d4f86a3b33))}}
 	- ### Grade 9
-	  collapsed:: true
 		- [[MTH1W]] Mathematics 9 🚩
 		  id:: 68312831-afbd-4af6-8f51-fcd4edf4e4c9
 			- [[MTH1W/4/1 Mathematical Modelling]]
@@ -30,13 +30,12 @@ icon:: 🍎
 	  collapsed:: true
 		- [[MCR3U]] Functions
 		  id:: 68312856-a600-4d76-9168-5d8484dfdc00
-			- [Summer School Schedule]([[MCR3U/SS]])
 		- [[MCF3M]] Functions & Applications
 		- [[MBF3C]] Foundations for College Math 11
 		- [[MEL3E]] Math for Work & Life
 	- ### Grade 12
-	  collapsed:: true
 		- [[MHF4U]] Advanced Functions
+		  id:: 6831286f-a019-4a28-9668-42d4f86a3b33
 		- [[MCV4U]] Calculus & Vectors 🚩
 		  id:: 6831285a-246d-4fd3-9bda-e83ab153c99b
 			- [6-1 Planes🛫]([[MCV4U/6/1 Vectors to Represent Planes]])
