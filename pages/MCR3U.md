@@ -1,20 +1,20 @@
 - icon::🎈
 - # 🏠 Grade 11 Functions #.v-self-border
 	- ## Course Outline
-		- 0 [Math is a Language]([[MCR3U 0]])
-		- [Functions & Representations]([[MCR3U 1]])
+		- 0 [Math is a Language]([[MCR3U/0]])
+		- [Functions & Representations]([[MCR3U/1]])
 		  logseq.order-list-type:: number
-		- [Functions are Algebraic]([[MCR3U 2]])
+		- [Functions are Algebraic]([[MCR3U/2]])
 		  logseq.order-list-type:: number
-		- [Quadratic Functions]([[MCR3U 3]])
+		- [Quadratic Functions]([[MCR3U/3]])
 		  logseq.order-list-type:: number
-		- [Exponential Functions]([[MCR3U 3]])
+		- [Exponential Functions]([[MCR3U/4]])
 		  logseq.order-list-type:: number
-		- [Trigonometry]([[MCR3U 5]])
+		- [Trigonometry]([[MCR3U/5]])
 		  logseq.order-list-type:: number
-		- [Sinusoidal Functions]([[MCR3U 6]])
+		- [Sinusoidal Functions]([[MCR3U/6]])
 		  logseq.order-list-type:: number
-		- [Discrete Functions & Financial Applications]([[MCR3U 7]])
+		- [Discrete Functions & Financial Applications]([[MCR3U/7]])
 		  logseq.order-list-type:: number
 		- [Resources]([[MCR3U Resources]])
 		  logseq.order-list-type:: number
